@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>无限创意提示词库 · Awesome Image Prompts</title>
+<meta name="description" content="631 个 AI 图像/视频提示词逆向工程案例，配图+全文提示词+来源，14 类场景检索与一键复制。">
+<style>
+:root{--bg:#0e1015;--card:#171a22;--line:#262b36;--tx:#e8ebf1;--mut:#8b94a7;--ac:#5eead4;--ac2:#818cf8}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--tx);font:15px/1.6 -apple-system,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif}
+a{color:var(--ac);text-decoration:none}
+header{position:sticky;top:0;z-index:9;background:rgba(14,16,21,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--line);padding:14px 20px;display:flex;flex-wrap:wrap;gap:12px;align-items:center}
+header h1{font-size:18px;letter-spacing:.5px}
+header h1 span{color:var(--ac)}
+header .sub{color:var(--mut);font-size:12px}
+.spacer{flex:1}
+#q{background:var(--card);border:1px solid var(--line);color:var(--tx);border-radius:10px;padding:9px 14px;width:min(340px,60vw);outline:none}
+#q:focus{border-color:var(--ac2)}
+nav{display:flex;flex-wrap:wrap;gap:8px;padding:12px 20px;border-bottom:1px solid var(--line);position:sticky;top:57px;background:var(--bg);z-index:8}
+.chip{border:1px solid var(--line);background:var(--card);color:var(--mut);border-radius:99px;padding:5px 13px;font-size:13px;cursor:pointer;transition:.15s}
+.chip:hover{color:var(--tx);border-color:var(--ac2)}
+.chip.on{background:linear-gradient(90deg,var(--ac),var(--ac2));color:#0b0d12;border-color:transparent;font-weight:600}
+#stats{padding:10px 20px;color:var(--mut);font-size:13px}
+main{column-count:4;column-gap:14px;padding:0 20px 60px}
+@media(max-width:1400px){main{column-count:3}}@media(max-width:1000px){main{column-count:2}}@media(max-width:640px){main{column-count:1}}
+.card{break-inside:avoid;margin-bottom:14px;background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;transition:.15s}
+.card:hover{border-color:var(--ac2);transform:translateY(-2px)}
+.card img{width:100%;display:block;cursor:zoom-in;background:#000}
+.card .vid{padding:30px 16px;text-align:center;color:var(--mut);background:repeating-linear-gradient(45deg,#12141b,#12141b 12px,#161926 12px,#161926 24px)}
+.card .bd{padding:12px 14px 14px}
+.card h3{font-size:14.5px;margin-bottom:6px;line-height:1.4}
+.card .cat{display:inline-block;font-size:11px;color:var(--ac);border:1px solid var(--line);border-radius:6px;padding:1px 7px;margin-bottom:8px}
+.card pre{white-space:pre-wrap;word-break:break-word;font-size:12.5px;color:var(--mut);max-height:88px;overflow:hidden;position:relative;font-family:inherit}
+.card pre.open{max-height:none}
+.card .row{display:flex;gap:8px;margin-top:10px;align-items:center}
+.btn{border:1px solid var(--line);background:#1d2230;color:var(--tx);border-radius:8px;padding:5px 12px;font-size:12px;cursor:pointer}
+.btn:hover{border-color:var(--ac)}
+.src{margin-left:auto;font-size:11px;color:#5d6679;max-width:45%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+#lb{position:fixed;inset:0;background:rgba(0,0,0,.9);display:none;z-index:99;align-items:center;justify-content:center;cursor:zoom-out}
+#lb img{max-width:94vw;max-height:92vh;border-radius:8px}
+footer{padding:18px 20px 40px;color:var(--mut);font-size:12.5px;border-top:1px solid var(--line)}
+#more{display:block;margin:10px auto 0;border:1px solid var(--line);background:var(--card);color:var(--tx);border-radius:10px;padding:10px 26px;cursor:pointer;font-size:14px}
+#more:hover{border-color:var(--ac)}
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>无限创意提示词库 <span>· Awesome Image Prompts</span></h1>
+    <div class="sub">Prompt as Code ｜ 631 例社区公开案例逆向工程 ｜ 源仓库 <a href="https://github.com/benyshen/awesome-image-prompts">benyshen/awesome-image-prompts</a></div>
+  </div>
+  <div class="spacer"></div>
+  <input id="q" type="search" placeholder="搜索标题 / 提示词关键词…">
+</header>
+<nav id="cats"></nav>
+<div id="stats"></div>
+<main id="grid"></main>
+<button id="more">加载更多 ↓</button>
+<div id="lb"><img alt=""></div>
+<footer>数据来自 <code>data/prompts.json</code>（由 <code>scripts/build_repo.py</code> 从集市库生成）· 案例保留原始出处，仅供学习研究 · 视频案例请局域网访问 <a href="http://192.168.28.100:8600/">无限创意集市</a> 播放</footer>
+<script>
+const PAGE=60; let DATA=[], view=[], idx=0, cat='all', kw='';
+fetch('data/prompts.json').then(r=>r.json()).then(j=>{
+  DATA=j.items; buildCats(); apply();
+});
+const CATS={ui:'🖥️ 界面与社媒',infographic:'📊 信息图',poster:'📰 海报版式',product:'🛍️ 商品电商',brand:'🏷️ 品牌标识',architecture:'🏛️ 建筑空间',photo:'📷 摄影人像',illustration:'🎨 插画艺术',character:'🧍 角色设定',scene:'🎬 场景叙事',history:'🏮 国风历史',document:'📚 文档出版',video:'🎞️ 创意视频',other:'🧪 综合实验'};
+function buildCats(){
+  const cnt={};DATA.forEach(d=>cnt[d.category]=(cnt[d.category]||0)+1);
+  const nav=document.getElementById('cats');
+  const mk=(k,label)=>{const b=document.createElement('button');b.className='chip'+(k==='all'?' on':'');b.dataset.k=k;b.textContent=label;
+    b.onclick=()=>{cat=k;document.querySelectorAll('.chip').forEach(c=>c.classList.toggle('on',c.dataset.k===k));apply()};nav.append(b)};
+  mk('all','全部 '+DATA.length);
+  Object.keys(CATS).forEach(k=>{if(cnt[k])mk(k,CATS[k]+' '+cnt[k])});
+}
+function apply(){
+  idx=0;document.getElementById('grid').innerHTML='';
+  view=DATA.filter(d=>(cat==='all'||d.category===cat)&&(!kw||(d.title+' '+(d.prompt||'')).toLowerCase().includes(kw)));
+  document.getElementById('stats').textContent=`${view.length} 例`+(kw?` · 关键词「${kw}」`:'');
+  more();
+}
+function esc(s){return s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+function more(){
+  const g=document.getElementById('grid');
+  view.slice(idx,idx+PAGE).forEach(d=>{
+    const c=document.createElement('article');c.className='card';
+    const media=d.image?`<img loading="lazy" src="${d.image}" alt="例${d.id}" onclick="lb(this.src)">`
+      :(d.video?`<video src="${d.video}" controls preload="none" style="width:100%;display:block;background:#000"></video>`
+      :`<div class="vid">🎞️ 视频案例 · <a href="${d.live_url}" target="_blank" style="color:var(--ac2)">局域网在线播放</a></div>`);
+    c.innerHTML=`${media}<div class="bd"><span class="cat">${CATS[d.category]||''}</span><h3>例${d.id}：${esc(d.title)}</h3>
+      <pre>${esc((d.prompt||'（未提供提示词）').slice(0,400))}${(d.prompt||'').length>400?'…':''}</pre>
+      <div class="row"><button class="btn" data-full>展开</button><button class="btn" data-copy>复制提示词</button>
+      <span class="src" title="${esc(d.source)}">${esc(d.source)}</span></div></div>`;
+    c.querySelector('[data-copy]').onclick=async e=>{await navigator.clipboard.writeText(d.prompt||'');e.target.textContent='已复制 ✓';setTimeout(()=>e.target.textContent='复制提示词',1200)};
+    c.querySelector('[data-full]').onclick=e=>{const p=c.querySelector('pre');if(p.classList.contains('open')){p.classList.remove('open');p.textContent=p.dataset.cut;p.dataset.cut='';e.target.textContent='展开'}else{p.dataset.cut=p.textContent;p.textContent=d.prompt||'';p.classList.add('open');e.target.textContent='收起'}};
+    g.append(c);
+  });
+  idx+=PAGE;
+  document.getElementById('more').style.display=idx>=view.length?'none':'block';
+}
+let t;q.oninput=e=>{clearTimeout(t);t=setTimeout(()=>{kw=e.target.value.trim().toLowerCase();apply()},250)};
+document.getElementById('more').onclick=more;
+function lb(src){const l=document.getElementById('lb');l.querySelector('img').src=src;l.style.display='flex'}
+document.getElementById('lb').onclick=e=>e.currentTarget.style.display='none';
+// deep link: index.html#cat-poster or #item-123
+if(location.hash.startsWith('#cat-')){cat=location.hash.slice(5);document.querySelectorAll('.chip').forEach(c=>c.classList.toggle('on',c.dataset.k===cat));apply()}
+</script>
+</body>
+</html>
