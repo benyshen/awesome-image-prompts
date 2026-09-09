@@ -177,7 +177,7 @@ def main():
     by = {c: [x for x in items if x["category"] == c] for c in CAT_ORDER}
     L = ["# 🖼️ 案例全库 · Full Gallery", "",
          f"共 **{len(items)}** 个公开案例，按场景分类。图片已压缩至 1280px 长边；"
-         "视频案例请移步 [线上站](http://192.168.28.100:8600/) 播放。", "",
+         "视频案例存于 `videos/`，可在 GitHub Pages 画廊页直接播放。", "",
          "## 目录", ""]
     for c in CAT_ORDER:
         e, n, d = CATS[c]
