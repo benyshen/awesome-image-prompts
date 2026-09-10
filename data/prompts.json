@@ -1,6 +1,6 @@
 {
- "count": 676,
- "built_at": "2026-09-10 09:00",
+ "count": 679,
+ "built_at": "2026-09-10 10:02",
  "items": [
   {
    "id": 2,
@@ -4395,6 +4395,18 @@
    "created_at": "2026-09-10"
   },
   {
+   "id": 703,
+   "title": "今天加了会班。",
+   "prompt": "今天加了会班。\n提示词：绝美23岁东亚美女，身材匀称丰满，胸部明显自然丰满，视觉约 F 杯，具有自然重量感与柔和圆润轮廓，胸腰差明显，但不夸张、不假体感；纤细腰部，与丰满胸部形成清晰但自然的比例对比；气质时尚、自信、温柔。建筑感极简撞色写真风格，墨玉黑哑光高弹固定三角罩杯比基尼，前胸杯缘与双细肩带饰以一圈极细银灰色微光滚边，深 V 固定式三角杯带来利落有力的胸部线条与稳固承托，胸下平整底围凸显精致锁骨，搭配配套低腰 V 形前腰高切三角泳裤，浅 V 腰头向下延伸延展紧致腹肌与修长下肢。\n\n冷调高级清透伪素颜妆，玫瑰豆沙色哑光唇，乌黑长发梳成低低松散的三股发辫垂在肩前，耳垂戴一对极小几何细银圈耳环，左脚踝佩戴极细素银双层细链。\n\n她赤足漫步在微凸于水面的平整黑花岗岩踏石步道上，水深刚及脚踝，刚踩上石板短暂停下步伐，单手轻轻抬起将耳际滑落的一缕湿发挽向耳后，身体重心落在右腿，转过脸正对镜头，眼神清澈含情。晨雾还未完全散去，平如明镜的水面将灰白晨曦天光与极简石墙倒映成水天一色，水汽轻柔拂过脚背。\n\n50mm人像摄影，正面三分之二身环境人像构图，正脸五官与清晰胸腰比通透自然，大光圈浅景深，水庭纵深倒影虚化成空灵背景，真实通透肤质与柔嫩血色，清晨柔白侧逆光结合镜面浅水漫射柔光，高级生活方式写真，电影感，ultra realistic, masterpiece, best quality。",
+   "image": "images/case703.jpg",
+   "media_type": "image",
+   "source": "@sdjn_wgc · https://x.com/sdjn_wgc/status/2097278954285453517",
+   "orig_category": "GitHub投稿",
+   "category": "architecture",
+   "created_at": "2026-09-10",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
    "id": 28,
    "title": "写实摄影风格创作",
    "prompt": "{\n  \"type\": \"2x2 portrait grid\",\n  \"subject\": \"{argument name=\\\"subject description\\\" default=\\\"young adult East Asian male with short black hair and a slight smile\\\"}\",\n  \"style\": \"photorealistic, high-resolution, professional lighting, consistent facial identity across all panels\",\n  \"layout\": {\n    \"format\": \"2x2 grid\",\n    \"panel_count\": 4,\n    \"panels\": [\n      {\n        \"position\": \"top-left\",\n        \"description\": \"{argument name=\\\"profession 1\\\" default=\\\"Corporate professional wearing a dark navy suit, white shirt, and blue tie against a gray textured background\\\"}\"\n      },\n      {\n        \"position\": \"top-right\",\n        \"description\": \"{argument name=\\\"profession 2\\\" default=\\\"Casual attire wearing a dark blue crew neck t-shirt against a blurred outdoor park background\\\"}\"\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"description\": \"{argument name=\\\"profession 3\\\" default=\\\"Construction worker wearing a yellow hard hat, navy blue work shirt, and bright orange high-visibility vest against a blurred warehouse background\\\"}\"\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"description\": \"{argument name=\\\"profession 4\\\" default=\\\"Medical professional wearing a white lab coat over a light blue collared shirt against a blurred laboratory background\\\"}\"\n      }\n    ]\n  }\n}",
@@ -5835,6 +5847,18 @@
    "created_at": "2026-09-10"
   },
   {
+   "id": 701,
+   "title": "Created with Grok Imagine Imag…",
+   "prompt": "Created with Grok Imagine Image\n\nPrompt:\n\nA close-up, high-fashion portrait capturing the exact woman in a precise pose: her torso and shoulders are angled away at a three-quarter turn, while her neck is elongated and her head is tilted slightly down and turned towards the side profile. Her gaze is soft, dreamily looking away slightly past the camera lens with a serene, relaxed expression and lips gently parted. She has voluminous, brown hair styled in a sophisticated messy updo, with soft curtain bangs framing her face beautifully. She is wearing a striking, large white semi-translucent flower earring with a subtle gold center accent. Her outfit is a minimalist black halter-neck satin dress that wraps elegantly around her neck. The lighting is soft and dramatic, sculpting her features with warm, muted tones against a plain, dark charcoal gray background. Photorealistic, soft focus, studio lighting, intimate and moody atmosphere.\n\nStrictly avoid bright or vibrant colors, busy or outdoor backgrounds, casual clothing, small stud earrings, flat or straight hair without volume, looking directly at the camera, or overly harsh direct camera flashes. The final output must be a photograph, not a cartoon, digital drawing, illustration, or anime.",
+   "image": "images/case701.jpg",
+   "media_type": "image",
+   "source": "@TaliaAariz · https://x.com/TaliaAariz/status/2097560176056308073",
+   "orig_category": "GitHub投稿",
+   "category": "photo",
+   "created_at": "2026-09-10",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
    "id": 6,
    "title": "插画艺术创作图",
    "prompt": "参考图是角色人设图，为参考图的少女绘制一副日系唯美奇幻风格插画。 \n【构图】这是一个宏大的中景日系奇幻插画构图，画面中心是完全保留了完整细节的可爱少女，她站立在无边的、如镜面般平滑的水面中心。天空呈现出高饱和度的粉紫与深蓝交织，一条耀眼的蓝色巨型流星划破天际，配合着边缘发光的瑰丽层云。女孩处于背光状态，形成一个暗调但依然清晰可辨其服装和紫色明亮眼眸的剪影，被流星和星空的边缘光细腻勾勒，她微微仰头，一只手轻轻张开。下方的水面完美、对称地反射出整个壮丽的星空、流星、云彩，以及女孩清晰的倒影，点缀着微小的发光点，营造出天人合一、空灵静谧的唯美梦境意境。 \n【日系唯美奇幻风格说明】该风格以高饱和度的粉紫冷暖色调交织出浩瀚星空，并辅以壮丽的流星与边缘发光的层云作为视觉奇观；画面巧妙利用“天空之镜”般的完美水面反射，将宏大的宇宙背景与孤独静立的人物剪影相融合，通过极具电影感的光影渲染与高对比度的表现手法，营造出一种空灵、静谧且带有超现实宿命感的梦境氛围。 \n【要求】生成图片的比例9:16，分辨率 4k。",
@@ -6421,6 +6445,18 @@
    "category": "illustration",
    "live_url": "http://192.168.28.100:8600/",
    "created_at": "2026-09-10"
+  },
+  {
+   "id": 702,
+   "title": "GPT image2.5生图速度是要快那么一点点，",
+   "prompt": "GPT image2.5生图速度是要快那么一点点，\n光从生图效果来说，其他感觉提升不大！！\n\n最大的提升有两个，\n一个是局部修改，可控性要好不少。\n另一个是参考图的主体一致性有些提升。\n\n其他增加了个Sketch功能，可以对单一的提示词生图有一些辅助作用。\n还多了些预设模板，有点像Canva。\n\n同样的提示词，质感不一样，有可能是丢失了之前生图上下文的偏好记忆。",
+   "image": "images/case702.jpg",
+   "media_type": "image",
+   "source": "@yyyole · https://x.com/yyyole/status/2097613384737083714",
+   "orig_category": "GitHub投稿",
+   "category": "illustration",
+   "created_at": "2026-09-10",
+   "live_url": "http://192.168.28.100:8600/"
   },
   {
    "id": 27,

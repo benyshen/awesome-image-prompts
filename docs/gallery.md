@@ -1,6 +1,6 @@
 # 🖼️ 案例全库 · Full Gallery
 
-共 **676** 个公开案例，按场景分类。图片已压缩至 1280px 长边；视频案例存于 `videos/`，可在 GitHub Pages 画廊页直接播放。
+共 **679** 个公开案例，按场景分类。图片已压缩至 1280px 长边；视频案例存于 `videos/`，可在 GitHub Pages 画廊页直接播放。
 
 ## 目录
 
@@ -9,9 +9,9 @@
 - [📰 海报与版式设计](#cat-poster)（129 例）— 活动海报、封面、字体排版与强版式视觉
 - [🛍️ 商品与电商视觉](#cat-product)（26 例）— 商品主图、详情页、包装与广告创意
 - [🏷️ 品牌与标识设计](#cat-brand)（21 例）— Logo、VI、吉祥物与品牌触点
-- [🏛️ 建筑与空间场景](#cat-architecture)（48 例）— 建筑渲染、室内空间、城市规划与鸟瞰
-- [📷 摄影与写真人像](#cat-photo)（120 例）— 人像写真、手机摄影、胶片与商业摄影质感
-- [🎨 插画与艺术风格](#cat-illustration)（49 例）— 插画、绘画流派、材质实验与装饰艺术
+- [🏛️ 建筑与空间场景](#cat-architecture)（49 例）— 建筑渲染、室内空间、城市规划与鸟瞰
+- [📷 摄影与写真人像](#cat-photo)（121 例）— 人像写真、手机摄影、胶片与商业摄影质感
+- [🎨 插画与艺术风格](#cat-illustration)（50 例）— 插画、绘画流派、材质实验与装饰艺术
 - [🧍 角色与人物设定](#cat-character)（31 例）— 角色设计、卡牌、3D 玩具与形象设定
 - [🎬 场景与叙事分镜](#cat-scene)（27 例）— 分镜、故事场景、漫画叙事与世界观
 - [🏮 国风与历史题材](#cat-history)（18 例）— 古风卷轴、历史人物、传统题材与诗词视觉
@@ -11775,7 +11775,27 @@ A photorealistic selfie of a young man with short wavy dark hair and light stubb
 <a id="cat-architecture"></a>
 
 ## 🏛️ 建筑与空间场景
-_建筑渲染、室内空间、城市规划与鸟瞰_（48 例）
+_建筑渲染、室内空间、城市规划与鸟瞰_（49 例）
+
+<a id="case-703"></a>
+
+### 例703：今天加了会班。
+
+*2026-09-10*
+
+![例703](images/case703.jpg)
+
+```text
+今天加了会班。
+提示词：绝美23岁东亚美女，身材匀称丰满，胸部明显自然丰满，视觉约 F 杯，具有自然重量感与柔和圆润轮廓，胸腰差明显，但不夸张、不假体感；纤细腰部，与丰满胸部形成清晰但自然的比例对比；气质时尚、自信、温柔。建筑感极简撞色写真风格，墨玉黑哑光高弹固定三角罩杯比基尼，前胸杯缘与双细肩带饰以一圈极细银灰色微光滚边，深 V 固定式三角杯带来利落有力的胸部线条与稳固承托，胸下平整底围凸显精致锁骨，搭配配套低腰 V 形前腰高切三角泳裤，浅 V 腰头向下延伸延展紧致腹肌与修长下肢。
+
+冷调高级清透伪素颜妆，玫瑰豆沙色哑光唇，乌黑长发梳成低低松散的三股发辫垂在肩前，耳垂戴一对极小几何细银圈耳环，左脚踝佩戴极细素银双层细链。
+
+她赤足漫步在微凸于水面的平整黑花岗岩踏石步道上，水深刚及脚踝，刚踩上石板短暂停下步伐，单手轻轻抬起将耳际滑落的一缕湿发挽向耳后，身体重心落在右腿，转过脸正对镜头，眼神清澈含情。晨雾还未完全散去，平如明镜的水面将灰白晨曦天光与极简石墙倒映成水天一色，水汽轻柔拂过脚背。
+
+50mm人像摄影，正面三分之二身环境人像构图，正脸五官与清晰胸腰比通透自然，大光圈浅景深，水庭纵深倒影虚化成空灵背景，真实通透肤质与柔嫩血色，清晨柔白侧逆光结合镜面浅水漫射柔光，高级生活方式写真，电影感，ultra realistic, masterpiece, best quality。
+```
+来源：@sdjn_wgc · https://x.com/sdjn_wgc/status/2097278954285453517
 
 <a id="case-690"></a>
 
@@ -13591,7 +13611,26 @@ A vintage 35mm film photograph of a {argument name="subject description" default
 <a id="cat-photo"></a>
 
 ## 📷 摄影与写真人像
-_人像写真、手机摄影、胶片与商业摄影质感_（120 例）
+_人像写真、手机摄影、胶片与商业摄影质感_（121 例）
+
+<a id="case-701"></a>
+
+### 例701：Created with Grok Imagine Imag…
+
+*2026-09-10*
+
+![例701](images/case701.jpg)
+
+```text
+Created with Grok Imagine Image
+
+Prompt:
+
+A close-up, high-fashion portrait capturing the exact woman in a precise pose: her torso and shoulders are angled away at a three-quarter turn, while her neck is elongated and her head is tilted slightly down and turned towards the side profile. Her gaze is soft, dreamily looking away slightly past the camera lens with a serene, relaxed expression and lips gently parted. She has voluminous, brown hair styled in a sophisticated messy updo, with soft curtain bangs framing her face beautifully. She is wearing a striking, large white semi-translucent flower earring with a subtle gold center accent. Her outfit is a minimalist black halter-neck satin dress that wraps elegantly around her neck. The lighting is soft and dramatic, sculpting her features with warm, muted tones against a plain, dark charcoal gray background. Photorealistic, soft focus, studio lighting, intimate and moody atmosphere.
+
+Strictly avoid bright or vibrant colors, busy or outdoor backgrounds, casual clothing, small stud earrings, flat or straight hair without volume, looking directly at the camera, or overly harsh direct camera flashes. The final output must be a photograph, not a cartoon, digital drawing, illustration, or anime.
+```
+来源：@TaliaAariz · https://x.com/TaliaAariz/status/2097560176056308073
 
 <a id="case-700"></a>
 
@@ -16784,7 +16823,30 @@ Express [{argument name="subject" default="a powerful AI builder"}] in a graffit
 <a id="cat-illustration"></a>
 
 ## 🎨 插画与艺术风格
-_插画、绘画流派、材质实验与装饰艺术_（49 例）
+_插画、绘画流派、材质实验与装饰艺术_（50 例）
+
+<a id="case-702"></a>
+
+### 例702：GPT image2.5生图速度是要快那么一点点，
+
+*2026-09-10*
+
+![例702](images/case702.jpg)
+
+```text
+GPT image2.5生图速度是要快那么一点点，
+光从生图效果来说，其他感觉提升不大！！
+
+最大的提升有两个，
+一个是局部修改，可控性要好不少。
+另一个是参考图的主体一致性有些提升。
+
+其他增加了个Sketch功能，可以对单一的提示词生图有一些辅助作用。
+还多了些预设模板，有点像Canva。
+
+同样的提示词，质感不一样，有可能是丢失了之前生图上下文的偏好记忆。
+```
+来源：@yyyole · https://x.com/yyyole/status/2097613384737083714
 
 <a id="case-689"></a>
 
