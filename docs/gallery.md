@@ -1,6 +1,6 @@
 # 🖼️ 案例全库 · Full Gallery
 
-共 **673** 个公开案例，按场景分类。图片已压缩至 1280px 长边；视频案例存于 `videos/`，可在 GitHub Pages 画廊页直接播放。
+共 **676** 个公开案例，按场景分类。图片已压缩至 1280px 长边；视频案例存于 `videos/`，可在 GitHub Pages 画廊页直接播放。
 
 ## 目录
 
@@ -10,7 +10,7 @@
 - [🛍️ 商品与电商视觉](#cat-product)（26 例）— 商品主图、详情页、包装与广告创意
 - [🏷️ 品牌与标识设计](#cat-brand)（21 例）— Logo、VI、吉祥物与品牌触点
 - [🏛️ 建筑与空间场景](#cat-architecture)（48 例）— 建筑渲染、室内空间、城市规划与鸟瞰
-- [📷 摄影与写真人像](#cat-photo)（117 例）— 人像写真、手机摄影、胶片与商业摄影质感
+- [📷 摄影与写真人像](#cat-photo)（120 例）— 人像写真、手机摄影、胶片与商业摄影质感
 - [🎨 插画与艺术风格](#cat-illustration)（49 例）— 插画、绘画流派、材质实验与装饰艺术
 - [🧍 角色与人物设定](#cat-character)（31 例）— 角色设计、卡牌、3D 玩具与形象设定
 - [🎬 场景与叙事分镜](#cat-scene)（27 例）— 分镜、故事场景、漫画叙事与世界观
@@ -12859,7 +12859,7 @@ prompt：
 <a id="cat-photo"></a>
 
 ## 📷 摄影与写真人像
-_人像写真、手机摄影、胶片与商业摄影质感_（117 例）
+_人像写真、手机摄影、胶片与商业摄影质感_（120 例）
 
 <a id="case-28"></a>
 
@@ -15723,6 +15723,91 @@ GPT Image 2.5生成古风人像：仕女倚竹帘。
 85mm 人像镜头，真实摄影质感，高完成度古风贵女美妆写真，清透、柔和、精致、脱俗，具有山居雅韵与高级古风人像质感。
 ```
 来源：@liyue_ai · https://x.com/liyue_ai/status/2097724799057588363
+
+<a id="case-698"></a>
+
+### 例698：今天的主题是“金莲”。
+
+![例698](images/case698.jpg)
+
+```text
+今天的主题是“金莲”。
+
+提示词：绝美23岁东亚女性，明确成年的潘金莲古典形象，身材匀称丰满，胸部明显自然丰满，视觉约 E 杯，具有自然重量感与柔和圆润轮廓，纤细腰部与丰满胸部形成清晰自然的比例，气质清艳、自信、温柔。清冷性感古典夜景风，月白色细密绫罗深V交领露腰短襦，轻盈垂坠面料配完整同色内衬，搭配青黛色低腰百褶超短裙，窄银边随动作泛起细腻光泽。
+
+清淡月色妆、柔雾豆沙唇与细长眼线，乌发低挽并留一缕发丝垂在颈侧，佩戴白玉发簪与银色细镯。
+
+她髋部轻靠青石井台保持稳定，一手扶住刚停下的木制辘轳，井绳仍在轻轻摆动，随后正面抬眸。老槐树影落满白墙，冷月与檐下小灯交织，让取水后的短暂停顿显得安静又暧昧。
+
+50mm人像摄影，正面膝上环境人像，五官与自然肢体比例清晰，大光圈浅景深，奶油散景，真实皮肤质感，月色冷光勾勒肩颈并由檐下暖灯照亮正面，高级生活方式写真，电影感，ultra realistic, masterpiece, best quality。
+```
+来源：@sdjn_wgc · https://x.com/sdjn_wgc/status/2097821869814538484
+
+<a id="case-699"></a>
+
+### 例699：Made in @Grok Imagine:《Night R…
+
+![例699](images/case699.jpg)
+
+```text
+Made in @Grok Imagine:《Night Rain Whisper》
+
+May you be undone gently, and held completely.
+
+Good night my dear friends.😊
+
+#AIart #AIgirl
+#GrokImagine prompt:
+
+1. Subject & Action
+A beautiful East Asian woman in her early 20s, wet dark hair clinging to her cheeks and collarbone. She sits on the edge of a rumpled bed, body slightly leaned toward the camera. A champagne silk robe has slipped off her shoulders and clings to damp skin, revealing collarbone, deep cleavage and waistline. One hand holds the robe lightly closed at her chest; the other rests on her bare thigh. Direct eye contact: wet, quiet, slightly tired and inviting. Lips softly parted. Expression mixes confidence with loneliness.
+2. Setting & Time
+Luxury hotel bedroom at night. Floor-to-ceiling window behind/beside her. Heavy rain streaks on the glass. Blurred city skyline and traffic lights outside. Dark rumpled sheets, a warm bedside lamp visible in the background.
+
+3. Composition & Camera
+Vertical portrait, mid-shot from mid-thigh up. Eye-level or very slight low angle. Subject slightly off-center. Shallow depth of field: sharp on face, skin and robe texture; window city lights softly bokeh. Intimate distance, as if the viewer is standing a few feet away.
+4. Lighting & Style
+Warm tungsten lamp light from the left, cool blue-white window light from the rain and city. Specular highlights on wet skin, collarbone and silk. Visible pores, fine sweat, realistic fabric folds. Hyper-realistic cinematic still, photoreal film grain, sensual and emotional, not glossy advertisement, not cartoon, not cheap porn lighting.
+
+5. Constraints
+Adult woman only. No text, no watermark, no extra people. Keep the robe on; suggestive but not fully nude. No exaggerated smile, no empty fashion-model stare, no plastic skin. Mood must stay intimate, rainy, and psychologically present—she looks at the viewer as if she knows they are looking.
+```
+来源：@CityCatch_Show · https://x.com/CityCatch_Show/status/2097666282002718855
+
+<a id="case-700"></a>
+
+### 例700：9宫格展示模特穿衣全过程
+
+![例700](images/case700.jpg)
+
+```text
+9宫格展示模特穿衣全过程
+
+```
+专业高级时尚摄影，3×3九宫格分镜9:16构图构图，展示同一位20-25岁性感精致的东方女性，从只穿精致简约内衣开始，按照真实穿衣顺序，一件一件穿上完整时尚服饰的全过程。
+
+九个画面必须是连续递进关系，每一格都保留上一格已经穿好的所有衣物，并且只新增或完成一个明显的穿搭步骤，让观众可以清楚看到完整服装是如何逐层穿上的。
+
+第1格：模特只穿精致、简约、高级感内衣，作为基础状态，全身站立。
+第2格：在内衣基础上穿上第一件服饰，例如贴身打底上衣。
+第3格：继续穿上下装，例如精致短裙、长裙或时尚长裤。
+第4格：增加第二层上装，例如衬衫、针织衫或设计感上衣，并自然整理衣服。
+第5格：加入腰带、束腰、马甲或其他明显的服装层次，造型进一步丰富。
+第6格：穿上精美外套、西装、夹克或高级设计感罩衫。
+第7格：穿上袜子、丝袜、长筒袜或其他与整体造型匹配的腿部服饰。
+第8格：穿上精致时尚鞋履，并加入少量首饰、项链、耳环、手袋等配饰，造型接近完成。
+第9格：完整最终造型，所有服饰和配饰全部穿戴完毕，模特自信站立，呈现高级时尚杂志大片般的最终效果。
+
+摄影棚拍摄，纯色无缝背景，简洁高级的浅灰色、米白色或暖灰色背景，没有多余家具和复杂环境。柔和大型柔光箱布光，专业商业时尚摄影，高级杂志编辑风，真实自然肤质，精致妆容，柔顺有光泽的头发，服装材质、褶皱、缝线、纽扣、金属配件和面料纹理清晰可见。
+
+模特在部分中间步骤中自然进行穿衣动作，例如套上衣服、整理袖口、拉拉链、扣纽扣、整理裙摆、系腰带、穿鞋、调整外套，让九宫格具有真实连续的“getting dressed”视觉叙事感。
+
+九宫格排列必须规整，严格3列×3行，每一格尺寸一致，格与格之间留有细窄整齐间距。不要重复步骤，不要出现衣服突然消失，不要改变服装颜色或款式，不要出现不同模特，不要改变背景，不要改变摄影角度，不要出现文字、数字、标题、水印或品牌Logo。
+
+整体服饰风格：精美、现代、女性化、高级、时尚、有设计感，最终造型具有高级成衣或时尚杂志大片质感。
+```
+```
+来源：@MrGafish · https://x.com/MrGafish/status/2097532596611854806
 
 <a id="cat-illustration"></a>
 

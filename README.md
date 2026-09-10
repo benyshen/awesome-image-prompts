@@ -1,11 +1,11 @@
 # 无限创意提示词库 · Awesome Image Prompts
 
-[![Cases](https://img.shields.io/badge/Cases-673-blueviolet?style=flat-square)](docs/gallery.md)
+[![Cases](https://img.shields.io/badge/Cases-676-blueviolet?style=flat-square)](docs/gallery.md)
 [![Categories](https://img.shields.io/badge/Categories-14-green?style=flat-square)](#️-分类总览)
 [![Online](https://img.shields.io/badge/在线浏览-GitHub_Pages-brightgreen?style=flat-square)](https://benyshen.github.io/awesome-image-prompts/)
 [![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-lightgrey?style=flat-square)](#免责声明)
 
-> **Prompt as Code** ｜ AI 图像/视频提示词逆向工程案例库。收录 **673** 个社区公开案例（源自「条码帮·无限创意集市」），
+> **Prompt as Code** ｜ AI 图像/视频提示词逆向工程案例库。收录 **676** 个社区公开案例（源自「条码帮·无限创意集市」），
 > 每个案例保留 **配图/视频 + 完整提示词 + 来源出处**，并按 14 个场景重新分类，结构化 JSON 可直接供 Agent / 脚本复用。
 > 组织方式学习 [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)（Prompt as Code 理念）。
 
