@@ -436,6 +436,16 @@ def run_gui():
 
 
 # ---------- main ----------
+def _fix_console():
+    # pythonw.exe has no console; force UTF-8 for any stray stderr writes
+    # so GBK codepage never crashes the process on Chinese output.
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+        sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+    except Exception:
+        pass
+
+
 def main():
     ap = argparse.ArgumentParser(description="发布提示词案例到 GitHub 库")
     ap.add_argument("--cli", action="store_true", help="无界面模式")
@@ -457,4 +467,5 @@ def main():
 
 
 if __name__ == "__main__":
+    _fix_console()
     main()
