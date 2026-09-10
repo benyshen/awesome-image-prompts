@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>无限创意提示词库 · Awesome Image Prompts</title>
-<meta name="description" content="631 个 AI 图像/视频提示词逆向工程案例，配图+全文提示词+来源，14 类场景检索与一键复制。">
+<meta name="description" content="600+ AI 图像/视频提示词逆向工程案例，配图+全文提示词+来源，按场景检索与一键复制。">
 <style>
 :root{--bg:#0e1015;--card:#171a22;--line:#262b36;--tx:#e8ebf1;--mut:#8b94a7;--ac:#5eead4;--ac2:#818cf8}
 *{box-sizing:border-box;margin:0;padding:0}
@@ -15,8 +15,9 @@ header h1{font-size:18px;letter-spacing:.5px}
 header h1 span{color:var(--ac)}
 header .sub{color:var(--mut);font-size:12px}
 .spacer{flex:1}
-#q{background:var(--card);border:1px solid var(--line);color:var(--tx);border-radius:10px;padding:9px 14px;width:min(340px,60vw);outline:none}
+#q{background:var(--card);border:1px solid var(--line);color:var(--tx);border-radius:10px;padding:9px 14px;width:min(300px,50vw);outline:none}
 #q:focus{border-color:var(--ac2)}
+select{background:var(--card);border:1px solid var(--line);color:var(--tx);border-radius:10px;padding:9px 10px;font-size:13px;outline:none;cursor:pointer}
 nav{display:flex;flex-wrap:wrap;gap:8px;padding:12px 20px;border-bottom:1px solid var(--line);position:sticky;top:57px;background:var(--bg);z-index:8}
 .chip{border:1px solid var(--line);background:var(--card);color:var(--mut);border-radius:99px;padding:5px 13px;font-size:13px;cursor:pointer;transition:.15s}
 .chip:hover{color:var(--tx);border-color:var(--ac2)}
@@ -27,16 +28,22 @@ main{column-count:4;column-gap:14px;padding:0 20px 60px}
 .card{break-inside:avoid;margin-bottom:14px;background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;transition:.15s}
 .card:hover{border-color:var(--ac2);transform:translateY(-2px)}
 .card img{width:100%;display:block;cursor:zoom-in;background:#000}
+.card video{width:100%;display:block;background:#000}
 .card .vid{padding:30px 16px;text-align:center;color:var(--mut);background:repeating-linear-gradient(45deg,#12141b,#12141b 12px,#161926 12px,#161926 24px)}
 .card .bd{padding:12px 14px 14px}
 .card h3{font-size:14.5px;margin-bottom:6px;line-height:1.4}
-.card .cat{display:inline-block;font-size:11px;color:var(--ac);border:1px solid var(--line);border-radius:6px;padding:1px 7px;margin-bottom:8px}
+.card .tags{display:flex;gap:6px;align-items:center;margin-bottom:8px;flex-wrap:wrap}
+.card .cat{display:inline-block;font-size:11px;color:var(--ac);border:1px solid var(--line);border-radius:6px;padding:1px 7px}
+.card .date{font-size:11px;color:#5d6679}
+.card .new{font-size:10px;background:linear-gradient(90deg,#f472b6,#fb923c);color:#111;border-radius:6px;padding:1px 6px;font-weight:700}
 .card pre{white-space:pre-wrap;word-break:break-word;font-size:12.5px;color:var(--mut);max-height:88px;overflow:hidden;position:relative;font-family:inherit}
 .card pre.open{max-height:none}
 .card .row{display:flex;gap:8px;margin-top:10px;align-items:center}
 .btn{border:1px solid var(--line);background:#1d2230;color:var(--tx);border-radius:8px;padding:5px 12px;font-size:12px;cursor:pointer}
 .btn:hover{border-color:var(--ac)}
 .src{margin-left:auto;font-size:11px;color:#5d6679;max-width:45%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.src a{color:#5d6679}
+.src a:hover{color:var(--ac)}
 #lb{position:fixed;inset:0;background:rgba(0,0,0,.9);display:none;z-index:99;align-items:center;justify-content:center;cursor:zoom-out}
 #lb img{max-width:94vw;max-height:92vh;border-radius:8px}
 footer{padding:18px 20px 40px;color:var(--mut);font-size:12.5px;border-top:1px solid var(--line)}
@@ -48,9 +55,14 @@ footer{padding:18px 20px 40px;color:var(--mut);font-size:12.5px;border-top:1px s
 <header>
   <div>
     <h1>无限创意提示词库 <span>· Awesome Image Prompts</span></h1>
-    <div class="sub">Prompt as Code ｜ 631 例社区公开案例逆向工程 ｜ 源仓库 <a href="https://github.com/benyshen/awesome-image-prompts">benyshen/awesome-image-prompts</a></div>
+    <div class="sub">Prompt as Code ｜ 社区公开案例逆向工程 ｜ 源仓库 <a href="https://github.com/benyshen/awesome-image-prompts">benyshen/awesome-image-prompts</a></div>
   </div>
   <div class="spacer"></div>
+  <select id="sort" title="排序">
+    <option value="new">🆕 最新发布在前</option>
+    <option value="old">🕘 最早发布在前</option>
+    <option value="id">例号 ↑ 顺序</option>
+  </select>
   <input id="q" type="search" placeholder="搜索标题 / 提示词关键词…">
 </header>
 <nav id="cats"></nav>
@@ -58,39 +70,57 @@ footer{padding:18px 20px 40px;color:var(--mut);font-size:12.5px;border-top:1px s
 <main id="grid"></main>
 <button id="more">加载更多 ↓</button>
 <div id="lb"><img alt=""></div>
-<footer>数据来自 <code>data/prompts.json</code>（由 <code>scripts/build_repo.py</code> 从集市库生成）· 案例保留原始出处，仅供学习研究 · 视频案例请局域网访问 <a href="http://192.168.28.100:8600/">无限创意集市</a> 播放</footer>
+<footer id="foot">数据来自 <code>data/prompts.json</code>（由 <code>scripts/build_repo.py</code> 从集市库 + <code>publish_to_github.py</code> X 抓取器增量写入生成）· 案例保留原始出处，仅供学习研究</footer>
 <script>
-const PAGE=60; let DATA=[], view=[], idx=0, cat='all', kw='';
-fetch('data/prompts.json').then(r=>r.json()).then(j=>{
+const PAGE=60; let DATA=[], view=[], idx=0, kw='', sort='new';
+let cat='all';
+if(location.hash==='#new') cat='new';
+else if(location.hash.startsWith('#cat-')) cat=location.hash.slice(5);
+const DAYS_NEW=7;
+fetch('data/prompts.json?ts='+Date.now()).then(r=>r.json()).then(j=>{
   DATA=j.items; buildCats(); apply();
+  document.getElementById('foot').insertAdjacentHTML('beforeend',
+    ' <span style="float:right">库构建时间：'+(j.built_at||'-')+' · 共 '+j.count+' 例</span>');
 });
 const CATS={ui:'🖥️ 界面与社媒',infographic:'📊 信息图',poster:'📰 海报版式',product:'🛍️ 商品电商',brand:'🏷️ 品牌标识',architecture:'🏛️ 建筑空间',photo:'📷 摄影人像',illustration:'🎨 插画艺术',character:'🧍 角色设定',scene:'🎬 场景叙事',history:'🏮 国风历史',document:'📚 文档出版',video:'🎞️ 创意视频',other:'🧪 综合实验'};
+function isNew(d){ if(!d.created_at) return false; const t=Date.parse(d.created_at); return t && (Date.now()-t)/864e5 < DAYS_NEW; }
 function buildCats(){
   const cnt={};DATA.forEach(d=>cnt[d.category]=(cnt[d.category]||0)+1);
   const nav=document.getElementById('cats');
-  const mk=(k,label)=>{const b=document.createElement('button');b.className='chip'+(k==='all'?' on':'');b.dataset.k=k;b.textContent=label;
+  const mk=(k,label)=>{const b=document.createElement('button');b.className='chip'+(k===cat?' on':'');b.dataset.k=k;b.textContent=label;
     b.onclick=()=>{cat=k;document.querySelectorAll('.chip').forEach(c=>c.classList.toggle('on',c.dataset.k===k));apply()};nav.append(b)};
+  const nNew=DATA.filter(isNew).length;
+  mk('new','✨ 最新 '+nNew);
   mk('all','全部 '+DATA.length);
   Object.keys(CATS).forEach(k=>{if(cnt[k])mk(k,CATS[k]+' '+cnt[k])});
 }
 function apply(){
   idx=0;document.getElementById('grid').innerHTML='';
-  view=DATA.filter(d=>(cat==='all'||d.category===cat)&&(!kw||(d.title+' '+(d.prompt||'')).toLowerCase().includes(kw)));
-  document.getElementById('stats').textContent=`${view.length} 例`+(kw?` · 关键词「${kw}」`:'');
+  view=DATA.filter(d=>(cat==='all'||(cat==='new'?isNew(d):d.category===cat))&&(!kw||(d.title+' '+(d.prompt||'')).toLowerCase().includes(kw)));
+  const key={new:d=>[-(Date.parse(d.created_at)||0),-d.id],old:d=>[Date.parse(d.created_at)||0,d.id],id:d=>d.id};
+  if(sort!=='id') view.sort((a,b)=>{const ka=key[sort](a),kb=key[sort](b);for(let i=0;i<ka.length;i++){if(ka[i]!==kb[i])return ka[i]<kb[i]?-1:1}return 0});
+  else view.sort((a,b)=>a.id-b.id);
+  document.getElementById('stats').textContent=`${view.length} 例`+(cat==='new'?'（近 '+DAYS_NEW+' 天新增）':'')+(kw?` · 关键词「${kw}」`:'');
   more();
 }
-function esc(s){return s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+function esc(s){return (s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+function srcHtml(d){
+  const s=d.source||'未提供';
+  const m=s.match(/(https?:\/\/\S+)/);
+  if(m) return `<a href="${m[1]}" target="_blank" rel="noopener" onclick="event.stopPropagation()">@${esc((s.split('@')[1]||'').split(' ')[0]||'x')} ↗</a>`;
+  return esc(s);
+}
 function more(){
   const g=document.getElementById('grid');
   view.slice(idx,idx+PAGE).forEach(d=>{
     const c=document.createElement('article');c.className='card';
     const media=d.image?`<img loading="lazy" src="${d.image}" alt="例${d.id}" onclick="lb(this.src)">`
-      :(d.video?`<video src="${d.video}" controls preload="none" style="width:100%;display:block;background:#000"></video>`
+      :(d.video?`<video src="${d.video}" controls preload="none"></video>`
       :`<div class="vid">🎞️ 视频案例 · <a href="${d.live_url}" target="_blank" style="color:var(--ac2)">局域网在线播放</a></div>`);
-    c.innerHTML=`${media}<div class="bd"><span class="cat">${CATS[d.category]||''}</span><h3>例${d.id}：${esc(d.title)}</h3>
+    c.innerHTML=`${media}<div class="bd"><div class="tags"><span class="cat">${CATS[d.category]||''}</span>${isNew(d)?'<span class="new">NEW</span>':''}<span class="date">${esc(d.created_at)}</span></div><h3>例${d.id}：${esc(d.title)}</h3>
       <pre>${esc((d.prompt||'（未提供提示词）').slice(0,400))}${(d.prompt||'').length>400?'…':''}</pre>
       <div class="row"><button class="btn" data-full>展开</button><button class="btn" data-copy>复制提示词</button>
-      <span class="src" title="${esc(d.source)}">${esc(d.source)}</span></div></div>`;
+      <span class="src" title="${esc(d.source)}">${srcHtml(d)}</span></div></div>`;
     c.querySelector('[data-copy]').onclick=async e=>{await navigator.clipboard.writeText(d.prompt||'');e.target.textContent='已复制 ✓';setTimeout(()=>e.target.textContent='复制提示词',1200)};
     c.querySelector('[data-full]').onclick=e=>{const p=c.querySelector('pre');if(p.classList.contains('open')){p.classList.remove('open');p.textContent=p.dataset.cut;p.dataset.cut='';e.target.textContent='展开'}else{p.dataset.cut=p.textContent;p.textContent=d.prompt||'';p.classList.add('open');e.target.textContent='收起'}};
     g.append(c);
@@ -99,11 +129,11 @@ function more(){
   document.getElementById('more').style.display=idx>=view.length?'none':'block';
 }
 let t;q.oninput=e=>{clearTimeout(t);t=setTimeout(()=>{kw=e.target.value.trim().toLowerCase();apply()},250)};
+sort_sel=document.getElementById('sort');
+sort_sel.onchange=e=>{sort=e.target.value;apply()};
 document.getElementById('more').onclick=more;
 function lb(src){const l=document.getElementById('lb');l.querySelector('img').src=src;l.style.display='flex'}
 document.getElementById('lb').onclick=e=>e.currentTarget.style.display='none';
-// deep link: index.html#cat-poster or #item-123
-if(location.hash.startsWith('#cat-')){cat=location.hash.slice(5);document.querySelectorAll('.chip').forEach(c=>c.classList.toggle('on',c.dataset.k===cat));apply()}
 </script>
 </body>
 </html>

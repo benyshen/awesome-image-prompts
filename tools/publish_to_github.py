@@ -164,6 +164,7 @@ def load_db() -> dict:
 def save_db(j: dict):
     j["items"].sort(key=lambda x: (CAT_ORDER.index(x["category"]) if x["category"] in CAT_ORDER else 99, x["id"]))
     j["count"] = len(j["items"])
+    j["built_at"] = time.strftime("%Y-%m-%d %H:%M")
     DATA_JSON.write_text(json.dumps(j, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
@@ -181,8 +182,10 @@ def render_gallery(items: list[dict]):
             continue
         e, n = CATS[c]
         L += [f'<a id="cat-{c}"></a>', "", f"## {e} {n}", f"_{DESCS[c]}_（{len(by[c])} 例）", ""]
-        for it in by[c]:
-            L += [f'<a id="case-{it["id"]}"></a>', "", f"### 例{it['id']}：{it['title']}", ""]
+        for it in sorted(by[c], key=lambda x: (-x["id"],)):
+            L += [f'<a id="case-{it["id"]}"></a>', "",
+                  f"### 例{it['id']}：{it['title']}", "",
+                  f"*{it.get('created_at') or ''}*", ""]
             if it.get("image"):
                 L += [f"![例{it['id']}]({it['image']})", ""]
             elif it.get("video"):
@@ -285,6 +288,7 @@ def publish(files: list[Path], prompt_text: str, title: str, source: str,
             "id": cid, "title": title_final, "prompt": prompt,
             "image": img_rel, "media_type": media, "source": source.strip() or "未提供",
             "orig_category": "GitHub投稿", "category": cat,
+            "created_at": time.strftime("%Y-%m-%d"),
             "live_url": "http://192.168.28.100:8600/",
         }
         if vid_rel:

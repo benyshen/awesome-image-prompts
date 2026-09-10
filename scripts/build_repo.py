@@ -132,7 +132,7 @@ def main():
         sys.exit(f"DB not found: {SRC_DB} (mount Z: or set GALLERY_DB)")
     cur = sqlite3.connect(f"file:{SRC_DB.as_posix()}?mode=ro", uri=True).cursor()
     rows = cur.execute(
-        "select id,title,prompt,image,source,category,media_type from items "
+        "select id,title,prompt,image,source,category,media_type,created_at from items "
         "where visibility='public' order by id").fetchall()
 
     (REPO / "data").mkdir(exist_ok=True)
@@ -143,7 +143,7 @@ def main():
     vid_out = REPO / "videos"
     vid_out.mkdir(exist_ok=True)
     items, copied, vids = [], 0, 0
-    for (i, title, prompt, image, source, cat, media) in rows:
+    for (i, title, prompt, image, source, cat, media, created) in rows:
         it = {
             "id": i,
             "title": nice_title({"title": title, "prompt": prompt}),
@@ -153,6 +153,7 @@ def main():
             "source": clean_source(source),
             "orig_category": cat,
             "category": classify(title or "", prompt or "", media),
+            "created_at": (created or "")[:10],
             "live_url": "http://192.168.28.100:8600/",
         }
         if image and media == "image":
@@ -169,7 +170,7 @@ def main():
         items.append(it)
 
     items.sort(key=lambda x: (CAT_ORDER.index(x["category"]), x["id"]))
-    json.dump({"count": len(items), "items": items},
+    json.dump({"count": len(items), "built_at": __import__("datetime").datetime.now().strftime("%Y-%m-%d %H:%M"), "items": items},
               open(REPO / "data" / "prompts.json", "w", encoding="utf-8"),
               ensure_ascii=False, indent=1)
 
@@ -188,11 +189,14 @@ def main():
             continue
         e, n, d = CATS[c]
         L += [f'<a id="cat-{c}"></a>', "", f"## {e} {n}", f"_{d}_（{len(by[c])} 例）", ""]
-        for it in by[c]:
+        for it in sorted(by[c], key=lambda x: -x["id"]):
             L.append(f'<a id="case-{it["id"]}"></a>')
             L.append("")
             L.append(f"### 例{it['id']}：{it['title']}")
             L.append("")
+            if it.get("created_at"):
+                L.append(f"*{it['created_at']}*")
+                L.append("")
             if it["image"]:
                 L.append(f"![例{it['id']}]({it['image']})")
                 L.append("")
