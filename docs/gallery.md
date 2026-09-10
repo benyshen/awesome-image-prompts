@@ -1,6 +1,6 @@
 # 🖼️ 案例全库 · Full Gallery
 
-共 **631** 个公开案例，按场景分类。图片已压缩至 1280px 长边；视频案例存于 `videos/`，可在 GitHub Pages 画廊页直接播放。
+共 **634** 个公开案例，按场景分类。图片已压缩至 1280px 长边；视频案例存于 `videos/`，可在 GitHub Pages 画廊页直接播放。
 
 ## 目录
 
@@ -10,13 +10,13 @@
 - [🛍️ 商品与电商视觉](#cat-product)（26 例）— 商品主图、详情页、包装与广告创意
 - [🏷️ 品牌与标识设计](#cat-brand)（19 例）— Logo、VI、吉祥物与品牌触点
 - [🏛️ 建筑与空间场景](#cat-architecture)（42 例）— 建筑渲染、室内空间、城市规划与鸟瞰
-- [📷 摄影与写真人像](#cat-photo)（99 例）— 人像写真、手机摄影、胶片与商业摄影质感
+- [📷 摄影与写真人像](#cat-photo)（100 例）— 人像写真、手机摄影、胶片与商业摄影质感
 - [🎨 插画与艺术风格](#cat-illustration)（46 例）— 插画、绘画流派、材质实验与装饰艺术
 - [🧍 角色与人物设定](#cat-character)（31 例）— 角色设计、卡牌、3D 玩具与形象设定
 - [🎬 场景与叙事分镜](#cat-scene)（27 例）— 分镜、故事场景、漫画叙事与世界观
 - [🏮 国风与历史题材](#cat-history)（18 例）— 古风卷轴、历史人物、传统题材与诗词视觉
 - [📚 文档与出版物料](#cat-document)（3 例）— 白皮书、手册、处方、证书与出版版式
-- [🎞️ 创意视频案例](#cat-video)（27 例）— 图生视频 / 文生视频提示词（播放见线上站）
+- [🎞️ 创意视频案例](#cat-video)（29 例）— 图生视频 / 文生视频提示词（播放见线上站）
 - [🧪 综合与创意实验](#cat-other)（29 例）— 创意实验、混合任务与实用杂项
 
 <a id="cat-ui"></a>
@@ -43,7 +43,6 @@ _App / 网页 / 直播 / 社媒界面、UI 样机与截图_（73 例）
  互动数据位于最下方： 评论 8.9K、转发 42K、点赞 298K（亮起）、收藏 34K（亮起）、浏览 32.4M。 
  图片比例为3:4，不包含软件其他部分。
 ```
-
 来源：小红书号4264014889
 
 <a id="case-4"></a>
@@ -55,7 +54,6 @@ _App / 网页 / 直播 / 社媒界面、UI 样机与截图_（73 例）
 ```text
 特朗普在抖音直播间卖老干妈，手里举着「老干妈风味」新品，背景还是 SpaceX 那种科技感，左下角弹幕飘着「特斯拉车主：求上链接」。
 ```
-
 来源：小红书号989137706
 
 <a id="case-7"></a>
@@ -67,7 +65,6 @@ _App / 网页 / 直播 / 社媒界面、UI 样机与截图_（73 例）
 ```text
 生成一张竖版手机截图风格的图片，整体比例接近 9:16。画面中心偏上是一位真人 coser，扮演上传图片中的二次元角色。人物为写实风格，但五官略带动漫感，皮肤细腻，眼睛稍大，表情温柔地看向镜头，坐在室内的休闲场景中，例如咖啡厅或酒吧吧台前，背景有符合场景的道具。画面最上方加入手机系统状态栏 UI，包括时间、电量、信号、网络等图标，让整张图看起来像手机截图。画面底部叠加一块宽大的半透明 galgame 风格对话框，对话框左侧放一个与画面人物对应的动漫或 Q 版头像；对话框右侧排版文字：第一行用较大字体显示与前面相同的角色名字，下面一到两行显示一段适合这个角色人设的、温柔治愈风格的简体中文台词，由你自动创作。再在对话框下方加一条操作栏，仿照 galgame UI。整体风格高清、细节丰富、光线柔和、二次元与真人写真自然融合。
 ```
-
 来源：小红书号944846927
 
 <a id="case-17"></a>
@@ -113,7 +110,6 @@ _App / 网页 / 直播 / 社媒界面、UI 样机与截图_（73 例）
   }
 }
 ```
-
 来源：[@wory37303852](https://x.com/wory37303852)
 
 <a id="case-21"></a>
@@ -171,7 +167,6 @@ _App / 网页 / 直播 / 社媒界面、UI 样机与截图_（73 例）
   }
 }
 ```
-
 来源：[@sjbbxhz](https://x.com/sjbbxhz)
 
 <a id="case-48"></a>
@@ -183,7 +178,6 @@ _App / 网页 / 直播 / 社媒界面、UI 样机与截图_（73 例）
 ```text
 A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where {argument name="celebrity" default="Liu Yifei"} is broadcasting, holding a sign that says "{argument name="sign text" default="Streaming tonight, welcome to join Yifei's chat!"}"
 ```
-
 来源：[@kylegeeks](https://x.com/kylegeeks)
 
 <a id="case-49"></a>
@@ -195,7 +189,6 @@ A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where 
 ```text
 A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where {argument name="celebrity" default="Liu Yifei"} is broadcasting, holding a sign that says "{argument name="sign text" default="Streaming tonight, welcome to join Yifei's chat!"}"
 ```
-
 来源：[@kylegeeks](https://x.com/kylegeeks)
 
 <a id="case-57"></a>
@@ -245,7 +238,6 @@ A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where 
   }
 }
 ```
-
 来源：[@liyue_ai](https://x.com/liyue_ai)
 
 <a id="case-91"></a>
@@ -257,7 +249,6 @@ A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where 
 ```text
 A highly detailed, realistic first-person video game screenshot of a next-generation voxel-based world. At the top center, a large, bold 3D logo reads "{argument name="game title" default="MINECRAFT 2"}". The scene features a {argument name="environment" default="lush, blocky landscape with a river, a small wooden cabin, a windmill, a waterfall, and majestic mountains in the background"}. The world blends realistic lighting, volumetric clouds, and high-resolution textures with cubic, voxel geometry. In the foreground on the left, a {argument name="mob 1" default="blocky green creeper"} stands on the grass, while a {argument name="mob 2" default="blocky brown wolf"} stands on the dirt path to the right. On the far right, the player's hand holds a {argument name="held item" default="pixelated blue diamond sword"} in a first-person perspective. At the bottom of the screen is a game user interface featuring a health bar with 10 red hearts, a green experience bar with the number '16', a hunger bar with 10 brown meat icons, and a 9-slot inventory hotbar. The hotbar contains, from left to right: a selected blue tool with a green highlight box, a green tool, a knife, a wrench with the number '3', a piece of meat with '6', a lantern with '24', a dirt block with '10', a bucket, and a sponge block.
 ```
-
 来源：[@wolfaidev](https://x.com/wolfaidev)
 
 <a id="case-92"></a>
@@ -269,7 +260,6 @@ A highly detailed, realistic first-person video game screenshot of a next-genera
 ```text
 An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She has long {argument name="hair color" default="pink with light blue inner highlights"} hair, blue eyes, and wears black and white cat-ear headphones with a boom mic. She wears a white collared shirt with a black and pink star ribbon and a black choker, smiling with one hand near her chin. The background is a gaming room with {argument name="room lighting" default="purple and blue neon"} lighting, showing a desk equipped with 1 white keyboard, 1 mug, 1 glowing cat figure, 1 game controller, and 1 streaming microphone. The left side features large, bold, pop-art Japanese typography: a bright pink top word "{argument name="main text line 1" default="雑談"}" and a bright blue bottom word "{argument name="main text line 2" default="配信"}". Below is a pink banner reading "{argument name="subtitle text" default="今夜もゆるっとトーク!"}". A red "LIVE" badge sits in the top left. Floating speech bubbles, stars, and hearts decorate the composition.
 ```
-
 来源：[@Yuupapa_free](https://x.com/Yuupapa_free)
 
 <a id="case-99"></a>
@@ -324,7 +314,6 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
   }
 }
 ```
-
 来源：[@naga_zyashin](https://x.com/naga_zyashin)
 
 <a id="case-101"></a>
@@ -379,7 +368,6 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
   }
 }
 ```
-
 来源：[@naga_zyashin](https://x.com/naga_zyashin)
 
 <a id="case-103"></a>
@@ -391,7 +379,6 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
 ```text
 {argument name="pianist" default="Vladimir Horowitz"} performs a {argument name="event" default="live piano recital"} streamed on {argument name="platform" default="YouTube"}
 ```
-
 来源：[@bowowwoaaa2](https://x.com/bowowwoaaa2)
 
 <a id="case-104"></a>
@@ -428,7 +415,6 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
   }
 }
 ```
-
 来源：[@marouane53](https://x.com/marouane53)
 
 <a id="case-106"></a>
@@ -504,7 +490,6 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
   }
 }
 ```
-
 来源：[@abdiisan](https://x.com/abdiisan)
 
 <a id="case-107"></a>
@@ -516,7 +501,6 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
 ```text
 {"type": "YouTube desktop dark mode UI mockup", "header": {"logo": "YouTube", "search_bar": "Search", "icons_count": 5, "icons": ["search", "mic", "create", "notifications", "profile"]}, "video_player": {"top_left_badge": "LIVE", "left_side": {"subject": "{argument name=\"presenter description\" default=\"man in green sweater at wooden podium\"}", "podium_logo": "OpenAI"}, "right_side_presentation": {"text_elements": ["OpenAI", "INTRODUCING", "{argument name=\"product name\" default=\"GPT-Image-2\"}", "{argument name=\"tagline\" default=\"More Realistic. More Useful. More Creative.\"}"], "sample_images_count": 4, "sample_images": ["mountain lake with boat", "woman portrait with dappled light", "cute robot with lantern in forest", "starry night cafe painting"]}, "bottom_controls_count": 10, "bottom_controls": ["pause", "next", "volume", "LIVE", "red progress bar", "CC", "settings", "miniplayer", "theater mode", "fullscreen"]}, "video_details": {"title": "{argument name=\"video title\" default=\"OpenAI Live: Introducing GPT-Image-2\"}", "channel": {"name": "{argument name=\"channel name\" default=\"OpenAI\"}", "verified": true, "subscribers": "1.36M", "button": "Subscribe"}, "action_buttons_count": 5, "action_buttons": ["Like 12K", "Dislike 497", "Share", "Save", "More"], "description_box": {"stats": "95,237 watching now Started streaming 7 minutes ago", "tags": "#OpenAI #GPTImage2 #AI", "text": "Join us for a special live event as we introduce GPT-Image-2, our latest and most advanced image generation model. See new capabilities, live demos, and hear from the team ...more"}}}
 ```
-
 来源：[@tehno_maniak](https://x.com/tehno_maniak)
 
 <a id="case-110"></a>
@@ -528,7 +512,6 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
 ```text
 Thumbnail for a YouTube unboxing video, a video of {argument name="topic" default="opening all overdue bills"}, {argument name="quantity" default="100 in a row"}
 ```
-
 来源：[@TlanoAI](https://x.com/TlanoAI)
 
 <a id="case-111"></a>
@@ -540,7 +523,6 @@ Thumbnail for a YouTube unboxing video, a video of {argument name="topic" defaul
 ```text
 A YouTube thumbnail-style collage for a {argument name="overall mood" default="dark, dramatic, true crime investigation"}. In the center is a highly detailed, close-up portrait of an {argument name="central figure" default="older man with grey hair and deep wrinkles resembling Jeffrey Epstein"}, wearing a black polo shirt, with a faint red glowing outline separating him from the background. On the left side, a {argument name="left background scene" default="tropical island with luxury villas and a flying airplane in a dark sky"}. Below the island, a conspiracy board motif features exactly 2 red push pins connected by 3 thick red strings. On the top right side, a hazy, sepia-toned depiction of the {argument name="right background scene" default="US Capitol building with the silhouettes of 3 men in suits facing it"}. On the bottom right, an open manila folder containing a {argument name="document type" default="heavily redacted dossier with thick black marker lines and a smaller photograph of the central man"}. The overall composition is cinematic, intense, and heavily stylized for a documentary video.
 ```
-
 来源：[@mirochill](https://x.com/mirochill)
 
 <a id="case-130"></a>
@@ -600,7 +582,6 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
   }
 }
 ```
-
 来源：[@chi_vc_](https://x.com/chi_vc_)
 
 <a id="case-131"></a>
@@ -679,7 +660,6 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
   }
 }
 ```
-
 来源：[@IndieDevHailey](https://x.com/IndieDevHailey)
 
 <a id="case-132"></a>
@@ -776,7 +756,6 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
   }
 }
 ```
-
 来源：[@Colin_Leeee](https://x.com/Colin_Leeee)
 
 <a id="case-133"></a>
@@ -888,7 +867,6 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
   }
 }
 ```
-
 来源：[@yyyole](https://x.com/yyyole)
 
 <a id="case-134"></a>
@@ -946,7 +924,6 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
   }
 }
 ```
-
 来源：[@ryuya__31](https://x.com/ryuya__31)
 
 <a id="case-135"></a>
@@ -1009,7 +986,6 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
   }
 }
 ```
-
 来源：[@ryuya__31](https://x.com/ryuya__31)
 
 <a id="case-137"></a>
@@ -1075,7 +1051,6 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
   }
 }
 ```
-
 来源：[@ryuya__31](https://x.com/ryuya__31)
 
 <a id="case-149"></a>
@@ -1152,7 +1127,6 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
   }
 }
 ```
-
 来源：[@JCutcut47692](https://x.com/JCutcut47692)
 
 <a id="case-151"></a>
@@ -1217,7 +1191,6 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
   ]
 }
 ```
-
 来源：[@kitune_fire45](https://x.com/kitune_fire45)
 
 <a id="case-152"></a>
@@ -1286,7 +1259,6 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
   }
 }
 ```
-
 来源：[@coder_left](https://x.com/coder_left)
 
 <a id="case-156"></a>
@@ -1364,7 +1336,6 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
   }
 }
 ```
-
 来源：[@linxiaobei888](https://x.com/linxiaobei888)
 
 <a id="case-158"></a>
@@ -1452,7 +1423,6 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
   }
 }
 ```
-
 来源：[@coconut_256](https://x.com/coconut_256)
 
 <a id="case-159"></a>
@@ -1530,7 +1500,6 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
   }
 }
 ```
-
 来源：[@onlyhuman028](https://x.com/onlyhuman028)
 
 <a id="case-161"></a>
@@ -1586,7 +1555,6 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
   }
 }
 ```
-
 来源：[@DanDaniDaniel01](https://x.com/DanDaniDaniel01)
 
 <a id="case-163"></a>
@@ -1602,7 +1570,6 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
 [English]
 Li Bai dancing under the moon during a Douyin livestream
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
 
 <a id="case-164"></a>
@@ -1618,7 +1585,6 @@ Li Bai dancing under the moon during a Douyin livestream
 [English]
 A 9:16 vertical screen screenshot of a Douyin live stream, space live stream style. Trump is wearing a NASA-style white spacesuit, with the helmet visor half open, revealing his signature golden hair and smile. He is floating inside the cabin of the International Space Station doing a live stream, in a microgravity weightless state, with his body slightly suspended. He is holding up a metal nameplate fixed to the spacesuit with both hands, and the nameplate says "Thanks to Songguo Xiansen for the big rocket" in NASA-style print. Behind him, the blue Earth and deep space can be seen through the circular porthole. The live stream interface shows the online viewer count as "Earth + Mars total 8.88 million". In the bullet screen area, someone is commenting "Really live streaming from space?" and "Songguo Xiansen's rocket sent you up to the sky". The rocket gift effect in the center of the screen echoes a real rocket launching in the space outside the window, forming a combination of virtual and real effects. There are various precision instruments and control panels inside the cabin, with green and blue indicator lights flashing. The color tone of the picture is mainly dark blue, white, and gold, with starlight from outside the porthole embellishing it, 8K ultra-high definition, visual effects at the level of the movie "Gravity".
 ```
-
 来源：[@songguoxiansen](https://x.com/songguoxiansen/status/2046478609238626569)
 
 <a id="case-167"></a>
@@ -1634,7 +1600,6 @@ A 9:16 vertical screen screenshot of a Douyin live stream, space live stream sty
 [English]
 WeChat Moments of the Xuanwu Gate Incident
 ```
-
 来源：[@Tz_2022](https://x.com/Tz_2022/status/2046523491940225366)
 
 <a id="case-176"></a>
@@ -1650,7 +1615,6 @@ WeChat Moments of the Xuanwu Gate Incident
 [English]
 Su Shi's first day of exile Xiaohongshu screenshot
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
 
 <a id="case-177"></a>
@@ -1666,7 +1630,6 @@ Su Shi's first day of exile Xiaohongshu screenshot
 [English]
 Help me generate a central control interface of Geely Galaxy M9, size 21:9, dark color scheme.
 ```
-
 来源：[@xin_pai88825](https://x.com/xin_pai88825/status/2046576100592201946)
 
 <a id="case-184"></a>
@@ -1682,7 +1645,6 @@ Help me generate a central control interface of Geely Galaxy M9, size 21:9, dark
 [English]
 Du Fu posting on WeChat Moments complaining about his roof being blown away by the wind
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
 
 <a id="case-185"></a>
@@ -1698,7 +1660,6 @@ Du Fu posting on WeChat Moments complaining about his roof being blown away by t
 [English]
 Wu Zetian taking a selfie, registering and posting on Weibo.
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
 
 <a id="case-188"></a>
@@ -1714,7 +1675,6 @@ Wu Zetian taking a selfie, registering and posting on Weibo.
 [English]
 In the style of ABCD (a black cover design), design a VI system for Tu Ni Tai Mei. Tu Ni Tai Mei is an avatar and beauty photo sharing website.
 ```
-
 来源：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2046556758521573546)
 
 <a id="case-197"></a>
@@ -1730,7 +1690,6 @@ In the style of ABCD (a black cover design), design a VI system for Tu Ni Tai Me
 [English]
 Help me generate a screenshot of Trump versus Khamenei in the mid lane in League of Legends.
 ```
-
 来源：[@underwoodxie96](https://x.com/underwoodxie96/status/2046529342415790275)
 
 <a id="case-200"></a>
@@ -1746,7 +1705,6 @@ Help me generate a screenshot of Trump versus Khamenei in the mid lane in League
 [English]
 Generate a screenshot of a Douyin live stream featuring a beautiful woman live streaming, selling pantyhose and underwear, her online viewer count is 99996, the popularity rating is 18+, a big brother named Xiao Hu sent her an airplane gift
 ```
-
 来源：[@xiaohu](https://x.com/xiaohu/status/2046536551681954207)
 
 <a id="case-213"></a>
@@ -1762,7 +1720,6 @@ Generate a screenshot of a Douyin live stream featuring a beautiful woman live s
 [English]
 Help me generate a screenshot of an ancient ARPG MMO open-world game themed around Jin Ping Mei.
 ```
-
 来源：[@op7418](https://x.com/op7418/status/2046520509651886451)
 
 <a id="case-227"></a>
@@ -1778,7 +1735,6 @@ Help me generate a screenshot of an ancient ARPG MMO open-world game themed arou
 [English]
 A 9:16 image, generate a screenshot of a Bilibili live stream, inside is Hu Chenfeng broadcasting live, Hu Chenfeng has a happy expression, holding a sign in his hand, the sign says "Boss Austin is so emotional, everyone please give Boss Austin some follows."
 ```
-
 来源：[@austinit](https://x.com/austinit/status/2044994519649997183)
 
 <a id="case-234"></a>
@@ -1794,7 +1750,6 @@ A 9:16 image, generate a screenshot of a Bilibili live stream, inside is Hu Chen
 [English]
 Create an X post page of Zhu Yuanzhang after his ascension to the throne in the Ming Dynasty
 ```
-
 来源：[@liyue_ai](https://x.com/liyue_ai/status/2045021302315249738)
 
 <a id="case-239"></a>
@@ -1810,7 +1765,6 @@ Create an X post page of Zhu Yuanzhang after his ascension to the throne in the 
 [English]
 9:16 aspect ratio, generate a screenshot of a Douyin live stream, inside is Liu Yifei live streaming, Liu Yifei is holding a sign in her hand, the sign says Tonight's live stream, welcome to join Yifei for a chat!
 ```
-
 来源：[@alanblogsooo](https://x.com/alanblogsooo/status/2044784762594918516)
 
 <a id="case-243"></a>
@@ -1826,7 +1780,6 @@ Create an X post page of Zhu Yuanzhang after his ascension to the throne in the 
 [English]
 Generate a UI design system for me in xx style, including web pages, mobile, cards, controls, buttons, and others
 ```
-
 来源：[@stark_nico99](https://x.com/stark_nico99/status/2045836554451706125)
 
 <a id="case-249"></a>
@@ -1842,7 +1795,6 @@ Generate a UI design system for me in xx style, including web pages, mobile, car
 [English]
 Generate a screenshot of a TikTok live stream, a beautiful woman is live streaming, the beautiful woman is holding a sign in her hand, on which it says: Thank you Brother Xingzhe for the big rocket!
 ```
-
 来源：[@joshesye](https://x.com/joshesye/status/2044796366950703316)
 
 <a id="case-255"></a>
@@ -1858,7 +1810,6 @@ Generate a screenshot of a TikTok live stream, a beautiful woman is live streami
 [English]
 Mobile vertical screen interface, short video live streaming platform style, a young Asian female streamer selling goods through live streaming at home, the streamer is wearing tight yoga pants and a simple top, natural body curves, turning sideways to show the lines and elasticity of the pants, natural movements without exaggeration;
 ```
-
 来源：[@joshesye](https://x.com/joshesye/status/2044796366950703316)
 
 <a id="case-256"></a>
@@ -1874,7 +1825,6 @@ Mobile vertical screen interface, short video live streaming platform style, a y
 [English]
 Generate a screenshot of a Douyin livestream, inside there is a beautiful woman livestreaming
 ```
-
 来源：[@joshesye](https://x.com/joshesye/status/2044796366950703316)
 
 <a id="case-257"></a>
@@ -1890,7 +1840,6 @@ Generate a screenshot of a Douyin livestream, inside there is a beautiful woman 
 [English]
 Generate a screenshot of a Douyin live stream, featuring a beautiful woman wearing traditional Chinese clothing selling goods during the live broadcast.
 ```
-
 来源：[@joshesye](https://x.com/joshesye/status/2044796366950703316)
 
 <a id="case-258"></a>
@@ -1906,7 +1855,6 @@ Generate a screenshot of a Douyin live stream, featuring a beautiful woman weari
 [English]
 Generate Kuaishou content screenshot: Theme: Live divorce announcement, iPhone size
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
 
 <a id="case-259"></a>
@@ -1922,7 +1870,6 @@ Generate Kuaishou content screenshot: Theme: Live divorce announcement, iPhone s
 [English]
 Generate Xiaohongshu content screenshot, theme: Behind every exquisite girl there is online loan, iPhone size
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
 
 <a id="case-260"></a>
@@ -1938,7 +1885,6 @@ Generate Xiaohongshu content screenshot, theme: Behind every exquisite girl ther
 [English]
 Generate a screenshot of Douyin content, theme: Catch up with the AI wave, 9.9 to learn it all, iPhone size
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
 
 <a id="case-261"></a>
@@ -1954,7 +1900,6 @@ Generate a screenshot of Douyin content, theme: Catch up with the AI wave, 9.9 t
 [English]
 Render a professional iOS APP homepage UI image, the theme is AI Video Generator, English interface. Professional-level design, professional style, dark theme.
 ```
-
 来源：[@austinit](https://x.com/austinit/status/2044968740782272596)
 
 <a id="case-263"></a>
@@ -1996,7 +1941,6 @@ Height: (Height here)cm
 Weight: (Weight here)kg
 Catchphrase: "Dialogue here"
 ```
-
 来源：[@09lyco](https://x.com/09lyco/status/2045281845391323175)
 
 <a id="case-267"></a>
@@ -2012,7 +1956,6 @@ Catchphrase: "Dialogue here"
 [English]
 "Song Dynasty People's Moments"/"SONG DYNASTY SOCIAL MEDIA FEED", Ancient and modern time-travel humor fusion interface design style, The image simulates a mobile phone social media interface, but the content is entirely Song Dynasty scenes, The avatar is a portrait of a Song Dynasty literati, Username "Su Dongpo SuShi_Official", Post content "Just arrived in Huangzhou, demoted but feeling okay. Made Dongpo pork myself today, tastes amazing, recipe attached:", The attached image is a close-up of Dongpo pork in Gongbi painting style, Likes list "Huang Tingjian, Qin Guan, Fo Yin etc. 126 people", Comments section "Wang Anshi: Hehe" "Sima Guang: Still the same taste", Interface elements such as the like icon are replaced with Song Dynasty patterns, The status bar shows "Great Song Mobile 5G" and "Third Year of Yuanfeng", The color scheme is mobile phone dark mode paired with elegant Song Dynasty tones, A masterpiece of fun collision between history and social media
 ```
-
 来源：[@Panda20230902](https://x.com/Panda20230902/status/2045385588065313057)
 
 <a id="case-269"></a>
@@ -2028,7 +1971,6 @@ Catchphrase: "Dialogue here"
 [English]
 Generate a screenshot of WeChat Channels content, theme: middle-aged and elderly people should not blindly urge marriage, iPhone size
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
 
 <a id="case-282"></a>
@@ -2044,7 +1986,6 @@ Generate a screenshot of WeChat Channels content, theme: middle-aged and elderly
 [English]
 Generate a portrait mobile phone screenshot style image, with an overall aspect ratio close to 9:16. In the upper center of the frame is a real-life coser, playing a 2D anime character named (Character Name). The character is in a realistic style, but with facial features slightly showing an anime feel, delicate skin, slightly larger eyes, a gentle expression looking at the camera, sitting in an indoor casual scene, such as in front of a cafe or bar counter, with background props fitting the scene. At the very top of the image, add a mobile phone system status bar UI, including icons for time, battery, signal, and network, to make the whole image look like a mobile phone screenshot. At the bottom of the image, overlay a wide semi-transparent galgame style dialog box, place an anime or Q-version avatar corresponding to the character in the image on the left side of the dialog box; on the right side of the dialog box, typeset text: the first line displays the same character name as before in a larger font, the following one to two lines display a piece of Simplified Chinese dialogue suitable for this character's personality, in a gentle and healing style, automatically created by you. Then add an operation bar below the dialog box, imitating the galgame UI. The overall style is high-definition, rich in details, with soft lighting, and a natural fusion of 2D anime and real-life photography.
 ```
-
 来源：[@Zoulinshen](https://x.com/Zoulinshen/status/2045082518089810073)
 
 <a id="case-287"></a>
@@ -2060,7 +2001,6 @@ Generate a portrait mobile phone screenshot style image, with an overall aspect 
 [English]
 Generate a screenshot of Mai Shiranui's Xiaohongshu homepage
 ```
-
 来源：[@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
 
 <a id="case-288"></a>
@@ -2076,7 +2016,6 @@ Generate a screenshot of Mai Shiranui's Xiaohongshu homepage
 [English]
 Generate a TikTok live stream interface, the content is a beautiful woman live streaming
 ```
-
 来源：[@msjiaozhu](https://x.com/msjiaozhu/status/2045470160576999812)
 
 <a id="case-289"></a>
@@ -2092,7 +2031,6 @@ Generate a TikTok live stream interface, the content is a beautiful woman live s
 [English]
 Generate a screenshot of Trump and Kim Jong-un doing a PK battle in a TikTok live stream room
 ```
-
 来源：[@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
 
 <a id="case-308"></a>
@@ -2108,7 +2046,6 @@ Generate a screenshot of Trump and Kim Jong-un doing a PK battle in a TikTok liv
 [English]
 9:16 aspect ratio, generate a screenshot of a Douyin live stream, inside is xxx live streaming, xxx is holding a sign in their hand, the sign says xxxx.
 ```
-
 来源：[@_FORAB](https://x.com/_FORAB/status/2044744023261519920)
 
 <a id="case-323"></a>
@@ -2190,7 +2127,6 @@ No text errors
 No distortion
 Looks like a real product photoshoot, not AI art
 ```
-
 来源：[@Mystveil7](https://x.com/Mystveil7/status/2015776042989039997)
 
 <a id="case-330"></a>
@@ -2202,7 +2138,6 @@ Looks like a real product photoshoot, not AI art
 ```text
 生成一张直播间的图片，直播间氛围是月下美女跳舞的画面，直播间有很多人评论
 ```
-
 来源：苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
 <a id="case-335"></a>
@@ -2214,7 +2149,6 @@ Looks like a real product photoshoot, not AI art
 ```text
 原文未公开，重点展示 GPT-Image2 在高仿社交截图与中文排版场景中的能力。
 ```
-
 来源：苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
 <a id="case-336"></a>
@@ -2226,7 +2160,6 @@ Looks like a real product photoshoot, not AI art
 ```text
 原文未公开，案例目标是生成一张高完成度的个人主页视觉设计图。
 ```
-
 来源：苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
 <a id="case-387"></a>
@@ -2238,7 +2171,6 @@ Looks like a real product photoshoot, not AI art
 ```text
 Create a Netflix homepage UI featuring a main hero film with its title and still generated from the uploaded reference.
 ```
-
 来源：[@aimikoda](https://x.com/aimikoda/status/2051420440451801240)
 
 <a id="case-428"></a>
@@ -2253,7 +2185,6 @@ She wears a fitted white tank top, an oversized racing team jacket (with generic
 Add realistic F1 broadcast graphics: "FINAL LAP" banner, lap counter showing final lap, driver timing tower on the left, small F1-style logo bug, "LIVE" indicator, and a lower-third identifying her as a driver partner / paddock guest (e.g., "MIA ANDERSEN - Paddock Guest / Partner"). No fake oversized badges, no selfie angle.
 Team staff (in generic kit), headsets, garage screens, and generic race equipment are blurred around her. Telephoto broadcast camera shot from across the garage, professional depth of field, compression artifacts, digital noise, bright paddock lighting, natural skin texture, no smoothing, 8k quality, cinematic lighting.
 ```
-
 来源：[@bigwonbots](https://x.com/bigwonbots/status/2054573714012787059)
 
 <a id="case-440"></a>
@@ -2265,7 +2196,6 @@ Team staff (in generic kit), headsets, garage screens, and generic race equipmen
 ```text
 Create a raw smartphone photo of a laptop screen, not a screenshot. Aspect ratio 3:4, high-angle downward POV from someone standing over a desk at night. The laptop display fills most of the frame, with a narrow strip of black keyboard and trackpad visible at the bottom. Strong realism: visible RGB subpixel grid, subtle moire bands, small dust specks, faint fingerprints, uneven glass reflections, handheld phone noise, slight perspective skew, no studio polish. macOS dark mode. Background app: Apple Notes with a late-night study note titled "Design Critique" and short visible bullets: "layout", "lighting", "source links", "ship tomorrow". Foreground app: FaceTime live preview window floating lower-right, showing a fictional adult man in his 20s sitting at a cluttered desk, hoodie, tired but amused expression, warm desk lamp behind him, books and sticky notes in the room. A second small Finder window with image thumbnails is partly visible behind it. Make it feel like an accidental real phone photo of a working laptop screen. No real-person likeness, no beauty filter, no perfect UI, no screenshot, no watermark, no cartoon, no 3D render.
 ```
-
 来源：[@kaanakz](https://x.com/kaanakz/status/2056290465503171000)
 
 <a id="case-444"></a>
@@ -2281,7 +2211,6 @@ Create a raw smartphone photo of a laptop screen, not a screenshot. Aspect ratio
 
 A premium 3D app icon for 【Product Name】, rounded square tile, glossy glass and chrome material, disco-ball mosaic mirror tiles, sparkling highlights, soft studio lighting, clean minimal background, high-end icon, Blender 3D render, ultra detailed
 ```
-
 来源：[@vista8](https://x.com/vista8/status/2056308962778296715)
 
 <a id="case-510"></a>
@@ -2293,7 +2222,6 @@ A premium 3D app icon for 【Product Name】, rounded square tile, glossy glass 
 ```text
 A macOS app icon for an app named 'Bichon Shop'. A single squircle icon with smooth continuous rounded corners, centered on a white canvas with padding, occupying about 80% of the canvas. Modern light skeuomorphic macOS App Store style. Only one icon.
 ```
-
 来源：[@iamaiistudio](https://x.com/iamaiistudio/status/2071923809788285125) / [full prompt](https://aiistudio.com/prompt/i2h-061/bichon-shop)
 
 <a id="case-606"></a>
@@ -2307,7 +2235,6 @@ prompt：https://promptsref.com/tool/AI-Image-Generator/share/4c7dfd58602671a07a
 
 {   "subject": {     "description": "An adult woman in a full-body fashion swimwear portrait, with a long balanced silhouette, a clearly defined waist-to-hip curve and naturally toned abdomen. She faces the camera directly, creating a calm, confident late-1990s-to-Y2K editorial mood. The visual identity relies strongly on the contrast between black swimwear, warm skin and a saturated orange wall.",     "mirror_rules": "Not a mirror selfie. No mirror, smartphone, reflection interface or selfie device.",     "age": "adult woman in her 20s",     "expression": {       "eyes": {         "look": "slightly relaxed eyelids, near-direct eye contact",         "energy": "calm, confident, subtly detached",         "direction": "toward the camera"       },       "mouth": {         "position": "lips naturally slightly parted",         "energy": "restrained and relaxed, no exaggerated smile"       },       "overall": "quiet but visually tense fashion-model expression, subtly sensual in a vintage magazine sense without becoming theatrical"     },     "face": {       "preserve_original": "When used as image-to-image reference, preserve the subject's original facial proportions, face shape, eye spacing, nose-to-lip relationship and jawline. Do not transform her into another identifiable real person or heavily redesign the face.",       "makeup": "Polished natural makeup associated with East Asian fashion-editorial aesthetics: smooth but realistic base, gentle warm contour, slim natural brows, brown-black eyeliner, softly shaded lids, defined but not overly dense lashes, restrained highlights on cheekbones and nose bridge, muted rose-nude lips, with a late-1990s to Y2K editorial finish."     }   },   "hair": {     "color": "deep black",     "style": "long straight hair with a center or near-center part, falling naturally behind the shoulders and back, with a few strands close to the cheeks",     "effect": "smooth with a subtle satin sheen, natural roots, realistic weight and minimal artificial volume"   },   "body": {     "frame": "long, balanced and lightly athletic, with a pronounced but natural shoulder-waist-hip relationship and a soft hourglass silhouette",     "waist": "slim waist and toned abdomen with only subtle natural definition in the rectus and oblique muscles, never competition-level muscularity",     "chest": "the black bandeau covers the main chest area; shoulders, collarbones, upper chest edge and the skin below the ribcage remain visible, with natural proportions",     "legs": "long, firm legs with soft muscular contours through the thighs and calves, realistic knees and no extreme leg elongation",     "skin": {       "visible_areas": "visible skin includes the face, neck, shoulders, arms, underarm area, collarbones, upper chest edge, torso below the bandeau, abdomen, waist sides, hip sides, thighs, knees, calves and toes; the main chest and front pelvic area remain covered by black swimwear",       "tone": "light warm beige to light golden skin, subtly warmed by orange environmental bounce",       "texture": "fine and smooth while retaining pores, slight tonal variation and subtle natural texture across the abdomen and thighs; the skin should feel visually warm, firm, soft and faintly satin-like rather than perfectly airbrushed or plastic",       "lighting_effect": "a broad soft key light from slightly above and camera-left illuminates the face, shoulders, abdomen and front of the thighs; raised areas receive delicate warm highlights while the sides of the torso and abdominal recesses fall into soft gradual shadow, with slight orange bounce from the wall and no hard white rim light"     }   },   "pose": {     "position": "standing near the center of the frame with both arms lifted and bent behind the head, elbows extending outward",     "base": "feet separated approximately shoulder-width in black open-toe lace-up high-heeled ankle boots, weight shifted toward one side while the opposite knee remains slightly relaxed",     "overall": "the hip pushes gently toward one side while the upper torso compensates slightly in the opposite direction, creating a natural S-curve; abdomen elongated, shoulders relaxed, subtly asymmetrical and captured like a brief pause during a real photo session"   },   "clothing": {     "top": {       "type": "black strapless bandeau swimwear top",       "color": "solid black",       "details": "minimal narrow bandeau construction with no obvious print, closely fitted around the ribcage with slight natural fabric creasing",       "effect": "matte to subtly satin textile finish, fitted but never latex-like"     },     "bottom": {       "type": "black low-rise high-cut bikini bottom",       "color": "solid black",       "details": "high-cut leg openings, narrow hip straps, with a clearly visible gold-tone circular chain-ring detail on one side and a simpler black attachment on the opposite side",       "effect": "follows the natural hip curve with realistic textile tension and slight irregularity"     }   },   "accessories": {     "headwear": "none",     "jewelry": "a very thin black choker; gold-tone circular chain hardware at the bikini hip",     "device": "none",     "prop": "none"   },   "photography": {     "camera_style": "full-body fashion portrait with late-1990s to Y2K fitness/swimwear magazine character, resembling a full-frame DSLR or mirrorless camera used with a large softened flash source; retain mild film-scan texture and real photographic imperfections instead of ultra-clean modern e-commerce polish",     "angle": "camera almost square to the subject, positioned around waist-to-chest height with a very subtle low-angle impression that lengthens the legs without exaggerated perspective; nearly level with a slight organic alignment offset",     "shot_type": "vertical full-body portrait with a small amount of space above the head and the entire footwear visible; the model fills roughly 85–90 percent of the frame height, centered but not mathematically symmetrical",     "aspect_ratio": "2:3 vertical",     "texture": "fine film grain, subtle analog noise, restrained sharpness, preserved skin texture and visible plaster grain on the wall; no excessive HDR, sharpening or synthetic AI smoothness",     "lighting": "a broad softened key or diffused flash placed slightly above and camera-left, bright enough to define the abdomen and legs while keeping shadow transitions gentle; the orange wall supplies warm environmental fill, without blue fill, strong rim lighting or complex multi-light studio effects",     "depth_of_field": "approximately 50–70mm full-frame equivalent with an f/4 to f/5.6 visual impression; face, torso and legs remain largely sharp while the wall texture stays identifiable but marginally softer than the subject"   },   "background": {     "setting": "minimal studio or constructed interior featuring a continuous warm orange textured plaster wall and matching orange floor",     "wall_color": "a saturated blend of warm orange, ochre and pumpkin tones",     "elements": [       "large orange plaster wall with small mottled imperfections",       "slightly lighter orange floor",       "subtle horizontal wall-to-floor seam near the bottom",       "no furniture, plants, windows or decorative objects"     ],     "atmosphere": "dry, warm and minimal, carrying the tactile character of an old editorial studio set or Mediterranean-style plaster",     "lighting": "mostly even illumination with small natural variations revealing the wall texture, plus a very soft shadow close to the subject"   },   "the_vibe": {     "energy": "quiet confidence with clear physical tension",     "mood": "warm, restrained, subtly nostalgic fashion sensuality",     "aesthetic": "Y2K swimwear editorial, late-1990s fitness magazine, minimalist orange-and-black palette, faint analog-film character",     "authenticity": "should look like a real photographer's studio image, preserving slight compositional drift, natural skin texture, fabric creases and minor human asymmetry instead of AI-perfect geometry",     "intimacy": "direct visual connection with the camera while retaining the distance of an editorial fashion model",     "story": "She had just lifted her arms to adjust her hair and paused in a relaxed but powerful position; the flash had already fired, and warm light still seemed to linger on the orange wall.",     "caption_energy": "minimal heat, black on orange, effortless confidence"   },   "constraints": {     "must_keep": [       "single adult woman",       "full-body composition",       "both arms raised behind the head",       "black strapless bandeau top",       "black low-rise high-cut bikini bottom",       "gold circular chain detail on one hip",       "thin black choker",       "black open-toe lace-up high-heeled ankle boots",       "warm textured orange wall",       "natural S-curve standing pose",       "realistic warm-beige skin texture",       "entire body and shoes visible",       "subtle film grain and vintage magazine character",       "absolutely no watermark, logo or text"     ],     "avoid": [       "no MAXQ mark",       "no watermark, logo, signature or text",       "no phone or mirror",       "do not transform into another identifiable real person",       "no plastic or waxy skin",       "no exaggerated bust or hip proportions",       "no extreme tiny waist",       "no extra fingers or limbs",       "no distorted ankles or heels",       "no hard rim light",       "no modern white-background e-commerce look",       "no excessive skin smoothing"     ]   },   "negative_prompt": [     "watermark",     "logo",     "MAXQ",     "text",     "signature",     "phone",     "mirror selfie",     "plastic skin",     "over-retouched skin",     "extreme hourglass",     "distorted anatomy",     "extra fingers",     "extra limbs",     "bad hands",     "deformed feet",     "warped heels",     "overexposure",     "HDR",     "strong rim light",     "busy background"   ] }
 ```
-
 来源：https://x.com/underwoodxie96/status/2093282514433691933
 
 <a id="cat-infographic"></a>
@@ -2324,7 +2251,6 @@ _信息图、图谱、科普百科、地图与结构化图解_（69 例）
 ```text
 Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Metabolism Atlas". Smart city from sky to bedrock: skyscrapers, streets, subway, utility tunnels, water/sewage/gas/heating pipes, fiber, data center, flood tanks, aquifers, geothermal wells, bedrock. Color-coded flows for power/water/data/traffic/waste. 12 numbered panels bilingual CN/EN: 能源/水循环/交通/数据/垃圾/建筑/公共服务/ 物流/气候韧性/生态/地质/治理看板. 24h timeline at bottom. Style: engineering white paper + scientific atlas, light paper bg, crisp lines, 8K. No cyberpunk, no gibberish text, must show both above AND below ground.
 ```
-
 来源：小红书号insight_express
 
 <a id="case-8"></a>
@@ -2349,7 +2275,6 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 浅色干净背景，柔和配色，轻阴影，精致小图标，圆角信息框，整体排版整洁清爽。信息密度要丰富，但不能显得拥挤，阅读体验要舒服。最终效果要像真正可以发布、阅读、收藏、批量做成系列内容的科普百科卡，而不是广告感很重的宣传海报。 
 不要做成普通商业宣传海报，要重点突出“知识整理”“模块信息”“图鉴式展示”这几个特征。
 ```
-
 来源：小红书号1055699679
 
 <a id="case-11"></a>
@@ -2361,7 +2286,6 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 ```text
 一张手绘风格的城市美食地图，以台州为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注椒江、路桥、黄岩等区域和灵江、台州湾等水系地标，不追求精确比例而是追求可爱的水彩手绘感。地图上分布着12个美食地点的精致手绘小插画：1. 椒江老粮坊的蛋清羊尾（金黄蓬松的蛋泡甜点撒着糖粉，筷子夹起拉丝）2. 临海紫阳古街的食饼筒（一个饱满的麦饼卷切开露出肉丝、蛋皮、米面等丰富馅料）3. 三门的青蟹（一只肥硕的青壳大蟹张着大钳子，旁边一小碟姜醋）4. 温岭石塘渔港的海鲜面（粗瓷大碗浓白鱼汤面铺满虾、蛏子、小黄鱼）5. 路桥的糟羹（一锅稠厚的五彩羹，芥菜、冬笋、香干、牡蛎粒粒可见）6. 玉环坎门的炊圆（三四个白胖糯米团子卧在笼屉里，旁边酱油碟滴着麻油）7. 黄岩的麦虾（陶锅里面疙瘩配蛤蜊、青菜翻滚冒泡）8. 仙居的八大碗（八只粗陶小碗围成一圈——土鸡、溪鱼、豆腐皮俱全）9. 天台的饺饼筒（几卷金黄酥脆的薄饼整齐码放，露出红烧肉和豆面馅）10. 临海的麦油脂（竹盘上摊着薄如蝉翼的饼皮卷着肉末、豆芽、鸡蛋丝）11. 温岭的嵌糕（厚实的年糕饼中间嵌着红烧肉和油条，正在铁板上滋滋作响）12. 椒江的姜汁调蛋（一只青花碗里琥珀色姜汤卧着嫩滑蛋花，撒几粒核桃碎）。每个插画约占地图5%面积，旁边用手写体标注店名和一句推荐语如“阿婆凌晨四点就起来和面”“本地人认准这口锅”。地图边缘用手绘藤蔓、杨梅枝和小海鲜（虾、蟹、贝壳）装饰形成边框。右下角有一个手绘指南针（标注“东海”方向）和图例说明。左上角标题“台州·山海食光地图”使用胖圆的手绘美术字，用杨梅和小黄鱼点缀装饰。整体画风为水彩+彩铅混合的手绘质感，颜色以杨梅红、姜黄、海蓝、翠绿为主，图片比例1:1。
 ```
-
 来源：小红书号510244722
 
 <a id="case-13"></a>
@@ -2373,7 +2297,6 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 ```text
 A realistic photo of a Chinese high school math exam paper, printed inblack and white on slightly gray paper, titled “数学试卷”, with multiplechoice questions and math formulas, including a small 3D geometrycube diagram. The paper is photographed casually with asmartphone, slightly tilted, with uneven lighting, soft shadows, andminor blur. The text is in Chinese with a mix of bold title font andstandard serif body font. Realistic paper texture, exam layout,authentic classroom test sheet style.
 ```
-
 来源：小红书号94156710894
 
 <a id="case-14"></a>
@@ -2385,7 +2308,6 @@ A realistic photo of a Chinese high school math exam paper, printed inblack and 
 ```text
 视觉设计规格描述：画幅比 9:16（竖版手机信息图）；背景纹理为具有呼吸感的米色手工纸（Handmade Washi Paper），带微小纤维纹理，边角有轻微水渍晕染；配色方案为熟番茄红（#E23A28）、初榨橄榄油金黄（#F2C94C）、嫩草绿（#6FCF97）、碳黑墨线；排版逻辑为顶端大标题、中间 Z 字形流线、底部全景成品、留白艺术化处理。食谱内容策划：1）顶部标题《番茄炒蛋：国民灵魂料理》，手绘书法体，侧边盖红色“厨师推荐”微型印章。2）步骤区块（Z 动线排版）：步骤1 挑选与备菜（左上）：三个番茄、四枚土鸡蛋、一簇葱花；说明：番茄切小块，鸡蛋打散均匀；厨师秘技：番茄去皮后切块，汁水更浓郁，口感更丝滑；心得：选熟透番茄，成功一半。步骤2 蛋液的魔法（右上）：手持筷子快速搅动蛋液，泛起气泡与动感线；说明：加少许盐和几滴温水；厨师秘技：加温水或白醋，鸡蛋更蓬松；心得：搅打充分，空气是蓬松秘密。步骤3 烈火蓬松蛋（左中）：铁锅中蛋液迅速膨胀如云朵，水彩表现热气；说明：油热下锅，快速划散，八成熟盛出；厨师秘技：油温高，烟起即入，瞬间锁水；心得：宁可稍嫩，不可过老。步骤4 番茄出浓汁（右中）：番茄翻滚，边缘半融化，亮红汤汁流淌；说明：煸炒至出汁，加少许糖和盐；厨师秘技：铲子轻压加速出汁，可加一勺番茄酱提色；心得：糖中和酸度、提鲜。步骤5 最后的合奏（左下）：鸡蛋回锅与番茄汁交织，撒葱花；说明：让鸡蛋吸饱番茄汁，关火装盘；厨师秘技：出锅前滴几滴芝麻油提香；心得：动作要快，保持鲜亮色泽。3）底部成品插图：青花边陶瓷深盘装满番茄炒蛋，红亮汁水包裹金黄大块鸡蛋，葱花点缀，水彩渲染半透明酱汁质感，边缘有袅袅热气；视觉感：看了就想立刻盛一碗大米饭。4）底部中央署名：[ 摄影师的厨房日记 · 2025 ]。
 ```
-
 来源：小红书号Roy_Jay
 
 <a id="case-18"></a>
@@ -2431,7 +2353,6 @@ A realistic photo of a Chinese high school math exam paper, printed inblack and 
   }
 }
 ```
-
 来源：[@mm_zzm44854](https://x.com/mm_zzm44854)
 
 <a id="case-19"></a>
@@ -2443,7 +2364,6 @@ A realistic photo of a Chinese high school math exam paper, printed inblack and 
 ```text
 Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}) for {argument name="theme" default="Momotaro"} that fuses the gentle atmosphere of "Irasutoya" with the overwhelming information density of "Kasumigaseki slides".
 ```
-
 来源：[@yammamon](https://x.com/yammamon)
 
 <a id="case-20"></a>
@@ -2455,7 +2375,6 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
 ```text
 Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}) for {argument name="theme" default="Momotaro"} that fuses the gentle atmosphere of "Irasutoya" with the overwhelming information density of "Kasumigaseki slides".
 ```
-
 来源：[@yammamon](https://x.com/yammamon)
 
 <a id="case-23"></a>
@@ -2507,7 +2426,6 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
   }
 }
 ```
-
 来源：[@GeekCatX](https://x.com/GeekCatX)
 
 <a id="case-51"></a>
@@ -2560,7 +2478,6 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
   }
 }
 ```
-
 来源：[@yyyole](https://x.com/yyyole)
 
 <a id="case-55"></a>
@@ -2572,7 +2489,6 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
 ```text
 Help me create a detailed production flowchart for the dish {argument name="dish name" default="Fried Pork with Chili"}, in a realistic style, suitable for Xiaohongshu image-text proportions.
 ```
-
 来源：[@Kurt_Rousey466](https://x.com/Kurt_Rousey466)
 
 <a id="case-64"></a>
@@ -2584,7 +2500,6 @@ Help me create a detailed production flowchart for the dish {argument name="dish
 ```text
 {"type":"infographic poster","style":"cute flat vector illustration, cozy, warm, soft shading, {argument name=\"color palette\" default=\"pastel Morandi colors, soft pinks, purples, and warm tones\"}","character":"{argument name=\"character description\" default=\"young woman with shoulder-length brown hair wearing a pinkish-purple shirt\"}","layout":{"structure":"4 rows, 3 columns. Top row is a merged header. Rows 2-4 contain 9 individual panels.","header":{"title":"{argument name=\"main title\" default=\"情绪不好了？\"}","subtitle":"{argument name=\"subtitle\" default=\"8个让你瞬间变好的方法\"}","sub_subtitle":"写给焦虑的你，快来看看","visual":"character hugging herself, surrounded by yellow sparkles and hearts"},"grid_panels":[{"id":1,"title":"1. 深呼吸","text":"调节神经，缓解紧张情绪。","visual":"character with eyes closed, smiling, surrounded by clouds"},{"id":2,"title":"2. 去户外散步","text":"接触自然，让心静下来。","visual":"character walking outdoors among green trees and bushes"},{"id":3,"title":"3. 写情绪日记","text":"把烦恼写下，大脑会更轻松。","visual":"character sitting at a desk writing in a notebook with a pen, floating hearts"},{"id":4,"title":"4. 抱抱自己","text":"给予自己温暖和安慰。","visual":"character hugging herself with eyes closed, floating hearts"},{"id":5,"title":"5. 听听音乐","text":"让舒缓的旋律治愈心灵。","visual":"character wearing large white headphones, eyes closed, floating colorful music notes"},{"id":6,"title":"6. 找人倾诉","text":"分享你的烦恼，让压力释放。","visual":"character holding a smartphone, talking to another similar-looking girl, floating hearts"},{"id":7,"title":"7. 看看天空","text":"感受天空的辽阔，让心情变好。","visual":"character looking up at a blue sky with white clouds and sparkles"},{"id":8,"title":"8. 冥想","text":"专注于呼吸，找回内心的宁静。","visual":"an open notebook, a pen, and a pink flower on a desk"},{"id":9,"title":"none","text":"{argument name=\"footer text\" default=\"转发收藏，每天都要关爱自己！\"}","visual":"character sitting cross-legged in a meditation pose, eyes closed, with a glowing halo behind her head"}]}}
 ```
-
 来源：[@j_zou93](https://x.com/j_zou93)
 
 <a id="case-65"></a>
@@ -2615,7 +2530,6 @@ Left: `Purity`: pure heart and clear mind, cutting off troubles; `Stillness`: fo
 Right: `60+ Spiritual Cultivation`: looking lightly at gain/loss; `35-55 Conduct`: living with flexibility, following laws; `7-35 Actions`: forging ahead, building careers.
 Bottom Summary: `The balance between being in the world and being out of the world is high-level life wisdom.`
 ```
-
 来源：[@GeekCatX](https://x.com/GeekCatX)
 
 <a id="case-66"></a>
@@ -2702,7 +2616,6 @@ Bottom Summary: `The balance between being in the world and being out of the wor
   }
 }
 ```
-
 来源：[@hx831126](https://x.com/hx831126)
 
 <a id="case-67"></a>
@@ -2747,7 +2660,6 @@ Bottom Summary: `The balance between being in the world and being out of the wor
   }
 }
 ```
-
 来源：[@hx831126](https://x.com/hx831126)
 
 <a id="case-68"></a>
@@ -2798,7 +2710,6 @@ Bottom Summary: `The balance between being in the world and being out of the wor
   "theme": "{argument name=\"disease focus\" default=\"gout and uric acid crystallization\"}"
 }
 ```
-
 来源：[@hx831126](https://x.com/hx831126)
 
 <a id="case-69"></a>
@@ -2849,7 +2760,6 @@ Bottom Summary: `The balance between being in the world and being out of the wor
   "theme": "{argument name=\"disease focus\" default=\"gout and uric acid crystallization\"}"
 }
 ```
-
 来源：[@hx831126](https://x.com/hx831126)
 
 <a id="case-70"></a>
@@ -2939,7 +2849,6 @@ Bottom Summary: `The balance between being in the world and being out of the wor
   "style": "technical, precise, wireframe elements, glowing data lines, photorealistic camera components, clean typography, dual-language"
 }
 ```
-
 来源：[@hx831126](https://x.com/hx831126)
 
 <a id="case-71"></a>
@@ -3037,7 +2946,6 @@ Bottom Summary: `The balance between being in the world and being out of the wor
   "style": "clean, technical, highly detailed, photorealistic components, blueprint-style annotations, light gray background, precise typography"
 }
 ```
-
 来源：[@hx831126](https://x.com/hx831126)
 
 <a id="case-72"></a>
@@ -3076,7 +2984,6 @@ Bottom Summary: `The balance between being in the world and being out of the wor
   }
 }
 ```
-
 来源：[@hx831126](https://x.com/hx831126)
 
 <a id="case-73"></a>
@@ -3140,7 +3047,6 @@ Bottom Summary: `The balance between being in the world and being out of the wor
   }
 }
 ```
-
 来源：[@hx831126](https://x.com/hx831126)
 
 <a id="case-74"></a>
@@ -3169,7 +3075,6 @@ Light-colored clean background, soft color palette, light shadows, exquisite sma
 
 Please do not make it a regular commercial promotional poster. Highlight the features of "knowledge organization + modular information + illustration-style display."
 ```
-
 来源：[@alanlovelq](https://x.com/alanlovelq)
 
 <a id="case-75"></a>
@@ -3198,7 +3103,6 @@ Light-colored clean background, soft color palette, light shadows, exquisite sma
 
 Please do not make it a regular commercial promotional poster. Highlight the features of "knowledge organization + modular information + illustration-style display."
 ```
-
 来源：[@alanlovelq](https://x.com/alanlovelq)
 
 <a id="case-76"></a>
@@ -3227,7 +3131,6 @@ Light-colored clean background, soft color palette, light shadows, exquisite sma
 
 Please do not make it a regular commercial promotional poster. Highlight the features of "knowledge organization + modular information + illustration-style display."
 ```
-
 来源：[@alanlovelq](https://x.com/alanlovelq)
 
 <a id="case-77"></a>
@@ -3256,7 +3159,6 @@ Light-colored clean background, soft color palette, light shadows, exquisite sma
 
 Please do not make it a regular commercial promotional poster. Highlight the features of "knowledge organization + modular information + illustration-style display."
 ```
-
 来源：[@alanlovelq](https://x.com/alanlovelq)
 
 <a id="case-82"></a>
@@ -3310,7 +3212,6 @@ Please do not make it a regular commercial promotional poster. Highlight the fea
   }
 }
 ```
-
 来源：[@HumanOS_v2](https://x.com/HumanOS_v2)
 
 <a id="case-83"></a>
@@ -3355,7 +3256,6 @@ Please do not make it a regular commercial promotional poster. Highlight the fea
   }
 }
 ```
-
 来源：[@NumeroBTC](https://x.com/NumeroBTC)
 
 <a id="case-84"></a>
@@ -3385,7 +3285,6 @@ The final product should satisfy:
 - Unified, exquisite, complete, and suitable for social media sharing or poster display
 - Avoids a cheap flowchart feel, messy piling, and information overload.
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus)
 
 <a id="case-85"></a>
@@ -3415,7 +3314,6 @@ The final product should satisfy:
 - Unified, exquisite, complete, and suitable for social media sharing or poster display
 - Avoids a cheap flowchart feel, messy piling, and information overload.
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus)
 
 <a id="case-86"></a>
@@ -3445,7 +3343,6 @@ The final product should satisfy:
 - Unified, exquisite, complete, and suitable for social media sharing or poster display
 - Avoids a cheap flowchart feel, messy piling, and information overload.
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus)
 
 <a id="case-87"></a>
@@ -3475,7 +3372,6 @@ The final product should satisfy:
 - Unified, exquisite, complete, and suitable for social media sharing or poster display
 - Avoids a cheap flowchart feel, messy piling, and information overload.
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus)
 
 <a id="case-88"></a>
@@ -3538,7 +3434,6 @@ AI must automatically decide based on the [theme]:
 [Signature Requirement]
 Naturally add the author signature in the bottom corner: @a9quant
 ```
-
 来源：[@A9Quant](https://x.com/A9Quant)
 
 <a id="case-89"></a>
@@ -3601,7 +3496,6 @@ AI must automatically decide based on the [theme]:
 [Signature Requirement]
 Naturally add the author signature in the bottom corner: @a9quant
 ```
-
 来源：[@A9Quant](https://x.com/A9Quant)
 
 <a id="case-90"></a>
@@ -3664,7 +3558,6 @@ AI must automatically decide based on the [theme]:
 [Signature Requirement]
 Naturally add the author signature in the bottom corner: @a9quant
 ```
-
 来源：[@A9Quant](https://x.com/A9Quant)
 
 <a id="case-102"></a>
@@ -3676,7 +3569,6 @@ Naturally add the author signature in the bottom corner: @a9quant
 ```text
 Search the web for {argument name="performance description" default="this week’s standout individual performance in Champion’s League"}, using exact stats and game summary, {argument name="colors" default="bold team colors"}, legible score breakdown, and generate a {argument name="card type" default="Highlight card"}.
 ```
-
 来源：[@maxescu](https://x.com/maxescu)
 
 <a id="case-112"></a>
@@ -3688,7 +3580,6 @@ Search the web for {argument name="performance description" default="this week�
 ```text
 Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with each card featuring its corresponding Chinese name, 4 cards per row, in a 16:9 aspect ratio.
 ```
-
 来源：[@songguoxiansen](https://x.com/songguoxiansen)
 
 <a id="case-171"></a>
@@ -3704,7 +3595,6 @@ Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with eac
 [English]
 create an image with 10x10 grid of objects that have the names starting with letter a.
 ```
-
 来源：[@umesh_ai](https://x.com/umesh_ai/status/2046510988367945983)
 
 <a id="case-179"></a>
@@ -3720,7 +3610,6 @@ create an image with 10x10 grid of objects that have the names starting with let
 [English]
 (Steampunk Scientific Illustrator) You are a professional vintage steampunk anatomy atlas designer, specializing in constellation mechanical structure popular science posters. Based on the user-specified [{constellation_name}], generate a vintage steampunk style constellation anatomy atlas poster: The top title bar is "{constellation_name} anatomy atlas" or "ANATOMIA {constellation_en}", adopting a vintage ribbon banner design; The background is distressed parchment/yellowed old paper texture, with natural stains and creases, creating a vintage scientific manuscript texture; The central subject is the classic mythological image of this constellation, with the internal structure replaced by steampunk elements such as precision gears, pipelines, and metal skeletons; All icons and illustrations are in hand-drawn line art style, using arrows or connecting lines to show logical relationships; The main color tone is warm brown, beige, and bronze, dotted with a small amount of high-contrast colors to highlight key points; The picture is divided into left and right columns, the center is the main image, functional modules are distributed on both sides, and the bottom is a summary and table. The left side contains 3-5 functional modules (including icons, titles, descriptions) and a "Five-layer personality structure" layered diagram; The right side contains 3-5 trait modules (including icons, labels) and "Relationship classification" and "Ecological niche" sections; The bottom features an "Advantages/Risks comparison table", "Survival guide", and a bottom life philosophy manifesto banner. Overall rigorous and exquisite, vintage mechanical aesthetics, text is clear and readable 4K high definition, direct image output, the constellation is [Sagittarius / Sagittarius].
 ```
-
 来源：[@GeekCatX](https://x.com/GeekCatX/status/2046574334572212694)
 
 <a id="case-183"></a>
@@ -3820,7 +3709,6 @@ create an image with 10x10 grid of objects that have the names starting with let
 
 请最终输出为“一张完整的信息图内容”，而不是只给普通段落文字。
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2046560406760505727)
 
 <a id="case-210"></a>
@@ -3836,7 +3724,6 @@ create an image with 10x10 grid of objects that have the names starting with let
 [English]
 Cute explanation of the large language model training process
 ```
-
 来源：[@op7418](https://x.com/op7418/status/2046502136973001143)
 
 <a id="case-214"></a>
@@ -3908,7 +3795,6 @@ Overall Composition: Extremely dense with information, organized into 6-8 struct
 
 主题内容：潘金莲
 ```
-
 来源：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2046252164717416641)
 
 <a id="case-218"></a>
@@ -4036,7 +3922,6 @@ Overall Composition: Extremely dense with information, organized into 6-8 struct
 
 [主题内容]
 ```
-
 来源：[@GeekCatX](https://x.com/GeekCatX)
 
 <a id="case-222"></a>
@@ -4088,7 +3973,6 @@ Light-colored clean background, soft color palette, light shadows, exquisite sma
 
 Please do not make it into an ordinary commercial promotional poster. It must highlight the characteristics of "knowledge organization + modular information + illustrated guide style display".
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2046231542817497392)
 
 <a id="case-235"></a>
@@ -4222,7 +4106,6 @@ Image elements: Breathing lines, person with closed eyes, stars
 Image quality requirements:
 High definition, premium layout, magazine feel, realistically publishable, new media operation aesthetics, Xiaohongshu viral image-and-text style, neat text layout, suitable for direct image cutting.
 ```
-
 来源：[@austinit](https://x.com/austinit/status/2046037688969769346)
 
 <a id="case-241"></a>
@@ -4238,7 +4121,6 @@ High definition, premium layout, magazine feel, realistically publishable, new m
 [English]
 Please generate a key character relationship diagram for "XXX".
 ```
-
 来源：[@yihui_indie](https://x.com/yihui_indie/status/2045179926270361890)
 
 <a id="case-248"></a>
@@ -4254,7 +4136,6 @@ Please generate a key character relationship diagram for "XXX".
 [English]
 Generate a detailed explanatory diagram of Jingdezhen blue and white porcelain, accompanied by detailed Chinese knowledge analysis.
 ```
-
 来源：[@joshesye](https://x.com/joshesye/status/2045764695827562686)
 
 <a id="case-270"></a>
@@ -4283,7 +4164,6 @@ Based on this character and background, please create a character sheet like an 
 ・Aspect ratio 16:9 　←
 High resolution, professional concept art style
 ```
-
 来源：\[OpenNana]\(]\(<https://x.com/Toshi_nyaruo_AI/status/2045025277538107420>)
 
 <a id="case-274"></a>
@@ -4299,7 +4179,6 @@ High resolution, professional concept art style
 [English]
 A hand-drawn style city food map themed around Chengdu. The background is a bird's-eye view hand-drawn simplified city map, marking main roads and landmarks, not pursuing precise proportions but pursuing a cute hand-drawn feel. Distributed on the map are exquisite hand-drawn small illustrations of 12 food locations: Chuandu Chuanxiang skewers at Chunxi Road (a bunch of bamboo skewers with various ingredients emitting steam), Sandapao at Kuanzhai Alley (three glutinous rice balls flying towards a copper plate), Danhonggao at Jianshe Road (golden and crispy, being flipped), hotpot at Yulin Road (nine-grid pot rolling and bubbling), etc. Each illustration accounts for about 5% of the map area, with handwritten store names and a recommendation phrase "the one with a queue even at 2 AM" next to it. The edge of the map is decorated with hand-drawn vines and chili peppers to form a border. There is a hand-drawn compass and legend description in the bottom right corner. The title "Chengdu · Foodie Walking Map" in the top left corner uses chubby round hand-drawn artistic fonts decorated with chili peppers. The overall art style is a mixed hand-drawn texture of watercolor and colored pencils, with colors mainly in warm tones (chili red, ginger yellow, emerald green), image ratio 1:1.
 ```
-
 来源：[@Panda20230902](https://x.com/Panda20230902/status/2045396918965285111)
 
 <a id="case-296"></a>
@@ -4345,7 +4224,6 @@ If the subject is suitable for character display, use a full-body standing postu
 
 Avoid: poster feel, studio portrait feel, e-commerce feel, anime feel, cosplay feel, random annotations, incorrect structures, blurry text, fake materials, excessive decoration.
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2045504669401653414)
 
 <a id="case-331"></a>
@@ -4357,7 +4235,6 @@ Avoid: poster feel, studio portrait feel, e-commerce feel, anime feel, cosplay f
 ```text
 生成一张手绘水彩风格的「西安」城市地图，包含当地特色美食、地标建筑及城市特色
 ```
-
 来源：苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
 <a id="case-339"></a>
@@ -4463,7 +4340,6 @@ Avoid: poster feel, studio portrait feel, e-commerce feel, anime feel, cosplay f
 最终输出：
 生成一张 9:16 竖版、高级、干净、强视觉冲击的 Apple 风自然科普海报。
 ```
-
 来源：[@berryxia](https://x.com/berryxia/status/2048251413147644100)
 
 <a id="case-341"></a>
@@ -4475,7 +4351,6 @@ Avoid: poster feel, studio portrait feel, e-commerce feel, anime feel, cosplay f
 ```text
 Please create a mathematical visualization infographic about "[math concept / topic]." The goal is to help the viewer intuitively understand what it is, why it works, its geometric or structural intuition, and how it behaves in different contexts. The visual should feel like a high-quality math lecture handout combined with a hand-drawn educational poster. It should be elegant, clear, and information-rich, but not cluttered. Visual style: either portrait or landscape is fine. Use a clean, light paper-like background, with a deep blue title and black or dark gray lines for the main content. Add a small number of refined accent colors such as blue, teal, gold, and red. Incorporate rounded-corner cards, thin borders, numbered labels, hand-drawn arrows, zoom-in callout boxes, and a summary section. The overall design should be aesthetically pleasing, balanced, and academic, allowing the viewer to grasp the structure of the concept and why it works at a glance.
 ```
-
 来源：[@hqmank](https://x.com/hqmank/status/2048587150544028084)
 
 <a id="case-347"></a>
@@ -4509,7 +4384,6 @@ Highly detailed 3D sculpted style, soft studio lighting, subtle shadows, no colo
 [NEGATIVE]
 No background scenery, no color tones, no additional characters, no complex background.
 ```
-
 来源：[@oggii_0](https://x.com/oggii_0/status/2048614158699217302)
 
 <a id="case-353"></a>
@@ -4651,7 +4525,6 @@ Tom Ford：
 ———
 品牌：YSL
 ```
-
 来源：[@liyue_ai](https://x.com/liyue_ai/status/2048667226195317219)
 
 <a id="case-360"></a>
@@ -4705,7 +4578,6 @@ Realistic face and hair detail
 Consistent spacing and typography
 High resolution, 4K
 ```
-
 来源：[@Gemalpha_88](https://x.com/Gemalpha_88/status/2048918707343401034)
 
 <a id="case-364"></a>
@@ -4730,7 +4602,6 @@ PANELS:
 ⑩ STYLE ARCHETYPE — Single typographic panel. Style identity title set large (e.g. "Modern Romantic / Warm Classicist"). Three defining aesthetic words. Four-line editorial wardrobe philosophy note.
 RENDER SPECS: Ultra-photorealistic, 8K, editorial magazine print quality, warm neutral color grading, soft diffused studio lighting consistent across all panels, one serif display font + one fine sans-serif body font, no gradients, flat matte surfaces only.
 ```
-
 来源：[@meng_dagg695](https://x.com/meng_dagg695/status/2049822844918575586)
 
 <a id="case-369"></a>
@@ -4742,7 +4613,6 @@ RENDER SPECS: Ultra-photorealistic, 8K, editorial magazine print quality, warm n
 ```text
 [エリア]の観光エリアマップを画像で作成して
 ```
-
 来源：[@so_ainsight](https://x.com/so_ainsight/status/2050354639036654048)
 
 <a id="case-379"></a>
@@ -4899,7 +4769,6 @@ NOT:
 - generic
 - minimal
 ```
-
 来源：[@CallumGrey](https://x.com/CallumGrey/status/2051293342139584922) / [PhotoGPT prompt](https://www.photogptai.com/community-gallery/media/0d2fcf15-6ab2-48d3-04b3-71f58b296000)
 
 <a id="case-380"></a>
@@ -4911,7 +4780,6 @@ NOT:
 ```text
 instructions> [SUBJECT]=Coronavirus. A hyper-realistic 3D zoom-sequence infographic generated from a single input: [SUBJECT]. The system auto-detects scale layers from atomic/subcomponent to full contextual view. Layout Structure (CRITICAL) 6–8 circular or hexagonal frames arranged in expanding sequence Innermost frame = smallest detectable detail; outermost = full subject in environment Frames connected by subtle zoom-path lines No repeated scales — each frame shows new level of detail Frame Design Each zoom level includes: Hyper-detailed 3D render at that scale Micro label: scale name (e.g., "molecular," "cellular," "structural") + 3–5 word insight Optional: measurement tag or magnification factor Contextual Halo Around the sequence, include only scale-specific references: Measurement units, scientific notation, cultural scale metaphors (No generic magnifying glass icons) Scale Panel (Alternative Layout) Zoom level Key insight (3–5 words) Scale factor tag Detail icon (grid, wave, particle, etc.) Title "[SUBJECT]: AT EVERY SCALE" (or) "ZOOM: THE WORLD OF [SUBJECT]" Style: ultra-realistic 3D render, scientific editorial infographic, precise macro lighting, global illumination, shallow depth of field, clean sequential layout. </instructions>
 ```
-
 来源：[@Gdgtify](https://x.com/Gdgtify/status/2051288232613351571)
 
 <a id="case-396"></a>
@@ -4960,7 +4828,6 @@ NO flat minimalism.
 Ultra detailed.
 8K printable masterpiece.
 ```
-
 来源：[@sha_zdiii](https://x.com/sha_zdiii/status/2052237839119835280)
 
 <a id="case-407"></a>
@@ -5003,7 +4870,6 @@ Modules:
 Style:
 “neuroscience + AI engineering manual”, “high-end cognitive systems diagram”
 ```
-
 来源：[@YaZoraiz](https://x.com/YaZoraiz/status/2052968427514708371)
 
 <a id="case-415"></a>
@@ -5068,7 +4934,6 @@ Style:
 避免：
 北欧符文、维京风、哥特边框、西方盔甲、欧式城堡、魔幻游戏 UI、赛博朋克、现代科技感、过度暗黑、随机龙凤、无关法器、模板化神仙形象、与【人物名称】无关的典故、空泛精神题记。
 ```
-
 来源：[@TanLuAI](https://x.com/TanLuAI/status/2053073436122243364)
 
 <a id="case-443"></a>
@@ -5096,7 +4961,6 @@ Add clean infographic text labels with thin pointer lines using these exact labe
 “Shell”
 Ultra-detailed food textures, premium commercial aesthetic, 8K.
 ```
-
 来源：[@Strength04_X](https://x.com/Strength04_X/status/2056018963084226866)
 
 <a id="case-447"></a>
@@ -5194,7 +5058,6 @@ Avoid:
 
 The final result should resemble a professionally published railway infrastructure reference-book page created for transit enthusiasts, architects, engineers, urban planners, transportation designers, and educational infrastructure archives.
 ```
-
 来源：[@j_smeaton99](https://x.com/j_smeaton99/status/2056950969083343077)
 
 <a id="case-449"></a>
@@ -5237,7 +5100,6 @@ class Haute_Horlogerie_DNA:
             constraints="bright white space, metallic brilliance, hyper-detailed, modern elegance"
         )
 ```
-
 来源：[@Gdgtify](https://x.com/Gdgtify/status/2056928396991488312)
 
 <a id="case-456"></a>
@@ -5258,7 +5120,6 @@ Render_Target =
   - ( Anachronistic_Props_From_Wrong_Decade / 2.5 )
   - ( Flat_Wikipedia_Timeline_Graphic / 2.0 )
 ```
-
 来源：[@Gdgtify](https://x.com/Gdgtify/status/2057277698607599692)
 
 <a id="case-469"></a>
@@ -5337,7 +5198,6 @@ Render_Target =
 【最终目标】
 让整张图像一页高质量的儿童科普绘本：孩子第一眼被可爱角色和大场景吸引，第二眼能顺着路线读懂系统如何运行，第三眼还能继续发现细节和知识点。画面要具有系列化潜力，方便后续替换不同主题继续创作同类型图片。
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2058773446167773521) / [提示词回复](https://x.com/MrLarus/status/2058773784664920233)
 
 <a id="case-489"></a>
@@ -5355,7 +5215,6 @@ Show large bold typography of "[CITY NAME]" printed directly on the map in the f
 
 Aspect ratio 1:1.
 ```
-
 来源：[@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2062358269172101240)
 
 <a id="case-494"></a>
@@ -5467,7 +5326,6 @@ Final Goal
 
 The final result should resemble a professionally published transportation-engineering reference-book page created for urban planners, transportation engineers, sustainability researchers, architects, public-transit authorities, and smart-city enthusiasts, combining technical accuracy, sustainability insights, and premium editorial design.
 ```
-
 来源：[@j_smeaton99](https://x.com/j_smeaton99/status/2062365258984177766)
 
 <a id="cat-poster"></a>
@@ -5484,7 +5342,6 @@ _活动海报、封面、字体排版与强版式视觉_（122 例）
 ```text
 生成一张「足球主题电影海报」风格的高清写真海报：国际米兰后卫巴斯托尼站在圣西罗球场中央激情庆祝，双手高举并披着波黑国旗，神情热血、坚定、自信，现场灯光璀璨，球场看台座无虚席，背景有蓝黑色烟雾、聚光灯、飘扬的旗帜和飞舞的纸屑，营造欧冠之夜般的史诗氛围。人物为画面核心，半身到全身构图，突出脸部细节、肌肉张力与球衣质感。整体风格写实、震撼、富有戏剧性，海报级构图，电影感光影，高对比度，超清细节，8K，专业体育摄影，极具视觉冲击力。五根手指。
 ```
-
 来源：未提供
 
 <a id="case-5"></a>
@@ -5496,7 +5353,6 @@ _活动海报、封面、字体排版与强版式视觉_（122 例）
 ```text
 根据【XXX主题】自动生成一张收藏版史诗叙事海报：巨大优雅的人物侧脸剪影作为外轮廓，剪影内部自动生长出最契合该主题的完整世界观、标志性场景、角色关系、象征符号、关键建筑、生物、道具与氛围。整体不是普通拼贴，而是高级的剪影轮廓填充式叙事合成，带有双重曝光式联想，但更偏电影海报与梦幻水彩插画融合风格；柔和空气透视，轻雾化过渡，纸张颗粒，边缘飞白与刷痕，大面积留白，版式克制高级，安静、宏大、神圣、怀旧、诗意、传说感强。风格、色彩、场景、材质全部根据主题自动适配，所有元素必须强绑定主题，一眼识别，不要杂乱，不要硬拼贴，不要模板化背景，不要廉价奇幻素材。画面中需自然加入专属签名“WHY”，作为海报设计的一部分，位置低调但清晰，可放在左下角、右下角或标题附近，风格需与整体版式统一，像收藏版海报的作者落款或设计签章；签名字体精致、克制、高级，不可过大，不可破坏主体构图，不可显得突兀廉价。
 ```
-
 来源：小红书号6455654397
 
 <a id="case-9"></a>
@@ -5508,7 +5364,6 @@ _活动海报、封面、字体排版与强版式视觉_（122 例）
 ```text
 2026中国城市系列宣传海报，主题为【北京】。现代、多彩、明亮通透的国潮风，竖版9:16。大面积白色纹理留白背景，一条从右下向左上盘旋的红色丝绸形成S型主构图。右下角一位东方女性挥舞红绸，服饰需结合北京地域文化定制。红绸延展为城市长卷，融合天坛、长城、鸟巢、喇叭沟门原始森林公园、什刹海、京味相声。左侧排版SPRING 2026、竖排Beijing和小印章“北京”。要求统一系列感，但不能雷同，细节丰富，城市辨识度强。文字清晰且精美布局，高端图形设计。
 ```
-
 来源：小红书号z890738050
 
 <a id="case-10"></a>
@@ -5520,7 +5375,6 @@ _活动海报、封面、字体排版与强版式视觉_（122 例）
 ```text
 生成八十年代宣传画，标语“热烈庆祝GPT-Image-2全量开放”，人物包含Sam Altman、Dario Amodei、Elon Musk，Dario Amodei 带上红领巾
 ```
-
 来源：小红书号2202716350
 
 <a id="case-15"></a>
@@ -5532,7 +5386,6 @@ _活动海报、封面、字体排版与强版式视觉_（122 例）
 ```text
 生成一张海报图片，图片人物是一个19岁的中国少女，黑色直长发，很开心的在夜宵摊上喝啤酒吃小龙虾。海报上用芥末黄色艺术字写着，趁年轻，激爽才够味！
 ```
-
 来源：小红书号1005414639
 
 <a id="case-16"></a>
@@ -5544,7 +5397,6 @@ _活动海报、封面、字体排版与强版式视觉_（122 例）
 ```text
 生成高完成度史诗感艺术海报，双重曝光构图，米白色背景，球队：xxxx队，xxx的大剪影占据主体，剪影内部融合xx、xx、xx、xx以及xx等元素。整体以xx、土褐、为主，压抑、决绝、宿命感极强，元素不要冗杂，要有留白，印刷颗粒质感，元素不要有太锐的细节，但是要有史诗质感，像正式院线动画电影海报，竖版。图片中若出现文字则以细体字为主
 ```
-
 来源：小红书号2692926140
 
 <a id="case-58"></a>
@@ -5564,7 +5416,6 @@ Lighting is concentrated on the golden flow, buildings, and character outlines, 
 
 Integrated text and layout: Centered Songti font at the top reads "{argument name="city" default="Guangzhou"} · China," followed by smaller text "{argument name="date" default="2026/04/20"}" and "{argument name="author" default="LIYUE"}" below. Text uses pale gold or soft warm white, unified with the overall lighting. High-quality details, cinematic lighting, rich volumetric and particle details, clean image without noise, ultra-high 8K resolution, commercial-grade poster quality.
 ```
-
 来源：[@liyue_ai](https://x.com/liyue_ai)
 
 <a id="case-59"></a>
@@ -5623,7 +5474,6 @@ Integrated text and layout: Centered Songti font at the top reads "{argument nam
   }
 }
 ```
-
 来源：[@X64zzotSKCGtYmt](https://x.com/X64zzotSKCGtYmt)
 
 <a id="case-61"></a>
@@ -5693,7 +5543,6 @@ Integrated text and layout: Centered Songti font at the top reads "{argument nam
   }
 }
 ```
-
 来源：[@masapark95](https://x.com/masapark95)
 
 <a id="case-63"></a>
@@ -5705,7 +5554,6 @@ Integrated text and layout: Centered Songti font at the top reads "{argument nam
 ```text
 {"type": "2x2 grid of promotional banner ads", "theme": "{argument name=\"course theme\" default=\"Social Media Content Creation School\"}", "panels": [{"position": "top-left", "color_palette": "light blue and pink pastel gradient", "subject": "young woman smiling, resting chin on hand, smartphone and ring light in foreground", "typography": {"headline": "{argument name=\"top left headline\" default=\"発信を仕事に変える SNSスクール\"}", "subheadings": ["好きが、私の未来になる！", "クリエイター志望歓迎！"]}, "layout_elements": {"bullet_points_count": 3, "call_to_action_button": "pink button labeled '無料体験 >'"}}, {"position": "top-right", "color_palette": "deep blue and cyan geometric", "subject": "young man looking intently at a professional camera on a tripod with a ring light", "typography": {"headline": "{argument name=\"top right headline\" default=\"魅せる投稿が学べる\"}", "subheadings": ["企画・撮影・運用サポート"]}, "layout_elements": {"circular_icons_count": 3, "icon_types": ["lightbulb", "camera", "bar chart"], "call_to_action_button": "yellow button labeled '詳細はこちら >'"}}, {"position": "bottom-left", "color_palette": "soft beige and white aesthetic", "subject": "young woman looking thoughtfully to the side, mood board background", "typography": {"headline": "{argument name=\"bottom left headline\" default=\"自分の世界観を育てる\"}", "subheadings": ["あなたらしさが、一番の強みになる。", "SNSブランディング講座"]}, "layout_elements": {"horizontal_icons_count": 3, "icon_types": ["palette", "person", "heart"], "call_to_action_button": "pink button labeled '今すぐ見る >'"}}, {"position": "bottom-right", "color_palette": "vibrant pink and magenta pop design", "subject": "young woman smiling brightly, pointing at text, messy bun, smartphone on tripod", "typography": {"headline": "{argument name=\"bottom right headline\" default=\"好きな発信でファンをつくる\"}", "subheadings": ["実践型レッスン"]}, "layout_elements": {"bullet_points_count": 4, "call_to_action_button": "yellow button labeled '申し込む >'"}}]}
 ```
-
 来源：[@masapark95](https://x.com/masapark95)
 
 <a id="case-96"></a>
@@ -5751,7 +5599,6 @@ Integrated text and layout: Centered Songti font at the top reads "{argument nam
   }
 }
 ```
-
 来源：[@sayaka_aiart](https://x.com/sayaka_aiart)
 
 <a id="case-98"></a>
@@ -5804,7 +5651,6 @@ Integrated text and layout: Centered Songti font at the top reads "{argument nam
   }
 }
 ```
-
 来源：[@wtry1102](https://x.com/wtry1102)
 
 <a id="case-100"></a>
@@ -5876,7 +5722,6 @@ Integrated text and layout: Centered Songti font at the top reads "{argument nam
   }
 }
 ```
-
 来源：[@naga_zyashin](https://x.com/naga_zyashin)
 
 <a id="case-116"></a>
@@ -5911,7 +5756,6 @@ Integrated text and layout: Centered Songti font at the top reads "{argument nam
   }
 }
 ```
-
 来源：[@gamemangaanime](https://x.com/gamemangaanime)
 
 <a id="case-117"></a>
@@ -5923,7 +5767,6 @@ Integrated text and layout: Centered Songti font at the top reads "{argument nam
 ```text
 A humorous 3D cartoon illustration of a therapy session in a cozy office. On the left, a {argument name="patient character" default="sad anthropomorphic avocado half missing its pit"} sits on a brown leather lounge chair, gesturing with its thin stick-like arms. A large speech bubble above it reads "{argument name="speech text" default="I just feel so empty inside"}". On the right, the therapist, an {argument name="therapist character" default="anthropomorphic silver spoon"}, sits in a green armchair, holding a yellow pencil and writing on a notepad labeled "NOTES". The room has warm lighting, a beige rug on a wooden floor, and a bookshelf with a tissue box and books, one titled "REFLECT LISTEN VALIDATE". On the left wall hangs a framed poster reading "{argument name="poster text" default="IT'S OKAY TO FEEL YOUR FEELINGS"}" with a small heart. On the right wall hangs a framed diploma reading "{argument name="diploma text" default="SPOON UNIVERSITY SCHOOL OF LISTENING & VALIDATION"}" featuring a small spoon illustration and a gold seal.
 ```
-
 来源：[@nicdunz](https://x.com/nicdunz)
 
 <a id="case-119"></a>
@@ -5999,7 +5842,6 @@ A humorous 3D cartoon illustration of a therapy session in a cozy office. On the
   ]
 }
 ```
-
 来源：[@old_pgmrs_will](https://x.com/old_pgmrs_will)
 
 <a id="case-122"></a>
@@ -6063,7 +5905,6 @@ A humorous 3D cartoon illustration of a therapy session in a cozy office. On the
   ]
 }
 ```
-
 来源：[@pcneko_lab](https://x.com/pcneko_lab)
 
 <a id="case-124"></a>
@@ -6075,7 +5916,6 @@ A humorous 3D cartoon illustration of a therapy session in a cozy office. On the
 ```text
 An anime-style key visual poster for a fictional slice-of-life anime. In the foreground left, an energetic blonde anime girl with star hairpins and blue eyes wears an {argument name="main character outfit" default="American flag t-shirt and denim shorts"}, holding tongs with a slice of smoked meat towards the viewer. In the foreground right, a gentle girl with long dark hair and a white sweater sits at a wooden table writing in a notebook. In the background, two more girls are present: one with a brown ponytail carrying firewood, and another with short silver hair holding a blue mug. The scene is a sunny outdoor BBQ area with a large black smoker grill featuring a sign that reads {argument name="background grill sign" default="LONE STAR BBQ"}. In the immediate foreground is a {argument name="food platter" default="massive wooden platter loaded with sliced brisket, ribs, sausages, burnt ends, and pickles"}, along with side dishes like coleslaw and bread. In the top left corner, a large, cute, bubbly anime logo reads {argument name="anime title" default="もくもく すもーく ガールズ"} with smoke and grill motifs. In the bottom left corner, there is a {argument name="credits text block" default="staff credits block with names and roles"}. In the bottom right corner, a small text box lists four character names. The overall atmosphere is cheerful, highly detailed, and vibrant.
 ```
-
 来源：[@koshian_to](https://x.com/koshian_to)
 
 <a id="case-138"></a>
@@ -6136,7 +5976,6 @@ An anime-style key visual poster for a fictional slice-of-life anime. In the for
   }
 }
 ```
-
 来源：[@aiehon_aya](https://x.com/aiehon_aya)
 
 <a id="case-139"></a>
@@ -6203,7 +6042,6 @@ An anime-style key visual poster for a fictional slice-of-life anime. In the for
   }
 }
 ```
-
 来源：[@nakazakifam](https://x.com/nakazakifam)
 
 <a id="case-140"></a>
@@ -6215,7 +6053,6 @@ An anime-style key visual poster for a fictional slice-of-life anime. In the for
 ```text
 {"type": "promotional advertisement poster for a bottled green tea beverage", "product": {"type": "clear plastic PET bottle filled with yellow-green tea", "label": "white label with green typography, featuring the product name '{argument name=\"product name\" default=\"清風茶\"}', subtitle '緑茶 Seifucha', and vertical text '国産茶葉使用' and '香り豊か、後味さわやか'"}, "background": "bright, fresh, sunlit outdoor atmosphere with dynamic water splashes wrapping around the bottle and vibrant green tea leaves", "layout": {"sections": [{"title": "headline", "position": "top-left", "text": "{argument name=\"main headline\" default=\"新発売\"}", "style": "large red text with a gold underline and a small green leaf accent"}, {"title": "catchphrase", "position": "mid-left", "text": "{argument name=\"catchphrase\" default=\"毎日に、すっきり。\"}", "style": "dark green text"}, {"title": "features", "position": "lower-left", "count": 2, "labels": ["国産茶葉使用", "香り豊か、後味さわやか"], "style": "white pill-shaped banners with green leaf icons"}, {"title": "price_badge", "position": "top-right", "text": "今だけ!! 特別価格 {argument name=\"price\" default=\"128円\"} (税込)", "style": "red circular sticker with white and yellow text"}, {"title": "promo_banner", "position": "bottom-left", "text": "期間限定のお得価格!", "style": "angled red ribbon with yellow and white text"}, {"title": "footer", "position": "bottom-edge", "text": "{argument name=\"footer text\" default=\"全国のコンビニ・スーパーで発売中\"}", "style": "solid green horizontal bar with a white shopping cart icon"}]}}
 ```
-
 来源：[@AutoIntelliMode](https://x.com/AutoIntelliMode)
 
 <a id="case-144"></a>
@@ -6227,7 +6064,6 @@ An anime-style key visual poster for a fictional slice-of-life anime. In the for
 ```text
 A luxurious cosmetic product advertisement featuring a single elegant glass jar with a shiny gold lid resting on a round, light-colored marble slab. The jar has gold text reading {argument name="brand name" default="LUMIÉRE"} and {argument name="product type" default="MOISTURE RICH CREAM"} with "AGING CARE*" below it. The background consists of soft, draped, shimmering champagne-colored silk fabric with delicate white flowers on the left. The lighting is warm, ethereal, and sun-drenched with soft bokeh. At the top center, elegant dark brown Japanese typography reads {argument name="main headline" default="肌に、静かな贅沢を。"} above a small decorative gold divider and the text {argument name="subheadline" default="高保湿×エイジングケア*"}. To the right of the jar, a thin gold circle contains Japanese text meaning 'With dense moisture, high-quality firmness and radiance'. At the bottom center is a dark rectangular call-to-action button with a thin gold border containing the text {argument name="button text" default="詳しく見る"} and a right-pointing chevron. In the bottom right corner, tiny fine print contains Japanese text meaning '*Care according to age'.
 ```
-
 来源：[@panchaaan_2](https://x.com/panchaaan_2)
 
 <a id="case-153"></a>
@@ -6239,7 +6075,6 @@ A luxurious cosmetic product advertisement featuring a single elegant glass jar 
 ```text
 Using REFERENCE_0 as the base style and preserving the central chicken illustration, transform the image into a product packaging label for a herbal soup mix. Shift the chicken to the right side. Replace the top text with a large, bold black brush-stroke headline {argument name="main headline" default="元气祛湿 鸡煲汤包"} and a smaller subtitle {argument name="subtitle" default="吃山林土货 味道当然好!"}. On the left side, add a new woven basket containing exactly 6 distinct piles of ingredients: woody root sticks, white square cubes, round sliced brown roots, yellow soybeans, dried orange peel strips, and dark red dates. Attach 6 small brown rectangular labels with white text to these ingredients. Below the chicken, add a circular orange badge containing the text {argument name="ingredients list" default="内含有:五指毛桃、茯苓、土茯苓、黄豆、陈皮、红枣"}. At the bottom, create a solid orange rectangular banner featuring a cooking pot icon, the text {argument name="usage instructions" default="用法:把汤料清洗干净放入锅中，加入姜片煮20分钟，后加入鸡肉再煮20分钟即可。"}, and a secondary slogan {argument name="bottom slogan" default="天然好料 滋补好汤"}.
 ```
-
 来源：[@xzjken](https://x.com/xzjken)
 
 <a id="case-175"></a>
@@ -6333,7 +6168,6 @@ Aspect ratio:
 Language: 
 English only
 ```
-
 来源：[@cellier_](https://x.com/cellier_/status/2046615173411262959)
 
 <a id="case-180"></a>
@@ -6349,7 +6183,6 @@ English only
 [English]
 A movie poster featuring a seemingly realistic yet subtly bizarre cross-dressing older man, 4 variations. Reaching the level of a professional designer's production. The project and setting itself is a surreal animation of the "Are they really making a movie out of this?" kind, serious yet irresistibly funny. The title and broadcast information should also be displayed in Japanese.
 ```
-
 来源：[@aiehon_aya](https://x.com/aiehon_aya/status/2046499177916682600)
 
 <a id="case-191"></a>
@@ -6365,7 +6198,6 @@ A movie poster featuring a seemingly realistic yet subtly bizarre cross-dressing
 [English]
 Create a Science fiction movie poster
 ```
-
 来源：[@underwoodxie96](https://x.com/underwoodxie96/status/2046514205529088501)
 
 <a id="case-207"></a>
@@ -6381,7 +6213,6 @@ Create a Science fiction movie poster
 [English]
 Generate a game introduction screen for Black Myth: Pan Jinlian, the character is extremely charming.
 ```
-
 来源：[@liyue_ai](https://x.com/liyue_ai/status/2046576160952443082)
 
 <a id="case-216"></a>
@@ -6397,7 +6228,6 @@ Generate a game introduction screen for Black Myth: Pan Jinlian, the character i
 [English]
 Use the patterns in the attached image, crafted by professional designers to create 4 fashion items, using different color schemes and layout designs, accompanied by outfit effect pictures. Highlight the beauty of the patterns with an elegant composition. The format is 2:3, hoping to specify the image generation model from duct-tape-1 to duct-tape-2, 3.
 ```
-
 来源：[@aiehon_aya](https://x.com/aiehon_aya/status/2046348182301683954)
 
 <a id="case-220"></a>
@@ -6421,7 +6251,6 @@ Use the patterns in the attached image, crafted by professional designers to cre
 [English]
 Flat illustration, Oriental fantasy style high-end city poster design, vertical 9:16 composition, the overall adopts a diagonal + S-shaped flowing composition, extending from the bottom left to the top right, the picture uses deep black as the background, gradually changing from top to bottom to intense dark red, forming a strong cold-warm contrast and spatial depth, the background has a faint stardust and grainy texture. In the center of the picture, a golden flowing energy line winds through like a flame, extending from the bottom to the top, having a fluid texture, particle light effects and gradient highlights, with subtle energy debris and volumetric light in some areas. Guangzhou city landmark building complexes emerge layer by layer in the golden flowing light: Canton Tower is the visual core, with a prominent proportion, surrounded by the integration of Zhujiang New Town high-rise buildings, Liede Bridge and modern and Lingnan architectural elements, the buildings are expressed using "fine line drawing + golden glowing blocks", clear outlines and rich details, set off by the golden halo, they seem to float in the void, forming a surreal spatial hierarchy, the distant view is slightly fogged to enhance the sense of depth. At the bottom of the picture is an oriental white-haired female figure, long hair fluttering, like smoke and mist, naturally connecting and gradually blending with the golden flowing light, the hair is translucent with a gradient light sense, graceful posture, eyes slightly closed, serene expression, holding a bunch of colorful fresh flowers in her arms, interspersed with faint light particles and starlight effects among the flowers, symbolizing the spiritual connection between human and urban energy, character details are moderately simplified to highlight the overall sense of design. Light and shadow are focused on the golden streamlines, buildings and character outlines, forming a strong light-dark contrast and visual focus, the overall atmosphere is grand, mysterious, with an Oriental mythological artistic conception and a slight healing sense. The color uses black and dark red as the base, highlighted gilded gold as the main visual emphasis, the gold has rich light and dark layers, supplemented by small areas of high-saturation bouquet color embellishments, the overall is advanced and restrained. Page text and picture integrated typography: large Song typeface characters "Guangzhou·China" centered at the top, small characters "2026/04/20" below, small characters "LIYUE" further below, the text uses light gold or soft warm white, unifying with the overall light and shadow. High-quality details, cinematic light and shadow performance, rich volumetric light and particle details, clean picture without noise, ultra-high definition 8K resolution, commercial-grade poster texture.
 ```
-
 来源：[@liyue_ai](https://x.com/liyue_ai/status/2046243132774494607)
 
 <a id="case-223"></a>
@@ -6476,7 +6305,6 @@ The calligraphy color is dark ink cyan or soft ink black, unified with the overa
 Overall style: ink wash + modern minimalist design fusion, spring Zen, ethereal and moist, tranquil atmosphere,
 restrained cold and warm contrast, cinematic light and shadow, high-end art poster texture, 8K ultra-clear details.
 ```
-
 来源：[@liyue_ai](https://x.com/liyue_ai/status/2046215276249993720)
 
 <a id="case-228"></a>
@@ -6492,7 +6320,6 @@ restrained cold and warm contrast, cinematic light and shadow, high-end art post
 [English]
 Generate an advertising image that perfectly matches this image. There should be a lot of information.
 ```
-
 来源：[@Kashiko_AIart](https://x.com/Kashiko_AIart/status/2045787856292151322)
 
 <a id="case-230"></a>
@@ -6548,7 +6375,6 @@ Light and shadow: soft gradient light + local highlights, highlighting a magnifi
 
 Overall style: Guochao high-end illustration / brand poster-level texture / 8K / ultra-clear details
 ```
-
 来源：[@liyue_ai](https://x.com/liyue_ai/status/2045744531686166878)
 
 <a id="case-231"></a>
@@ -6576,7 +6402,6 @@ The center of gravity rises like being ready to launch, the stretching and inter
 The overall structure is intertwined with density and sparseness, the tight parts are like the surging of a promotional craze, and the blank spaces are like the breathing sense during promotional gaps;
 Pure black background as the base, perfectly fitting the passionate atmosphere, the form and color of the artistic typography are conveyed with full expressiveness.
 ```
-
 来源：[OpenNana](https://opennana.com/awesome-prompt-gallery/rising-wind-calligraphy-art)
 
 <a id="case-236"></a>
@@ -6620,7 +6445,6 @@ Top center horizontal visual main title "Guangdong Provincial City Football Supe
 
 The overall layout is balanced, has a high-end brand poster texture, extremely detailed, the composition is simple and clean, no cluttered elements, cinematic light and shadow, 8K resolution, high-end design sense. Integrate elegant cloud patterns and water wave patterns derived from traditional Chinese auspicious clouds, floating light effect particles, full of dynamics and vitality.
 ```
-
 来源：[@liyue_ai](https://x.com/liyue_ai/status/2045772039521542202)
 
 <a id="case-242"></a>
@@ -6636,7 +6460,6 @@ The overall layout is balanced, has a high-end brand poster texture, extremely d
 [English]
 Generate a series of design drafts for Gongbi painting bookmarks.
 ```
-
 来源：[@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
 <a id="case-244"></a>
@@ -6652,7 +6475,6 @@ Generate a series of design drafts for Gongbi painting bookmarks.
 [English]
 Design a set of promotional materials for a Durex and Chayan Yuese co-branding campaign.
 ```
-
 来源：[@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
 <a id="case-247"></a>
@@ -6668,7 +6490,6 @@ Design a set of promotional materials for a Durex and Chayan Yuese co-branding c
 [English]
 Generate a set of iconfont for a sports app
 ```
-
 来源：[@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
 <a id="case-250"></a>
@@ -6684,7 +6505,6 @@ Generate a set of iconfont for a sports app
 [English]
 Design a postcard co-branded by The Little Prince and SpaceX
 ```
-
 来源：[@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
 <a id="case-251"></a>
@@ -6700,7 +6520,6 @@ Design a postcard co-branded by The Little Prince and SpaceX
 [English]
 Generate a single-day calendar for The Garden of Words on April 19, 2026
 ```
-
 来源：[@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
 <a id="case-252"></a>
@@ -6716,7 +6535,6 @@ Generate a single-day calendar for The Garden of Words on April 19, 2026
 [English]
 Generate a series of hand-held sign designs for May Day Labor Day
 ```
-
 来源：[@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
 <a id="case-253"></a>
@@ -6732,7 +6550,6 @@ Generate a series of hand-held sign designs for May Day Labor Day
 [English]
 Generate a poster for the Guyu solar term in 2026
 ```
-
 来源：[@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
 <a id="case-254"></a>
@@ -6748,7 +6565,6 @@ Generate a poster for the Guyu solar term in 2026
 [English]
 Design a poster with the theme of "running towards the mountains and seas" in a film photography style
 ```
-
 来源：[@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
 <a id="case-275"></a>
@@ -6794,7 +6610,6 @@ A cinematic movie poster utilizing a layered montage composition. In the backgro
 
 negative: "flat lighting, untextured surfaces, symmetrical composition, empty bottom margin, missing text, translated text, paraphrased text, 3D render, cartoon, high-contrast harsh shadows, dry hair, bright cheerful expressions
 ```
-
 来源：[@old_pgmrs_will](https://x.com/old_pgmrs_will/status/2045440101359198302)
 
 <a id="case-278"></a>
@@ -6810,7 +6625,6 @@ negative: "flat lighting, untextured surfaces, symmetrical composition, empty bo
 [English]
 Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast, Italy, panoramic coastal cliff road scene, classic 1960s white car driving along a curved seaside road, deep blue Mediterranean sea with small sailboats, colorful pastel hillside village, bright blue sky with soft clouds, lemon tree branches with vibrant yellow lemons framing the foreground, warm summer sunlight, bold vibrant colors, retro 1950s travel poster style, cinematic composition, high detail, screen print texture, graphic illustration. Hand-drawn style, illustration with loose strokes and defined contours. High-contrast color palette, maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.
 ```
-
 来源：[@WolfRiccardo](https://x.com/WolfRiccardo/status/2044562722491121718)
 
 <a id="case-280"></a>
@@ -6826,7 +6640,6 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 [English]
 Express [an awesome AI builder] in a graffiti sketch style, overall presenting a visual effect of quick sketching, free deformation, impromptu hand-drawing and draft-like. The lines are casual, exaggerated, and can vary in thickness, slightly messy but with rhythm and expressiveness, emphasizing summarization, exaggeration, fun and casualness, rather than rigorous realism or fine depiction. The colors use rough blocks with obvious dry brush feel, retaining uneven smearing traces, brush strokes, flying white and covering feel, the colors automatically adapt according to [theme/subject], but overall maintain a graffiti-style, sketch-style, and summarized expression. Do not use transparent watercolor smudging effects, do not use delicate watercolor transitions, do not use paper texture, do not use soft atomization, do not use dreamy texture. The background is mainly blank, keeping it simple, relaxed, unfinished and designed, can add a small amount of auxiliary symbols, arrows, marks, circled drawings, repeated lines, casually written text or other graffiti elements, to enhance the sketchbook or essay-style visual language, but it must not be too crowded, and must not destroy the subject and blank temperament. The picture content does not need to be written clearly in advance; [an awesome AI builder] automatically deduces and generates the most suitable subject image, movements, related elements, symbols or simplified scenes, overall maintaining a unified graffiti sketch style and exaggerated summarized expression method, avoiding complex realistic backgrounds and excessive padding. The exclusive signature "BlanPlan" needs to be naturally added into the picture as a part of the picture, the position is low-key but clear, can be placed in the bottom left corner, bottom right corner or near the title, the style needs to be unified with the overall layout, like an artwork signature or design sign-off; the signature font is exquisite, restrained, and high-end, must not be too large, must not destroy the subject composition, must not appear abrupt or cheap.
 ```
-
 来源：[OpenNana](https://opennana.com/awesome-prompt-gallery/graffiti-sketch-ai-builder-master)
 
 <a id="case-283"></a>
@@ -6844,7 +6657,6 @@ Express [an awesome AI builder] in a graffiti sketch style, overall presenting a
 that "Think of a poster when the little devil Lilim Lily-chan was a Super Famicom game" with just a few images
 this quality without any detailed explanation spells is amazing!
 ```
-
 来源：[@lilimliliychan](https://x.com/lilimliliychan/status/2045114760937804187)
 
 <a id="case-291"></a>
@@ -6860,7 +6672,6 @@ this quality without any detailed explanation spells is amazing!
 [English]
 Create a sparkling flyer like those of a pachinko parlor at a 3:4 aspect ratio. Place a realistic, highly detailed modern cute Japanese woman. Make full use of sparkling, three-dimensional richly decorated rainbow typography, etc., and be sure to achieve extreme luxury. Introduce several non-existent fictional new models side by side.
 ```
-
 来源：[OpenNana](https://opennana.com/awesome-prompt-gallery/luxurious-pachinko-flyer)
 
 <a id="case-298"></a>
@@ -6876,7 +6687,6 @@ Create a sparkling flyer like those of a pachinko parlor at a 3:4 aspect ratio. 
 [English]
 A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space, a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve, gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline, Beacon Hill brownstones, Acorn Street, Boston Public Garden, Swan Boats, Zakim Bridge, Fenway-inspired details, historic brick architecture, harbor ferries, and the city’s waterfront atmosphere. Soft morning fog, golden spring light, subtle festive accents in crimson and gold, rich detail, layered depth, sophisticated city-poster aesthetics, fresh and refined, visually powerful but not overcrowded. Elegant typography in the lower left reads “SPRING 2026” with a vertical slogan “BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION”, text clear and beautifully composed, premium graphic design, 9:16
 ```
-
 来源：[@BubbleBrain](https://x.com/BubbleBrain/status/2045358053831172358)
 
 <a id="case-302"></a>
@@ -6892,7 +6702,6 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 [English]
 A nine-grid image showing the same group of objects designed by nine contemporary famous designers: mechanical keyboards, including designer avatars, designers' Chinese text interpretations of the designs, and artwork presentations. Unified layout rules
 ```
-
 来源：[@TanShilong](https://x.com/TanShilong/status/2045148649869692982)
 
 <a id="case-307"></a>
@@ -6920,7 +6729,6 @@ Guangzhou's landmark buildings (Canton Tower, Pearl River New City building comp
 Surrounded by clouds and mist, ethereal and misty, rich in color, complex in structure, rich in details, but because of a large area of blank space, the picture still looks fresh and refined. In the lower left corner, "SPRING 2026" and vertical promotional slogans are typeset. The overall implication is "Millennium Commercial Capital, Charming Guangzhou".
 The typography is beautiful and generous, the handwriting is clear and complete, aspect ratio 9:16.
 ```
-
 来源：[@liyue_ai](https://x.com/liyue_ai/status/2045332620352119274)
 
 <a id="case-312"></a>
@@ -6940,7 +6748,6 @@ The typography is beautiful and generous, the handwriting is clear and complete,
   "prompt": "Three ultra-dynamic soda cans in one vibrant high-end advertising composition — a can of TROPICAL RUSH exploding with dramatic water and tropical fruit splash, vibrant orange and pink background lighting; a can of LEMON ICED splashed with cold water against a glowing green dynamic light background; both cans covered in realistic condensation and motion-blurred droplets, bursting with fruity, refreshing energy. Deep orange, pink, and neon green lighting blend together in a bold studio setup. Captured by a professional photographer using a Canon 50mm lens, hyper-realistic textures, crisp details, ultra high resolution, bright commercial poster aesthetic, rich color vibrancy, cinematic splash effects --ar 3:4"
 }
 ```
-
 来源：[@Fujimoto_hina](https://x.com/Fujimoto_hina/status/2028388808320819277)
 
 <a id="case-314"></a>
@@ -6970,7 +6777,6 @@ The typography is beautiful and generous, the handwriting is clear and complete,
   "lighting": "high contrast, dramatic blue and red split lighting"
 }
 ```
-
 来源：[@Fujimoto_hina](https://x.com/Fujimoto_hina/status/2028045894088630679)
 
 <a id="case-320"></a>
@@ -6986,7 +6792,6 @@ The typography is beautiful and generous, the handwriting is clear and complete,
 [English]
 A dramatic cinematic poster-style portrait of two epic fantasy warriors standing back-to-back in a frozen storm. On the left, a battle-worn male warrior with wet, curly dark hair, head bowed in quiet resolve, gripping a medieval sword planted into the ice. Frost and snow cling to his fur-lined cloak and shoulders. On the right, a powerful female warrior in profile, pale skin glowing with fiery orange light, her body partially engulfed in flames thatcontrast against the icy blue atmosphere. Snow particles swirl through the air, blending fire and ice in a symbolic clash. Ultra-detailed faces, emotional intensity, volumetric fog, cinematic lighting, cold blue tones mixed with warm fire highlights, shallow depth of field, epic fantasy movie poster, hyper-realistic, 8K resolution, dramatic composition, sharp focus, high contrast, photorealistic textures.
 ```
-
 来源：[@Naiknelofar788](https://x.com/Naiknelofar788/status/2025972876554510482)
 
 <a id="case-332"></a>
@@ -6998,7 +6803,6 @@ A dramatic cinematic poster-style portrait of two epic fantasy warriors standing
 ```text
 帮这个产品生成宣传图
 ```
-
 来源：苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
 <a id="case-343"></a>
@@ -7022,7 +6826,6 @@ Typography: large elegant serif masthead "Louis Vuitton" at the top, bold cover 
 
 Ultra-realistic, hyper-detailed skin texture, 8K resolution, sharp focus, glossy magazine print quality, cinematic color grading, luxury fashion photography, no nudity, tasteful and editorial.
 ```
-
 来源：[@SPEEDAI07](https://x.com/SPEEDAI07/status/2048573343066992919)
 
 <a id="case-344"></a>
@@ -7034,7 +6837,6 @@ Ultra-realistic, hyper-detailed skin texture, 8K resolution, sharp focus, glossy
 ```text
 Create a premium, highly realistic 1:1 campaign poster for NOIR, a modern streetwear brand. Show one hero oversized hoodie as the main focus against a gritty urban backdrop with wet concrete floors, dramatic low lighting, subtle smoke in the air and a raw street energy. Add bold minimal typography with the brand name NOIR and a short campaign headline like "Wear the Dark." Make it feel like a real high-end streetwear editorial, sharp detail, realistic fabric textures, modern and edgy, deep black tones with subtle grey accents, no clutter, no collage.
 ```
-
 来源：[@Daniel_adsss](https://x.com/Daniel_adsss/status/2048542581638701446)
 
 <a id="case-345"></a>
@@ -7050,7 +6852,6 @@ Add supporting collage fragments such as a rainy European street, film-strip bor
 
 The final result should feel cinematic, intellectual, rebellious, and editorial — like a lost 1960s European film poster with a strong point of view. Keep it raw, tactile, printed, imperfect, and handmade. Avoid a glossy modern finish.
 ```
-
 来源：[@bananaprompts](https://x.com/bananaprompts/status/2048541390900994476) / [Banana Prompts](https://www.bananaprompts.xyz/prompts/70d54231-f0ee-4a50-9dfc-26156b72f819)
 
 <a id="case-348"></a>
@@ -7062,7 +6863,6 @@ The final result should feel cinematic, intellectual, rebellious, and editorial 
 ```text
 Create a premium “BEARD STYLE ANALYSIS” poster featuring the same man from the reference image. Show face shape, beard density, jawline definition, beard growth pattern, and beard suitability score. Include different beard styles comparison such as Stubble, Short Boxed Beard, Full Beard, Goatee, Van Dyke, Clean Shave. Add side profile and front profile views. Modern dark blue luxury background, professional grooming infographic style, high detail, realistic face consistency, stylish typography, premium male grooming poster.
 ```
-
 来源：[@RizwanAly07](https://x.com/RizwanAly07/status/2048610196302250019)
 
 <a id="case-349"></a>
@@ -7080,7 +6880,6 @@ Bottom right panel: full-body crouched pose holding racket, strong posture, text
 
 Consistent color grading, dark green and white palette, sharp details, cinematic shadows, luxury campaign style, 1:1 aspect ratio.
 ```
-
 来源：[@AIwithkhan](https://x.com/AIwithkhan/status/2048606301039820821)
 
 <a id="case-350"></a>
@@ -7108,7 +6907,6 @@ Style: modern football poster x notebook aesthetic, clean but energetic, slightl
 
 Important: all stats must be realistic and proportional to the player's real career.
 ```
-
 来源：[@ryanpp27](https://x.com/ryanpp27/status/2048602248524214542)
 
 <a id="case-352"></a>
@@ -7120,7 +6918,6 @@ Important: all stats must be realistic and proportional to the player's real car
 ```text
 竖版国风暗黑海报，黑色纯背景，中央巨大的中文标题字，占据画面大部分空间，字体为粗粝做旧的米白色石刻/旧纸质感，带明显颗粒、磨损、裂痕与噪点；整体构图层次丰富，强烈黑白金红对比，东方审美，神秘、压抑、欲望与审判感并存 电影海报质感 高级平面设计，极致细节 纸张纹理 印章落款 小字标语，4K
 ```
-
 来源：[@stellimbris](https://x.com/stellimbris/status/2048633434961072617) / [提示词回复](https://x.com/stellimbris/status/2048775687188709575)
 
 <a id="case-355"></a>
@@ -7158,7 +6955,6 @@ Avoid generic word art, glossy 3D lettering, random icons, stock-photo realism, 
 
 INPUT_TEXT：Phoenix Rebirth
 ```
-
 来源：[@dotey](https://x.com/dotey/status/2048793351290327381) / [Credit @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2048443572119330853)
 
 <a id="case-356"></a>
@@ -7188,7 +6984,6 @@ Style: blend of surrealism and modern luxury streetwear campaign, pastel feminin
 
 Mood: introspective, emotional weight, identity, self-awareness, quiet confidence.
 ```
-
 来源：[@AIwithAliya](https://x.com/AIwithAliya/status/2049044716642316758)
 
 <a id="case-358"></a>
@@ -7202,7 +6997,6 @@ A hyper-realistic commercial advertisement blending energy drink and sports bran
 
 Bright cinematic lighting with dramatic highlights and motion effects. Vibrant orange gradient background with bold glowing typography behind the subject. Ultra-detailed, high contrast, sharp focus, commercial product photography style, 8K resolution, advertising poster aesthetic, energetic, powerful, refreshing mood.
 ```
-
 来源：[@SPEEDAI07](https://x.com/SPEEDAI07/status/2049043627163435040)
 
 <a id="case-359"></a>
@@ -7251,7 +7045,6 @@ Ultra-detailed, high resolution, layered depth, soft lighting, atmospheric persp
 OUTPUT:
 9:16 aspect ratio, poster-ready composition.
 ```
-
 来源：[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2049002279051895243)
 
 <a id="case-367"></a>
@@ -7332,7 +7125,6 @@ OUTPUT:
   "quality": "hyper-realistic, 4K ultra HD, commercial grade, award-winning fragrance ad"
 }
 ```
-
 来源：[@akkiwani703](https://x.com/akkiwani703/status/2049778680969437564)
 
 <a id="case-388"></a>
@@ -7387,7 +7179,6 @@ Visual style: 1985 consumer computer advertisement, airbrushed illustration, glo
 Negative prompts:
 modern laptop, smartphone, flat design, minimalism, futuristic 2020s interface, cyberpunk overload, messy layout, unreadable typography, distorted text, misspelled words, deformed hands, extra fingers, bad anatomy, duplicate people, plastic skin, overexposed lighting, low resolution, blurry image, warped computer, broken keyboard, cluttered composition, inconsistent vintage style, random symbols, ugly poster design, poor hierarchy, incorrect perspective
 ```
-
 来源：[@Shinning1010](https://x.com/Shinning1010/status/2051410804805599436) / [提示词回复](https://x.com/Shinning1010/status/2051410812829335959)
 
 <a id="case-389"></a>
@@ -7413,7 +7204,6 @@ Surround the poster with clean icon-based benefit callouts: replenishes electrol
 
 Hyper realistic textures, polished commercial retouching, premium sports nutrition branding, modern typography layout, social media ad format, ultra detailed, high resolution.
 ```
-
 来源：[@amynys](https://x.com/amynys/status/2051409591137972606)
 
 <a id="case-400"></a>
@@ -7509,7 +7299,6 @@ Hyper realistic textures, polished commercial retouching, premium sports nutriti
 生成一张高级、干净、有秩序、有笔势张力的 6 风格签名选择海报。
 用户一眼能选出最像自己的一款签名。
 ```
-
 来源：[GitHub prompt](https://github.com/zaizhi-1112/ai-image-extension-playbook/blob/main/signature-image-prompts-gpt-image-2.md) / [@liyue_ai](https://x.com/liyue_ai)
 
 <a id="case-401"></a>
@@ -7521,7 +7310,6 @@ Hyper realistic textures, polished commercial retouching, premium sports nutriti
 ```text
 Create a stylized travel poster / graphic collage for [country]. The main subject should be a stylish international tourist visiting [country], clearly presented as a traveler and not a local resident. Show the tourist wearing modern travel fashion, with details such as a camera, backpack, sunglasses, map, or suitcase, exploring the culture and atmosphere of [country]. Place the tourist in a dynamic composition surrounded by iconic architecture, streets, landscapes, landmarks, transportation, food, signage, and cultural elements associated with [country]. Blend realistic character detail with a graphic collage background made of layered paper textures, torn poster edges, sticker elements, halftone dots, editorial typography, and bold geometric shapes. Include authentic visual motifs from [country], but keep the tourist's appearance and styling globally fashionable and clearly foreign to the setting. Add a large readable headline: "LOST IN [country]". Modern, artistic, premium editorial travel poster aesthetic, balanced layout, print-worthy composition.
 ```
-
 来源：[@SadiaMalik182](https://x.com/SadiaMalik182) / [aiiStudio prompt](https://aiistudio.com/prompt/2052388203395514683/lost-in-country-travel-poster-collage)
 
 <a id="case-404"></a>
@@ -7541,7 +7329,6 @@ Create a stylized travel poster / graphic collage for [country]. The main subjec
 
 宽高比：3:4。
 ```
-
 来源：[@you1873118](https://x.com/you1873118/status/2052624395932455061)
 
 <a id="case-406"></a>
@@ -7559,7 +7346,6 @@ The oversized gaming controller is ultra detailed with futuristic buttons, glowi
 
 Environment: seamless studio backdrop with glossy floor reflections, high-end commercial fashion photography, ultra realistic textures, dramatic shadows, premium editorial layout, modern tech-fashion advertisement aesthetic, symmetrical composition, luxury product campaign style, 4:3 aspect ratio, hyper detailed, photorealistic.
 ```
-
 来源：[@AIwithkhan](https://x.com/AIwithkhan/status/2052973449107349725)
 
 <a id="case-411"></a>
@@ -7571,7 +7357,6 @@ Environment: seamless studio backdrop with glossy floor reflections, high-end co
 ```text
 Design a luxury minimalist poster centered on a famous architectural landmark of your choice ([building name]). The focal element is an illustrated rendering of the building. Behind it, place one giant bold English word in a design-forward typeface whose character matches the building's identity, with smaller body copy nearby describing its design philosophy. The composition should read as an ultra high-end art poster. Use a restrained, low-key color palette where graphic elements interlock with the architecture, appearing as if they form part of its structural components or extend outward from its silhouette.
 ```
-
 来源：[@iamaiistudio](https://x.com/iamaiistudio/status/2053084576520573269)
 
 <a id="case-417"></a>
@@ -7583,7 +7368,6 @@ Design a luxury minimalist poster centered on a famous architectural landmark of
 ```text
 Ultra realistic vintage Indonesian catnip advertisement poster, retro 1970s paper texture, distressed print, faded colors. A black-and-white tuxedo cat wearing cute vintage housewife clothes floating happily in the air after smelling catnip, euphoric expression, swirling catnip leaves, absurd Indonesian meme energy. Bold retro typography: “BIKIN KUCING SENENG FLY!” fake catnip jar product, old-school badges, price tag, nostalgic warung advertisement aesthetic, cinematic lighting, grain, scratches, authentic aged poster look.
 ```
-
 来源：[@NyaiiBubu](https://x.com/NyaiiBubu/status/2053075349424992532)
 
 <a id="case-418"></a>
@@ -7598,7 +7382,6 @@ Style: Minimalist isometric bird's-eye view with ultra-fine hatching and screen-
 Color usage: Solid flat [COLOR] for the entire sky and small accents on roofs or streets. No gradients.
 Text: Bold sans-serif "[CITY NAME]" at top in cream, with the local language name in smaller cream text below.
 ```
-
 来源：[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2053523890744545437)
 
 <a id="case-424"></a>
@@ -7641,7 +7424,6 @@ Mood: energetic, youthful, addictive, vibrant.
 
 Shot on ARRI Alexa Mini LF, 35mm anamorphic, HDR, ultra cinematic, premium FMCG billboard style, 4:5 portrait.
 ```
-
 来源：[@Diplomeme](https://x.com/Diplomeme/status/2054061713583219149) / [Prompt reply](https://x.com/Diplomeme/status/2054061980240224476)
 
 <a id="case-425"></a>
@@ -7656,7 +7438,6 @@ Shot on ARRI Alexa Mini LF, 35mm anamorphic, HDR, ultra cinematic, premium FMCG 
   "aspect_ratio": "2:3"
 }
 ```
-
 来源：[@XSydneyFan](https://x.com/XSydneyFan/status/2054054476429009086)
 
 <a id="case-431"></a>
@@ -7702,7 +7483,6 @@ MOOD: premium, intellectual, calm, design-forward, travel-editorial, stylish eno
 
 QUALITY: 8K ultra-detailed, print-ready, razor-sharp vector edges, flawless typography, zero distorted text, zero random characters, zero spelling errors, zero AI artifacts.
 ```
-
 来源：[@iamaiistudio](https://x.com/iamaiistudio/status/2054563354899857757)
 
 <a id="case-432"></a>
@@ -7727,7 +7507,6 @@ Below it, smaller spaced-out text:
 Add a small decorative coral icon between divider lines.
 Mood & Lighting: Bright daylight, calm, inviting, tropical paradise atmosphere. Colors should feel fresh, vibrant, and relaxing with strong contrast between coral reef and ocean blues.
 ```
-
 来源：[@jzaib4269](https://x.com/jzaib4269/status/2055487295734620522)
 
 <a id="case-438"></a>
@@ -7739,7 +7518,6 @@ Mood & Lighting: Bright daylight, calm, inviting, tropical paradise atmosphere. 
 ```text
 Create a hyper-detailed luxury advertising poster in a cinematic miniature-world style. A gigantic royal diamond necklace with intricate gold filigree and massive ruby gemstones stands in the center like an architectural monument. Surround the necklace with a futuristic miniature city built around and inside the jewelry piece, including skyscrapers, elevated highways, bridges, spiral staircases, tiny human figures, luxury billboards, drones, helicopters, and cinematic urban activity. Use a deep crimson red monochrome background with gold and ruby accents. Add premium fashion-ad aesthetics, ultra-realistic textures, glossy reflections, dramatic studio lighting, depth of field, tilt-shift miniature effect, and high-end commercial composition. Include bold elegant typography at the top saying: “EMBRACE THE EXTRAORDINARY”. Style inspired by luxury jewelry campaigns, surreal city-building concepts, and premium 3D advertising renders. Ultra realistic, 8K, octane render, sharp focus, highly detailed, cinematic shadows, symmetrical composition.
 ```
-
 来源：[@Umar__786Ai](https://x.com/Umar__786Ai/status/2055664244138349055)
 
 <a id="case-441"></a>
@@ -7751,7 +7529,6 @@ Create a hyper-detailed luxury advertising poster in a cinematic miniature-world
 ```text
 An outdoor adventure advertisement poster featuring a rugged bearded man in full hiking gear standing confidently beside a massive orange camping tent three times taller than him, fully pitched in a dramatic forest clearing surrounded by towering pine trees beneath a deep starry night sky. The tent features a bold white “WILDCAMP” logo stitched onto the rainfly. Warm cinematic campfire lighting illuminates the scene with realistic shadows and rich outdoor textures, creating a premium adventure-commercial aesthetic. Large rugged serif typography reading “WILDCAMP” dominates the dark sky area in bold orange lettering, while the tagline “Sleep under the stars.” appears elegantly at the bottom. Small grey text in the top-right corner reads “Designed with GPT Image 2.” Photorealistic, ultra-detailed, cinematic outdoor advertising style with dramatic atmosphere and high-end commercial composition.
 ```
-
 来源：[@Strength04_X](https://x.com/Strength04_X/status/2056258909334306897)
 
 <a id="case-445"></a>
@@ -7763,7 +7540,6 @@ An outdoor adventure advertisement poster featuring a rugged bearded man in full
 ```text
 Create a dreamy watercolor travel illustration style from the attached photo. Use hand-painted urban sketchbook aesthetic, delicate ink linework mixed with soft watercolor washes, highly detailed pen-and-ink drawing, loose expressive brush strokes, watercolor bleeding edges, ultra detailed watercolor texture, soft beige paper texture background, architectural sketch style, vintage travel diary and sketchbook traveler aesthetic, travel journal composition, editorial postcard layout, handwritten medium title:[自定义标题]  at top, handwritten notes:[自定义文案] , date: [自定义日期] and location: [自定义地点]  stamps, natural perspective, atmospheric depth, minimalist negative space, muted earthy palette (warm browns, faded greens, cream whites, soft blue accents), quiet, calm, soft, cozy, nostalgic vibes, cinematic slice-of-life mood, poetic composition, mixed urban sketching with Ghibli-inspired realism, vertical poster design, premium art print quality.
 ```
-
 来源：[@zhgqthomas](https://x.com/zhgqthomas/status/2056633723366568387)
 
 <a id="case-453"></a>
@@ -7806,7 +7582,6 @@ Create a dreamy watercolor travel illustration style from the attached photo. Us
 2、避免只堆文字，画册一定要有产品视觉、场景图、数据模块和设计层级。
 3、避免只生成单页，最好补一张全册预览图，才能体现完整系统感。
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2056974720893939950)
 
 <a id="case-454"></a>
@@ -7848,7 +7623,6 @@ Composition rules:
 - cinematic storytelling through scale contrast
 - premium advertising composition matching high-end chips commercials
 ```
-
 来源：[@Naiknelofar788](https://x.com/Naiknelofar788/status/2057282710469767241)
 
 <a id="case-455"></a>
@@ -7870,7 +7644,6 @@ Small minimal copy at the bottom: "Designed for all-day comfort. Made to move wi
 
 Style: ultra-clean Apple-style minimalism crossed with a fashion campaign, hyper-realistic, premium commercial photography, 8K, razor-sharp detail.
 ```
-
 来源：[@iamaiistudio](https://x.com/iamaiistudio/status/2057281549851377866)
 
 <a id="case-457"></a>
@@ -7904,7 +7677,6 @@ function render_kinesphere ($ dancer, $ movement)
     [still body parts, studio lights, solid silhouettes]::-1
 </instructions>
 ```
-
 来源：[@Gdgtify](https://x.com/Gdgtify/status/2057741253127594118)
 
 <a id="case-459"></a>
@@ -8175,7 +7947,6 @@ KV类型：{产品英雄KV / 品牌情绪KV / 强口号传播KV / 人物场景KV
 KV类型：{产品英雄KV}
 平台用途：{小红书}
 ```
-
 来源：[@liyue_ai](https://x.com/liyue_ai/status/2057739678485495885) / [提示词回复](https://x.com/liyue_ai/status/2057739894261518670)
 
 <a id="case-460"></a>
@@ -8187,7 +7958,6 @@ KV类型：{产品英雄KV}
 ```text
 Ultra-realistic luxury fashion campaign poster shot from a dramatic low-angle perspective across a glossy chessboard table. A stylish young male model with sharp facial features, textured curly hair, wearing thin luxury glasses and a fitted sleeveless knitted brown vest, leaning forward in a confident pose. One hand extended toward the camera holding a large white king chess piece in forced perspective, dominating the foreground. Tattooed arms visible, intense confident facial expression, direct eye contact. Elegant vintage royal interior background with dark paneled walls, warm chandelier wall lights, cinematic amber lighting, moody shadows, luxury editorial atmosphere. Chess pieces scattered on the board in foreground and background for depth. High contrast premium fashion advertising style, ultra-detailed skin texture, sharp focus on face and chess piece, shallow depth of field, glossy reflections on chessboard, dramatic commercial campaign photography, luxury menswear brand aesthetic. Bold typography at bottom saying “DRESSED TO DOMINATE”, premium poster layout, cinematic color grading, high-end fashion ad, editorial magazine quality, 4:5 aspect ratio.
 ```
-
 来源：[@harboriis](https://x.com/harboriis/status/2058414859658956888)
 
 <a id="case-463"></a>
@@ -8268,7 +8038,6 @@ Ultra-realistic luxury fashion campaign poster shot from a dramatic low-angle pe
 按以上 8 个款式，分别生成 8 张独立展示图。
 要求每张都保留统一系列感，同时人物造型、发型、姿势和镜头语言明显不同，确保整套看起来完整、专业、可收藏。
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2058175014168396245) / [提示词回复](https://x.com/MrLarus/status/2058175145328394441)
 
 <a id="case-464"></a>
@@ -8292,7 +8061,6 @@ Design elements:
 
 Style: Modern travel poster meets watercolor painting, airy and atmospheric, blend of illustration and photo-collage, warm and tranquil mood, high detail.
 ```
-
 来源：[@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2058372965641662876)
 
 <a id="case-470"></a>
@@ -8430,7 +8198,6 @@ Style: Modern travel poster meets watercolor painting, airy and atmospheric, ble
 - 默认不带二维码
 - 适合用于系列案例展示、设计提案、社交媒体发布、模板复用
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2059248197910827364) / [提示词回复](https://x.com/MrLarus/status/2058431837534343283)
 
 <a id="case-473"></a>
@@ -8483,7 +8250,6 @@ Wide cinematic action shot of a high-octane firefight environment. A sprawling o
 **UNIVERSAL STYLE CONSTRAINTS — APPLY TO ALL PANELS:**
 Photorealistic only throughout the entire sheet. No anime, no cartoon, no stylized illustration, no cel shading, no comic book rendering. Unreal Engine 5 cinematic render quality with physically-based materials. Anamorphic lens character on all environment shots. Crushed blacks and desaturated mid-tones across all panels. Professional AAA game studio concept documentation format comparable to Naughty Dog, Ubisoft, or Guerrilla Games internal production art.
 ```
-
 来源：[@KimAkiyama81](https://x.com/KimAkiyama81/status/2059394334378566063)
 
 <a id="case-474"></a>
@@ -8495,7 +8261,6 @@ Photorealistic only throughout the entire sheet. No anime, no cartoon, no styliz
 ```text
 Minimalist flat travel poster illustration series of iconic destinations around the world, clean vector art style, Scandinavian color palette, soft pastel tones, calm atmospheric scenery, Hallstatt Austria lakeside village with alpine mountains and reflections, Bergen Norway colorful harbor houses with fjord background, Kyoto Japan traditional riverside town with cherry blossoms and pagoda, Santorini Greece white architecture with blue domes overlooking the sea, ultra clean composition, geometric landscape shapes, smooth gradients, elegant typography with destination names, modern tourism poster aesthetic, serene travel mood, crisp vector lines, cinematic wide-angle scenery, peaceful skies with stylized clouds, highly detailed environment art, contemporary flat illustration, premium editorial travel design, balanced composition, minimal shadows, dreamy vacation atmosphere, soft morning lighting, high-end Airbnb poster vibe, Behance trending style, 4k, ultra detailed
 ```
-
 来源：[@Taaruk_](https://x.com/Taaruk_/status/2059188921096085888)
 
 <a id="case-478"></a>
@@ -8529,7 +8294,6 @@ STEP 4, PHOTOGRAPHY & LIGHTING:
 STEP 5, MINIMALIST BRANDING:
 - Drop a clean single-color [BRAND NAME] logo dead-center on one background block. No tagline, just the iconic symbol.
 ```
-
 来源：[@iamaiistudio](https://x.com/iamaiistudio/status/2060000278657839398) / [full prompt](https://aiistudio.com/prompt/2040806718523748627)
 
 <a id="case-481"></a>
@@ -8541,7 +8305,6 @@ STEP 5, MINIMALIST BRANDING:
 ```text
 Cute Korean spring aesthetic scrapbook poster, dreamy K-fashion portrait, soft blonde girl standing in a blooming flower garden, pastel blue sky background, cream floral blouse layered under a knitted ivory sweater vest, light blue high-waisted jeans, natural smile, glowing fair skin, soft makeup, cherry blossom trees, colorful spring flowers, cozy countryside garden, bright natural sunlight, kawaii doodle overlays, hand-drawn white hearts, smiley faces, stars, sparkles, rainbows, playful handwritten typography, polaroid photo frames, masking tape stickers, scrapbook collage layout, Pinterest aesthetic, Korean magazine editorial, cottagecore fashion, dreamy spring vibes, wholesome mood, soft pastel color palette, clean composition, aesthetic social media poster, ultra detailed, photorealistic, high quality, cute and charming atmosphere, subtle bokeh, lifestyle photography, Instagram reel cover, fashion moodboard, Y2K scrapbook design, white outline around subject, flower-themed decorations, 8k masterpiece
 ```
-
 来源：[@Taaruk_](https://x.com/Taaruk_/status/2060214163591614900)
 
 <a id="case-482"></a>
@@ -8569,7 +8332,6 @@ Style: blend of surrealism and modern streetwear campaign, minimal yet expressiv
 
 Mood: introspective, mental weight, identity, self-awareness.
 ```
-
 来源：[@Shorelyn_](https://x.com/Shorelyn_/status/2060207260685791267)
 
 <a id="case-486"></a>
@@ -8595,7 +8357,6 @@ Ee Sala Cup Namde!
 
 Premium championship poster design, trending Behance artwork, sports magazine cover aesthetic, layered paint textures, realistic trophy reflections, high contrast, ultra-detailed, 8K, masterpiece, award-winning digital art, vibrant colors, cinematic composition, splash art, sketch effect, watercolor effect, paint explosion effect, mixed-media illustration, poster-worthy design.
 ```
-
 来源：[@AIwithkhan](https://x.com/AIwithkhan/status/2061305471492096301)
 
 <a id="case-487"></a>
@@ -8627,7 +8388,6 @@ MUSIC DIRECTION
 
 Soft elegant premium skincare music throughout: gentle piano, airy ambient pads, subtle low-end warmth, very light modern electronic pulse, calm emotional lift. Music should feel expensive, dermatological, trustworthy, and international. Never loud, never dramatic, never trailer-like, never distracting. The music should support the tactile sound design without overpowering it.
 ```
-
 来源：[@AIwithSynthia](https://x.com/AIwithSynthia/status/2061300623530942922)
 
 <a id="case-493"></a>
@@ -8657,7 +8417,6 @@ Row 3 - Frame 13 (Nara park): crouching down in a park in Nara, she holds out a 
 
 Young female travel vlogger exploring Tokyo across 13 candid moments in a grid collage, extremely beautiful with long dark wavy hair, wearing stylish Japanese streetwear, expressive and spontaneous, scenes include Tokyo Tower selfie, Shibuya crossing at night, convenience store snack moment, park bench quiet scene, takoyaki reaction, vending machine glow, train window reflection, torii gate walk, immersive light exhibit, Gundam statue low angle, lantern alley walk, rooftop skyline selfie, Harajuku street ending, each frame slightly imperfect with motion blur.
 ```
-
 来源：[@AIwithSynthia](https://x.com/AIwithSynthia/status/2062383568253505904)
 
 <a id="case-497"></a>
@@ -8677,7 +8436,6 @@ The composition includes large areas of clean white negative space, soft cloudy 
 
 Handcrafted watercolor illustration, architectural sketch aesthetic, serene urban atmosphere, soft natural morning lighting, muted monochromatic palette, highly detailed line art, elegant travel-poster design, minimalist luxury wall-art style, timeless local charm, premium stationery illustration, ultra-detailed, high-resolution, clean composition, Pinterest-worthy, Instagram-worthy, gallery-quality artwork.
 ```
-
 来源：[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2062564327140503787)
 
 <a id="case-503"></a>
@@ -8693,7 +8451,6 @@ Surround the character with floating creative elements including a glowing lapto
 
 Include a collectible chibi mini-figure version of the character standing beside the main subject on a display base. Use cinematic blue lighting, glossy reflections, volumetric glow, depth of field, floating particles, luxury toy-photography aesthetics, high-end 3D rendering, Octane Render quality, ultra-sharp details, vibrant neon blue color palette, futuristic creator workspace atmosphere, premium commercial poster design, trending ArtStation style, masterpiece quality, 8K resolution, vertical 9:16 composition.
 ```
-
 来源：[@AiwithLariab](https://x.com/AiwithLariab/status/2063240283786187251)
 
 <a id="case-506"></a>
@@ -8709,7 +8466,6 @@ Include a collectible chibi mini-figure version of the character standing beside
 
 比例9:16
 ```
-
 来源：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2062924832917029248)
 
 <a id="case-511"></a>
@@ -8725,7 +8481,6 @@ Add small decorative elements such as street lamps, trees, clouds, birds, benche
 Ensure every landmark, architectural style, vehicle, sign, and cultural element is accurate to the chosen city—avoid generic or incorrect landmarks. If desired, include a small elegant tagline beneath the city name (such as a famous nickname or slogan) in minimal typography.
 Style: premium flat vector, minimalist travel poster, geometric illustration, editorial design, tourism branding, clean typography, high contrast, ultra-sharp lines, museum-quality print, modern graphic design, centered composition, scalable SVG aesthetic, 8K resolution.
 ```
-
 来源：[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2071819124708438092)
 
 <a id="case-515"></a>
@@ -8742,7 +8497,6 @@ Style: premium flat vector, minimalist travel poster, geometric illustration, ed
   "target": "🎯 Target: DALL-E 3 (ChatGPT) — 💡 Foreground/midground/background separation places Teatro Degollado and the Cathedral in distinct spatial layers, the mariachi silhouette is specified as a featureless outline to eliminate aberration risk, and vintage print texture is described visually rather than as a style label."
 }
 ```
-
 来源：[@MiMundoConIA](https://x.com/MiMundoConIA/status/2077046470335938826)
 
 <a id="case-521"></a>
@@ -8764,7 +8518,6 @@ Style: premium flat vector, minimalist travel poster, geometric illustration, ed
 
 每一层需将主体与场景统一转换为对应风格，整体表达极度克制与简化，只保留最核心的一个主体符号及其基本轮廓关系，删除一切非必要的背景元素、装饰细节与陪衬物；人物之间的关键位置关系、互动方向与姿态特征需保留，但应抽象为可识别的轮廓关系，做到“元素越少、关系越清晰”。色彩均从原图中提取归纳，每层严格控制在2-4种主色以内。四个区域的高度比例须严格保持1:1:1:1（各占25%），不可出现拼接错位或比例偏差。整体避免朋克/赛博朋克风格、写实照片质感强行叠加、卡通风格、3D渲染感、商业海报感、复杂背景堆砌、元素过多或画面拥挤、相邻两层风格雷同，以及任何文字、Logo、水印或标题。
 ```
-
 来源：[@zhidawang219555](https://x.com/zhidawang219555/status/2090310144190218272)
 
 <a id="case-526"></a>
@@ -8776,7 +8529,6 @@ Style: premium flat vector, minimalist travel poster, geometric illustration, ed
 ```text
 从全黑剧场开始，像切标本一样用六片真实体积激光把空间分层。光面必须有明确起点、透视和薄雾中的厚度，人物站在交汇点，透明道具折射出一小束异色光扇。构图沿左下至右上的对角线推进，脸只用一道克制边光揭示；标题与其中一片光面共享透视，小字留在纯黑负空间。每次替换主题与角色时，不得退化成夜店模板、HUD、霓虹城市或无物理来源的光线。
 ```
-
 来源：[@zhidawang219555](https://x.com/zhidawang219555/status/2090246237094310178)
 
 <a id="case-527"></a>
@@ -8798,7 +8550,6 @@ Keep the composition refined rather than crowded. Blend realistic miniature phot
 
 The final image should feel like a premium collectible Rio de Janeiro travel postcard transformed into a physical miniature world, with the central diorama sharply detailed and the surrounding illustrations slightly softer. Highly realistic human hand and fingers, believable miniature materials, cinematic product photography, editorial travel-magazine aesthetic, shallow depth of field, ultra-fine textures, photorealistic 3D details, vertical 4:5 composition, 8K quality.
 ```
-
 来源：[@john_my07](https://x.com/john_my07/status/2091408386466214031)
 
 <a id="case-531"></a>
@@ -8810,7 +8561,6 @@ The final image should feel like a premium collectible Rio de Janeiro travel pos
 ```text
 Create a luxurious, dreamy country travel-art collection in the exact visual language of an elegant premium tourism campaign: a large transparent crystal/glass architectural frame or arched glass display standing on a glossy reflective surface, containing a highly detailed cinematic illustration of the destination. For [COUNTRY], feature its most iconic landmarks, historic architecture, distinctive landscapes, local transportation, cultural elements, national flag, flowers and recognizable scenery arranged as one seamless poetic panorama. Use warm golden-hour sunlight, soft atmospheric haze, pastel cream, champagne, muted blue and sage tones, delicate clouds, subtle birds, realistic glass refraction and rainbow prism highlights along the edges. Create a perfect mirror reflection beneath the glass structure, extending the entire composition downward with beautifully softened reflections. Add elegant editorial typography at the top reading “[COUNTRY]”, with smaller refined text “THE SOUL OF [COUNTRY]” and “A JOURNEY THROUGH TIME • 2026” beneath it. Sophisticated luxury travel magazine aesthetic, photorealistic yet painterly, cinematic depth, fine-art composition, extremely detailed architecture, serene atmosphere, premium advertising photography, symmetrical balanced framing, soft film grain, 8K, vertical 4:5, no clutter, no modern UI elements, no extra text.
 ```
-
 来源：[@Taaruk_](https://x.com/Taaruk_/status/2091391283063361558)
 
 <a id="case-532"></a>
@@ -8867,7 +8617,6 @@ Hyper-real premium surreal advertising photography, luxury FMCG campaign, storyb
 Negative prompt:
 copied text, Chinese text, existing brand names, cartoon style, toy-like figure, grotesque oversized head, deformed anatomy, extra fingers, missing fingers, fused fingers, twisted wrists, broken limbs, distorted feet, AI plastic skin, over-smoothed skin, fake citrus texture, unrealistic juice physics, muddy lemon pulp, cloudy glass, weak product focus, inconsistent lighting, inconsistent horizon, messy grid, cluttered props, meme aesthetic, cheap humor, childish illustration, low-resolution detail, oversaturated colors, dead black patches, distorted giant hand perspective
 ```
-
 来源：[@ou_zhen599](https://x.com/ou_zhen599/status/2091160215928574397)
 
 <a id="case-546"></a>
@@ -8882,7 +8631,6 @@ copied text, Chinese text, existing brand names, cartoon style, toy-like figure,
 LOOK 1
 黑色无袖收腰A字迷你连衣裙，圆领，腰部修身，裙摆微蓬，裙底露出一圈白色蕾丝褶边；黑色玛丽珍鞋，黑色迷你手提包，细项链，甜酷学院风。主姿势歪头看镜头，一手拎黑色小包，另一只手举到脸侧俏皮挥手，一条腿向后弯起。表情甜美活泼，轻微张嘴笑；大头贴单眼眨眼，一手轻托脸颊。
 ```
-
 来源：X
 
 <a id="case-547"></a>
@@ -8897,7 +8645,6 @@ LOOK 1
 LOOK 5
 奶油白无袖小波点蓬蓬迷你裙，方领，宽肩带，胸前与裙身布满细碎黑色小波点，高腰收腰，大幅外扩蓬裙，裙摆底部黑色蕾丝拼接；银色尖头高跟鞋，复古甜美风。主姿势双手环抱胸前，歪头看向侧方，自然站立。表情略显傲娇、若有所思；大头贴一手托脸，眼神看向一侧，微微撇嘴。
 ```
-
 来源：X
 
 <a id="case-567"></a>
@@ -9015,7 +8762,6 @@ LOOK 5
 保持原图的宽高比。
 仅输出一张完整的图像。
 ```
-
 来源：https://x.com/elle_elle_e/status/2091829018064789901
 
 <a id="case-582"></a>
@@ -9051,7 +8797,6 @@ GPT IMAGE2 提示词：
 
 #GPT #IMAGE2 #今日提示词
 ```
-
 来源：https://x.com/AIVideoHub_/status/2091838186658128194
 
 <a id="case-594"></a>
@@ -9065,7 +8810,6 @@ GPT image 2
 
 Premium minimalist flat-vector travel poster of Paris, France, in a sophisticated 3:4 vertical composition, featuring the Eiffel Tower prominently beside the Seine River, elegant Parisian Haussmann buildings, a charming riverside café with striped awning and outdoor seating, a classic Paris Metro sign, a small sightseeing boat on the river, flowering trees, warm natural daylight, soft blue sky with fluffy clouds, subtle birds, and a few casually dressed tourists walking along the riverside. Use refined editorial illustration, clean geometric shapes, delicate textures, muted pastel colors, cinematic depth, elegant luxury travel aesthetic, and balanced negative space. Add large sophisticated typography reading “PARIS”, smaller text “CITY OF LIGHT”, Japanese text “光あふれる街、パリ”, and “WHERE ELEGANCE MEETS INSPIRATION”, with all typography crisp, correctly spelled, beautifully aligned, and integrated into the composition.
 ```
-
 来源：https://x.com/Aqsahere_/status/2092455585526718928
 
 <a id="case-612"></a>
@@ -9080,7 +8824,6 @@ Created with GPT image 2
 Prompt: 
 Playful flat-vector poster illustration of the reference woman in a graceful front-facing portrait pose, wearing a delicate white puff-sleeve dress and minimalist jewelry, set in a bright airy interior with soft abstract window shapes and elegant decorative elements. Use clean, thick black outlines, simple rounded geometric shapes, flat solid color fills, minimal facial details, small neutral eyes, a calm deadpan expression, simplified body proportions, pastel color blocking, sparse floral doodles, tiny abstract sparkles, clean negative space, crisp graphic poster layout, and a controlled cream, warm beige, soft brown, and muted gold color palette. Add the name "AURORA" in bold, modern typography integrated naturally into the poster design. Style: Cute minimalist flat vector, editorial fashion poster aesthetic, high-contrast outlines, smooth geometric construction, sophisticated yet playful composition, premium graphic design, no gradients, no realistic textures, no shadows, flat colors only, elegant feminine branding, aspect ratio 4:5.
 ```
-
 来源：https://x.com/Aqsahere_/status/2075232967232745877
 
 <a id="case-616"></a>
@@ -9135,7 +8878,6 @@ Playful flat-vector poster illustration of the reference woman in a graceful fro
 
 [主要内容描述] -> e.g., "新一代人工智能模型评论"
 ```
-
 来源：会员投稿 benyshen321@163.com
 
 <a id="case-649"></a>
@@ -9151,7 +8893,6 @@ GPT image 2
 
 Create a vintage hand-illustrated poster featuring [SUBJECT / SCENE]. Use detailed black ink linework, simplified graphic shapes, subtle crosshatching, muted earthy colors, and a soft aged-paper background. Give it an authentic mid-century travel-poster / screen-print aesthetic, with slightly imperfect ink texture, gentle grain, faded colors, and a handmade printed feel. Keep the composition clean and elegant with the main subject prominently centered, balanced negative space, small atmospheric details, and minimal decorative elements. Add simple vintage typography reading “[TITLE]” at the top. Nostalgic, artistic, timeless, editorial, sophisticated, visually striking, vertical 9:16 poster composition.
 ```
-
 来源：https://x.com/Naiknelofar788/status/2094992489476194376
 
 <a id="case-651"></a>
@@ -9192,7 +8933,6 @@ Keep the composition balanced and elegant with generous negative space. The trav
 No modern typography, no logos, no watermark.
 --ar 9:16
 ```
-
 来源：https://x.com/Naiknelofar788/status/2093902178935275860
 
 <a id="case-652"></a>
@@ -9227,7 +8967,6 @@ Soft studio lighting, tactile paper grain, delicate shadows, subtle dimensional 
 
 The final image should feel quiet, artistic, collectible, modern, and instantly recognizable as [CITY].
 ```
-
 来源：https://x.com/Naiknelofar788/status/2091197675622580402
 
 <a id="case-653"></a>
@@ -9327,7 +9066,6 @@ No crowded street.
 No oversized people.
 No dramatic lighting.
 ```
-
 来源：https://x.com/Naiknelofar788/status/2091015346543329364
 
 <a id="case-654"></a>
@@ -9362,7 +9100,6 @@ Avoid: photorealism, plastic, glossy CGI, metallic surfaces, clutter, distorted 
 
 Keep the same visual structure and artistic style across different cities, while changing the landmarks, cultural details, geography, and color accents to represent each destination authentically.
 ```
-
 来源：https://x.com/Naiknelofar788/status/2090736637919855023
 
 <a id="case-655"></a>
@@ -9384,7 +9121,6 @@ Centered with a small collectible magnet—a realistic handcrafted enamel pin ba
 Luxurious typography featuring the location name and country/region in an elegant serif font.
 High-end travel brand aesthetic, understated luxury, horizontal 4:3 aspect ratio.
 ```
-
 来源：https://x.com/AiwithLariab/status/2094352344398123161
 
 <a id="cat-product"></a>
@@ -9401,7 +9137,6 @@ _商品主图、详情页、包装与广告创意_（26 例）
 ```text
 A 3D render of a cute kawaii {argument name="subject" default="cloud"} character on a pure white background. The character has a soft, matte, squishy texture resembling clay or a stress toy. It features large glossy black eyes with white highlights, a simple curved smile, and round pink blush on its cheeks. The edges and bottom of the figure have a subtle pastel gradient of {argument name="accent colors" default="pink, blue, and purple"}. Soft studio lighting, minimalist icon style, casting a gentle shadow.
 ```
-
 来源：[@yurunekofree](https://x.com/yurunekofree)
 
 <a id="case-125"></a>
@@ -9435,7 +9170,6 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
   }
 }
 ```
-
 来源：[@Gc_qube](https://x.com/Gc_qube)
 
 <a id="case-141"></a>
@@ -9516,7 +9250,6 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
   }
 }
 ```
-
 来源：[@takadtmnu](https://x.com/takadtmnu)
 
 <a id="case-157"></a>
@@ -9586,7 +9319,6 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
   }
 }
 ```
-
 来源：[@AmberPromptai](https://x.com/AmberPromptai)
 
 <a id="case-178"></a>
@@ -9602,7 +9334,6 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
 [English]
 Generate a set of Amazon A+= detail images
 ```
-
 来源：[@xin_pai88825](https://x.com/xin_pai88825/status/2046576100592201946)
 
 <a id="case-181"></a>
@@ -9619,7 +9350,6 @@ Generate a set of Amazon A+= detail images
 [English]
 Please redesign this product advertisement from the perspective of a professional designer. Adopt current fashion trends, exquisite design targeting the target audience.
 ```
-
 来源：[@genel_ai](https://x.com/genel_ai/status/2046498264774791514)
 
 <a id="case-189"></a>
@@ -9635,7 +9365,6 @@ Please redesign this product advertisement from the perspective of a professiona
 [English]
 Summer women's dress e-commerce detail image
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
 
 <a id="case-190"></a>
@@ -9651,7 +9380,6 @@ Summer women's dress e-commerce detail image
 [English]
 Fully automatic coffee machine e-commerce detail image
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
 
 <a id="case-192"></a>
@@ -9667,7 +9395,6 @@ AI智能眼镜电商详情图
 [English]
 AI smart glasses e-commerce detail image
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
 
 <a id="case-194"></a>
@@ -9683,7 +9410,6 @@ AI smart glasses e-commerce detail image
 [English]
 Fitness protein powder e-commerce detail image
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
 
 <a id="case-237"></a>
@@ -9699,7 +9425,6 @@ Fitness protein powder e-commerce detail image
 [English]
 Image generation: Product advertising photo, Seasonal product suitable for summer, Carbonated beverage, Name="Summer Citrus SODA", Shape=500ml PET bottle, Design and generate image specifications after researching high CTA design as a beverage advertisement in 2025, Aspect ratio 3:4
 ```
-
 来源：[@old_pgmrs_will](https://x.com/old_pgmrs_will/status/2045852114673635507)
 
 <a id="case-264"></a>
@@ -9715,7 +9440,6 @@ Image generation: Product advertising photo, Seasonal product suitable for summe
 [English]
 Cute Y2K style affordable cosmetics advertising image designed for Gen Z. Using vibrant color schemes, including neon colors. Aspect ratio is 3:4.
 ```
-
 来源：[@midori_tatsuta](https://x.com/midori_tatsuta/status/2045378877363798279)
 
 <a id="case-301"></a>
@@ -9741,7 +9465,6 @@ product price,
 product details,
 functions and usage scenarios
 ```
-
 来源：[@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
 
 <a id="case-313"></a>
@@ -9877,7 +9600,6 @@ functions and usage scenarios
   "details": "Hyper-detailed textures of petals and vapor"
 }
 ```
-
 来源：[@Fujimoto_hina](https://x.com/Fujimoto_hina/status/2027903683154088431)
 
 <a id="case-317"></a>
@@ -9903,7 +9625,6 @@ Model pose: playful or confident smile, arm fully extended toward camera, finger
 Camera: ultra-wide 20–28mm aesthetic, dynamic foreground exaggeration, shallow-to-medium depth of field.  
 Lighting: punchy commercial lighting with defined highlights and reflections, crisp packaging edges, vibrant color grading. Hyper-detailed skin texture and fabric realism.
 ```
-
 来源：[@Maercihh](https://x.com/Maercihh/status/2026941078885310750)
 
 <a id="case-318"></a>
@@ -9924,7 +9645,6 @@ Model pose: standing behind the product, slightly crouched or leaning forward, o
 Camera: low-angle 24–35mm lens look, dramatic perspective distortion, deep focus on both product and model.  
 Lighting: bright commercial studio lighting, soft shadows, glossy highlights on packaging, high-end campaign finish. 4K–8K realism, no watermark, no embedded text.i ar 9:13
 ```
-
 来源：[@Maercihh](https://x.com/Maercihh/status/2026941078885310750)
 
 <a id="case-327"></a>
@@ -10170,7 +9890,6 @@ Lighting: bright commercial studio lighting, soft shadows, glossy highlights on 
                     "theme": "heritage perfume craftsmanship",
                     "visual_feel": "rich, premium, cinematic ads
 ```
-
 来源：[@meng_dagg695](https://x.com/meng_dagg695/status/2011334627290726746)
 
 <a id="case-328"></a>
@@ -10366,7 +10085,6 @@ Lighting: bright commercial studio lighting, soft shadows, glossy highlights on 
   "output_goal": "Create a hyper-realistic cinematic selfie image of a woman using her exact reference identity, captured from an extreme top-down perspective in a real urban crosswalk, with forced perspective scale, natural daylight, and a Canon camera product prominently held toward the lens."
 }
 ```
-
 来源：[@saniaspeaks_](https://x.com/saniaspeaks_/status/2009834337043394622)
 
 <a id="case-333"></a>
@@ -10378,7 +10096,6 @@ Lighting: bright commercial studio lighting, soft shadows, glossy highlights on 
 ```text
 生成一张AI眼镜的爆炸视图，包含每个组件的名称以及这款产品的几大核心卖点。
 ```
-
 来源：苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
 <a id="case-342"></a>
@@ -10395,7 +10112,6 @@ PHASE 4 - CONSISTENCY: same product silhouette, four distinct palettes
 
 Swap: [ITEM] / [MATERIAL] / [LABEL STYLE]
 ```
-
 来源：[@SRKDAN](https://x.com/SRKDAN/status/2048582939504431195)
 
 <a id="case-385"></a>
@@ -10409,7 +10125,6 @@ Inspired by Tsingtao (China beer)🍺
 
 “Inspired by this product, design a set of cool-style women's clothing”
 ```
-
 来源：[@Popcraft_ai](https://x.com/Popcraft_ai/status/2051142270381170754)
 
 <a id="case-386"></a>
@@ -10430,7 +10145,6 @@ PHASE 4 / SIGNATURE: Apply [BRAND ELEMENT]. Grain, shadow, or overlay.
 
 Swap: [BRAND IDENTITY] / [PRODUCT] / [FORMAT]
 ```
-
 来源：[@SRKDAN](https://x.com/SRKDAN/status/2051482047248560393) / [提示词回复](https://x.com/SRKDAN/status/2051482048729166109)
 
 <a id="case-462"></a>
@@ -10468,7 +10182,6 @@ Swap: [BRAND IDENTITY] / [PRODUCT] / [FORMAT]
 
 ■出力： - 実在する商品にしか見えないレベル - コンビニや100均にありそうなリアリティ - SNSで「これ欲しい」と思わせる完成度
 ```
-
 来源：[@ZetoGroovin](https://x.com/ZetoGroovin/status/2058408514247410003)
 
 <a id="case-475"></a>
@@ -10480,7 +10193,6 @@ Swap: [BRAND IDENTITY] / [PRODUCT] / [FORMAT]
 ```text
 Using the attached image, create an illustration sheet of professional industrial design packaging for the package (PACKAGE TYPE). A centered heroic 3D rendering with realistic materials, soft studio lighting and commercial quality finishes. Surrounded by technical views: front, side, top, bottom, oblique perspective and flat position. Include sketches of the frame structure, crease lines, seam details, and size arrows in millimeters. Show materials and finishes (matte, glossy print, plastic, paper, glass, etc.) in handwritten annotations. Add color swatches, realistic product illustrations, and subtle shadows. Clean sketchbook background, realistic rendering + pencil sketch style, modern design design, ultra-detailed, portfolio ready.
 ```
-
 来源：[@iamaiistudio](https://x.com/iamaiistudio/status/2059305097897914664) / [full prompt](https://aiistudio.com/prompt/2039679180775063573)
 
 <a id="case-485"></a>
@@ -10492,7 +10204,6 @@ Using the attached image, create an illustration sheet of professional industria
 ```text
 Stylish fashion catalog shoot blending streetwear and luxury branding. Female model wearing burgundy slim-fit top and ivory tailored pants, posed in confident relaxed positions across multiple duplicated frames. Slight perspective tilt, dynamic layout collage, soft daylight studio lighting with warm tone grading. Modern shopping website aesthetic, minimal UI-inspired composition, high resolution fashion photography.
 ```
-
 来源：[@Mind_Boticni](https://x.com/Mind_Boticni/status/2061310969192870028)
 
 <a id="case-519"></a>
@@ -10504,7 +10215,6 @@ Stylish fashion catalog shoot blending streetwear and luxury branding. Female mo
 ```text
 100%完整保留上传的原图香水瓶的全部原始外观细节，瓶身造型、薄荷绿玻璃质感、木纹球形瓶盖、原有标签文字完全不做任何修改；瓶身环绕米色织带，周围簇拥薄荷绿玫瑰和浅绿色植物，冷调渐变浅留白背景，冷调逆光柔焦光影，低饱和度冷清高级色调，景深虚化突出香水主体，超写实C4D质感，轻奢高级ins风，适配竖版电商详情页，2K高清
 ```
-
 来源：[@lovimg_com](https://x.com/lovimg_com/status/2077036313832996893) / [full prompt](https://lovimg.com/image-prompts/7391/100)
 
 <a id="cat-brand"></a>
@@ -10521,7 +10231,6 @@ _Logo、VI、吉祥物与品牌触点_（19 例）
 ```text
 A photorealistic selfie of a young man with short wavy dark hair and light stubble on an indoor basketball court. He wears a black athletic t-shirt with a white swoosh. He holds a {argument name="ball color" default="green"} basketball featuring a large white {argument name="logo design" default="OpenAI logo"}. The background shows a hardwood floor, black wall pads, and a basketball hoop against a concrete wall. Bright indoor gym lighting with a casual social media aesthetic.
 ```
-
 来源：[@mirochill](https://x.com/mirochill)
 
 <a id="case-95"></a>
@@ -10559,7 +10268,6 @@ A photorealistic selfie of a young man with short wavy dark hair and light stubb
   }
 }
 ```
-
 来源：[@sayaka_aiart](https://x.com/sayaka_aiart)
 
 <a id="case-115"></a>
@@ -10637,7 +10345,6 @@ A photorealistic selfie of a young man with short wavy dark hair and light stubb
   }
 }
 ```
-
 来源：[@onofumi_AI](https://x.com/onofumi_AI)
 
 <a id="case-136"></a>
@@ -10689,7 +10396,6 @@ A photorealistic selfie of a young man with short wavy dark hair and light stubb
   }
 }
 ```
-
 来源：[@ryuya__31](https://x.com/ryuya__31)
 
 <a id="case-143"></a>
@@ -10701,7 +10407,6 @@ A photorealistic selfie of a young man with short wavy dark hair and light stubb
 ```text
 A photorealistic amateur photograph of a custom building block set resting on a light wood grain table in a living room. In the background stands a large product box with a red logo reading "{argument name="brand name" default="BRICKLY"} BUILDING SETS". The box features text reading "8+", "540 PCS", "5 FIGURES", and the main large title "{argument name="set title" default="WATTERSON FAMILY HOUSE"}". A red circular badge on the box reads "CUSTOM SET FAN DESIGN", and the box art depicts the house and characters under a blue sky. In the foreground sits the fully assembled block model of a {argument name="house color" default="blue"} two-story suburban house with a brown roof, white porch, red steps, a white picket fence, and a blocky green tree. To the left of the house is a built block model of a {argument name="car color" default="pink"} station wagon. Standing in a row in front of the house are exactly 5 custom block minifigures: a blue cat in tan pants, an orange fish with legs, a tall pink rabbit in a white shirt and tie, a blue cat in a white shirt, and a small pink rabbit in an orange dress. The background is a slightly blurred living room with a grey sofa and white blinds.
 ```
-
 来源：[@Gc_qube](https://x.com/Gc_qube)
 
 <a id="case-150"></a>
@@ -10713,7 +10418,6 @@ A photorealistic amateur photograph of a custom building block set resting on a 
 ```text
 A bright, summery commercial product photography shot featuring a refreshing beverage on a weathered wooden table. In the sharp foreground, there is 1 tall glass filled with a golden, bubbly iced drink garnished with 1 lemon slice and a sprig of rosemary, sitting next to 1 silver aluminum can covered in cold condensation. The can prominently displays the English text {argument name="product name" default="TOKYO HIGHBALL"} below a small gold star logo, featuring a graphic of the drink itself and the Japanese text "アルコール分 7%" near the bottom. To the right of the can, 2 cut lemon wedges rest on the table. In the softly blurred background, a sunny beach scene unfolds with sparkling turquoise water and a clear blue sky. Standing to the left in the background is 1 young woman with long brown hair, wearing a white sleeveless top and a light blue skirt, looking out toward the ocean. Floating elegantly in the sky above the scene is the Japanese text {argument name="catchphrase" default="夏、これがいい。"}. The overall lighting is radiant and inviting, with sparkling bokeh and lens flares emphasizing the crisp, cold, and refreshing atmosphere of a perfect summer day.
 ```
-
 来源：[@highball_cho](https://x.com/highball_cho)
 
 <a id="case-160"></a>
@@ -10725,7 +10429,6 @@ A bright, summery commercial product photography shot featuring a refreshing bev
 ```text
 Generate a set of icons for {argument name="device" default="vintage electronic equipment"} in {argument name="style" default="retro skeuomorphic style"}, including icon names in the image.
 ```
-
 来源：[@TanShilong](https://x.com/TanShilong)
 
 <a id="case-172"></a>
@@ -10741,7 +10444,6 @@ Generate a set of icons for {argument name="device" default="vintage electronic 
 [English]
 Design a key visual for a fictional animation. The theme is "Sci-Fi Momotaro". Design charming characters, backgrounds, logos, and promotional slogans, completed in the form of a beautiful illustration, allowing the worldview to be conveyed in a single image.
 ```
-
 来源：[@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN/status/2046575354555617761)
 
 <a id="case-186"></a>
@@ -10781,7 +10483,6 @@ Row 9: keys, relics, and quest items
 Row 10: gems, runes, and crafting materials
 Show each tile as a centered item sprite on a clean background square, rendered as a classic inventory icon — the kind you'd see in a fantasy RPG menu. Keep the overall style consistent, cohesive, and reminiscent of beloved retro fantasy RPGs — charming, detailed, and instantly readable at small sizes.
 ```
-
 来源：[@ProperPrompter](https://x.com/ProperPrompter/status/2046534215311970694)
 
 <a id="case-310"></a>
@@ -10833,7 +10534,6 @@ Visual style: Minimal technical illustration aesthetic, black linework with acce
 Color palette: White background, black annotation lines/text, [BRAND COLOR] for accents and key callouts only.
 Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.​​​​​​​​​​​​​​​​
 ```
-
 来源：[@TechieBySA](https://x.com/TechieBySA/status/2031795709243019280)
 
 <a id="case-351"></a>
@@ -10845,7 +10545,6 @@ Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.​​​�
 ```text
 Cinematic fitness campaign, oversized dumbbell placed diagonally like a statement prop, female model in red performance wear and white shorts seated on one side of the dumbbell, one leg bent, one extended, minimal black studio, reflective floor, bold word “STRENGTH” behind in large typography, sharp lighting, ultra-clean composition, luxury sports aesthetic, 1:1.
 ```
-
 来源：[@AIwithSynthia](https://x.com/AIwithSynthia/status/2048601383545577614)
 
 <a id="case-354"></a>
@@ -10982,7 +10681,6 @@ Cinematic fitness campaign, oversized dumbbell placed diagonally like a statemen
 
 将一切作为结构化品牌手册交付，任何设计师、开发者或AI工具都能在10分钟内完全理解你的品牌。
 ```
-
 来源：[@wanerfu](https://x.com/wanerfu/status/2048659924822184026)
 
 <a id="case-362"></a>
@@ -11038,7 +10736,6 @@ The composition must feel like a high-end design agency presentation.
 
 Ultra-detailed, realistic, clean, aesthetic, and highly shareable.
 ```
-
 来源：[@Preda2005](https://x.com/Preda2005/status/2049846981271699685)
 
 <a id="case-363"></a>
@@ -11097,7 +10794,6 @@ Hyper-real macro + environmental photography.
 Physically accurate magnetic behavior.
 Cinematic yet grounded realism.
 ```
-
 来源：[@Naiknelofar788](https://x.com/Naiknelofar788/status/2049835482331357460)
 
 <a id="case-373"></a>
@@ -11124,7 +10820,6 @@ Cinematic yet grounded realism.
 呈现方式：[请填写，例如：切片展示 / 带骨展示 / 原壳展示]
 产品特色/质感提示：[请填写，例如：肉质纹理清晰、多汁感 / 光泽晶亮 / 肉眼可见油花]
 ```
-
 来源：[@xpg0970](https://x.com/xpg0970/status/2050108279385419965)
 
 <a id="case-477"></a>
@@ -11143,7 +10838,6 @@ The table itself is a physical prop built to look like an Instagram post viewed 
 
 The center of the table is one flat color: [EXACT COLOR + HEX CODE]. All food, drinks, props, and any hand interacting with them must stay strictly inside that central colored zone, nothing crosses the white bands or the table edge. The floor around the table is [FLOOR COLOR] to create clear visual separation. Professional studio lighting with crisp shadows, 8k, tack-sharp focus.
 ```
-
 来源：[@iamaiistudio](https://x.com/iamaiistudio/status/2060210845225980366) / [full prompt](https://aiistudio.com/prompt/2045009725218226475)
 
 <a id="case-496"></a>
@@ -11155,7 +10849,6 @@ The center of the table is one flat color: [EXACT COLOR + HEX CODE]. All food, d
 ```text
 Create a premium 3x2 grid collage of iconic global brand logos recreated entirely from dynamic water formations, floating above a crystal-clear ocean under a vibrant blue sky. Each panel features a different logo sculpted from realistic transparent water, with detailed splashes, droplets, reflections, refractions, and flowing liquid textures. The water forms should look physically accurate, elegant, and instantly recognizable while remaining made completely of water.
 ```
-
 来源：[@AIwithSynthia](https://x.com/AIwithSynthia/status/2062521441141088599)
 
 <a id="case-516"></a>
@@ -11167,7 +10860,6 @@ Create a premium 3x2 grid collage of iconic global brand logos recreated entirel
 ```text
 Create an ultra-detailed hyper-realistic 3D render of {Object} , formed from thick industrial rubber tubing bent into the exact shape of the design, flexible yet dense structure, smooth rounded contours, subtle matte finish, realistic elastomer texture, faint molded seam lines, soft tension at each curve, authentic material compression and stretch behavior, slightly grippy surface quality, engineered object realism, colored using the authentic official brand color palette of [brand], faithful brand-matching hues applied across the tubing, accurate color blocking that follows the original logo design, premium studio product photography aesthetic, isolated on a pure white seamless background, soft diffused studio lighting, realistic contact shadow, macro detail, razor-sharp focus, photorealistic, 8k, 16:9, no watermark, no extra text.
 ```
-
 来源：[@Just_sharon7](https://x.com/Just_sharon7/status/2077034244988150062)
 
 <a id="case-647"></a>
@@ -11181,7 +10873,6 @@ GPT image 2
 
 prompt: Create a charming handcrafted miniature diorama featuring [STORE / BRAND NAME] as the main focal point. Reimagine the recognizable storefront as a cozy, whimsical 3D clay miniature, preserving its signature architectural style, recognizable colors, logo/signage and brand identity. Surround the store with tiny realistic details such as a sidewalk, street lamp, benches, plants, flowers, seasonal decorations, bicycles, small signs and miniature objects related to the store. Add warm glowing lights through the windows and subtle activity around the entrance. Soft cream background, handmade polymer-clay texture, rounded sculpted forms, tiny imperfections, tactile details, cozy stop-motion animation aesthetic, warm studio lighting, highly detailed collectible miniature, elegant composition, 4:5 vertical.
 ```
-
 来源：https://x.com/Naiknelofar788/status/2095477330059903223
 
 <a id="cat-architecture"></a>
@@ -11198,7 +10889,6 @@ _建筑渲染、室内空间、城市规划与鸟瞰_（42 例）
 ```text
 A vintage 35mm film photograph of a {argument name="subject description" default="young Asian woman"} with {argument name="hair style" default="long dark wavy hair and wispy bangs"}. She is wearing a {argument name="clothing" default="white ribbed tank top and a loose beige knit cardigan slipping off one shoulder"}, along with a delicate silver necklace. She has soft makeup with pink blush and glossy lips, looking directly at the camera with slightly parted lips. The lighting is harsh direct camera flash, creating a candid, amateur snapshot aesthetic. The background is a {argument name="setting" default="dimly lit, slightly messy room with clothes on a table and a wooden shelf"}. The image features heavy film grain, slightly muted colors, and a nostalgic, highly realistic photographic texture.
 ```
-
 来源：[@ecooai](https://x.com/ecooai)
 
 <a id="case-46"></a>
@@ -11210,7 +10900,6 @@ A vintage 35mm film photograph of a {argument name="subject description" default
 ```text
 A highly detailed, realistic photograph of a young East Asian woman sitting in a cluttered backstage dressing room, getting ready for a cosplay event. She has {argument name="hair color" default="vibrant short red"} hair styled in a bob with bangs and is wearing an elaborate fantasy warrior costume featuring a {argument name="costume color" default="glossy red"} and gold tiered mini skirt, a white corset top with black lace and red lacing, matching glossy arm guards, and thigh-high boots. She is looking down with a focused expression, using her right hand to adjust the arm guard on her left arm. The vanity counter in front of her is messy, covered with makeup brushes, bottles, a hairbrush, and extra hairpieces. A large, ornate {argument name="prop" default="fantasy sword with a blue blade and gold hilt"} leans against the edge of the counter. The background shows a brightly lit vanity mirror with round bulbs reflecting a clothing rack, capturing a candid, slightly over-sharpened, and highly textured photographic style.
 ```
-
 来源：[@lakeside529](https://x.com/lakeside529)
 
 <a id="case-47"></a>
@@ -11317,7 +11006,6 @@ A highly detailed, realistic photograph of a young East Asian woman sitting in a
   }
 }
 ```
-
 来源：[@makaneko_AI](https://x.com/makaneko_AI)
 
 <a id="case-50"></a>
@@ -11329,7 +11017,6 @@ A highly detailed, realistic photograph of a young East Asian woman sitting in a
 ```text
 A highly detailed, cinematic wide shot of a grand, dark gothic hall with a {argument name="atmosphere" default="dark fantasy"} aesthetic. In the center, a single figure wearing a {argument name="clothing" default="long white robe"} kneels on a highly reflective stone floor, facing an ornate golden altar illuminated by a row of lit candles. To the right of the kneeling figure, a single {argument name="floor object" default="wooden violin"} rests on the ground. The cavernous room is framed by massive dark stone pillars detailed with {argument name="accent color" default="glowing blue"} ethereal cracks and veins. Suspended from the high ceiling are dozens of {argument name="floating objects" default="white porcelain theatrical masks"} hanging on thin strings, filling the upper half of the space and creating a haunting, surreal atmosphere. The lighting is dramatic and moody, featuring a rich color palette of deep blacks, tarnished golds, and cool blue accents. Format 16:9.
 ```
-
 来源：[@nomen_machine](https://x.com/nomen_machine)
 
 <a id="case-53"></a>
@@ -11341,7 +11028,6 @@ A highly detailed, cinematic wide shot of a grand, dark gothic hall with a {argu
 ```text
 A vintage, late 90s amateur flash photograph of a young man repairing an arcade machine. He is kneeling on a dark, patterned arcade carpet, looking back over his shoulder directly at the camera with a neutral expression. He wears a dark short-sleeved t-shirt, baggy blue jeans, chunky white sneakers, and a dark baseball cap. The lower front panel of the arcade cabinet is wide open, exposing its complex internal electronics, including a tangle of wires, green circuit boards, a large speaker, and metal cooling fans at the base. The side of the cabinet features vibrant pink, black, and white graphics with the text "{argument name="arcade game title" default="Dancing Stage"}" and the brand "{argument name="arcade brand" default="KONAMI"}". The setting is a dimly lit arcade interior with other glowing game cabinets visible in the blurred background. A screwdriver lies on the carpet near the man's knee. The image features harsh direct flash lighting, a slightly grainy film texture, deep shadows, and a nostalgic Y2K aesthetic.
 ```
-
 来源：[@nicdunz](https://x.com/nicdunz)
 
 <a id="case-78"></a>
@@ -11485,7 +11171,6 @@ clothing rendering,
 weapon emphasis,
 beautiful anatomy
 ```
-
 来源：[@WOZ1Tx2JZ3kCeBj](https://x.com/WOZ1Tx2JZ3kCeBj)
 
 <a id="case-79"></a>
@@ -11629,7 +11314,6 @@ clothing rendering,
 weapon emphasis,
 beautiful anatomy
 ```
-
 来源：[@WOZ1Tx2JZ3kCeBj](https://x.com/WOZ1Tx2JZ3kCeBj)
 
 <a id="case-80"></a>
@@ -11773,7 +11457,6 @@ clothing rendering,
 weapon emphasis,
 beautiful anatomy
 ```
-
 来源：[@WOZ1Tx2JZ3kCeBj](https://x.com/WOZ1Tx2JZ3kCeBj)
 
 <a id="case-120"></a>
@@ -11785,7 +11468,6 @@ beautiful anatomy
 ```text
 A dynamic anime illustration of a girl with spiky {argument name="hair color" default="blonde"} hair tied in a high ponytail with a black bow, striking teal eyes, and a {argument name="outfit style" default="dark purple and black magical uniform with gold trim and diamond gems"}. She is in an intense crouching superhero landing pose, one hand pressed to the ground and the other raised, casting {argument name="magic color" default="glowing purple"} magic circles. She is shattering through a glass barrier, with sharp, jagged glass shards flying outward toward the viewer. Through the broken frame behind her, a {argument name="background scene" default="stylized silhouette of a gothic city with tall spires against a vibrant purple and orange sunset sky"} is visible. The artwork features {argument name="art style" default="sharp angles, high contrast cel-shading, and vibrant colors"}.
 ```
-
 来源：[@UNIBRACITY](https://x.com/UNIBRACITY)
 
 <a id="case-121"></a>
@@ -11834,7 +11516,6 @@ A dynamic anime illustration of a girl with spiky {argument name="hair color" de
   ]
 }
 ```
-
 来源：[@loilokoji](https://x.com/loilokoji)
 
 <a id="case-127"></a>
@@ -11903,7 +11584,6 @@ A dynamic anime illustration of a girl with spiky {argument name="hair color" de
   }
 }
 ```
-
 来源：[@studiomasakaki](https://x.com/studiomasakaki)
 
 <a id="case-128"></a>
@@ -11939,7 +11619,6 @@ A dynamic anime illustration of a girl with spiky {argument name="hair color" de
   }
 }
 ```
-
 来源：[@masapark95](https://x.com/masapark95)
 
 <a id="case-195"></a>
@@ -11995,7 +11674,6 @@ No outlines or sticker effects. The integration is natural, fluid, and immersive
 Style: cinematic photography, ultra-detailed, 8k, soft lighting, high contrast between reality and ink art, fine art composition, museum-level aesthetic
 Aspect ratio: 3:4
 ```
-
 来源：[@johnAGI168](https://x.com/johnAGI168/status/2046596103919767857)
 
 <a id="case-217"></a>
@@ -12031,7 +11709,6 @@ Aspect ratio: 3:4
   }
 }
 ```
-
 来源：[@BubbleBrain](https://x.com/BubbleBrain/status/2046190539213885806)
 
 <a id="case-279"></a>
@@ -12055,7 +11732,6 @@ Aspect ratio: 3:4
 [English]
 Minimalist neo-Chinese aesthetic style, the picture uses an elegant grayish-white as the background, presenting a three-dimensional sense like paper art silhouettes. A winding S-shaped crack-like edge divides the picture, as if tearing open a layer of paper, revealing the colorful oriental landscape scene inside. Inside the crack, a winding river runs through the entire composition from top to bottom, the river water is rendered in different shades of blue, with clear layers, like a flowing ribbon. Both sides of the riverbank are dotted with verdant hills and terraced fields, the colors are soft, green and red interwoven, showing the tranquil beauty of the pastoral. Ancient-style buildings built along the river are well-proportioned, with flying eaves and upturned corners, white walls and black tiles, appearing more quaint and elegant against the light and shadow. The trees on the bank are lush, the branches and leaves are light and graceful, a small boat is quietly moored in the middle of the water, adding a bit of leisurely artistic conception. The overall composition presents an S-shaped curve, full of rhythm, as if the harmonious coexistence of nature and humanity. The edges of the painting adopt a torn paper effect, creating a visual experience like a three-dimensional relief. The inscription "东方美学" at the bottom is written in black regular script, the date "2026/04/18" echoes with the red seal, the word "CHINA" at the bottom is solemn and eye-catching, and the signature "@LIYUE" ends in a low-key way. The overall atmosphere is quiet and profound, full of poetry and philosophical thinking.
 ```
-
 来源：[@liyue_ai](https://x.com/liyue_ai/status/2045368305079447853)
 
 <a id="case-286"></a>
@@ -12075,7 +11751,6 @@ Minimalist neo-Chinese aesthetic style, the picture uses an elegant grayish-whit
 [English]
 Paper-cut art inspired by the modern urban landscape of Zhujiang New Town, through exquisite hollow-carving techniques on a single sheet of paper, three-dimensionally depicting landmark buildings such as Canton Tower, East and West Twin Towers, and the bustling cityscape. All buildings and elements are connected by smooth lines and structures, with no isolated parts, forming a complete urban scroll. The picture uses metallic foil or glossy paper material, with delicate light and dark gloss on the surface, presenting soft highlights and shadows under illumination, as if gently illuminated by city lights. The background is set against a blurred Zhujiang New Town skyline, dotted with faintly visible outlines of Huacheng Square and trees, overall revealing a modern romantic atmosphere. The work cleverly integrates light dandelion fluff or starlight-like dynamic light points, symbolizing dreams and vitality fluttering and flying in this new city. The overall presents 8K ultra-high-definition vision, rich in details, realistic and full of artistic appeal.
 ```
-
 来源：[@liyue_ai](https://x.com/liyue_ai/status/2045527750606487877)
 
 <a id="case-321"></a>
@@ -12115,7 +11790,6 @@ Background is an urban street with cars and city lights rendered in strong bokeh
 
 Shot on a full-frame cinema camera, 85mm lens, f/1.8, ultra-realistic detail, high dynamic range, cinematic color grading, film-like tones, premium fashion editorial aesthetic, high-budget movie still feeling.
 ```
-
 来源：[OpenNana](https://opennana.com/awesome-prompt-gallery/urban-sunset-fashion-silhouette)
 
 <a id="case-324"></a>
@@ -12131,7 +11805,6 @@ Shot on a full-frame cinema camera, 85mm lens, f/1.8, ultra-realistic detail, hi
 [English]
 A stylish young woman sitting on the front edge of an old vintage bus, wearing a long red trench coat, woolen beanie cap, round blue reflective sunglasses, layered necklaces, and rugged brown leather boots. She has wavy blonde hair and a confident, dreamy expression, looking upward toward the sky. The bus is weathered with peeling paint in turquoise and rust red tones.Bright clear blue sky, urban background with minimal buildings, soft daylight, cinematic color grading, shallow depth of field, high fashion travel vibe, editorial photography, ultra-realistic, 4K resolution, sharp focus, natural skin texture, dramatic composition, film still aesthetic.
 ```
-
 来源：[@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2015337737860403283)
 
 <a id="case-375"></a>
@@ -12145,7 +11818,6 @@ A stylish young woman sitting on the front edge of an old vintage bus, wearing a
 
 背景可以加上他们聊天内容，按时间轴的走向，重叠在古希腊雅典的城市风光中。
 ```
-
 来源：[@ToroJushiAi](https://x.com/ToroJushiAi/status/2050713034503409874)
 
 <a id="case-390"></a>
@@ -12199,7 +11871,6 @@ Quality:
 output_goal:
 A single, cohesive felt diorama world that instantly conveys the identity and atmosphere of the chosen country through integrated landscape, culture, and daily life
 ```
-
 来源：[@volkan_iras](https://x.com/volkan_iras/status/2051403524966141980) / [提示词回复](https://x.com/volkan_iras/status/2051403530590638325)
 
 <a id="case-391"></a>
@@ -12211,7 +11882,6 @@ A single, cohesive felt diorama world that instantly conveys the identity and at
 ```text
 <instructions> input: continent pick 4 lesser known countries in that continent function drawx($lesser known country){ > Anchor 1: "$lesser known's famous architecture" (it's texture, material and color) > Anchor 2: "$lesser known's famous fashion " (it's texture, material and color) > Anchor 3: "$lesser known's famous food " (it's texture, material and color) > > **Instruction:** Render a dress design that exists at the exact center of this triangle. } output: 2x2 grid, drawx( for each lesser known country)
 ```
-
 来源：[@Gdgtify](https://x.com/Gdgtify/status/2051428657571279137)
 
 <a id="case-392"></a>
@@ -12223,7 +11893,6 @@ A single, cohesive felt diorama world that instantly conveys the identity and at
 ```text
 Macro photograph of a miniature city hidden in human hair, clearly on a real human head, with part of the forehead and hairline visible, realistic skin texture with pores, tiny people walking through the streets between the hair strands, extremely small but realistic proportions, macro photography, 85mm lens, shallow depth of field, natural lighting, neutral colors, no warm tones, ultra realistic hair with visible roots, natural imperfections, slightly messy strands, realistic materials, slightly dirty buildings, no perfect surfaces, photorealistic, looks like a real photo, no illustration, no CGI, no glow
 ```
-
 来源：[@krafterlab](https://x.com/krafterlab/status/2051399740986740986)
 
 <a id="case-395"></a>
@@ -12235,7 +11904,6 @@ Macro photograph of a miniature city hidden in human hair, clearly on a real hum
 ```text
 Create a cinematic dark fantasy action scene in a ruined cathedral hall: a {argument name="hero type" default="female armored knight-mage"} crouches in a defensive lunge on the left foreground, wearing ornate dark steel and leather plate armor with a long cream-and-black tabard, one arm extended behind her gripping a spiked mace or morning star crackling with golden magic sparks, the other arm braced forward behind a round glowing shield rimmed with warm light. Opposite her in the right midground is a massive {argument name="enemy type" default="headless stone golem"}, built from cracked gray masonry plates and bound with broken chains, charging with one huge fist raised and rubble falling from its body. Set the battle inside a grand, damaged palace-cathedral interior with towering arches, carved stone columns, tall broken windows, gold-trimmed marble floor in circular geometric patterns, scattered chunks of stone, dust, and debris. Use dramatic backlighting from a bright arched window behind the golem, warm golden magical highlights on the shield and weapon, deep shadows, volumetric dust beams, realistic textures, high-detail armor and stone, dynamic low-angle wide composition, shallow cinematic depth, epic game-cinematic realism, 16:9 widescreen, no text, no UI.
 ```
-
 来源：[@RamonVi25791296](https://x.com/RamonVi25791296/status/2051568239142973832) / [Felo prompt](https://felo.ai/en/gpt-image-2-prompts)
 
 <a id="case-403"></a>
@@ -12253,7 +11921,6 @@ Create a cinematic dark fantasy action scene in a ruined cathedral hall: a {argu
 
 将画面优化为竖版【9:16】比例（1080×1440），适用于社交媒体展示。
 ```
-
 来源：[@MrGafish](https://x.com/MrGafish/status/2052632520563528051) / [补发提示词](https://x.com/MrGafish/status/2052682279257026631)
 
 <a id="case-414"></a>
@@ -12268,7 +11935,6 @@ East Asian young woman in her early 20s. Almond-shaped eyes with soft natural si
 She wears a loose oversized cotton sleep shirt and soft shorts, nothing styled. Her gaze drifts toward the window, posture relaxed and unhurried, one hand resting on her knee, the other barely holding a phone face-down. The bedroom background suggests real life — slightly unmade linen, a potted plant near the window partially in shadow, small cluttered bedside items. Two or three stray hairs fall across her cheek in natural asymmetric displacement, not geometrically placed.
 Soft directional morning light from a side window, cool-to-warm transition across her face and shoulder, long gentle shadows on the bedding behind her. The mood is quietly adrift — not sad, not performing, just suspended in the unhurried first minutes of the day. Subtle ISO 400 film grain in shadow areas, photographic noise texture not CG render smoothness. Aspect ratio 2:3. No watermark, no text overlay, not cartoon, not digitally painted, not illustration, not anime.
 ```
-
 来源：[@ToroJushiAi](https://x.com/ToroJushiAi/status/2053078195482632421)
 
 <a id="case-433"></a>
@@ -12280,7 +11946,6 @@ Soft directional morning light from a side window, cool-to-warm transition acros
 ```text
 Dreamy watercolor travel illustration of a peaceful Korean city street, hand-painted urban sketchbook style, delicate ink linework mixed with soft watercolor washes, cozy café storefronts, warm bakery lights glowing through windows, quiet morning atmosphere after light rain, reflective wet pavement, pedestrians with umbrellas and tote bags, bicycles parked along narrow streets, traditional Korean signs and typography, subtle Korean text labels, soft beige paper texture background, architectural sketch aesthetic, calm everyday city life, muted earthy palette with warm browns, faded greens, cream whites and soft blue accents, highly detailed pen-and-ink drawing, loose expressive brush strokes, travel journal composition, editorial postcard layout, elegant serif title text at top (“SEOUL”, “JEONJU”, “DAEJEON”), handwritten notes and date stamps, vintage travel diary aesthetic, cozy East Asian urban scenery, cinematic slice-of-life mood, watercolor bleeding edges, natural perspective, atmospheric depth, peaceful storytelling illustration, minimalist negative space, ultra detailed watercolor texture, sketchbook traveler aesthetic, nostalgic café culture vibes, Studio Ghibli-inspired realism, European urban sketching style mixed with Korean street scenery, soft daylight, calm and poetic composition, vertical poster design, premium art print quality.
 ```
-
 来源：[@Taaruk_](https://x.com/Taaruk_/status/2055492435862773978)
 
 <a id="case-448"></a>
@@ -12327,7 +11992,6 @@ retro war-film cinematic lighting, fiery aerial-battle atmosphere, dramatic clou
 
 cinematic aerial tracking shot, immersive dogfight atmosphere, dynamic motion blur from fighter planes and explosions, documentary-meets-retro-arcade realism, futuristic Manila-inspired 1942 metropolis, “classic arcade air combat became civilization” atmosphere
 ```
-
 来源：[@Xaroon_x](https://x.com/Xaroon_x/status/2056940561148363010)
 
 <a id="case-461"></a>
@@ -12339,7 +12003,6 @@ cinematic aerial tracking shot, immersive dogfight atmosphere, dynamic motion bl
 ```text
 Adorable kawaii family travel collage, combining four different scenes in one composition, cute anime-inspired parents, friends and children taking selfies and exploring together, handcrafted paper-cut diorama style, layered cardboard and felt textures, miniature world aesthetic, cozy pastel color palette, soft cinematic lighting, playful vacation atmosphere, urban city station scene, shopping mall selfie corner, outdoor nature park, and crowded playground blended into one seamless scrapbook-style artwork, charming sticker-like white outlines around characters, tiny tourists and pedestrians in background, whimsical handcrafted textures, soft depth of field, highly detailed paper craft illustration, warm nostalgic mood, cute casual outfits with glasses, caps, bags and sandals, dreamy Instagram kawaii aesthetic, storybook composition, ultra detailed miniature environment, 3D layered paper art, tilt-shift effect, cozy wholesome family travel vibes, premium handcrafted look, high detail, 8k, vertical composition
 ```
-
 来源：[@Taaruk_](https://x.com/Taaruk_/status/2058400056722731079)
 
 <a id="case-491"></a>
@@ -12357,7 +12020,6 @@ Style: Y2K flash photography, candid mirror selfie, Korean editorial aesthetic, 
 
 Camera: direct flash, compact digital camera, 35mm equivalent, harsh lighting, slight motion blur, visible noise, natural color grading, vertical composition, ultra-realistic, high detail.
 ```
-
 来源：[@jzaib4269](https://x.com/jzaib4269/status/2062184740849930384)
 
 <a id="case-528"></a>
@@ -12375,7 +12037,6 @@ Render the character in a charming Japanese hand-drawn anime/chibi illustration 
 
 Cinematic composition, natural perspective, soft evening lighting, warm Christmas glow, realistic background depth, detailed clothing texture, cozy winter atmosphere, high detail, aesthetically pleasing, vertical portrait composition.
 ```
-
 来源：[@Sairah_0](https://x.com/Sairah_0/status/2091401764360896762)
 
 <a id="case-533"></a>
@@ -12409,7 +12070,6 @@ Prompt：超写实夜间室内走廊人像摄影，竖版约 2:3，一名年轻�
 
 避免影棚场景、健身房、豪华酒店、正午自然光、完全暖色调、人物过度放大、裁掉双脚、长发、卷发、齐整发型、紧身裤、高跟鞋、袜子、复杂首饰、夸张健美肌肉、极端蜂腰、身体比例失真、过度磨皮、塑料皮肤、CG感、动漫脸、鱼眼畸变、强背景虚化、多余人物、错误手指、多余肢体、水印和乱码文字。
 ```
-
 来源：https://x.com/DDJCXX/status/2091713226400768380?s=20
 
 <a id="case-534"></a>
@@ -12437,7 +12097,6 @@ Prompt：超写实夜间室内走廊人像摄影，竖版约 2:3，一名年轻�
 
 日式高调人像色彩调校，曝光度高，高光部分如奶油般柔滑，阴影部分柔和，饱和度适中。
 ```
-
 来源：https://x.com/VIBEQUIRKLABS/status/2091900862314774658?s=20
 
 <a id="case-569"></a>
@@ -12455,7 +12114,6 @@ Prompt:
  
 ei ta morning er dike dibo sorasori morning na bole oono vabe morning hook likhe dau]
 ```
-
 来源：https://x.com/Tanvir48992/status/2092082284602204582
 
 <a id="case-574"></a>
@@ -12473,7 +12131,6 @@ ei ta morning er dike dibo sorasori morning na bole oono vabe morning hook likhe
 
 3:4，slow-shutter digital photography，韩系夜晚自拍写真。  成年韩系女性，冷调玫瑰妆，半哑光肌，黑色长直发。  服装：黑色露肩上衣，灰色外套搭在肩上。  场景：夜桥城市背景，灯光形成横向拖尾。  动作：鼓脸卖萌，一只手靠近镜头产生轻微运动模糊。  镜头：闪光灯锁定眼睛和脸部，背景保持慢门动态。  真实手机摄影，情侣视角。  负面：不要第二张脸，不要手指错误，不要畸形身体。
 ```
-
 来源：https://x.com/chenlinspark/status/2092243096834547879
 
 <a id="case-588"></a>
@@ -12489,7 +12146,6 @@ Prompt:
 
 Ultra-realistic portrait of a cute adult East Asian woman, soft clean skin, delicate features, dark messy bun with loose strands, black off-shoulder sweater, silver necklace and black shoulder bag, natural city background, warm sunlight, cinematic lighting, shallow depth of field, stylish candid fashion photography, soft cute expression, 9:16.
 ```
-
 来源：https://x.com/MissDelulu9/status/2092276982860112211
 
 <a id="case-603"></a>
@@ -12529,7 +12185,6 @@ Ultra-realistic portrait of a cute adult East Asian woman, soft clean skin, deli
 ネガティブ：
 腰の深いドレープスリットを閉じない；カメラを顔から離さない
 ```
-
 来源：https://x.com/CyberTotal2026/status/2092575031582941258
 
 <a id="case-605"></a>
@@ -12543,7 +12198,6 @@ prompt：http://promptsref.com/tool/AI-Image-Generator/share/bcb0dd422e3f1515b78
 
 Create an authentic vertical 9:16 close-range smartphone portrait of an explicitly adult young woman, combining restrained classical East-Asian-inspired styling with the intimacy of a modern phone selfie. She is seated beside a window in a quiet private interior, leaning noticeably forward toward the lens. Place the camera extremely close, around slightly below face level or upper-chest height, using a mild upward angle. Reproduce the perspective of a 24–28mm full-frame-equivalent smartphone front camera: keep the face relatively natural while allowing the broad sleeve extending toward the camera to become visibly enlarged in the lower-right foreground.  Preserve a small, softly shaped natural face, slight real-world facial asymmetry, a clean but not artificially sharp jawline, and normally proportioned eyes. Her head tilts gently toward image-right, with the chin very slightly raised. She looks directly into the lens with relaxed eyelids and clear window catchlights in her dark irises. Her lips remain naturally closed, without an obvious smile. The expression should feel as though she has just leaned closer to glance at the phone and has not deliberately arranged her face for the photograph; the quiet feeling from the previous second still remains.  Use thin, low-saturation East-Asian costume-drama-inspired makeup: soft gray-brown brows, extremely fine brown-black inner eyeliner, light taupe mixed with muted dusty-rose eyeshadow, naturally elongated but not overly dense eyelashes, almost no visible nose contour, a trace of cool-pink cheek color, and softly blurred muted rose-pink lips. Avoid heavy contouring and obvious powder highlighter.  Her hair is long, mostly straight, and nearly black with a deep brown undertone, lightly tied or half-pinned behind the head. Leave irregular wispy long bangs across the forehead and several long strands beside the cheeks. Do not make the hair commercially perfect. Retain many tiny flyaway hairs around the crown, temples, ears, and silhouette. Strong real backlight from the upper-left turns these flyaways into thin silver-white lines, as if a mild draft disturbed the hair a moment earlier and it has not completely settled yet.  Add delicate small floral hair ornaments on both sides. On image-left, use pale petals with a few pastel blue and soft pink beads. On image-right, use a fine gold-toned structure with pearls and several small teardrop-shaped dangling beads. Keep them lightweight and refined. Do not add a visible necklace or large modern statement jewelry.  The adult figure is naturally slender. Visible skin includes the full face, neck, both shoulders, collarbones, the upper-chest area down to the garment edge, and only a small amount of upper-arm skin. The skin is fair with a neutral-to-slightly-warm undertone, while blue-gray environmental reflections introduce a subtle cyan-gray cast into the shadow side. The skin should visually and tactilely suggest fine, soft, mildly warm human skin: smooth but not waxy, with extremely subtle pores, tiny facial hairs, local tone variation, and natural softness rather than aggressive beauty filtering.  Dress her in a loose ivory or creamy off-white overlapping classical robe or lightweight Han-inspired garment, with broad sleeves and a naturally draped deep V-shaped neckline. The fabric is soft, lightweight, faintly translucent, and lightly wrinkled. Gravity and the forward-leaning posture cause the neckline to slip naturally off the shoulders, revealing the collarbones and upper chest. Keep the amount of exposed skin exactly within the reference range; do not increase the neckline or create exaggerated chest compression. At the waist, only a small portion of a desaturated pale blue-gray or mint-gray fabric sash is visible. The broad sleeve in the lower-right sits extremely close to the lens, becomes oversized from wide-angle perspective, and catches a bright patch of real sunlight.  Treat the illumination as physical light rather than vague “atmospheric lighting.” The only strong key light is genuine daylight from a real window located upper-left or upper-left-rear of the subject. Slightly cool-white direct sunlight strikes the hair, ear area, left shoulder, collarbones, and part of the foreground sleeve. Allow mild highlight clipping, especially across the left shoulder. Retain soft but clearly physical shadows beneath the chin and along the neck. The cool blue-gray walls act only as weak natural bounce, introducing a faint cyan-gray fill into shadow areas rather than eliminating the shadows. Do not introduce studio three-point lighting, artificial fill lamps, or fake rim lights.  The background is an ordinary quiet private interior rather than a designed set. Use low-saturation cool blue-gray walls and a simple wall-to-ceiling transition, with only a narrow dark edge of a cabinet, doorframe, or furniture piece along image-right. Keep decoration minimal. The background should sit approximately one to two stops darker than the subject and fall gently out of focus while still retaining believable room geometry.  The final photograph should feel like a casual window-side image taken in the morning or earlier part of the day: cool, quiet, soft, restrained, slightly half-awake. The visual tension comes from classical hair ornaments and clothing appearing inside a very modern close smartphone perspective. Preserve accidents and imperfections: flyaway hair, uneven shoulder height, slightly displaced neckline, mild highlight clipping, subtle phone sharpening, tiny digital noise, mild compression texture, slight framing drift, natural facial asymmetry, and foreground wide-angle distortion. She had already leaned into the light; she is looking into the lens now; in the next second she may look away or sit upright again.  Negative prompt: minor, underage appearance, anime eyes, doll face, influencer face, V-shaped jaw, plastic skin, over-smoothed skin, heavy makeup, red lipstick, extreme cleavage, exaggerated breasts, sexualized pose, perfect symmetry, studio lighting, three-point lighting, fake rim light, golden warm lighting, heavy HDR, extreme bokeh, fantasy palace, oversized crown, extra jewelry, visible phone, mirror selfie.
 ```
-
 来源：https://x.com/underwoodxie96/status/2093307475617563027
 
 <a id="case-623"></a>
@@ -12585,7 +12239,6 @@ GPT IMAGE2 提示词：
 
 #今日提示词 #GPT #IMAGE2
 ```
-
 来源：https://x.com/AIVideoHub_/status/2094441446963290556
 
 <a id="case-625"></a>
@@ -12630,7 +12283,6 @@ GPT IMAGE2 提示词：
 
 #今日提示词 #GPT #image2
 ```
-
 来源：https://x.com/AIVideoHub_/status/2094357971103109154
 
 <a id="case-631"></a>
@@ -12670,7 +12322,6 @@ GPT IMAGE2 提示词：
 
 #今日提示词 #GPT #image2
 ```
-
 来源：https://x.com/AIVideoHub_/status/2093158223025148107
 
 <a id="case-648"></a>
@@ -12711,7 +12362,6 @@ Avoid: photorealism, busy travel-poster aesthetics, multiple colors, excessive t
 
 Overall feeling: quiet, intelligent, artistic, luxurious, poetic, instantly recognizable, and suitable as a high-end collectible gallery print.
 ```
-
 来源：https://x.com/Naiknelofar788/status/2095405315768627299
 
 <a id="case-650"></a>
@@ -12752,13 +12402,12 @@ Overall feeling: quiet, sophisticated, architectural, documentary, tactile, vint
 
 Avoid: dividing lines, split-screen effect, seals, postcards, logos, stickers, tourist templates, smooth vectors, cartoon style, 3D effects, oversaturation, excessive detail, excessive text, and any alteration of the original photograph.
 ```
-
 来源：https://x.com/Naiknelofar788/status/2094446192260481197
 
 <a id="cat-photo"></a>
 
 ## 📷 摄影与写真人像
-_人像写真、手机摄影、胶片与商业摄影质感_（99 例）
+_人像写真、手机摄影、胶片与商业摄影质感_（100 例）
 
 <a id="case-28"></a>
 
@@ -12795,7 +12444,6 @@ _人像写真、手机摄影、胶片与商业摄影质感_（99 例）
   }
 }
 ```
-
 来源：[@frankfu1688](https://x.com/frankfu1688)
 
 <a id="case-30"></a>
@@ -12807,7 +12455,6 @@ _人像写真、手机摄影、胶片与商业摄影质感_（99 例）
 ```text
 Express [{argument name="subject" default="a powerful AI builder"}] in a graffiti sketch style, presenting an overall visual effect of rapid sketching, free transformation, improvised hand-drawing, and draft-like qualities. Lines are casual, exaggerated, varied in thickness, slightly messy but rhythmic and expressive, emphasizing generalization, exaggeration, fun, and spontaneity rather than rigorous realism or fine detail. Colors use rough, dry-brush block expressions, retaining uneven smears, brush marks, flying whites, and overlapping feelings. Colors automatically adapt to the [theme/subject], but the overall expression remains graffiti-like, sketch-like, and generalized. No transparent watercolor smudging, no delicate watercolor transitions, no paper textures, no soft atomization, and no dreamlike quality. The background is mainly white space, remaining simple, relaxed, unfinished, and design-oriented. A small amount of auxiliary symbols, arrows, marks, circles, repeated lines, handwritten text, or other graffiti elements can be added to enhance the sketchbook or essay-like visual language, but should not be too crowded or destroy the subject and atmosphere of the white space. The image content does not need to be written in advance; the [{argument name="subject" default="a powerful AI builder"}] will automatically deduce and generate the most suitable main image, actions, related elements, symbols, or simplified scenes. The whole maintains a unified graffiti sketch style and exaggerated generalized expression, avoiding complex realistic backgrounds and over-elaboration. Naturally add a unique signature "{argument name="signature" default="BlanPlan"}" as part of the image, placed discreetly but clearly in the lower-left, lower-right, or near the title. The style should be unified with the overall layout, like an artist's signature or design inscription; the signature font should be refined, restrained, and high-end, not too large, not destructive to the main composition, and not appearing abrupt or cheap.
 ```
-
 来源：[@opc_8838](https://x.com/opc_8838)
 
 <a id="case-31"></a>
@@ -12819,7 +12466,6 @@ Express [{argument name="subject" default="a powerful AI builder"}] in a graffit
 ```text
 A highly detailed, photorealistic anime-style portrait of a young woman crouching down and looking slightly down at the camera from a low angle. She has long, flowing {argument name="hair color" default="ash-blonde"} hair blowing gently in the wind, pale skin, and large, expressive eyes. She is wearing a {argument name="outfit" default="Japanese school uniform with a light grey cardigan, white shirt, dark plaid bow tie, dark plaid pleated skirt, dark knee-high socks, and black leather loafers"}. Her arms are resting casually on her knees. The background is a bright {argument name="sky condition" default="clear blue sky with scattered white clouds"}, with a blurred {argument name="background setting" default="chain-link fence and green trees"} visible at the very bottom, suggesting a schoolyard. The lighting is bright, natural daylight with soft, cinematic shadows, emphasizing the realistic textures of her clothing and skin.
 ```
-
 来源：[@jun_kongo](https://x.com/jun_kongo)
 
 <a id="case-35"></a>
@@ -12831,7 +12477,6 @@ A highly detailed, photorealistic anime-style portrait of a young woman crouchin
 ```text
 A {argument name="photography style" default="photorealistic portrait with shallow depth of field and soft bokeh"} of a {argument name="subject" default="young Japanese woman"} looking back over her shoulder at the camera with a {argument name="expression" default="gentle smile"}. She is wearing a {argument name="attire" default="light beige kimono with orange maple leaf patterns"} and a gold obi. Her dark hair is styled in an elegant updo with loose strands framing her face, and she wears small pearl earrings. The background features an {argument name="setting" default="autumn garden with vibrant red maple leaves"}, with bright red foliage framing the top left and a heavily blurred, soft background creating a serene, cinematic atmosphere.
 ```
-
 来源：[@kazmaendo](https://x.com/kazmaendo)
 
 <a id="case-42"></a>
@@ -12843,7 +12488,6 @@ A {argument name="photography style" default="photorealistic portrait with shall
 ```text
 Express {argument name="subject" default="a powerful AI builder"} in a graffiti sketch style, presenting an overall visual effect of quick outlines, free deformation, improvised hand-drawing, and draft-like sketches. The lines are casual, exaggerated, varying in thickness, and slightly messy but rhythmic and expressive, emphasizing generalization, exaggeration, fun, and spontaneity rather than rigorous realism or fine detail. The colors are expressed in rough blocks with a distinct dry-brush feel, retaining uneven smears, brush marks, fly-white, and layering. Colors automatically adapt to the {argument name="theme" default="powerful AI builder"}, but the overall expression remains graffiti-like, sketch-like, and generalized. No transparent watercolor smudging effects, no delicate watercolor transitions, no paper textures, no soft atomization, and no dreamy textures. The background is mainly white space, maintaining a sense of simplicity, ease, unfinishedness, and design. Small amounts of auxiliary symbols, arrows, marks, circles, repeated lines, handwritten text, or other graffiti elements can be added to enhance the sketchbook or essay-like visual language, but they should not be too crowded or destroy the subject and the white space atmosphere. The content of the picture does not need to be written in advance; {argument name="character image" default="a powerful AI builder"} will automatically deduce and generate the most suitable main image, actions, related elements, symbols, or simplified scenes. The overall style remains a unified graffiti sketch style and an exaggerated, generalized expression, avoiding complex realistic backgrounds and excessive detail. A special signature 'BlanPlan' should be naturally added as part of the picture, in a low-key but clear position such as the bottom left, bottom right, or near the title. The style should be unified with the overall layout, like an artist's signature or a design mark; the signature font should be exquisite, restrained, and high-end, not too large, and should not destroy the main composition or appear abrupt or cheap.
 ```
-
 来源：[@blanplan](https://x.com/blanplan)
 
 <a id="case-45"></a>
@@ -12855,7 +12499,6 @@ Express {argument name="subject" default="a powerful AI builder"} in a graffiti 
 ```text
 A striking black and white close-up portrait of a {argument name="subject description" default="handsome young Asian man"} with {argument name="hair style" default="messy wet hair sticking to his forehead"}. His face and neck are glistening, covered in highly detailed {argument name="skin texture detail" default="water droplets and sweat"}. He has an intense, melancholic gaze directed off-camera to the left. The lighting is dramatic and high-contrast, emphasizing his sharp jawline, full lips, and specular highlights on the wet skin against a {argument name="background" default="pitch-black background"}. Shot in a photorealistic, high-fashion editorial style with cinematic chiaroscuro.
 ```
-
 来源：[@AoYe999](https://x.com/AoYe999)
 
 <a id="case-52"></a>
@@ -12867,7 +12510,6 @@ A striking black and white close-up portrait of a {argument name="subject descri
 ```text
 A realistic photograph of a whiteboard with a highly detailed {argument name="marker color" default="green"} dry-erase marker drawing of {argument name="subject" default="a samurai with a messy topknot and facial hair, hands clasped in prayer"}. The character is drawn in a {argument name="art style" default="detailed manga sketch"} style, shown in profile with eyes closed, wearing a traditional kimono with a katana tucked into his belt. To the left of the character, handwritten text in all-caps reads "{argument name="text line 1" default="VAGABOND"}" with "{argument name="text line 2" default="MUSASHI"}" written directly below it. The whiteboard has a glossy surface with realistic light reflections and glare on the left side, and a thin metallic frame is visible at the bottom edge, giving the impression of an authentic classroom or office environment.
 ```
-
 来源：[@nicdunz](https://x.com/nicdunz)
 
 <a id="case-56"></a>
@@ -12879,7 +12521,6 @@ A realistic photograph of a whiteboard with a highly detailed {argument name="ma
 ```text
 A candid, realistic photograph of a young {argument name="subject aesthetic" default="goth"} woman with pale skin, long straight black hair with bangs, heavy black eyeliner, and black lipstick. She has a {argument name="expression" default="deadpan"} expression, looking directly at the camera while sitting on a children's coin-operated {argument name="ride type" default="unicorn"} ride. She is wearing a black lace-trimmed tank top, black arm warmers, layered necklaces including a choker, black lace tights, and chunky black platform boots with buckles. A large black shoulder bag hangs from her arm. The ride is a white unicorn with a pink mane, gold horn, and purple hooves, mounted on a purple base with a small sticker reading "{argument name="ride cost" default="50¢ PER RIDE"}". The setting is outside a store with a tan cinderblock wall. To the left is a glass door reflecting a person, a brown trash can, and a white sign with red text reading "{argument name="sign text" default="NO PARKING FIRE LANE"}". To the right is a blue vending machine. Overcast, natural daylight.
 ```
-
 来源：[@danieldmai](https://x.com/danieldmai)
 
 <a id="case-81"></a>
@@ -12932,7 +12573,6 @@ A candid, realistic photograph of a young {argument name="subject aesthetic" def
   }
 }
 ```
-
 来源：[@HumanOS_v2](https://x.com/HumanOS_v2)
 
 <a id="case-142"></a>
@@ -12981,7 +12621,6 @@ A candid, realistic photograph of a young {argument name="subject aesthetic" def
   }
 }
 ```
-
 来源：[@anemone_sd](https://x.com/anemone_sd)
 
 <a id="case-154"></a>
@@ -12993,7 +12632,6 @@ A candid, realistic photograph of a young {argument name="subject aesthetic" def
 ```text
 A photorealistic, high-resolution commercial photograph of a {argument name="car model and color" default="bright blue Alpine A110 R sports car"} parked in the foreground inside a massive aircraft hangar. The car features a black carbon fiber hood, black roof, black alloy wheels, and a front license plate reading "{argument name="license plate text" default="A110 R"}". Directly behind the car, dominating the background, is a {argument name="airplane model" default="white Airbus A320 commercial airliner"} with a blue tail. The hangar has a highly polished, reflective concrete floor that mirrors the car and plane. To the left, a sign on the metal wall reads "{argument name="hangar sign text" default="HANGAR 05 MAINTENANCE"}". The hangar doors are wide open, revealing a bright, overcast sky and a distant cityscape. The lighting is soft and cinematic, highlighting the sleek aerodynamic curves of both vehicles.
 ```
-
 来源：[@AlwaveNazca](https://x.com/AlwaveNazca)
 
 <a id="case-173"></a>
@@ -13015,7 +12653,6 @@ Clothing details: The model wears an exquisite pale ice blue chest-high ruqun, m
 Material and light and shadow: The image presents 8k ultra-high resolution and extreme rendering of macro textures of the fabric. The lighting uses soft natural side light (Tyndall Effect Typndall Effect), accurately transmitting through the light gauze, creating a sense of translucency (Translucency) and fluidity of the fabric.
 Composition and lens: Uses 85mm golden portrait lens effect, f/1.8 large aperture, full-body composition, model standing in the center
 ```
-
 来源：[@fdtreesky](https://x.com/fdtreesky/status/2046508731090018331)
 
 <a id="case-187"></a>
@@ -13031,7 +12668,6 @@ Composition and lens: Uses 85mm golden portrait lens effect, f/1.8 large apertur
 [English]
 9:16 vertical — editorial portrait, single subject  soft black mist filter, subtle haze, gentle highlight bloom, muted tones  minimal indoor space, clean background, slight texture  young Korean woman, minimal makeup, natural skin texture  outfit: fitted ribbed knit top or soft camisole layered under a loose shirt, paired with high-waisted shorts or skirt; fabric slightly clings to body shape, soft and natural, no revealing elements  hair: slightly messy, natural volume  pose: sitting on floor with one leg bent and the other relaxed, body slightly leaning, shoulders not aligned, head tilted  composition: subject slightly off-center, negative space present  expression: calm, slightly distant, natural lips  lighting: soft side light, gentle shadow falloff  mood: understated, quiet, subtly sensual through natural body lines, relaxed and unposed  quality: fine grain, slight softness, realistic look
 ```
-
 来源：[@BubbleBrain](https://x.com/BubbleBrain/status/2046434670724907395)
 
 <a id="case-198"></a>
@@ -13109,7 +12745,6 @@ Composition and lens: Uses 85mm golden portrait lens effect, f/1.8 large apertur
   }
 }
 ```
-
 来源：[@IamEmily2050](https://x.com/IamEmily2050/status/2046584217656570035)
 
 <a id="case-199"></a>
@@ -13241,7 +12876,6 @@ Composition and lens: Uses 85mm golden portrait lens effect, f/1.8 large apertur
   beauty filter,
   uncanny skin smoothing" }
 ```
-
 来源：[@IamEmily2050](https://x.com/IamEmily2050/status/2046602266627465534)
 
 <a id="case-212"></a>
@@ -13265,7 +12899,6 @@ Adding prompts according to your preferences will make it more colorful and rich
 ・Rich scenes
 ・Large amount of information
 ```
-
 来源：[@Kashiko_AIart](https://x.com/Kashiko_AIart/status/2046492817804099794)
 
 <a id="case-219"></a>
@@ -13281,7 +12914,6 @@ Adding prompts according to your preferences will make it more colorful and rich
 [English]
 9:16 vertical — a 3x3 grid collage (nine images) forming a Korean idol portrait photoshoot series. Each frame features the same young Korean female idol, maintaining 100% consistency in facial features, proportions, hairstyle, and identity across all nine shots.   Natural, ultra-realistic skin texture, no retouching, no smoothing. Clean idol-style minimal makeup, soft glow, subtle imperfections.   Hair: long, voluminous dark hair, slightly tousled, consistent across all frames (natural loose flow, slight movement).  Outfit: cohesive Korean idol photoshoot styling — white shirt + short bottoms (or simple neutral-toned outfit), youthful, clean, slightly casual but styled. Same outfit across all frames.  Setting: minimal studio or simple indoor environment (plain wall, soft window light, clean background). Focus on subject, not environment.  Lighting: soft diffused natural light, gentle highlights, low contrast, slightly airy tones, subtle film-like softness.  Camera style: intimate portrait photography, slightly handheld feel, subtle imperfections (minor grain, slight blur in motion frames, imperfect framing).  Frame breakdown (3x3 grid):  Top row: - Top left: standing naturally, looking slightly away, relaxed expression - Top center: facing camera, casual mid-motion (hair or body slight movement) - Top right: slight side angle, soft gaze, natural candid feel  Middle row: - Center left: looking slightly upward, soft thoughtful expression - Center: close-up portrait, direct eye contact, gentle idol smile - Center right: turning body slightly, mid-motion candid frame  Bottom row: - Bottom left: seated or leaning casually, relaxed posture - Bottom center: back partially turned, looking over shoulder toward camera - Bottom right: standing close to frame, slightly playful or soft expression  Mood: Korean idol photobook / photocard aesthetic, intimate, soft, natural, everyday charm.  Quality: ultra-realistic, 8K detail, subtle analog film grain, natural imperfections, soft dreamy tone
 ```
-
 来源：[@BubbleBrain](https://x.com/BubbleBrain/status/2046151898621993364)
 
 <a id="case-221"></a>
@@ -13297,7 +12929,6 @@ Adding prompts according to your preferences will make it more colorful and rich
 [English]
 Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffused natural window light, slight overexposure, pastel tones, low contrast, soft highlights,  minimal indoor setting near a window with white curtains, clean light-colored wall, natural composition, eye-level, slightly closer full-body framing (mid-thigh to head),  young East Asian woman, natural minimal makeup, soft realistic skin texture, long slightly messy dark hair,  oversized white button-up shirt, light casual shorts, barefoot, simple and relaxed styling,  standing naturally with relaxed posture, arms loosely at sides or slightly behind, facing camera, gentle soft smile, subtle stillness,  focus on light, air, and quiet everyday mood, soft film grain, dreamy and understated atmosphere --ar 9:16
 ```
-
 来源：[@BubbleBrain](https://x.com/BubbleBrain/status/2046115431144902732)
 
 <a id="case-240"></a>
@@ -13313,7 +12944,6 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 [English]
 35mm color film photography with harsh direct on-camera flash, specular highlights on skin and clothing, strong catchlights in eyes, high contrast flash illumination, authentic film grain and color shift, high fashion fresh innocent basketball court editorial style, intimate first-person low-angle POV shot from below, early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless realistic porcelain skin with cool ivory undertone and visible flash specular highlights, fine delicate skin texture with subtle pores micro details and natural dewy glow under flash, fresh natural sporty makeup with soft dewy glow, subtle natural flush on cheeks, natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair tied in a high playful ponytail with some loose strands framing the face and realistic loose strands, wearing a loose white tank top and white high-waisted basketball shorts, white knee-high sports socks, seductive natural leaning pose against the basketball hoop pole on the outdoor court at dusk, body angled sideways with naturally arched back and hips gently pushed back to accentuate perky round hips and sexy butt curve, one leg naturally extended forward toward the camera and the other leg slightly bent to emphasize long sexy legs, both hands lightly resting on the basketball pole at shoulder height, intensely seductive playful yet pitiable doe-eyed gaze straight at the viewer with soft vulnerable longing eyes and a gentle teasing smile full of quiet temptation and desire, harsh direct on-camera flash creating sharp specular highlights and strong catchlights, background with blurred basketball court and hoop under dusk sky, high contrast film color grading with natural flash look, extremely sharp yet soft skin rendering with authentic 35mm direct flash aesthetic, natural hair strands, realistic fabric texture on tank top and shorts with socks detail, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm direct flash film basketball court look --ar 9:16
 ```
-
 来源：[@BubbleBrain](https://x.com/BubbleBrain/status/2045052982728016131)
 
 <a id="case-272"></a>
@@ -13325,7 +12955,6 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 ```text
 35mm film photography, warm vintage Japanese onsen ryokan aesthetic, soft ambient wooden lantern lighting mixed with gentle natural window light, subtle film grain, gentle color shift, high atmosphere editorial style, intimate medium shot, early 20s beautiful Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with warm ivory undertone, visible subtle skin texture and micro pores, soft natural makeup with dewy glow, subtle rosy flush on cheeks, natural soft pink lips slightly parted, long dark brown hair tied in a loose low bun with some messy strands falling around face and neck, wearing a loose white yukata (traditional Japanese bathrobe) deliberately slipped off one shoulder and loosely tied at the waist, the fabric slightly open revealing smooth skin and subtle cleavage, barefoot, seductive relaxed sitting pose on the edge of a traditional wooden engawa veranda at a vintage onsen ryokan, body slightly turned toward the camera, one leg bent with foot resting on the wooden floor, the other leg gently dangling, one hand lightly holding the yukata collar, the other hand resting on the wooden floor behind her for support, softly arched back to gently accentuate curves, intensely seductive yet gentle and inviting gaze straight at the viewer with soft doe eyes full of quiet temptation and warmth, warm wooden interior with paper sliding doors and distant steaming hot spring in soft focus, gentle rim lighting highlighting skin and fabric texture, authentic vintage film color grading with warm tones, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the yukata, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm film Japanese onsen ryokan atmosphere
 ```
-
 来源：[@BubbleBrain](https://x.com/BubbleBrain/status/2045092449803284923)
 
 <a id="case-273"></a>
@@ -13341,7 +12970,6 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 [English]
 Generate a cinematic minimal portrait of a solitary man standing in an intense orange to red gradient environment, strong silhouette lighting, deep shadow contrast, reflective glossy floor, symmetrical composition, minimal
 ```
-
 来源：[@iam_miharbi](https://x.com/iam_miharbi/status/2045151354679665101)
 
 <a id="case-277"></a>
@@ -13357,7 +12985,6 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 [English]
 Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy vanilla, silk press, mahogany red, subtle confidence, textured fabric, sapphire blue, minimal jewelry, beachside breeze, lens flare effect, nostalgic, cinematic lens, symmetrical composition, soft focus, high fashion photography, monochromatic, dewy finish, mysterious tension, layered elements
 ```
-
 来源：[@patrickassale](https://x.com/patrickassale/status/2044581766309060765)
 
 <a id="case-322"></a>
@@ -13373,7 +13000,6 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 [English]
 Professional photo, a guy, a 30-year-old Russian model (reference image), is facing the lens, tilted towards the camera, angle from below, shot with a wide-angle lens. The guy is tilted and shows a bottle close-up to the camera, a hand with a bottle close-up right in front of the lens. The label and direction of the bottle are straight so the label is readable. He's wearing white sneakers, one foot in front of the camera. The guy is standing on the street, wet asphalt and splashes from below. Bright colors, cinematic lighting, the light is behind and on the model’s face. --v7 --ar 3:4 --style raw
 ```
-
 来源：[@ecommartinez](https://x.com/ecommartinez/status/2017311074551533921)
 
 <a id="case-325"></a>
@@ -13389,7 +13015,6 @@ Professional photo, a guy, a 30-year-old Russian model (reference image), is fac
 [English]
 A stylized 3D cartoon portrait of a young man with short brown hair and expressive green eyes, smiling warmly. He is wearing a black blazer over a white t-shirt, modern casual fashion. Pixar-like / Disney-style character design with smooth skin, soft lighting, and slightly exaggerated facial features. High detail, polished 3D render, friendly and approachable expression. Gradient background with soft teal and pink colors, studio lighting, shallow depth of field, high resolution.
 ```
-
 来源：[@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2013473309485343120)
 
 <a id="case-357"></a>
@@ -13401,7 +13026,6 @@ A stylized 3D cartoon portrait of a young man with short brown hair and expressi
 ```text
 A fish-eye lens close-up of [your photo as reference] sipping from a teal/turquoise coffee mug, leaning forward intimately toward camera. Shot through or near a round mirror. Retro café interior with glossy teal subway tiles, vintage appliances, pendant lights. Black t-shirt, yellow-tinted round glasses. Warm moody tones.
 ```
-
 来源：[@harboriis](https://x.com/harboriis/status/2049044698900361241)
 
 <a id="case-376"></a>
@@ -13416,7 +13040,6 @@ A realistic vertical smartphone photo of a spilled green iced drink on outdoor s
 Negative Prompt:
 cartoon, illustration, anime, CGI, 3D render, fantasy style, studio lighting, overly perfect composition, overly clean floor, fake liquid, unrealistic reflections, plastic-looking liquid, oversaturated green, blurry, low resolution, distorted cup, melted plastic, extra cups, duplicated objects, readable brand logo, messy text, watermark, poster design, dramatic artificial lighting, excessive sharpening, over-processed, unrealistic shadow, floating ice, deformed perspective
 ```
-
 来源：[@Shinning1010](https://x.com/Shinning1010/status/2050693240253214894) / [提示词回复](https://x.com/Shinning1010/status/2050693246247207087)
 
 <a id="case-377"></a>
@@ -13442,7 +13065,6 @@ Quality: ultra-photorealistic, 8K detail, DSLR realism, natural skin texture.
 Negative: front-facing, eye contact, close-up, cropped body, mini/short skirt, indoor scene, dark lighting, anime, cartoon, CGI, plastic skin, distorted anatomy.
 --ar 9:16 --style raw --quality high
 ```
-
 来源：[@xRahultripathi](https://x.com/xRahultripathi/status/2050677614168391716)
 
 <a id="case-382"></a>
@@ -13469,7 +13091,6 @@ Ultra-realistic, 4K, cinematic lighting, shallow depth of field, high dynamic ra
 Aspect ratio: 4:5
 Style tags: viral Instagram aesthetic, Pinterest style, dreamy spring vibe, candid luxury
 ```
-
 来源：[@frametheory058](https://x.com/frametheory058/status/2051294907214844249)
 
 <a id="case-393"></a>
@@ -13481,7 +13102,6 @@ Style tags: viral Instagram aesthetic, Pinterest style, dreamy spring vibe, cand
 ```text
 candid portrait of a beautiful young blonde woman, 21 years old, glowing sun-kissed skin, wearing a baby pink velour tracksuit and butterfly clips in her hair, smiling brightly at the camera, golden hour warm light, palm trees, y2k aesthetic, glossy lips
 ```
-
 来源：[@SiliconBarbie_](https://x.com/SiliconBarbie_/status/2051475105403040014)
 
 <a id="case-399"></a>
@@ -13510,7 +13130,6 @@ Add small white handwriting signature text "BubbleBrain" on the bottom right cor
 
 --2:3
 ```
-
 来源：[@BubbleBrain](https://x.com/BubbleBrain/status/2052217544388546827)
 
 <a id="case-408"></a>
@@ -13522,7 +13141,6 @@ Add small white handwriting signature text "BubbleBrain" on the bottom right cor
 ```text
 Dreamy cinematic study aesthetic, young Asian girl with long dark hair studying outdoors at a wooden table during golden hour, cozy oversized green sweater and scarf, writing in notebook beside open laptop, historic university campus in background, warm sunset lighting, soft glow, autumn atmosphere, aesthetic doodles and handwritten notes floating around image, kawaii scrapbook style overlays, pastel hearts and stars, motivational text, shallow depth of field, nostalgic film grain, soft beige and warm green tones, peaceful productive vibe, ultra detailed, Pinterest aesthetic, photorealistic, cozy academia style, 35mm film look
 ```
-
 来源：[@Sairah_0](https://x.com/Sairah_0/status/2052969695406325875)
 
 <a id="case-412"></a>
@@ -13545,7 +13163,6 @@ Bottom-right: another half-body female model, completely different expression an
 Each section visually distinct but unified by the colorful button-inspired design language, glossy surfaces, soft studio reflections, and fashion magazine editorial feel.
 Hyper-realistic, cinematic lighting, ultra-clean composition, high-end luxury campaign style, depth, contrast, 8k, 1:1 aspect ratio --style raw --v 6 --ar 1:1
 ```
-
 来源：[@Mind_Boticni](https://x.com/Mind_Boticni/status/2053082199436759258)
 
 <a id="case-420"></a>
@@ -13561,7 +13178,6 @@ Negative Prompt:
 
 watermark, logo, text, caption, signature, AI label, extra fingers, deformed hands, distorted face, wrong identity, duplicate person, blurry face, low resolution, over-smoothed skin, plastic skin, unnatural anatomy, bad perspective, messy background, harsh artifacts, overexposure, underexposure
 ```
-
 来源：[@Shinning1010](https://x.com/Shinning1010/status/2053521749967352285)
 
 <a id="case-421"></a>
@@ -13573,7 +13189,6 @@ watermark, logo, text, caption, signature, AI label, extra fingers, deformed han
 ```text
 Ultra-realistic creative portrait taken with an iPhone, identity accurately preserved from the reference image. A woman stands inside a store, facing a glass display window or a reflective wall, photographed from a slightly elevated frontal angle. She holds a smartphone horizontally in front of her face, covering her eyes and the upper part of her face. The phone's screen points at the camera and clearly displays a real-time image of her face.
 ```
-
 来源：[@Ciri_ai](https://x.com/Ciri_ai/status/2053535379618423118)
 
 <a id="case-426"></a>
@@ -13593,7 +13208,6 @@ Add cute scrapbook-style doodles and handwritten notes around the image in [dood
 
 Color palette should focus on [color theme] tones. Style inspired by viral Pinterest café photography, Korean lifestyle aesthetics, Japanese cozy café culture, dreamy Gen-Z romance mood, shallow depth of field, cinematic composition, ultra realistic food textures, soft blurry background, ultra detailed realistic photography, clean aesthetic layout, 8k.
 ```
-
 来源：[@sha_zdiii](https://x.com/sha_zdiii/status/2054047328420634927)
 
 <a id="case-427"></a>
@@ -13621,7 +13235,6 @@ She wears oversized black long sleeves. Soft matte fabric with sporty streetwear
 
 Background minimal white studio backdrop. Photobooth-style collage layout with black frame borders. Shot with Canon EOS R6 / Sony A7 III / Fujifilm X-T5. High-fashion portrait photography style. 50mm or 85mm portrait lens. Eye-level framing. Tight portrait crop. Centered composition. Photobooth-inspired close-up angles. Soft diffused studio lighting. Balanced frontal light. Minimal harsh shadows. Clean editorial illumination. Cool neutral tones. Slightly desaturated blacks. Soft contrast with crisp details. Subtle film grain. Modern fashion editorial color grading.
 ```
-
 来源：[@saniaspeaks_](https://x.com/saniaspeaks_/status/2054046866497573214)
 
 <a id="case-429"></a>
@@ -13633,7 +13246,6 @@ Background minimal white studio backdrop. Photobooth-style collage layout with b
 ```text
 Ultra-realistic cozy Korean convenience store portrait of a beautiful Korean woman standing in front of glowing refrigerator aisles at night, wearing an oversized fluffy pastel pink hoodie with the hood up. She holds a bottle of strawberry milk in one hand and a tiny strawberry cake in the other while shyly looking toward the camera. Long soft black hair, glossy eyes, natural skin texture, subtle blushy makeup, gentle expression, youthful Korean beauty aesthetic. Warm fluorescent convenience store lighting mixed with realistic iPhone flash photography. Tiny reflections on drink bottles and glass refrigerator doors, dreamy romantic atmosphere, soft pink and cream color palette, slice-of-life anime realism blended with cinematic photography, highly detailed, cozy late-night Seoul convenience store vibe, shallow depth of field, realistic Korean snack packaging, candid aesthetic, soft glow, ultra photorealistic.
 ```
-
 来源：[@john_my07](https://x.com/john_my07/status/2054573350199111928)
 
 <a id="case-434"></a>
@@ -13645,7 +13257,6 @@ Ultra-realistic cozy Korean convenience store portrait of a beautiful Korean wom
 ```text
 film photography, candid street snapshot aesthetic, razor-sharp focus on subject, shallow depth of field with soft blurred urban background, bright daylight, slightly overexposed highlights, vivid contrast, subtle analog film texture, heavy film grain, nostalgic cinematic atmosphere, Tokyo backstreet neighborhood scene near a quiet train station, narrow pedestrian street lined with Japanese convenience stores, vintage vending machines, small ramen shops, hanging signs with faded typography, bicycles parked along tiled sidewalks, utility poles and overhead wires stretching across the sky, scattered fallen leaves on the ground, distant pedestrians and passing taxis softly blurred in the background, warm afternoon sunlight with deep blue sky, realistic street fashion photography style, effortless cool street vibe, vibrant colors with slightly muted faded film tones, beautiful 19-year-old Chinese female influencer, fair porcelain skin with cold pale undertones, exquisite natural makeup, glossy soft lips, defined brows, delicate lashes, soft messy long black hair with natural flowing curves, wearing an off-shoulder white fluffy faux fur jacket, playful yet subtly seductive expression, lazy dreamy vintage filter, ultra high-quality details, intentionally mundane phone-camera snapshot feeling, casual accidental composition, imperfect framing, realistic iPhone photography texture, spontaneous candid energy, highly attractive girl casually posing in the middle of the sidewalk, body facing away from the camera while turning her head back toward the lens with direct eye contact, relaxed posture, soft wind moving her hair, emotional youthful atmosphere, modern Asian street fashion editorial, soft haze, layered composition, masterpiece, best quality, ultra detailed, slight motion blur from slow shutter, authentic everyday realism, “BubbleBrain” small handwritten signature text on bottom corner --ar 9:16
 ```
-
 来源：[@BubbleBrain](https://x.com/BubbleBrain/status/2055491616392052887)
 
 <a id="case-436"></a>
@@ -13667,7 +13278,6 @@ The image preserves visible screen pixel structure, slight glare reflections, ch
 
 Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the early 2010s using a CCD sensor with vintage digital rendering and imperfect flash exposure.
 ```
-
 来源：[@Ciri_ai](https://x.com/Ciri_ai/status/2055876982630686956)
 
 <a id="case-446"></a>
@@ -13679,7 +13289,6 @@ Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the ea
 ```text
 Create a highly detailed low-poly papercraft portrait of a stylish young man, designed like an origami paper sculpture. The character has curly dark brown hair, a trimmed beard, and wears slightly black-tinted geometric sunglasses with thin black frames. His shirt is medium grey with sharp polygonal folds and realistic paper texture. Use faceted angular shapes across the face, hair, and clothing, with realistic shadows and layered paper depth. Minimal clean white studio background, soft lighting, ultra-realistic paper craft aesthetic, modern geometric art style, high detail, centered composition, 8k quality.
 ```
-
 来源：[@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2056953102755115162)
 
 <a id="case-450"></a>
@@ -13697,7 +13306,6 @@ She wears an aged amber silk qipao with chrysanthemum embroidery in tones of old
 
 Single candle — warm amber-orange, directional and fragile. It carves the left side of her face from darkness, leaves the right in near-black shadow. The amber qipao and the candlelight share a single temperature register: the room folds her into the light. Deep chiaroscuro with no artificial fill. Subtle ISO 400 film grain in shadow areas, photographic noise texture not CG render smoothness. Aspect ratio 9:16. No watermark, no text overlay, not cartoon, not digitally painted, not illustration, not anime.
 ```
-
 来源：[@ToroJushiAi](https://x.com/ToroJushiAi/status/2056926887344042382)
 
 <a id="case-451"></a>
@@ -13709,7 +13317,6 @@ Single candle — warm amber-orange, directional and fragile. It carves the left
 ```text
 一位成年韩国女孩，人物位于画面中央，半身到大腿视角，身体微微前倾。身形比例协调，肩颈线条舒展，可以看到胸部轮廓，轮廓自然优美，腰部线条柔和，整体凸显丰腴健康的女性美，丝滑黑发随风飘扬，人物气质成熟、温柔、安静，面带自然微笑。身穿白色一字肩连衣裙，背景是热带海滩日落，电影感DSLR摄影，温暖辉光照明，梦幻虚化，超详细，鲜艳色彩，丰富对比，韩国时尚美学氛围，自然欢乐情感，高端生活方式摄影。9:16 竖版构图。
 ```
-
 来源：[@MrGafish](https://x.com/MrGafish/status/2057107670226870577)
 
 <a id="case-465"></a>
@@ -13756,7 +13363,6 @@ Single candle — warm amber-orange, directional and fragile. It carves the left
 最终效果：
 一张以“美背”为主视觉核心的高完成度女性情绪写真，通过露背结构、肩颈背部线条、柔光逆光和柔软布料来呈现克制而高级的女性美。
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2058131948904599860) / [提示词回复](https://x.com/MrLarus/status/2058132915150639425)
 
 <a id="case-466"></a>
@@ -13798,7 +13404,6 @@ harsh direct flash combined with bright outdoor sunlight, dirty CCD digicam text
 
 Ultra-raw candid energy, messy composition, humorous accidental masterpiece aesthetic.
 ```
-
 来源：[@mehvishs25](https://x.com/mehvishs25/status/2058375167550845263)
 
 <a id="case-472"></a>
@@ -13813,7 +13418,6 @@ East Asian young woman in her early 20s. Almond-shaped eyes with natural double 
 She wears a relaxed oversized white shirt dress, collar lightly open, sleeves loosely rolled above the elbow. A structured natural tan canvas tote hangs from her shoulder, a physical novel tucked under one arm — pages open at a saved page. She stands with her weight on one hip, gaze downward at the open book, entirely absorbed, occupying her own stillness inside the morning rush. Background: white and grey tiled metro wall, overhead route signage board, arriving train motion blur to one side, other commuters blurred and distant. Two or three stray hairs displaced by the train's air displacement on arrival, natural unplanned imperfection, not geometrically symmetrical.
 Cool overhead fluorescent lighting with a slight greenish cast, flat frontal illumination offset by a warm spill from the platform entrance behind. Absorbed in focus, eyes downward, unaware — a private moment inside a public space, the Shanghai morning. Subtle ISO 400 film grain in shadow areas, photographic noise texture not CG render smoothness. Aspect ratio 2:3. No watermark, no text overlay, not cartoon, not digitally painted, not illustration, not anime.
 ```
-
 来源：[@ToroJushiAi](https://x.com/ToroJushiAi/status/2059452471127240959)
 
 <a id="case-483"></a>
@@ -13825,7 +13429,6 @@ Cool overhead fluorescent lighting with a slight greenish cast, flat frontal ill
 ```text
 A stylish cinematic portrait of a confident young woman leaning casually against a textured urban concrete wall, surrounded by vibrant flying birds including blue macaws, white seagulls, and a colorful hummingbird. Black graffiti-style bird silhouettes painted on the wall create an artistic street-art vibe. She is wearing a trendy all-white outfit — oversized denim jacket, fitted graphic tee, skinny jeans, and black sneakers. Soft natural daylight, realistic shadows, ultra-detailed fashion photography, urban luxury aesthetic, sharp facial features, glossy hair, high-end editorial style, dynamic composition, photorealistic, depth of field, 8K quality.
 ```
-
 来源：[@HaniaAi12](https://x.com/HaniaAi12/status/2060216757797978245)
 
 <a id="case-484"></a>
@@ -13837,7 +13440,6 @@ A stylish cinematic portrait of a confident young woman leaning casually against
 ```text
 High-contrast black-and-white urban portrait of a curly-haired bearded man in a black leather jacket, holding two fingers near glowing neon green eyes, with bold graffiti doodles, colorful paint splashes, abstract arrows, crown sketches, and grunge street-art textures on a concrete background, cinematic lighting, edgy graphic poster style.
 ```
-
 来源：[@harboriis](https://x.com/harboriis/status/2060208419811074350)
 
 <a id="case-488"></a>
@@ -13849,7 +13451,6 @@ High-contrast black-and-white urban portrait of a curly-haired bearded man in a 
 ```text
 Ultra-realistic, high-quality portrait of a stylish young South Asian woman standing gracefully on a colorful urban rooftop basketball court at sunset. She is standing in a relaxed and elegant posture with her weight naturally shifted to one leg, shoulders relaxed, and one hand gently resting by her side while the other lightly touches the edge of her varsity jacket. Her body is slightly angled toward the camera, creating a confident yet sophisticated appearance. She is looking directly into the camera with a warm, natural smile, projecting confidence, charm, and effortless style.
 ```
-
 来源：[@HaniaAi12](https://x.com/HaniaAi12/status/2061313477696954522)
 
 <a id="case-490"></a>
@@ -13865,7 +13466,6 @@ The background is a minimalist neutral studio setting, allowing the double-expos
 
 Ultra-realistic skin texture, luxury fashion-editorial aesthetic, premium magazine-cover quality, subtle film grain, cinematic depth, elegant shadows, refined color grading, modern retro-inspired styling, masterpiece composition, ultra-sharp focus, visually striking storytelling, high-end commercial fashion campaign look.
 ```
-
 来源：[@Anaya_Ai12](https://x.com/Anaya_Ai12/status/2062191518975508678)
 
 <a id="case-492"></a>
@@ -13913,7 +13513,6 @@ Ultra realistic native 4K HDR realism.
 Professional magazine quality.
 Vertical 9:16.
 ```
-
 来源：[@xRahultripathi](https://x.com/xRahultripathi/status/2062100757923733617)
 
 <a id="case-499"></a>
@@ -13925,7 +13524,6 @@ Vertical 9:16.
 ```text
 A full-body editorial fashion photograph of a beautiful young woman with the same appearance as the reference, long glossy dark hair, soft bangs, fair skin, and refined feminine features. She stands casually in an upscale minimalist fashion boutique, wearing an oversized pastel-blue knit sweater paired with a black pleated tennis-style skirt, white crew socks, and chunky designer sneakers. Relaxed confident pose, gentle smile, luxury retail interior with modern clothing racks, neutral-toned garments, warm ambient lighting, wood and stone textures, clean architectural lines, cinematic depth of field, realistic lighting, premium fashion advertising, Vogue-style editorial, ultra-detailed, sharp focus, photorealistic, 4K.
 ```
-
 来源：[@john_my07](https://x.com/john_my07/status/2062579742759649486)
 
 <a id="case-500"></a>
@@ -13939,7 +13537,6 @@ Ultra-realistic ethereal fantasy portrait of a breathtaking young woman with del
 
 The scene is bathed in soft diffused morning light, creating a luminous glow around her face and shoulders. Surrounded by floating butterflies, sparkling dust particles, translucent petals, and dreamy floral textures, the background blends pastel lavender, pearl white, blush pink, and silver tones. Cinematic fine-art photography, fairycore aesthetic, enchanted garden atmosphere, magical realism, ultra-detailed skin texture, soft focus highlights, volumetric lighting, bokeh, masterpiece quality, highly detailed, 8K resolution, delicate feminine beauty, romantic fantasy artwork, elegant composition, dreamy color grading, soft glow, celestial ambiance.
 ```
-
 来源：[@HaniaAi12](https://x.com/HaniaAi12/status/2062696495741391006)
 
 <a id="case-501"></a>
@@ -13965,7 +13562,6 @@ Background: soft atmospheric blur, never distracting.
 
 Avoid: over-smoothing, plastic skin, CG look, anime look, wig look, stiff expression, dead eyes, stiff poses, overall yellow cast, overexposed face, distorted features, wrong fingers, deformed hands, cluttered background, heavy influencer retouching.
 ```
-
 来源：[@iamaiistudio](https://x.com/iamaiistudio/status/2063247373388992790)
 
 <a id="case-504"></a>
@@ -13979,7 +13575,6 @@ Turn this photo into a chaotic funny doodle illustration, intentionally messy an
 
 Create exaggerated facial features with awkward proportions, uneven eyes, oversized head, tiny body, crooked smile, and clumsy anatomy while still keeping the person recognizable. Use rough childish sketch lines, shaky hand-drawn strokes, visible scribbles, overlapping outlines, accidental marks, and random doodles around the scene. Add a simple cartoon-style background with badly drawn buildings, trees, clouds, street elements, and uneven perspective. Coloring should look careless and imperfect, with visible stroke texture, inconsistent fill areas, wax crayon texture, marker bleed, and irregular shading. Include playful imperfections like crossed-out lines, unfinished details, random arrows, tiny notes, stars, swirls, and abstract scribbles. Overall aesthetic should feel humorous, spontaneous, handmade, energetic, goofy, and intentionally unpolished, resembling a child's sketchbook mixed with absurd internet meme art. High texture detail, paper grain visible, asymmetrical composition, awkward framing, expressive doodle chaos, raw sketch energy.
 ```
-
 来源：[@Shorelyn_](https://x.com/Shorelyn_/status/2063235707632533954)
 
 <a id="case-505"></a>
@@ -13993,7 +13588,6 @@ A young adult woman with soft refined features, thin metal glasses, and shoulder
 
 Shot in a vertical 3:4 frame at slightly above eye level, medium close-up to three-quarter portrait. Warm dim tungsten room light mixed with cool phone-screen reflections, no flash, soft falloff across the couch and wall. Shallow depth of field, soft low-light grain, slight motion blur, natural imperfect sharpness. Background: plain beige-gray wall, minimal decor, late-night atmosphere. Soft glam makeup: subtle eyeliner, long lashes, smooth skin, glossy pink-nude lips. Realistic social-media night portrait aesthetic.
 ```
-
 来源：[@iamaiistudio](https://x.com/iamaiistudio/status/2063231612478017579)
 
 <a id="case-508"></a>
@@ -14005,7 +13599,6 @@ Shot in a vertical 3:4 frame at slightly above eye level, medium close-up to thr
 ```text
 俯拍镜头，高角度顶机位，自上而下俯瞰一位年轻的东亚裔女性，她有着精致的东亚五官和柔顺的黑发。她蹲在花园小径上，轻轻逗弄一只毛茸茸的橘猫。头顶密密的枝叶滤过阳光，形成灵动的“木漏日”效果——跃动、圆形的光斑在她的肌肤和猫毛上流转舞动。空气中悬浮着淡淡的潮湿薄雾，捕捉住光束，营造出柔和可见的立体光柱（丁达尔效应）。当她仰头朝向镜头时，一层轻雾柔化了画面边缘，增添梦幻氛围。她的表情从略带俏皮的轻噘嘴，渐渐转为眼角堆起细纹的真挚笑容，斑驳的光线恰好勾勒出她肌肤的细腻纹理和眼中盈盈的水光。
 ```
-
 来源：[@ohmuyi](https://x.com/ohmuyi/status/2067930690977779942)
 
 <a id="case-514"></a>
@@ -14018,7 +13611,6 @@ Shot in a vertical 3:4 frame at slightly above eye level, medium close-up to thr
 A striking piece of hard-edge modern art on matte archival paper, with visible screen-printing layers and slight ink misalignment. A young East Asian woman is captured in a sharp, three-quarter profile. Her facial features are rendered with precise, crisp contours, contrasting with abstract, luminous geometric shapes that seem to emanate from within her skin. She wears a sleek, high-collared jacket in deep midnight blue, adorned with a single, bold neon coral brooch in the shape of a sharp triangle. Her dark hair is styled in a severe, architectural bob with blunt edges. Her expression is calm and detached, eyes gazing off-frame. The background is a clean, architectural space with sharp diagonal planes in crisp white and deep slate. High-contrast chiaroscuro lighting highlights the edges of her silhouette. Sophisticated palette: deep midnight blue, crisp white, electric neon coral. A stray cat tail is rendered as a sharp, geometric vector in the bottom left corner. Ultra-modern artistic style. No digital CGI feel.
 dutch angle, stray cat tail --ar 9:16
 ```
-
 来源：[@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2071783914595897555)
 
 <a id="case-517"></a>
@@ -14052,7 +13644,6 @@ dutch angle, stray cat tail --ar 9:16
 ネガティブ：
 実在ブランドロゴ、読める文字、商標の再現、不自然な顔、不自然な視線、歯や唇の崩れ、ストローとの接触不良、余分な指、欠けた指、手足の融合、氷の浮遊、不自然な重力、誤った遠近法、光源と矛盾する影、文字化け、透かし、過度な美肌補正、プラスチックのような肌。
 ```
-
 来源：[@lovimg_com](https://x.com/lovimg_com/status/2077036659028484375) / [full prompt](https://lovimg.com/image-prompts/7369/item-313)
 
 <a id="case-518"></a>
@@ -14086,7 +13677,6 @@ dutch angle, stray cat tail --ar 9:16
 ネガティブ：
 不自然な顔、不自然な視線、余分な指、欠けた指、手足の融合、関節の破綻、服と体の接触不良、浮遊、不自然な重力、誤った遠近法、光源と矛盾する影、過度な美肌補正、プラスチックのような肌、文字化け、ロゴ、透かし。
 ```
-
 来源：[@lovimg_com](https://x.com/lovimg_com/status/2077036746198618336) / [full prompt](https://lovimg.com/image-prompts/7376/item-314)
 
 <a id="case-524"></a>
@@ -14178,7 +13768,6 @@ Magazine-quality composition
 
 Vertical 4:5 portrait composition, full-body framing, ultra-detailed, high resolution, clean polished finish, visually striking, aesthetically balanced, premium handcrafted paper-collage photography.
 ```
-
 来源：[@AiwithLariab](https://x.com/AiwithLariab/status/2090297565732585554)
 
 <a id="case-525"></a>
@@ -14194,7 +13783,6 @@ Warm cinematic studio lighting with a soft amber-golden key light illuminating t
 
 Extremely detailed natural skin texture, individual beard hairs, realistic pores, subtle facial imperfections, sharp eyes visible behind slightly tinted lenses, natural reflections on the sunglasses, rich dimensional shadows, realistic fabric and suede texture, shallow depth of field. Sophisticated luxury fashion campaign, mysterious and confident mood, premium men's editorial photography, cinematic color grading, photorealistic, HDR, professional studio photography, 85mm portrait lens, f/1.8, crisp facial details, soft background bokeh, centered composition, head-and-shoulders framing, powerful masculine presence, understated elegance, 3:4 aspect ratio.
 ```
-
 来源：[@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2090294894187413883)
 
 <a id="case-529"></a>
@@ -14257,7 +13845,6 @@ COMPOSITION:
 IMPORTANT:
 Preserve the exact identity from @image1. Do not change the person's recognizable face or facial structure. Keep the outfit completely modest, opaque, and fully covering. Maintain realistic anatomy, natural hands, realistic proportions, and believable interaction between the person, strings, cloud, grass, and mountain environment.
 ```
-
 来源：[@AiwithLariab](https://x.com/AiwithLariab/status/2091394735416160715)
 
 <a id="case-535"></a>
@@ -14294,7 +13881,6 @@ Keep the character, art style, and clothing consistent; only drastically change 
 
 --ar 9:16
 ```
-
 来源：https://x.com/VIBEQUIRKLABS/status/2091907758966911003?s=20
 
 <a id="case-543"></a>
@@ -14306,7 +13892,6 @@ Keep the character, art style, and clothing consistent; only drastically change 
 ```text
 Photorealistic editorial portrait. Knee up cowboy shot, high angle, front right three quarter view. Seductive stunning Japanese woman, 20s. Full bust, narrow waist, rounded hips, dramatic hourglass curve. Minimal low ponytail, fine face framing strands, strong directional wind with visibly lifted swept hair, dynamic silhouette. Light blonde hair, soft oval face, bright round eyes, curved brows, small rounded nose, softly shaped lips, soft smile, relaxed brows, gently narrowed eyes, softly parted lips, lifted cheeks. Light brown strapless bow front lace mini dress, low waist tiered ruffle skirt, double layer silver waist chain with evenly spaced polished round beads and small centered heart charm. Head in clean side profile facing away from camera, both hands in front pockets, elbows relaxed and angled outward, compact low squatting pose. Horizonless seamless matte muted grey background, subtle natural contact shadow. Cool white interior, high brightness, minimal nocturnal rim light, faint cool edge tracing face, hair, shoulders, body, mostly dark subject mass. Osamu Yokonami inspired high key minimalist style, macro lens, heavy bokeh, high acutance snap focus. --sd --chaos 10 --ar 9:16 --raw --stylize 250
 ```
-
 来源：未提供
 
 <a id="case-544"></a>
@@ -14318,7 +13903,6 @@ Photorealistic editorial portrait. Knee up cowboy shot, high angle, front right 
 ```text
 Dramatic black and white high fashion studio portrait, close-up bust shot, pale platinum blonde woman with sleek low ponytail, head tilted upward, eyes softly closed, wearing a fitted black turtleneck top. A large translucent pale white butterfly hovers gently right at her lips, delicate detailed wing veins visible. Hard rim light creates glowing bright white halo around her hair and face, deep inky pure black minimalist background, stark high contrast chiaroscuro lighting, film grain texture, moody ethereal atmosphere, monochrome, editorial fashion photography, shot on 35mm film, soft subtle skin texture, sharp focus on butterfly and facial profile, vertical composition, minimalist dark aesthetic, artistic surreal fashion
 ```
-
 来源：ComfyUI
 
 <a id="case-552"></a>
@@ -14337,7 +13921,6 @@ Dramatic black and white high fashion studio portrait, close-up bust shot, pale 
 核心提示词示例：
 Retro 2000s pastel photography, soft dreamcore aesthetic, 35mm film texture with Black Pro-Mist filter. A cute East Asian girl with fluffy pigtails, wearing a light lilac crop top, resting chin on hand, playful and relaxed expression. Minimalist composition, clean vast pastel butter-yellow solid background, low-angle shot, negative space. Butter yellow and lilac purple pastel color palette, dreamy soft bloom highlights, low contrast, delicate grain, airy nostalgic sweet vibe.
 ```
-
 来源：https://x.com/VoxcatAI/status/2092132976901734777
 
 <a id="case-555"></a>
@@ -14377,7 +13960,6 @@ Retro 2000s pastel photography, soft dreamcore aesthetic, 35mm film texture with
 ネガティブ：
 黄色い壁を別色にしない；全身の歩行姿勢を静止立ちにしない
 ```
-
 来源：https://x.com/CyberTotal2026/status/2092092102255554964
 
 <a id="case-556"></a>
@@ -14417,7 +13999,6 @@ Retro 2000s pastel photography, soft dreamcore aesthetic, 35mm film texture with
 ネガティブ：
 背中の振り向きを正面向きにしない；透ける長い裾を短くしない
 ```
-
 来源：https://x.com/CyberTotal2026/status/2092012072116842607
 
 <a id="case-561"></a>
@@ -14433,7 +14014,6 @@ Prompt:
 
 A cinematic close-up portrait of a gorgeous young East Asian woman with a gentle warm smile, wearing a traditional black velvet qipao with subtle red floral patterns, high mandarin collar. She has a large pink flower accessory tucked behind her ear in her styled updo hair. Dramatic side lighting, intense golden rim light illuminating one side of her face and shoulder, soft chiaroscuro shadows on the other side. Dewy natural skin texture, glossy lips. Dark moody background with soft ambient warm glow and subtle bokeh. Shot on 85mm lens, f/1.8, cinematic color grading, photorealistic, 8k resolution, highly detailed photography --ar 2:3 --style raw --v 6.0. Do not change the face. There is a small, subtle, hand-written signature "Clover 🍀" in the bottom right corner.
 ```
-
 来源：https://x.com/TaliaAariz/status/2092006515150381283
 
 <a id="case-562"></a>
@@ -14469,7 +14049,6 @@ Extremely detailed environmental storytelling, realistic lace fibers, individual
 Negative prompt: cartoon, anime, chibi, flat illustration, low-detail digital art, CGI, 3D render, plastic skin, waxy face, artificial anatomy, distorted hands, extra fingers, malformed limbs, duplicated cats, distorted cat anatomy, unrealistic fur, stiff curtains, stiff dress, flat lighting, artificial fog, excessive bloom, excessive pastel, oversaturated colors, harsh HDR, low resolution, blurry face, excessive beauty retouching, sunglasses, eyeglasses, goggles, visor, logo, brand name, watermark, signature, lettering, typography, readable text, numbers, captions, poster design, frame, border.
 MidJourney parameters: "--ar 2:3 --v 7 --style raw --stylize 165 --chaos 7 --quality 2]
 ```
-
 来源：https://x.com/Tanvir48992/status/2092115213030219921
 
 <a id="case-565"></a>
@@ -14486,7 +14065,6 @@ MidJourney parameters: "--ar 2:3 --v 7 --style raw --stylize 165 --chaos 7 --qua
 
 3:4，split-diopter photography，韩系甜品约会女友写真，前后双焦平面，浅暖色调。 高颜值成年韩系女性，桃粉甜美妆，自然半哑光肌，深棕色长发自然垂落，穿浅粉色修身针织长袖。坐在空甜品店靠窗粉色卡座，近侧左下前景是一大块草莓奶油蛋糕，草莓、奶油和蛋糕层清晰锐利；远侧焦面锁定人物脸部，眼睛同样清晰。柔和窗光落在眼睛、发丝和奶油边缘。女生双手握住银色小勺举在唇前，微微鼓脸直视镜头，表情甜美撒娇，近距离恋人视角。真实摄影质感，前后两个距离同时清晰，没有明显分焦接缝。仅一名成年女性，不出现同桌者、服务员或摄影者，不要画面中缝、复制人物、失焦眼睛、多指。
 ```
-
 来源：https://x.com/chenlinspark/status/2092114749332836771
 
 <a id="case-566"></a>
@@ -14504,7 +14082,6 @@ She is resting her left cheek gently on her left hand, fingers lightly touching 
 
 Indoor setting with soft, natural diffused lighting. Background shows a light beige or off-white textured wall and a white door with a frosted glass panel. Shallow depth of field, sharp focus on the face, gentle skin texture, realistic photography style, high detail, soft natural colors.
 ```
-
 来源：https://x.com/woleswoosh/status/2091948658430214452
 
 <a id="case-575"></a>
@@ -14522,7 +14099,6 @@ She wears a light beige/taupe oversized bomber-style jacket with a soft, slightl
 
 Soft, diffused natural lighting from the front-left creating gentle shadows and a dreamy, glowing skin texture. Shallow depth of field with a smooth, out-of-focus neutral beige/taupe fabric or curtain background. Photorealistic, high-detail fashion photography style, elegant and feminine aesthetic, 85mm lens look, soft bokeh, warm neutral color grading, intimate and serene mood.
 ```
-
 来源：https://x.com/woleswoosh/status/2092371443069972890
 
 <a id="case-581"></a>
@@ -14536,7 +14112,6 @@ Soft, diffused natural lighting from the front-left creating gentle shadows and 
 
 A close-up selfie portrait of a beautiful young East Asian woman with long, straight dark brown hair with soft bangs framing her face. She is winking with her left eye and giving a soft, playful closed-mouth smile. She is wearing a fluffy, oversized yellow chick costume hat with soft yellow fur, small black eyes, and a small orange beak on the forehead. Over her eyes she wears bright yellow rectangular sunglasses with thick frames; the left lens has the word “OK” written in bold yellow letters on a black background, and the right lens also has “OK” in the same style. She is wearing a white off-shoulder blouse with puffy short sleeves and a delicate thin silver necklace with a tiny star pendant. Soft natural indoor lighting, warm tones, wooden background with a glass vase of white daisies and yellow flowers slightly out of focus behind her. Extremely detailed face, realistic skin texture, glossy pink lips, sharp focus on the face, cute and playful expression, high-resolution, photorealistic, 8k.
 ```
-
 来源：https://x.com/woleswoosh/status/2092099654913601778
 
 <a id="case-584"></a>
@@ -14554,7 +14129,6 @@ She is raising her left hand to gently touch or play with her hair near her ear,
 
 Soft, diffused natural lighting from the front-left creates gentle highlights on her skin and hair, with soft shadows, high detail on facial features, skin texture, and hair strands. Photorealistic style, elegant and feminine, slightly seductive yet natural expression, shallow depth of field, 85mm portrait lens look, high resolution, cinematic soft focus.
 ```
-
 来源：https://x.com/woleswoosh/status/2092280844677198226
 
 <a id="case-589"></a>
@@ -14627,7 +14201,6 @@ Photographic Specs
 Shot on a Canon EOS R5 with an 85mm f/1.4 lens, studio portrait lighting (soft key light, subtle fill), shallow depth of field with sharp focus on the face. PLAIN SOLID LIGHT GREY STUDIO BACKGROUND in every panel. Natural skin rendering with visible pores and realistic hair strands (no plastic or CGI look). Consistent lighting, color grading and exposure across all 12 panels. Photorealistic, high detail, hyperrealistic, 8K. No illustration, no painterly effect, no over-smoothing. NO SUNGLASSES.
 Each panel clearly numbered 1 to 12 in the top-left corner. Overall output aspect ratio 4:5.
 ```
-
 来源：https://x.com/Ciri_ai/status/2092452220768002400
 
 <a id="case-595"></a>
@@ -14646,7 +14219,6 @@ She holds both hands close to the camera, creating a playful framing gesture wit
 
 The Brooklyn Bridge stone towers, suspension cables, metal framework, and Manhattan skyline are visible in the background. Warm sunlight shines from behind her, producing beautiful rim lighting, subtle lens flare, and long shadows across the brick walkway. Low-angle camera perspective, exaggerated foreground depth, ultra-wide 14mm lens effect, energetic Gen-Z street photography aesthetic, natural skin texture, realistic details, warm cinematic color grading, sharp focus, photorealistic, vertical 4:5 composition.
 ```
-
 来源：https://x.com/Aqsahere_/status/2092092750430925259
 
 <a id="case-596"></a>
@@ -14661,7 +14233,6 @@ Made with Midjourney v8.2
 Prompt:
 A candid outdoor lifestyle portrait of a young woman in a lush green garden, playfully stretching with both arms raised above her head, creating a soft arch around her face, head slightly tilted with a gentle playful smile. Long straight dark-brown hair, realistic natural skin texture. Wearing a cozy cropped pink-and-white striped knit sweater with long sleeves and high-waisted white trousers. Dense leafy trees and natural foliage surrounding her, rustic dark stone wall, black metal gate, vintage outdoor lanterns in the background. Soft daylight filtering through leaves, subtle dappled sunlight, peaceful garden mood, warm pastel tones, dreamy yet realistic atmosphere, shallow depth of field, soft bokeh, natural candid photography, authentic textures, cinematic composition, highly detailed, photorealistic --ar 9:16 --style raw --stylize 150
 ```
-
 来源：https://x.com/Aqsahere_/status/2089914430079537392
 
 <a id="case-599"></a>
@@ -14676,7 +14247,6 @@ Chatgpt image 2
 Prompt:
 A cozy outdoor lifestyle portrait of a cute young woman sitting on a wooden camping chair during a sunny afternoon, casually tying her long black hair into a ponytail with a lavender scrunchie. She wears an oversized pastel mint-green sweatshirt, loose white jogger sweatpants, and chunky white sneakers, creating a relaxed Korean casual fashion look. Soft fair skin, natural makeup with rosy cheeks, subtle pink lips, delicate facial features, looking downward with a gentle smile. A white tour bus, trees, and clear blue sky in the background create a peaceful travel atmosphere. An iced coffee sits beside the chair, adding to the cozy picnic vibe. Warm golden sunlight, natural outdoor lighting, cinematic composition, shallow depth of field, soft bokeh, ultra-realistic skin texture, editorial lifestyle photography, 50mm lens, f/1.8, HDR, 8K, photorealistic, premium fashion campaign, clean aesthetic, tranquil and youthful mood.
 ```
-
 来源：https://x.com/Aqsahere_/status/2085564394482880802
 
 <a id="case-600"></a>
@@ -14690,7 +14260,6 @@ Chatgpt image 2
 Prompt:
 An ultra-realistic luxury beauty editorial close-up portrait of a young woman with luminous porcelain skin and a radiant glass-skin finish, gazing upward with a soft, dreamy expression. Delicate wispy dark hair loosely framing her face in an elegant updo. Warm hazel-brown eyes with shimmering champagne eyeshadow, feathered brows, long curled lashes, rosy peach blush, glossy nude-pink lips, naturally sculpted features. Bare shoulders with a thin nude spaghetti strap, minimalist styling emphasizing flawless skin. Warm golden sunlight streaming through a nearby window, soft pastel peach background, cinematic glow, subtle rim lighting, creamy bokeh, shallow depth of field, editorial skincare campaign aesthetic, luxury cosmetic advertisement, 85mm lens, f/1.2, HDR, ultra-detailed skin texture, photorealistic, 8K, soft warm color grading, ethereal, elegant, timeless beauty.
 ```
-
 来源：https://x.com/Aqsahere_/status/2085393903763484787
 
 <a id="case-601"></a>
@@ -14705,7 +14274,6 @@ Created chatgpt image 2
 Prompt: 
 Preserve the uploaded reference character exactly as shown, including face identity, facial proportions, eye shape, nose, lips, skin tone, hairstyle, hair color, visible hair accessories, outfit, styling, and overall recognizable vibe. Do not invent or hardcode any appearance details that are not present in the reference image; infer all identity, clothing, hairstyle, and accessories directly from it. Create a high-quality vertical (4:5 or 9:16) mixed-style portrait featuring a realistic full-body (or nearly full-body) version of the character standing on one side of a clean wall, with a black hand-drawn doodle-shadow of the same character sketched directly onto the wall beside them. The doodle-shadow must be black sketch line-art only (not a real shadow, not a second realistic person, and not a full-color anime character) while clearly matching the character's hairstyle silhouette, accessories, outfit silhouette, and overall identity. The real person should remain photorealistic, stylish, and naturally posed, wearing the exact outfit and key styling details from the reference, with a cute, slightly confused, mildly embarrassed, playful expression as if wondering, "Why am I doing this with my shadow?" The doodle-shadow should be much more energetic, exaggerated, mischievous, and chaotic, surrounded by manga-style motion lines, hearts, stars, sparkles, and comic effects. For every generation, invent a completely new playful mischievous pose instead of repeating previous ones—avoid pointing poses, finger guns, repetitive standing poses, or simply having both figures point at each other. The real person should perform a believable, softer version of the pose while the doodle-shadow performs an over-the-top cartoon version of the same idea. Choose a fresh concept each time such as a playful idol pose, silly dance, leaning sideways with one arm overhead, giant heart pose, cheeky wink, hands near cheeks, dramatic ta-da, mock surprise, running in place, mischievous tiptoe, arms stretched apart, sneaking away, cute troublemaker, dramatic overreaction, goofy victory, playful balance, peekaboo, shy-but-mischievous, or overconfident pose, while always creating a unique variation rather than copying these examples. Keep enough space around both figures so the full pose is visible, with the doodle-shadow roughly the same height or slightly taller than the real person, resulting in a cute, playful, stylish, funny, mischievous, and social-media-friendly composition.
 ```
-
 来源：https://x.com/Aqsahere_/status/2080864766856503636
 
 <a id="case-602"></a>
@@ -14721,7 +14289,6 @@ A photorealistic close-up selfie of a young East Asian woman in her early 20s, t
 
 She wears a fitted beige/camel ribbed knit long-sleeve sweater under blue denim overalls (dungarees) with visible straps and metal buttons. Soft natural daylight with bright sunlight creating gentle lens flare and warm highlights on her hair and face. Background is a clear vivid blue sky with soft green leafy trees framing the upper edges, shallow depth of field keeping the subject sharp while the foliage is softly blurred. High-resolution, sharp facial details, natural skin texture, cinematic outdoor lighting, shot on a high-end smartphone camera, vibrant yet natural color grading.
 ```
-
 来源：https://x.com/woleswoosh/status/2092492240438669495
 
 <a id="case-604"></a>
@@ -14739,7 +14306,6 @@ Lensbaby 真的很适合这种卧室感人像。
 
 3:4，Lensbaby selective-focus photography，韩系卧室女友写真，高位俯视，单一锐利焦点，外围柔软旋涡虚化。高颜值成年韩系女性，桃粉甜美妆，自然半哑光肌，黑色低束发，零散发丝贴近脸颊。浅灰绿色床铺、米白地毯与浅色床头柜。人物穿奶油白细肩带家居连衣裙，靠坐在床边，一只手将鲜黄色柠檬轻抱在胸口附近，先低头再抬眼看向镜头，表情安静、略带害羞。镜头从上方向下拍摄，近侧眼睛为唯一锐利焦点，窗光从侧面扫过眼睛、脸颊、肩膀和柠檬，腿部与背景自然柔化。仅一名成年女性；不要畸形透视、两眼同时异常锐化、手臂粘连、塑料皮肤。
 ```
-
 来源：https://x.com/chenlinspark/status/2092507339311943808
 
 <a id="case-624"></a>
@@ -14784,7 +14350,6 @@ GPT IMAGE2 提示词：
 
 #GPT #image2 #今日提示词
 ```
-
 来源：https://x.com/AIVideoHub_/status/2094402729473167536
 
 <a id="case-627"></a>
@@ -14827,7 +14392,6 @@ GPT IMAGE2 提示词：
 
 #今日提示词 #GPT #IMAGE2
 ```
-
 来源：https://x.com/AIVideoHub_/status/2093985903073218863
 
 <a id="case-629"></a>
@@ -14867,7 +14431,6 @@ GPT IMAGE2 提示词：
 
 负面提示词： 全身照，远景，人物过小，动漫脸，二次元脸，CG脸，3D建模脸，大头，大脸，宽脸，胸部过度夸张，身体比例失衡，严重广角畸变，银饰结构混乱，簪花悬浮，花朵遮挡眼睛，头饰裁切，廉价影楼民族服装，塑料花朵，衣物穿模，肢体畸形，多余手臂，多手多指，肤色偏黄，灰白死皮，塑料皮肤，过度磨皮，严重过曝，面部失焦，背景抢镜，低分辨率，AI 伪影，文字，Logo，水印。
 ```
-
 来源：https://x.com/AIVideoHub_/status/2093881763009589731
 
 <a id="case-630"></a>
@@ -14926,7 +14489,6 @@ GPT IMAGE2 提示词：
 
 #GPT  #IMAGE2 #今日提示词
 ```
-
 来源：https://x.com/AIVideoHub_/status/2093603745582252470
 
 <a id="case-633"></a>
@@ -14952,7 +14514,6 @@ Pale neutral background, authentic early-2000s Y2K digital camera aesthetic, iPh
 
 No text, no watermark, no distortion, no warped face, no asymmetrical eyes, no duplicate features, no face variation, no blurry facial details.
 ```
-
 来源：https://x.com/MissDelulu9/status/2094706661005103239
 
 <a id="case-634"></a>
@@ -14969,7 +14530,6 @@ prompt⬇️
 85mm，半身到小腿，大光圈奶油散景，真实湿皮肤，拱窗漫射+水面反光。高级生活方式写真。
 负面：幼态，过度假体，塑料皮肤，文字，畸形手
 ```
-
 来源：https://x.com/xiaqingfeng666/status/2094552414095614367
 
 <a id="case-636"></a>
@@ -14997,7 +14557,6 @@ GPT Image 2生成日间高亮生活照。
 画幅比例：9:16
 补充要求：不要夜晚便利店感，不使用霓虹灯；整体必须是白天、明亮、干净、现代的城市生活场景，胸部饱满，胸部轮廓明显。
 ```
-
 来源：https://x.com/liyue_ai/status/2094742674402410620
 
 <a id="case-637"></a>
@@ -15025,7 +14584,6 @@ GPT Image 2生成日间高亮生活照。
 画幅比例：9:16
 补充要求：水晶紫必须清楚鲜亮而不是灰紫，背景城市适度虚化，整体避免商务广告感
 ```
-
 来源：https://x.com/liyue_ai/status/2094346189864874437
 
 <a id="case-638"></a>
@@ -15053,7 +14611,6 @@ GPT Image 2生成日间高亮生活照。
 画幅比例：9:16
 补充要求：不要专业竞技状态，保持日常轻运动生活照感；彩色岩点负责背景活力但不能抢人物
 ```
-
 来源：https://x.com/liyue_ai/status/2093643279996944502
 
 <a id="case-639"></a>
@@ -15080,7 +14637,6 @@ GPT Image 2生成日间高亮生活照。
 画幅比例：9:16
 补充要求：整体偏现代科技生活感，但不能变成汽车广告；宝石蓝衣服和冷白背景形成鲜明高级对比
 ```
-
 来源：https://x.com/liyue_ai/status/2090417300507894222
 
 <a id="case-640"></a>
@@ -15105,7 +14661,6 @@ GPT Image 2生成日间高亮生活照。
 画幅比例：9:16
 补充要求：苹果绿要鲜亮清爽而不是荧光绿，背景保留现代城市纵深，人物曲线清楚但姿态保持自然抓拍感
 ```
-
 来源：https://x.com/liyue_ai/status/2089966169273053624
 
 <a id="case-641"></a>
@@ -15130,7 +14685,6 @@ GPT Image 2生成日间高亮生活照。
 画幅比例：9:16
 补充要求：鲜花负责丰富色彩但不能抢人物，玫粉上衣需要保持高明度和清晰显色，整体适合社交平台封面，服装贴身但质感高级，人物纤细。
 ```
-
 来源：https://x.com/liyue_ai/status/2088862804367519957
 
 <a id="case-642"></a>
@@ -15157,7 +14711,6 @@ GPT Image 2生成日间清亮高光CCD生活照风。
 画幅比例：9:16
 补充要求：人物漂亮但不要网红脸，衣服贴合胸腰线条但整体保持知性；画面空间感宽松、清爽、有秩序，胸部饱满，胸线明显
 ```
-
 来源：https://x.com/liyue_ai/status/2088176719861792835
 
 <a id="case-643"></a>
@@ -15185,7 +14738,6 @@ GPT Image 2生成日间清亮高光CCD生活照风。
 画幅比例：9:16
 补充要求：青柠绿颜色鲜亮但不荧光，人物纤细、比例修长，方领贴身针织自然表现肩颈、锁骨、胸线和腰线；整体像晴天城市骑行前被随手拍下的一帧
 ```
-
 来源：https://x.com/liyue_ai/status/2087460710603522048
 
 <a id="case-644"></a>
@@ -15213,7 +14765,6 @@ GPT Image 2生成日间清亮高光CCD生活照。
 画幅比例：9:16
 补充要求：整体不是复古市集调色，而是现代、明亮、清晰的夏日生活照；亮黄色服装要清爽不发脏
 ```
-
 来源：https://x.com/liyue_ai/status/2087084569585766728
 
 <a id="case-646"></a>
@@ -15241,8 +14792,46 @@ GPT Image 2生成冷白清透CCD生活照。
 画幅比例：9:16
 补充要求：重点是亮、甜、清晰、干净，不要灰蒙；上衣贴身利落，胸线自然明显，整体像夏日街头高传播感生活照
 ```
-
 来源：https://x.com/liyue_ai/status/2086385759863410734
+
+<a id="case-656"></a>
+
+### 例656：海風が薄い裾をさらって、振り向く一瞬だけが夕陽の色にほどけて…
+
+![例656](images/case656.jpg)
+
+```text
+海風が薄い裾をさらって、振り向く一瞬だけが夕陽の色にほどけていく🌊✨
+
+#AIart #AI写真 #海辺のドレス
+
+【GPT Image2プロンプト】
+
+主題：
+海風をまとう薄衣
+
+主体：
+岩のある海辺で、淡い灰白色の透けるドレスを着た女性が背中を向けて振り返る。長い薄布と肩丈の髪が強い海風で画面左へ流れる。
+
+人物・表情：
+女性は肩越しに顔をカメラへ向け、唇をわずかに開いて静かに見つめる。小さな顎の卵形、横幅のあるアーモンド形の目、細く緩い眉、すっきりした鼻筋、淡いコーラルの唇。焦げ茶の肩丈ボブは濡れた束感があり、前髪と毛先が左へなびく。目尻に細いライン、頬に薄いピンク。
+
+服装・ポーズ：
+細い水色の肩紐と背中の編み上げ、幅広いウエスト帯を持つ淡い灰白色のシアードレス。透ける多層の長い裾が腰から左後方へ大きく翻る。腰をひねり、人物自身の右手で画面右下の裾を軽く持つ。
+
+背景・光：
+背景に青い海と低い水平線、画面右奥に暗い岬、右下に岩がある。画面右上からの柔らかな逆光が髪と肩を縁取り、水面に大きな玉ぼけを作る。
+
+構図・カメラ：
+3:4の縦位置、水平のカメラ視点で太腿上までを収め、後ろ姿を中央に大きく配置。空が上半分に広く残り、翻る薄布が左下から中央へ斜めの流れを作る。人物にピントを合わせ、背景は柔らかくぼける。
+
+質感・スタイル：
+風で動く極薄布、髪、逆光のきらめきを柔らかく写したシネマティックな実写写真。淡い青と桃色の低コントラスト。
+
+ネガティブ：
+背中の振り向きを正面向きにしない；透ける長い裾を短くしない
+```
+来源：@CyberTotal2026 · https://x.com/CyberTotal2026/status/2092012072116842607
 
 <a id="cat-illustration"></a>
 
@@ -15261,7 +14850,6 @@ _插画、绘画流派、材质实验与装饰艺术_（46 例）
 【日系唯美奇幻风格说明】该风格以高饱和度的粉紫冷暖色调交织出浩瀚星空，并辅以壮丽的流星与边缘发光的层云作为视觉奇观；画面巧妙利用“天空之镜”般的完美水面反射，将宏大的宇宙背景与孤独静立的人物剪影相融合，通过极具电影感的光影渲染与高对比度的表现手法，营造出一种空灵、静谧且带有超现实宿命感的梦境氛围。 
 【要求】生成图片的比例9:16，分辨率 4k。
 ```
-
 来源：小红书号yi_xiao_jiu
 
 <a id="case-22"></a>
@@ -15273,7 +14861,6 @@ _插画、绘画流派、材质实验与装饰艺术_（46 例）
 ```text
 An anime-style illustration of a {argument name="action type" default="high-impact martial arts battle"} between two young female fighters in a {argument name="setting" default="traditional wooden martial arts dojo"}. In the foreground, a girl with black hair in a high bun wears a {argument name="character 1 color theme" default="red and white"} Chinese-style martial arts outfit with baggy pants. She is in a dynamic, low, forward-thrusting stance, surrounded by swirling red energy and water splashes. In the background to the right, a girl with light purple hair in twin buns wears a {argument name="character 2 color theme" default="green and purple"} Chinese dress with gold embroidery and black tights. She is leaping through the air in a flying kick pose, surrounded by swirling blue energy. The wooden floorboards are splintering from the intense impact, with debris and dust flying through the air. Above them hangs a weathered wooden sign with the text "{argument name="sign text" default="武術会"}". The scene features dramatic lighting, a low-angle dynamic perspective, and intense action effects.
 ```
-
 来源：[@Tanemomi_Ver2](https://x.com/Tanemomi_Ver2)
 
 <a id="case-32"></a>
@@ -15306,7 +14893,6 @@ An anime-style illustration of a {argument name="action type" default="high-impa
   }
 }
 ```
-
 来源：[@austinit](https://x.com/austinit)
 
 <a id="case-34"></a>
@@ -15359,7 +14945,6 @@ An anime-style illustration of a {argument name="action type" default="high-impa
   }
 }
 ```
-
 来源：[@Ryan_Suo](https://x.com/Ryan_Suo)
 
 <a id="case-41"></a>
@@ -15371,7 +14956,6 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 ```text
 { "type": "VTuber profile sheet", "theme": "{argument name=\"color theme\" default=\"purple and white\"}, elegant, lace, ribbon motifs", "character": { "name": "{argument name=\"character name\" default=\"紫咲リリー\"}", "archetype": "{argument name=\"character archetype\" default=\"elegant ojousama\"}", "appearance": "anime girl, long black hair with purple highlights, purple eyes, wearing a white blazer, purple pleated skirt, thigh-highs, ribbons", "pose": "standing, finger to lips, looking slightly to the side" }, "chibi_character": { "appearance": "same character in chibi form", "pose": "sitting down, smiling" }, "layout": { "header": { "top_left": "Ribbon banner reading 'VTuber Profile'", "top_center": "Logo with text '{argument name=\"vtuber type\" default=\"清楚系お嬢様Vtuber\"}' and '{argument name=\"character name\" default=\"紫咲リリー\"}' and 'Shisaki Lily'", "top_right": "Quote '{argument name=\"catchphrase\" default=\"皆さまの心に、優雅なひとときをお届けしますわ\"}' followed by a 3-line introductory paragraph" }, "columns": [ { "position": "left", "content": "Full-body character portrait" }, { "position": "center", "sections": [ { "title": "Profile", "count": 9, "labels": ["名前", "誕生日", "年齢", "身長", "属性", "一人称", "出身", "職業", "活動開始日"] }, { "title": "Personality", "content": "2-line text block" }, { "title": "Hobby & Special Skill", "count": 2, "labels": ["趣味", "特技"] }, { "title": "Like & Dislike", "count": 2, "labels": ["好きなもの", "苦手なもの"] } ] }, { "position": "right", "sections": [ { "title": "Streaming Content", "content": "1-line text block" }, { "title": "Schedule", "count": 2, "labels": ["配信時間", "配信頻度"] }, { "title": "Goals", "content": "3-line text block" }, { "title": "Fan & Tag", "count": 3, "labels": ["ファンネーム", "ファンアートタグ", "総合タグ"], "extra": "4 hashtag rows with small icons" }, { "title": "Creator", "count": 3, "labels": ["イラストレーター (ママ)", "モデラー (パパ)", "使用モデル"] }, { "title": "Links", "count": 4, "labels": ["YouTube", "X (Twitter)", "BOOTH", "FANBOX"] }, { "content": "Chibi character illustration placed at the bottom right corner" } ] } ], "footer": { "sections": [ { "title": "Rules", "count": 3, "description": "3 bullet points with heart icons" }, { "content": "2-line closing message at the bottom center" } ] } } }
 ```
-
 来源：[@wtry1102](https://x.com/wtry1102)
 
 <a id="case-43"></a>
@@ -15404,7 +14988,6 @@ An anime-style illustration of a {argument name="action type" default="high-impa
   ]
 }
 ```
-
 来源：[@stark_nico99](https://x.com/stark_nico99)
 
 <a id="case-62"></a>
@@ -15474,7 +15057,6 @@ An anime-style illustration of a {argument name="action type" default="high-impa
   }
 }
 ```
-
 来源：[@masapark95](https://x.com/masapark95)
 
 <a id="case-93"></a>
@@ -15528,7 +15110,6 @@ An anime-style illustration of a {argument name="action type" default="high-impa
   }
 }
 ```
-
 来源：[@sayaka_aiart](https://x.com/sayaka_aiart)
 
 <a id="case-94"></a>
@@ -15587,7 +15168,6 @@ An anime-style illustration of a {argument name="action type" default="high-impa
   }
 }
 ```
-
 来源：[@sayaka_aiart](https://x.com/sayaka_aiart)
 
 <a id="case-105"></a>
@@ -15599,7 +15179,6 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 ```text
 A high-energy VTuber thumbnail illustration of a smiling anime girl with {argument name="hair color" default="bright blue"} hair in a high ponytail wearing a white shirt. The background is an explosive burst of rainbow light rays and golden sparkles. A golden retro microphone sits in the bottom left. Massive, shiny 3D gold text on the left reads "{argument name="main title text" default="初配信"}". A 3D gold and blue subtitle reads "{argument name="subtitle text" default="一緒に最高の時間を！"}". An ornate blue and gold oval badge in the bottom right displays "{argument name="character name" default="エリン Erin"}". A red top-right badge reads "{argument name="badge text" default="LIVE"}".
 ```
-
 来源：[@Yuupapa_free](https://x.com/Yuupapa_free)
 
 <a id="case-113"></a>
@@ -15611,7 +15190,6 @@ A high-energy VTuber thumbnail illustration of a smiling anime girl with {argume
 ```text
 A highly detailed anime illustration of a fierce female warrior with long flowing {argument name="hair color" default="black"} hair and piercing {argument name="eye color" default="blue"} eyes, wearing a mix of silver plate armor with gold trim and a {argument name="outfit color" default="blue and white"} tunic. She is captured in a dynamic combat stance, swinging a massive, {argument name="weapon type" default="segmented metallic whip-sword"} that curves dramatically into the extreme foreground. The weapon leaves a sweeping trail of kinetic energy and wind. The scene is set against a {argument name="background setting" default="ruined battlefield with rocky terrain, floating debris, and large blue banners fluttering in the wind"} under a dramatic cloudy sky. The artwork features cinematic lighting, intense action, and a dramatic forced perspective on the weapon.
 ```
-
 来源：[@REd8358](https://x.com/REd8358)
 
 <a id="case-114"></a>
@@ -15694,7 +15272,6 @@ A highly detailed anime illustration of a fierce female warrior with long flowin
   }
 }
 ```
-
 来源：[@kaikaitheaiguy](https://x.com/kaikaitheaiguy)
 
 <a id="case-123"></a>
@@ -15763,7 +15340,6 @@ A highly detailed anime illustration of a fierce female warrior with long flowin
   }
 }
 ```
-
 来源：[@Luvune](https://x.com/Luvune)
 
 <a id="case-126"></a>
@@ -15775,7 +15351,6 @@ A highly detailed anime illustration of a fierce female warrior with long flowin
 ```text
 An anime-style light novel cover illustration featuring two characters in an intimate pose. On the left, a young woman with short dark hair, purple eyes, wearing a white hat, a frilly white dress with a pink bow tie, white gloves, and two white flower hairpins. She has an affectionate, teasing smile and is gently touching the chin of the man next to her. On the right, an adult man with {argument name="man's hair color" default="red"} hair parted in the middle, purple eyes, and a light goatee. He is wearing a black button-down shirt and has a slightly annoyed, reluctant expression with a sweat drop on his cheek. The scene features soft, romantic lighting with out-of-focus purple flower petals in the foreground corners. The image includes several Japanese text elements: a large stylized main title at the bottom reading {argument name="main title" default="ちかつば"}, a subtitle below it reading {argument name="subtitle" default="ーその溺愛、独占欲の裏返し。ー"}, vertical text on the top left reading {argument name="left quote" default="可愛いだけじゃ、許さない。"}, and vertical text on the top right reading {argument name="right quote" default="その不機嫌、俺だけに向けろよ。"}.
 ```
-
 来源：[@taira_renta](https://x.com/taira_renta)
 
 <a id="case-129"></a>
@@ -15787,7 +15362,6 @@ An anime-style light novel cover illustration featuring two characters in an int
 ```text
 A watercolor illustration of a children's picture book cover. The main subject is a {argument name="character appearance" default="cute furry kemonomimi girl with short green hair, cat ears, and green eyes"}. She is {argument name="action" default="smiling happily while holding up her middle finger"} with a white-furred hand. She wears a green garment with a fluffy white collar. The background features soft, painted green foliage and small yellow flowers on textured paper. At the top, large hand-drawn green Japanese text reads "{argument name="main title" default="なかゆびさん"}". Below it, brown Japanese text reads "{argument name="subtitle" default="こんにちは"}". On the middle-left, smaller black text reads "{argument name="author text" default="さく・え：とらの"}". The image has a visible book spine on the left edge, emphasizing the physical book format.
 ```
-
 来源：[@TlanoVRC](https://x.com/TlanoVRC)
 
 <a id="case-174"></a>
@@ -15815,7 +15389,6 @@ Background features peonies and butterflies.
 
 **In the bottom right corner, a single red vertical artist chop seal reads "吴先生" (Mr. Wu), stylized like a watermark.** --ar 3:4
 ```
-
 来源：[@johnAGI168](https://x.com/johnAGI168/status/2046565555025367392)
 
 <a id="case-193"></a>
@@ -15843,7 +15416,6 @@ The golden aura behind the head is made of spinning clock gears.
 
 **In the bottom right corner, a single red vertical artist chop seal reads "吴先生" (Mr. Wu), stylized like a watermark.** --ar 3:4
 ```
-
 来源：[@johnAGI168](https://x.com/johnAGI168/status/2046565555025367392)
 
 <a id="case-196"></a>
@@ -15916,7 +15488,6 @@ masterpiece, ultra detailed
 
 主体：巨龙
 ```
-
 来源：[@GeekCatX](https://x.com/GeekCatX/status/2046539797578330152)
 
 <a id="case-206"></a>
@@ -15932,7 +15503,6 @@ masterpiece, ultra detailed
 [English]
 (Guofeng scroll illustrator) You are a top Chinese traditional Gongbi figure painter, skilled in painting classic character group portraits into long-scroll-style encyclopedia posters. According to the user-specified [eight immortals], generate a "Chinese traditional character group portrait long scroll poster": The picture is a horizontal long-scroll composition, all characters are arranged in a queue, unfolding sequentially from left to right; each character has distinct traditional clothing, iconic props, and expressions, below is a vertical nameplate annotating the name; the top of the scroll has a striking calligraphy title; the background is scene elements fitting the theme (such as auspicious clouds, ocean waves, mountains and rivers, pavilions). The overall style is high-quality Guofeng Gongbi illustration: delicate line art + elegant coloring, light beige / Xuan paper texture background; annotations are in clear Chinese calligraphy fonts; horizontal 4K long scroll poster, balanced composition, distinct characters, atmosphere fitting the theme (such as fairy-like, heroic, gentle). Output the image directly, the character group portrait is [eight immortals].
 ```
-
 来源：[@GeekCatX](https://x.com/GeekCatX/status/2046559605074076112)
 
 <a id="case-215"></a>
@@ -15952,7 +15522,6 @@ masterpiece, ultra detailed
 [English]
 Create an ultra-high-detail isometric pixel art timeline illustration (3:4, 4K), integrating detail density, symbolism, and metaphor. The user-specified theme is [Western Art Development]. First, reason around Western Art Development to determine: the Chinese and English titles of the theme, the earliest and most recent historical periods covered, the starting stage label and the ending stage label, as well as 3-5 key evolution stages and their respective symbolic elements and color schemes. Then build an isometric "Evolution Museum" themed "Western Art Development", where each exhibition hall area represents an evolution stage, and spatial progression represents time evolution. Adopt a standard isometric perspective (2:1), rich layer depth, and smooth transitions. Allocate 3-5 symbolic elements strongly associated with the theme to each stage, and use differentiated colors to imply the flow of time. Integrate bilingual pixel font titles in the scene: Chinese "[Theme Chinese] Evolution History" and English "EVOLUTION OF Western Art Development", plus bilingual subtitles for the starting and ending stages and key time node markers. The overall style is professional and visually tense, suitable for academic analysis and comparative visualization, direct image output.
 ```
-
 来源：[@GeekCatX](https://x.com/GeekCatX/status/2046172416716759171)
 
 <a id="case-233"></a>
@@ -15968,7 +15537,6 @@ Create an ultra-high-detail isometric pixel art timeline illustration (3:4, 4K),
 [English]
 Generate an oil painting of Mona Lisa drinking cola.
 ```
-
 来源：[@liyue_ai](https://x.com/liyue_ai/status/2045058142858555733)
 
 <a id="case-238"></a>
@@ -15986,7 +15554,6 @@ Generate an oil painting of Mona Lisa drinking cola.
 [English]
 A surrealist digital illustration style, adopting a low-angle upward perspective. The picture depicts a giant colorful koi swimming in a dreamy nebula, surrounded by colorful nebulae and bubbles. In the center of the picture stands a small figure, with their back to the audience, calmly looking up at this huge koi in the air, and the koi is looking down at the small figure. The overall picture presents a strong size contrast, and the atmosphere is ethereal and dreamy. Aspect ratio 9:16
 ```
-
 来源：[@liyue_ai](https://x.com/liyue_ai/status/2045875219307655337)
 
 <a id="case-246"></a>
@@ -16002,7 +15569,6 @@ A surrealist digital illustration style, adopting a low-angle upward perspective
 [English]
 Design a Shanghai postcard in black line art style.
 ```
-
 来源：[@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
 <a id="case-285"></a>
@@ -16018,7 +15584,6 @@ Design a Shanghai postcard in black line art style.
 [English]
 Show me the attached image as a snapshot from an actual anime
 ```
-
 来源：[@Thereallo1026](https://x.com/Thereallo1026/status/2044241997163311569)
 
 <a id="case-299"></a>
@@ -16041,7 +15606,6 @@ Show me the attached image as a snapshot from an actual anime
 [English]
 Express [Subject/Theme] in a graffiti sketch style, presenting an overall visual effect of quick outlining, free deformation, impromptu hand-drawing, and draft-like appearance. The lines are casual, exaggerated, and can vary in thickness, slightly messy but rhythmic and expressive, emphasizing generalization, exaggeration, playfulness, and spontaneity, rather than rigorous realism or detailed rendering. Colors are expressed in rough blocks with a distinct dry-brush feel, retaining uneven smearing traces, brush strokes, dry-brush effects, and a sense of coverage. Colors automatically adapt to [Subject/Theme], but the overall expression remains graffiti-style, sketch-style, and generalized. Do not use transparent watercolor blooming effects, do not use delicate watercolor transitions, do not use paper textures, do not use soft atomization, and do not use dreamy textures. The background is mainly left blank, maintaining a sense of simplicity, relaxation, incompleteness, and design. A small number of auxiliary symbols, arrows, marks, circled areas, repeated lines, casually written text, or other graffiti elements can be added to enhance the visual language of a sketchbook or jotting style, but it must not be too crowded, and must not destroy the subject and the blank space temperament. The image content does not need to be written out in advance; the most suitable subject image, actions, related elements, symbols, or simplified scenes are automatically deduced and generated by [Subject/Theme], keeping the overall unified graffiti sketch style and exaggerated generalized expression, avoiding complex realistic backgrounds and over-elaboration. The exclusive signature "voxcat" needs to be naturally added to the image as a part of the picture. The position should be low-key but clear, and can be placed in the bottom left corner, bottom right corner, or near the title. The style must be consistent with the overall layout, like an artwork signature or a design sign-off; the signature font should be exquisite, restrained, and high-end, must not be too large, must not destroy the subject composition, and must not appear abrupt or cheap.
 ```
-
 来源：[@VoxcatAI](https://x.com/VoxcatAI/status/2045131503001342302)
 
 <a id="case-346"></a>
@@ -16053,7 +15617,6 @@ Express [Subject/Theme] in a graffiti sketch style, presenting an overall visual
 ```text
 精致立体刺绣风插画，浅浮雕纤维艺术效果，纯净「蚕丝白 + 奶白」底色，细腻丝线质感。画面为数只小鸟停在蜿蜒花枝上，周围点缀粉白、浅桃、珊瑚粉、淡金色花朵与叶片，构图轻盈雅致、留白充足。鸟儿羽毛以奶白、浅蓝、淡粉、浅金丝线刺绣表现，花枝纤细自然，花朵层层叠线，整体呈现高级手工刺绣、丝线堆绣、柔和光影、细节丰富、温柔清新的艺术效果。
 ```
-
 来源：[@dotey](https://x.com/dotey/status/2048529821706195442)
 
 <a id="case-366"></a>
@@ -16073,7 +15636,6 @@ Background: a realistic cozy café street with brick walls, plants, warm golden 
 
 Style: mix of photorealism and vibrant cartoon illustration, pop-art aesthetic, high saturation but warm tones, clean composition, Instagram-worthy, soft glow, 4k detail.
 ```
-
 来源：[@Jawad_Rahman_](https://x.com/Jawad_Rahman_/status/2049796647237066971)
 
 <a id="case-410"></a>
@@ -16085,7 +15647,6 @@ Style: mix of photorealism and vibrant cartoon illustration, pop-art aesthetic, 
 ```text
 Create a trending anime art style image from the uploaded subject. Use confident line-work with slight variation and minimal cel shading using flat shadow shapes. Use bright, saturated colors and clean graphic lighting. The style is defined by exaggerated, cartoonish character proportions featuring highly expressive, simplistic facial features that allow for immense emotional range, with highly varied stretched anatomy.Transform the environment into a slightly warped space with playful perspective distortion and simplified objects. Composition and tone should be energetic, lively, and comedic in a fully stylized, non-realistic world
 ```
-
 来源：[@Zyrellix](https://x.com/Zyrellix/status/2052766810500649197)
 
 <a id="case-423"></a>
@@ -16097,7 +15658,6 @@ Create a trending anime art style image from the uploaded subject. Use confident
 ```text
 Generate an illustration of "me" as you imagine it. Features include a Japanese illustration style, distinct character features, natural emotional expressions, a half-body composition, dynamic poses, exquisite clothing details, a hand-drawn graffiti style, ink splatter strokes, free-flowing lines, a blend of pastels and ink, a comic sketch texture, a minimalist white background, surrounding symbolic elements, a strong atmosphere, high detail, and high quality.
 ```
-
 来源：[@heyfatema](https://x.com/heyfatema/status/2053703602246668607)
 
 <a id="case-430"></a>
@@ -16111,7 +15671,6 @@ A high-detail digital illustration of a stylish woman sitting gracefully on a st
 
 Aspect ratio is 9:16
 ```
-
 来源：[@harboriis](https://x.com/harboriis/status/2054573031343931418)
 
 <a id="case-435"></a>
@@ -16161,7 +15720,6 @@ Aspect ratio is 9:16
   "render_quality": "ultra-detailed papercraft art, studio photography lighting, sharp focus on layer edges"
 }
 ```
-
 来源：[@Just_sharon7](https://x.com/Just_sharon7/status/2055368240885641323)
 
 <a id="case-442"></a>
@@ -16173,7 +15731,6 @@ Aspect ratio is 9:16
 ```text
 A vibrant whimsical digital illustration of a cozy indie hair salon, featuring a young girl with long brown hair getting her hair styled by a fashionable hairstylist. Bright pink, purple, orange, and peach color palette with playful retro decor, indoor plants, patterned walls, confetti shapes, beauty tools, flowers, and soft ambient lighting. Cute feminine aesthetic, dreamy cartoon style, expressive characters with rosy cheeks, highly detailed textures, modern flat illustration mixed with painterly shading, colorful composition, trendy Pinterest aesthetic, cozy creative atmosphere, ultra-detailed, 2D editorial art style.
 ```
-
 来源：[@Sairah_0](https://x.com/Sairah_0/status/2056293543753503126)
 
 <a id="case-452"></a>
@@ -16187,7 +15744,6 @@ Transform the photo into a delicate minimalist hand-drawn children’s illustrat
 
 Stylize the clothing in a playful storybook way with simplified shapes and gentle decorative details. The overall mood should feel airy, cozy, naive, and charming, like a modern Scandinavian nursery postcard or children’s book illustration. Avoid photorealism, 3D, cinematic lighting, glossy surfaces, complex shadows, realistic anatomy, and hyper-detail.
 ```
-
 来源：[@MissDelulu9](https://x.com/MissDelulu9/status/2057073936295399551)
 
 <a id="case-458"></a>
@@ -16199,7 +15755,6 @@ Stylize the clothing in a playful storybook way with simplified shapes and gentl
 ```text
 Full-body fashion illustration of a young woman walking down a Parisian street in autumn, wearing a long camel wool coat draped open over a black ribbed turtleneck sweater and high-waisted wide-leg cream trousers, holding a quilted tan leather shoulder bag with interlocking CC logo and chain strap in her left hand while her right hand slides into a pocket, short dark brown wavy hair gently lifted by a breeze, pearl stud earrings, natural fresh makeup and a confident serene expression; cinematic shallow depth of field with soft warm golden-hour light, subtle bokeh on Haussmann-style buildings and slow-moving cars in the blurred background, scattered fallen leaves on the pavement; semi-realistic digital painting / fashion illustration style with clean linework, soft gradients, high-detail fabric textures and realistic folds, emphasis on elegant silhouettes and tactile materials, muted autumn palette (camel, cream, black, warm ochre), vertical composition, crisp foreground, gentle film grain and polished finishing.
 ```
-
 来源：[@heyfatema](https://x.com/heyfatema/status/2057745100365787170)
 
 <a id="case-468"></a>
@@ -16223,7 +15778,6 @@ Full-body fashion illustration of a young woman walking down a Parisian street i
 
 整体风格：写实、清透、明亮、梦幻。
 ```
-
 来源：[@drmrzhong](https://x.com/drmrzhong/status/2058774378960257437)
 
 <a id="case-471"></a>
@@ -16235,7 +15789,6 @@ Full-body fashion illustration of a young woman walking down a Parisian street i
 ```text
 Ultra-detailed anime-style portrait of a young girl with large expressive eyes, soft blush cheeks, and delicate facial features. She wears a vibrant floral kimono with intricate colorful patterns. Large blooming flowers are placed in her hair like accessories. Smooth gradient warm background in coral and peach tones. Soft cinematic lighting, dreamy atmosphere, high-end digital illustration
 ```
-
 来源：[@Mind_Boticni](https://x.com/Mind_Boticni/status/2059133066694779343)
 
 <a id="case-479"></a>
@@ -16247,7 +15800,6 @@ Ultra-detailed anime-style portrait of a young girl with large expressive eyes, 
 ```text
 Transform the uploaded image into a minimalist illustration in a magazine collage style, using paper cutouts. Retain the main subject, pose, and overall concept of the original image, but reimagine it as a warm, hand-edited collage. Style: Minimalist illustration in a magazine paper collage style, with flat, layered paper shapes, soft pastel paper textures, torn paper edges, paper shadow effects, neat black doodle accents, a handmade scrapbook atmosphere, modern Korean editorial design, a simple and cute composition, and large areas of clean white space. Character: Cute, simplified Korean characters with minimalist facial features, a small, relaxed smile, soft and rounded proportions, simple and casual clothing, and silhouettes constructed from layered paper cutouts. Composition: A 3:4 aspect ratio, with the main subject positioned slightly lower and off-center, leaving a large, open space on the opposite side for a breezy, minimalist composition that avoids clutter. Objects: Add only a few suitable collage elements: paper sticky notes, small hearts, plants, a cup of coffee, a window, tape fragments, and simple doodle icons. Typography: Add an elegant, handwritten English title that fits the scene's atmosphere. Use short phrases such as: ["May you be like the morning sunshine, full of vitality and hope, embracing the beauty of each day.","Take a small break," or "Good day, good mood."] Atmosphere: Calm, comfortable, warm, sweet, and editorial style. Avoid: Photorealistic style, anime style, watercolor style, 3D clay style, overly detailed backgrounds, excessive collage elements, a luxury poster atmosphere, dark tones, harsh shadows, and sloppy text.
 ```
-
 来源：[@oggii_0](https://x.com/oggii_0/status/2060212097083146644)
 
 <a id="case-495"></a>
@@ -16259,7 +15811,6 @@ Transform the uploaded image into a minimalist illustration in a magazine collag
 ```text
 Portrait illustration in a storybook style featuring a young adult woman exploring the streets of Paris. She is laughing happily with her eyes closed, holding a coffee cup in her hand. She has long, wavy hair and wears a beret hat. The scene is set near a Parisian café in a peaceful morning atmosphere. The woman has a sweet, charming smile. Soft, dreamy mood, romantic Paris street vibe, gentle lighting, and highly detailed artwork.
 ```
-
 来源：[@MissDelulu9](https://x.com/MissDelulu9/status/2062376738500526347)
 
 <a id="case-498"></a>
@@ -16273,7 +15824,6 @@ Create a handrawn pencil illustration of [image] yawning on paper, as background
 
 Add a 3D Pixar style render of [foto] standing casually infront of the giant handrawn pencil illustration. Soft cinematic lighting. 8K resolution. 3:4 ratio
 ```
-
 来源：[@AIwithkhan](https://x.com/AIwithkhan/status/2062567518389391540)
 
 <a id="case-509"></a>
@@ -16285,7 +15835,6 @@ Add a 3D Pixar style render of [foto] standing casually infront of the giant han
 ```text
 A playful, high-key studio portrait of [subject] running joyfully across a seamless light gray background, captured mid-stride with one leg lifted and a wide genuine smile. The subject wears a casual oversized outfit with soft neutral tones (or vibrant colors), creating a dynamic sense of motion. Behind them, a simple black hand-drawn cartoon stick figure grabs and stretches the back of their shirt, making the fabric appear elastically pulled as if trying to stop them. The doodle character is integrated naturally into the scene with expressive motion lines and a humorous facial expression. The subject holds a fun prop (such as a dinosaur toy, oversized lollipop, teddy bear, or balloon), enhancing the playful storytelling. Minimalist composition, clean studio lighting, soft shadows, ultra-sharp focus, realistic skin texture, vibrant yet natural colors, whimsical editorial photography, premium children’s fashion campaign aesthetic, highly detailed, photorealistic, 8K.
 ```
-
 来源：[@Sairah_0](https://x.com/Sairah_0/status/2071929275897491491)
 
 <a id="case-513"></a>
@@ -16297,7 +15846,6 @@ A playful, high-key studio portrait of [subject] running joyfully across a seaml
 ```text
 Create a charming editorial travel illustration of {DESTINATION} in a simple hand-drawn doodled style, as if sketched by hand with a black felt-tip marker in a travel notebook. The illustration should feel personal, spontaneous, and imperfect rather than digitally designed. Think of the kind of drawing someone might casually create while sitting at a café after exploring the destination.** ## COLOR PALETTE Keep the illustration almost entirely black and white. Use **only one accent color: {ONE POINT COLOR}** ## STYLE Draw entirely with black felt-tip pen lines. Use slightly wobbly hand-drawn contours, natural line variation, loose marker strokes, sketch-like confidence, subtle imperfections, slightly open line endings, uneven hand pressure, and occasional overlapping strokes. Every line should clearly look handmade. Avoid perfectly smooth curves, mechanically precise outlines, polished vector graphics, or overly crisp digital rendering. ## SUBJECT Illustrate the unique atmosphere and instantly recognizable identity of **{DESTINATION}** rather than producing a realistic cityscape. Select the destination's most iconic landmarks, characteristic architecture, local transportation, famous scenery, native plants, local animals, regional food, and cultural objects. Focus on the spirit of the destination instead of literal accuracy. ## COMPOSITION Arrange the selected elements into a balanced editorial composition with generous white space. The layout should feel open, light, and effortless, similar to a designer's travel sketchbook. Allow objects to overlap naturally without becoming crowded. Every element should have room to breathe. Keep the composition visually relaxed and uncluttered. Apply the blue sparingly to selected details such as water, sky, windows, signs, clothing accents, decorative highlights, or small architectural features. Never introduce any additional colors. ## DRAWING STYLE Keep every object simple and intentionally simplified. Use flat shapes with minimal interior detail. Avoid realistic textures, gradients, shadows, painterly brushwork, glossy surfaces, or complex rendering. The illustration should remain clean, airy, understated, and highly graphic. ## LINE QUALITY The black marker lines are the main visual feature. Lines should feel confident, casual, lively, expressive, and naturally imperfect. Slightly uneven contours, open edges, variable line thickness, and small drawing inaccuracies are encouraged because they enhance the authentic hand-drawn feeling. ## MOOD Warm. Friendly. Relaxed. Playful. Minimal. Editorial. Contemporary. Elegant through simplicity. The finished artwork should resemble a beautifully designed travel notebook, boutique travel guide, editorial magazine illustration, or lifestyle sketchbook rather than a polished digital illustration. ## IMPORTANT No photorealism. No 3D rendering. No painterly effects. No gradients. No heavy shadows. No glossy lighting. No vector-clean artwork. No excessive detail. No busy composition. Preserve generous white space. Maintain a flat editorial doodle aesthetic with a distinctly handmade character. The final image should instantly evoke **{DESTINATION}** through simple, expressive black felt-tip sketches with subtle sky-blue accents.
 ```
-
 来源：[@Sairah_0](https://x.com/Sairah_0/status/2071779087396606433)
 
 <a id="case-520"></a>
@@ -16309,7 +15857,6 @@ Create a charming editorial travel illustration of {DESTINATION} in a simple han
 ```text
 A graphic illustration centered on a dark navy blue t-shirt, depicting an astronaut sitting on the surface of the moon, viewed from a side profile. The astronaut is wearing a detailed, bulky space suit and helmet, leaning back against a small lunar rock formation, and is holding a small steaming mug, suggesting they are enjoying a peaceful drink. Positioned directly in front of the astronaut in the background is a large, majestic view of the Earth, rendered in shades of white, light blue, and navy, featuring prominent swirling cloud formations. The entire artwork is monochromatic, utilizing a cool blue-and-white color palette that creates a serene, solitary, and contemplative atmosphere. The lunar ground is textured with craters and dust, providing a grounded contrast to the vast, dark sky and the bright, swirling planet above. The style is clean, artistic, and iconic, reminiscent of screen-printed apparel designs.
 ```
-
 来源：[@lovimg_com](https://x.com/lovimg_com/status/2077035644254363972) / [full prompt](https://lovimg.com/image-prompts/7401/a-graphic-illustration-centered-on-a-dark-navy-blue-t-shi)
 
 <a id="case-522"></a>
@@ -16349,7 +15896,6 @@ Simple warm mustard, butter yellow, ochre, or cream background with subtle paper
 
 Final feeling: the same person lovingly redrawn as an extremely cute, warm, wholesome, nostalgic, handcrafted children’s-book character—same identity, same hair, same clothes, same accessories, completely simplified and adorable.
 ```
-
 来源：[@Sairah_0](https://x.com/Sairah_0/status/2090321208441262454)
 
 <a id="case-523"></a>
@@ -16361,7 +15907,6 @@ Final feeling: the same person lovingly redrawn as an extremely cute, warm, whol
 ```text
 Create a vertical editorial travel illustration inspired by vintage European travel posters, featuring a peaceful summer afternoon in a grand city park with a recognizable Manhattan-style skyline in the background. Use delicate hand-drawn ink outlines combined with soft, slightly imperfect watercolor washes on warm textured cream paper. Show a wide green lawn filled with people relaxing, reading, walking, jogging, cycling, and having picnics. In the foreground, a casually dressed young couple sits together on a picnic blanket beside a woven basket. Include elegant black vintage park lamps, winding pathways, dense leafy trees framing the composition, and detailed historic and modern skyscrapers rising behind the park. Add a small picturesque stone arch bridge over a calm pond near the bottom of the artwork. Use muted sage green, olive, warm beige, soft blue, pale gray, and subtle golden sunlight, with natural watercolor bleeding, paper grain, fine pen hatching, and an airy sophisticated travel-journal aesthetic. No text, no letters, no logos, no typography, no captions, no signs. Vertical 4:5 composition, highly detailed, elegant, nostalgic, handcrafted watercolor-and-ink illustration.
 ```
-
 来源：[@Taaruk_](https://x.com/Taaruk_/status/2090307485374578755)
 
 <a id="case-530"></a>
@@ -16436,7 +15981,6 @@ Prioritize:
 
 Avoid full-image illustration, background doodling, realistic anatomy, anime, manga, 3D cartoon, polished digital art, vector lines, changed poses, changed orientation, added people, or invented faces.
 ```
-
 来源：[@Emmma__0](https://x.com/Emmma__0/status/2091391958128251286)
 
 <a id="case-628"></a>
@@ -16475,7 +16019,6 @@ GPT IMAGE2 提示词：
 
 #今日提示词 #GPT #image2
 ```
-
 来源：https://x.com/AIVideoHub_/status/2094267872201867455
 
 <a id="cat-character"></a>
@@ -16516,7 +16059,6 @@ _角色设计、卡牌、3D 玩具与形象设定_（31 例）
   }
 }
 ```
-
 来源：[@anemone_sd](https://x.com/anemone_sd)
 
 <a id="case-54"></a>
@@ -16619,7 +16161,6 @@ _角色设计、卡牌、3D 玩具与形象设定_（31 例）
   }
 }
 ```
-
 来源：[@fukumy_ai](https://x.com/fukumy_ai)
 
 <a id="case-155"></a>
@@ -16631,7 +16172,6 @@ _角色设计、卡牌、3D 玩具与形象设定_（31 例）
 ```text
 Create {argument name="items" default="fan goods"} for a standard {argument name="character type" default="Vtuber"} in {argument name="style" default="live-action"}
 ```
-
 来源：[@wtry1102](https://x.com/wtry1102)
 
 <a id="case-162"></a>
@@ -16643,7 +16183,6 @@ Create {argument name="items" default="fan goods"} for a standard {argument name
 ```text
 {argument name="voice" default="chatgpt voice"} if it were a character
 ```
-
 来源：[@nicdunz](https://x.com/nicdunz)
 
 <a id="case-165"></a>
@@ -16659,7 +16198,6 @@ Create {argument name="items" default="fan goods"} for a standard {argument name
 [English]
 a stunning beauty with a cool, aloof atmosphere, delicate facial features, a cold and sophisticated high-fashion face, long hair, and a graceful slender figure; barbecue “three-sword style” pose: one barbecue skewer held in her mouth, one skewer in each hand crossed to mimic Zoro’s three-sword style; street night scene ambiance, warm yellow night market lighting, blurred background, film-like texture, soft-focus glow, cinematic storytelling feel, trendy high-end influencer-style fashion shoot, clear luminous skin, sharply detailed strands of hair, lively dynamic expression, low-angle wide-angle shot, moody dark-toned atmosphere, shallow depth of field, ultra HD 8K, extreme detail, cinematic lighting
 ```
-
 来源：[@BubbleBrain](https://x.com/BubbleBrain/status/2046564674112831920)
 
 <a id="case-166"></a>
@@ -16675,7 +16213,6 @@ a stunning beauty with a cool, aloof atmosphere, delicate facial features, a col
 [English]
 Generate a 12-grid card image of the 12 Gold Saints from Saint Seiya, with the corresponding Chinese name written on each card, 4 per row, aspect ratio 16:9.
 ```
-
 来源：[@songguoxiansen](https://x.com/songguoxiansen/status/2046476566537080849)
 
 <a id="case-202"></a>
@@ -16691,7 +16228,6 @@ Generate a 12-grid card image of the 12 Gold Saints from Saint Seiya, with the c
 [English]
 Generate high-quality beautiful girl (otaku must-have)
 ```
-
 来源：[@joshesye](https://x.com/joshesye/status/2046596222505361866)
 
 <a id="case-208"></a>
@@ -16735,7 +16271,6 @@ Generate a high-quality anime beautiful girl image.
 
 Proportion: 16:9 (mobile wallpaper) Quality: 8K, ultra-fine, rich in details
 ```
-
 来源：[@joshesye](https://x.com/joshesye/status/2046593124646928397)
 
 <a id="case-224"></a>
@@ -16756,7 +16291,6 @@ Proportion: 16:9 (mobile wallpaper) Quality: 8K, ultra-fine, rich in details
 [English]
 A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber eyes with glowing HUD reticles, waist-length ash-white hair tied in a high ponytail whipping in the sea wind, matte gunmetal exoskeleton armor plating her shoulders, forearms and shins, exposed hydraulic pistons at the joints, chest rig with glowing cyan coolant lines, oversized oil-stained hangar jacket half slipping off one shoulder, a massive rail cannon resting on her right shoulder, dog tags and frayed red ribbon at her collar , standing off-center to the left on the rusted edge of a tilted steel platform jutting out over dark water, weight shifted onto one leg, left hand gripping the cannon strap, head turned slightly toward camera with a quiet defiant stare, steam venting from her back thrusters, her ponytail and jacket streaming sideways in the salt wind , a vast derelict sea-city at dusk, colossal megastructures of unknown purpose rising from the ocean in staggered silhouettes, bone-white monolithic towers fused with barnacled steel, cyclopean ring-shaped constructs canted at broken angles, rusted skeletal gantries threaded with dead cables, dark swells rolling between the pylons, shipwrecks half-swallowed at their feet, thick sea fog clinging to the bases while the upper structures pierce into a bruised sky, scattered faint lights blinking high in the towers like distant eyes , moody low-key lighting, cold teal ambient from the overcast sky, warm amber sodium glow leaking from a distant structure camera-right, hard backlight from a low sun behind the towers carving her silhouette, volumetric god rays cutting through sea mist, wet specular highlights on her armor , 35mm anamorphic lens, slight low angle looking up past her shoulder toward the structures, medium-wide shot, shallow depth of field with foreground rust in soft focus, horizontal lens flares, fine atmospheric haze compressing the distant megastructures into layered silhouettes , cinematic anime key visual, painterly digital illustration with crisp line art, desaturated oceanic palette of teal, bone-white and rust punched by small warm accent lights, film grain, high-contrast editorial poster aesthetic . Format 16:9.
 ```
-
 来源：[@old_pgmrs_will](https://x.com/old_pgmrs_will/status/2046144801071079612)
 
 <a id="case-271"></a>
@@ -16772,7 +16306,6 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 [English]
 I borrowed it and tried making a character sheet using the rumored GPT-Image-2 Awesome(๑°ㅁ°๑)‼✧ It seems like it would turn out even better if I gave it various more instructions✨ The character is my alter ego that I asked Chappy to draw for me before( *¯ ꒳¯*) #GPTimage #AIgenerated
 ```
-
 来源：[@tsubaki_ew](https://x.com/tsubaki_ew/status/2045259289993048284)
 
 <a id="case-284"></a>
@@ -16789,7 +16322,6 @@ I borrowed it and tried making a character sheet using the rumored GPT-Image-2 A
 A stunning 18-year-old Chinese girl with a youthful, pure face and realistic skin texture, sitting on a cozy, slightly messy bed in her bedroom. She is taking a mirror selfie with a smartphone, capturing a natural and intimate moment. Wearing casual gray loungewear and neat white crew socks. Soft natural light (golden hour) streams in from a side window, creating a warm, moody, and cinematic atmosphere. 35mm lens, sharp focus on the subject in the mirror, depth of field with a beautifully blurred background (bokeh). Photorealistic, 8K, high resolution, studio quality, masterpiece.
 Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no watermark, no text, no cartoon/anime style. Aspect Ratio: 3:4.
 ```
-
 来源：[@Shinning1010](https://x.com/Shinning1010/status/2045002808903020962)
 
 <a id="case-290"></a>
@@ -16805,7 +16337,6 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 [English]
 Design a set of game cards for ancient Chinese poets, classified by SSR SR R grades, with key cards having an enlarged display effect, including card face design and character introduction, having a very high-end game card texture, rare cards will also have special light and shadow effects such as holographic laser effects, requiring set card design and skill design, along with relatively detailed descriptions
 ```
-
 来源：[@TanShilong](https://x.com/TanShilong/status/2045435090923356415)
 
 <a id="case-304"></a>
@@ -16833,7 +16364,6 @@ Chinese mythical beast: Qiongqi, complete body pattern, magnificent,, soft and a
 Fluorescent blue lines, 0.5mm ultra-fine gold metallic texture outlining, large strokes of splashed white ink, color rendering, red background, romantic and poetic blue vision;
 Dreamy and aesthetic scene where cold and warm lights intertwine, strong light and shadow contrast atmosphere, time narrative of flowers dancing lightly, Oriental Zen, the picture has a large area of blank space, framework composition, blank space at the bottom, clear details.
 ```
-
 来源：[@liyue_ai](https://x.com/liyue_ai/status/2045506567735558336)
 
 <a id="case-305"></a>
@@ -16849,7 +16379,6 @@ Dreamy and aesthetic scene where cold and warm lights intertwine, strong light a
 [English]
 35mm film photography with harsh convenience store fluorescent lighting mixed with colorful neon signs from outside, authentic film grain, high contrast, slight color cast, cinematic street editorial style, intimate medium shot, early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with cool ivory undertone and visible specular highlights from fluorescent light, subtle skin texture and micro pores, natural dewy makeup with soft flush on cheeks, glossy natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair in a messy high ponytail with many loose strands falling around face and neck, wearing an oversized white button-up shirt as the only top, unbuttoned at the top with deep cleavage and loosely tied at the waist, paired with a tiny black pleated mini skirt, barefoot in simple white slides, seductive casual leaning pose against the glass door of a 24-hour convenience store at late night, body slightly arched, one leg bent with foot resting against the door frame, the other leg straight, one hand holding a bottle of iced drink, the other hand lightly pulling the hem of her mini skirt, intensely seductive playful yet slightly vulnerable gaze straight at the viewer with soft doe eyes full of quiet temptation and teasing smile, bright cold fluorescent store light from inside mixed with pink and blue neon glow from outside signs, realistic reflections on glass door, blurred convenience store interior with shelves and snacks in background, authentic 35mm film color grading with harsh lighting and neon accents, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the oversized shirt and mini skirt, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic late-night convenience store atmosphere
 ```
-
 来源：[@BubbleBrain](https://x.com/BubbleBrain/status/2045167461147042202)
 
 <a id="case-306"></a>
@@ -16875,7 +16404,6 @@ Based on this character and background, please create a character reference shee
 ・Include a brief explanation of the worldview setting
 ・Overall, use an organized layout (white background, illustration style)
 ```
-
 来源：[@MANISH1027512](https://x.com/MANISH1027512/status/2045013913901867334)
 
 <a id="case-309"></a>
@@ -16904,7 +16432,6 @@ soft natural lighting,
 realistic leaf textures,
 8k
 ```
-
 来源：[@meng_dagg695](https://x.com/meng_dagg695/status/2032019839070716170)
 
 <a id="case-311"></a>
@@ -16926,7 +16453,6 @@ Top: Waist-up, eyes closed, pale lilac dress, one hand in hair, blurred lavender
 Middle: Close-up, looking at camera, tousled hair, sheer scarf, sunlight on face.
 Bottom: Three-quarter shot, holding lavender bouquet, flowing skirt, soft pastel sky, warm dreamy tones.
 ```
-
 来源：[@Naiknelofar788](https://x.com/Naiknelofar788/status/2028417667846341062)
 
 <a id="case-315"></a>
@@ -16950,7 +16476,6 @@ Behind them, a tall dramatic waterfall cascades down steep jungle cliffs covered
 
 Lighting is cinematic and natural, with diffused daylight illuminating the scene, detailed shadows, sharp focus on the woman and the Spinosaurus, and shallow depth of field for background elements. Hyper-real textures on dinosaur scales, teeth, water droplets, foliage, and fabric. Epic fantasy realism, dramatic composition, vertical framing, ultra-detailed, photorealistic, 4K, cinematic color grading, no text, no watermark.
 ```
-
 来源：[@MrDasOnX](https://x.com/MrDasOnX/status/2028087254757867560)
 
 <a id="case-326"></a>
@@ -17052,7 +16577,6 @@ Lighting is cinematic and natural, with diffused daylight illuminating the scene
   }
 }
 ```
-
 来源：[@meng_dagg695](https://x.com/meng_dagg695/status/2012437899955097836)
 
 <a id="case-365"></a>
@@ -17064,7 +16588,6 @@ Lighting is cinematic and natural, with diffused daylight illuminating the scene
 ```text
 2x2 grid, do this for 4 famous scientists in history: Design a collector-grade launch visual for [TOY / FIGURE / DESIGNER OBJECT] shown in pristine hero form along with interchangeable accessories, alternate expressions, packaging design, scale references, sticker details, rarity indicators, and close-up material highlights. The object should feel like a luxury drop, somewhere between art toy culture and elite product branding.  Accessory Layout: Arrange [ACCESSORY 1], [ACCESSORY 2], [ALT VERSION], [PACKAGING FEATURE], and [LIMITED EDITION DETAIL] around the figure in carefully staged clusters. Everything should feel desirable, neat, and “unboxable.”  Visual Style: Hype-culture collectible reveal meets premium e-commerce launch campaign. Clean, glossy, tactile, designer-toy sophistication with a playful but expensive sensibility.  Composition Guidelines: Hero figure remains dominant. Accessories should be balanced and elegantly spaced. Packaging should be visible but not steal the scene. The entire image should feel like a product collectors would screenshot instantly.  Lighting & Background: Soft commercial lighting with subtle specular highlights, polished background in [BACKGROUND STYLE], crisp shadows, premium color separation, ultra-sharp details, no watermark.
 ```
-
 来源：[@Gdgtify](https://x.com/Gdgtify/status/2049766203392921897)
 
 <a id="case-371"></a>
@@ -17088,7 +16611,6 @@ Style: warm, cozy lighting, dreamy Instagram scrapbook aesthetic, soft depth of 
 
 The final result must look like the SAME original image enhanced with mini alter-egos and aesthetic annotations — not a recreated or different scene.
 ```
-
 来源：[@Kashberg_0](https://x.com/Kashberg_0/status/2050272100884340783)
 
 <a id="case-372"></a>
@@ -17119,7 +16641,6 @@ A profile info box with: name, age range, personality traits, likes/dislikes, sh
 Overall look should feel charming, cozy, feminine, and professionally arranged like an animation character design sheet.
 High quality, clean background, soft lighting.
 ```
-
 来源：[@xRahultripathi](https://x.com/xRahultripathi/status/2050152865566708134)
 
 <a id="case-378"></a>
@@ -17133,7 +16654,6 @@ Transform the input photo into a high-end stylized 3D collectible figure. Large 
 
 Smooth matte vinyl finish. Soft studio lighting, clean black background. Ultra-sharp focus, 8K render, photorealistic materials, Pixar-quality rendering, centered composition, full body, premium designer toy aesthetic.
 ```
-
 来源：[@Genematicai](https://x.com/Genematicai/status/2050654848216109429) / [提示词回复 1](https://x.com/Genematicai/status/2050654987135656043) / [提示词回复 2](https://x.com/Genematicai/status/2050655151120429464)
 
 <a id="case-394"></a>
@@ -17145,7 +16665,6 @@ Smooth matte vinyl finish. Soft studio lighting, clean black background. Ultra-s
 ```text
 Create a cinematic dark-fantasy medieval street scene in ultra-realistic 3D game concept art style, widescreen 16:9. In the foreground, show two adult elven adventurers walking side by side toward the viewer through a muddy cobblestone village road. The left character is a pale-skinned elf woman with long messy {argument name="left character hair color" default="ash blonde"} braided hair, pointed ears, layered olive-green druid robes, leather belts, pouches, dangling metal charms, necklaces, torn fabric strips, leaf-and-feather details, and glowing white vine-like magical tattoos spiraling down both forearms. The right character is a darker-skinned elf woman with long thick {argument name="right character hair color" default="dark brown"} dreadlocked hair, pointed ears, a green-and-brown leather ranger outfit, fur shoulder mantle, feather ornaments, arm wraps, belts, chains, talismans, and a confident warrior posture. Both faces are intentionally hidden by plain opaque {argument name="face covering color" default="dark brown"} square censor blocks, centered over their faces. Set the background in a richly detailed medieval market village with timber-and-thatch houses, hanging bundles of dried herbs on the right-side shopfront, barrels, baskets, wooden stalls, distant townspeople, and a large stone castle with towers and battlements rising in the background. Use {argument name="lighting mood" default="warm late-afternoon golden sunlight"}, dramatic shadows, volumetric haze, shallow depth of field, realistic fabric and leather textures, high detail, moody fantasy atmosphere, cinematic composition, Unreal Engine quality, no text, no logos.
 ```
-
 来源：[@RamonVi25791296](https://x.com/RamonVi25791296/status/2051568239142973832) / [Felo prompt](https://felo.ai/en/gpt-image-2-prompts)
 
 <a id="case-397"></a>
@@ -17157,7 +16676,6 @@ Create a cinematic dark-fantasy medieval street scene in ultra-realistic 3D game
 ```text
 角色设定图布局，聚焦于一位18岁的亚裔女性街舞舞者。包含4个大型、高细节度的全身动态舞姿（突出舞蹈动作，面部清晰）。侧边附一条清晰的多角度参考条，仅含3个精细头部特写（正面、侧面、3/4侧面）。最大限度减少文字元素，将像素空间优先用于面部细节刻画。背景为粗砺工业风，搭配写实光影效果
 ```
-
 来源：[@ChangningL29508](https://x.com/ChangningL29508/status/2052229452080591276)
 
 <a id="case-416"></a>
@@ -17220,7 +16738,6 @@ Cinematic editorial lifestyle image, fashion-meets-illustration hybrid, high det
 CAMERA
 Eye-level or slightly above, medium full-body or 3/4 framing, 35mm or 50mm lifestyle portrait look, crisp details with soft atmospheric depth.
 ```
-
 来源：[@ZaraIrahh](https://x.com/ZaraIrahh/status/2053075976469512686)
 
 <a id="case-439"></a>
@@ -17236,7 +16753,6 @@ Style inspired by high-end Japanese concept art, futuristic streetwear, cyberpun
 Include clean character reference sheet layout with labeled details, logo designs, UI graphics, gadget closeups, and color palette on white background.
 Highly polished cel shading, crisp lineart, soft glow effects, intricate clothing folds, layered accessories, dynamic fashion silhouette, professional game concept art quality, 4k, ultra detailed.
 ```
-
 来源：[@Kashberg_0](https://x.com/Kashberg_0/status/2055865126335762902)
 
 <a id="case-480"></a>
@@ -17249,7 +16765,6 @@ Highly polished cel shading, crisp lineart, soft glow effects, intricate clothin
 Draw me as if an obsessed fan artist filled an entire sketchbook page - messy, overlapping, full-body poses, tiny chibi doodles, exaggerated expressions, and random close-ups of their hands or eyes.
 White background. No grid, no order. Pure chaos energy. With (any color) aesthetic clothes
 ```
-
 来源：[@Ciri_ai](https://x.com/Ciri_ai/status/2060211436232786357)
 
 <a id="case-502"></a>
@@ -17304,7 +16819,6 @@ Composition:
 
 The final image should feel like the cover of a legendary fantasy card game where the King of Spades has become self-aware, existing across multiple layers of reality while being held in the hands of fate itself, represented by the Queen of Hearts.
 ```
-
 来源：[@Professor_134](https://x.com/Professor_134/status/2063244295977800057)
 
 <a id="case-507"></a>
@@ -17316,7 +16830,6 @@ The final image should feel like the cover of a legendary fantasy card game wher
 ```text
 A handcrafted crochet doll of a [subject], made with soft yarn textures and intricate knitted details. Dressed in a vivid [color1] accent and a delicate [color2] garment, holding a small [prop]. Set in a cozy [setting], warm muted atmosphere, charming handmade aesthetic, nostalgic amigurumi style.
 ```
-
 来源：[@azed_ai](https://x.com/azed_ai/status/2067925399947067728)
 
 <a id="case-512"></a>
@@ -17334,7 +16847,6 @@ The character should feel agile, stylish, confident, athletic, and built for urb
 
 Professional production sheet layout.  Extremely clean linework.  Cinematic concept art.  Premium graphic design.  No photorealism.  High-end stylized illustration.  CHARACTER ANGLES Front View  Neutral hero pose.  Left Side View Right Side View Back View 3/4 Front View Dynamic Freestyle Pose  Standing on one foot while balancing the football.  Hero Pose  Football under foot.  Long coat flowing.  Confident posture.  CLOSE-UP CALLOUTS  Helmet Design  Orange illuminated visor  Concrete brutalist surface  Industrial wear  Panel breakdown  Upper Body  Coat construction  Buckles  Fabric folds  Armor integration  Mechanical Gloves  Finger articulation  Industrial joints  Material breakdown  Utility Belt  Equipment  Fasteners  Soccer accessory pouch  Boot Design  Heavy brutalist geometry  Street football grip  Orange illuminated sole accents  Football Design  Minimal futuristic street football  Concrete-inspired panel graphics  Orange accent details  MATERIAL CALLOUTS  Concrete Composite Armor  Carbon Tactical Fabric  Matte Black Nylon  Industrial Rubber  Forged Titanium Components  Orange Energy Lighting  COLOR PALETTE  Concrete White  Matte Black  Graphite Gray  Charcoal  Burnt Orange Glow  Dark Steel  EXPRESSION SHEET  Neutral  Focused  Competitive  Confident Smile  Game Face  Victory Expression  ACTION SILHOUETTES  Ball Juggle  Around The World  Elastico  Rainbow Flick  Backheel  Crossover  Street Sprint  Ball Stall  CAMERA CALLOUTS  Hero Shot Low Angle  Turnaround Orthographic  Close-up Macro Lens  Dynamic Pose 35mm Tracking Camera  Hero Pose 24mm Cinematic Lens  SFX LABELS  WHOOSH  SWISH  TAP  BOUNCE  THUD  ZIP  SPIN  SKRT  VROOM  RUSH  MUSIC HIT  CROWD CHEER  SLOW MOTION LABELS  120 FPS  240 FPS  Freeze Frame  Motion Trails  Speed Ramping  GUIDELINES  Maintain consistent proportions across all views.  Keep the brutalist design language consistent.  Emphasize concrete-inspired hard surfaces contrasted with flexible tactical fabrics.  Preserve the glowing orange visor as the primary focal point.  Use clean production callouts with arrows and labels.  Include measurement guides, material notes, and design annotations.  Keep presentation minimal and premium.  Avoid clutter.  Professional concept art quality suitable for AAA game development, cinematic production, and advertising pitch decks.  LAYOUT  16:9 Landscape  Top Center: MAIN TITLE STREET FLOW // BRUTALIST FREESTYLE  Below: Production Character Sheet  Center: Large Hero Character  Left: Front • Side • Back Views  Right: 3/4 View • Action Pose • Hero Pose  Bottom: Close-ups • Materials • Color Palette • Equipment • Football Design • Expressions • Camera Notes • SFX • Slow Motion • Production Annotations  Minimal off-white background with subtle grid guides, technical drawing arrows, clean typography, and premium commercial presentation quality.
 ```
-
 来源：[@ShamsAmin56](https://x.com/ShamsAmin56/status/2071590431725670517)
 
 <a id="cat-scene"></a>
@@ -17351,7 +16863,6 @@ _分镜、故事场景、漫画叙事与世界观_（27 例）
 ```text
 Genshin Impact {argument name="character" default="Raiden Shogun"} cosplay selfies at the {argument name="event" default="Shanghai Comic Con"}
 ```
-
 来源：[@wewe50770964683](https://x.com/wewe50770964683)
 
 <a id="case-25"></a>
@@ -17363,7 +16874,6 @@ Genshin Impact {argument name="character" default="Raiden Shogun"} cosplay selfi
 ```text
 create a minecraft skin inspired by {argument name="reference" default="my look"}
 ```
-
 来源：[@nicdunz](https://x.com/nicdunz)
 
 <a id="case-29"></a>
@@ -17375,7 +16885,6 @@ create a minecraft skin inspired by {argument name="reference" default="my look"
 ```text
 Using REFERENCE_0, transform the subject's appearance to a {argument name="style" default="trad goth"} aesthetic while preserving the exact pose, clothing structure, and background. Change her hair to {argument name="hair color" default="black"} with {argument name="hair style" default="choppy bangs"}. Apply heavy dark makeup, specifically {argument name="lip color" default="black"} lipstick and intense dark eyeshadow, and make her skin tone slightly paler. Add 2 facial piercings: a septum ring and a nostril stud. Finally, modify her layered necklaces to feature {argument name="necklace pendants" default="an inverted cross and a pentagram"}.
 ```
-
 来源：[@danieldmai](https://x.com/danieldmai)
 
 <a id="case-37"></a>
@@ -17387,7 +16896,6 @@ Using REFERENCE_0, transform the subject's appearance to a {argument name="style
 ```text
 Create {argument name="quantity" default="24"} LINE stickers of {argument name="animals" default="animals"} in a quirky hand-drawn style. Target {argument name="target audience" default="Japanese Gen Z"} with a trendy style that can aim for top downloads.
 ```
-
 来源：[@midori_tatsuta](https://x.com/midori_tatsuta)
 
 <a id="case-38"></a>
@@ -17399,7 +16907,6 @@ Create {argument name="quantity" default="24"} LINE stickers of {argument name="
 ```text
 Create {argument name="quantity" default="24"} LINE stickers of {argument name="animals" default="animals"} in a quirky hand-drawn style. Target {argument name="target audience" default="Japanese Gen Z"} with a trendy style that can aim for top downloads.
 ```
-
 来源：[@midori_tatsuta](https://x.com/midori_tatsuta)
 
 <a id="case-39"></a>
@@ -17411,7 +16918,6 @@ Create {argument name="quantity" default="24"} LINE stickers of {argument name="
 ```text
 Create {argument name="quantity" default="24"} LINE stickers of {argument name="animals" default="animals"} in a quirky hand-drawn style. Target {argument name="target audience" default="Japanese Gen Z"} with a trendy style that can aim for top downloads.
 ```
-
 来源：[@midori_tatsuta](https://x.com/midori_tatsuta)
 
 <a id="case-40"></a>
@@ -17423,7 +16929,6 @@ Create {argument name="quantity" default="24"} LINE stickers of {argument name="
 ```text
 Create {argument name="quantity" default="24"} LINE stickers of {argument name="animals" default="animals"} in a quirky hand-drawn style. Target {argument name="target audience" default="Japanese Gen Z"} with a trendy style that can aim for top downloads.
 ```
-
 来源：[@midori_tatsuta](https://x.com/midori_tatsuta)
 
 <a id="case-60"></a>
@@ -17470,7 +16975,6 @@ Create {argument name="quantity" default="24"} LINE stickers of {argument name="
   ]
 }
 ```
-
 来源：[@Gc_qube](https://x.com/Gc_qube)
 
 <a id="case-97"></a>
@@ -17482,7 +16986,6 @@ Create {argument name="quantity" default="24"} LINE stickers of {argument name="
 ```text
 Create a high-quality Japanese {argument name="thumbnail type" default="webinar thumbnail"}. {argument name="aspect ratio" default="16:9 widescreen"}. There is a lot of text, but the main copy stands out clearly.
 ```
-
 来源：[@kawai_design](https://x.com/kawai_design)
 
 <a id="case-108"></a>
@@ -17494,7 +16997,6 @@ Create a high-quality Japanese {argument name="thumbnail type" default="webinar 
 ```text
 {argument name="subject" default="A beautiful internet celebrity"} is live-streaming a {argument name="activity" default="game"}.
 ```
-
 来源：[@underwoodxie96](https://x.com/underwoodxie96)
 
 <a id="case-109"></a>
@@ -17506,7 +17008,6 @@ Create a high-quality Japanese {argument name="thumbnail type" default="webinar 
 ```text
 {argument name="subject" default="A beautiful internet celebrity"} is live-streaming a {argument name="activity" default="game"}.
 ```
-
 来源：[@underwoodxie96](https://x.com/underwoodxie96)
 
 <a id="case-118"></a>
@@ -17518,7 +17019,6 @@ Create a high-quality Japanese {argument name="thumbnail type" default="webinar 
 ```text
 A high-contrast, black-and-white illustration of an elderly man in a sharp suit, drawing a katana. The man has slicked-back white hair, deep wrinkles, and an intense, focused expression, looking down at the blade. He wears a dark suit, white shirt, and dark tie. His hands are prominently featured in the foreground, showing pronounced veins and wrinkles as they grip the ornate handle and scabbard of the katana. The background is completely black, emphasizing the dramatic lighting and intricate cross-hatching details on the man's face, hands, and clothing. The style resembles a detailed, gritty manga or graphic novel.
 ```
-
 来源：[@nicdunz](https://x.com/nicdunz)
 
 <a id="case-145"></a>
@@ -17530,7 +17030,6 @@ A high-contrast, black-and-white illustration of an elderly man in a sharp suit,
 ```text
 A {argument name="platform" default="Taobao"} product detail page for {argument name="robot model" default="T-800 robot"}, displaying: front, side, and back three-view drawings of the robot, product price, product details, functions, and usage scenarios, etc.
 ```
-
 来源：[@alanlovelq](https://x.com/alanlovelq)
 
 <a id="case-146"></a>
@@ -17542,7 +17041,6 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 ```text
 A {argument name="platform" default="Taobao"} product detail page for {argument name="robot model" default="T-800 robot"}, displaying: front, side, and back three-view drawings of the robot, product price, product details, functions, and usage scenarios, etc.
 ```
-
 来源：[@alanlovelq](https://x.com/alanlovelq)
 
 <a id="case-147"></a>
@@ -17554,7 +17052,6 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 ```text
 A {argument name="platform" default="Taobao"} product detail page for {argument name="robot model" default="T-800 robot"}, displaying: front, side, and back three-view drawings of the robot, product price, product details, functions, and usage scenarios, etc.
 ```
-
 来源：[@alanlovelq](https://x.com/alanlovelq)
 
 <a id="case-148"></a>
@@ -17566,7 +17063,6 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 ```text
 A {argument name="platform" default="Taobao"} product detail page for {argument name="robot model" default="T-800 robot"}, displaying: front, side, and back three-view drawings of the robot, product price, product details, functions, and usage scenarios, etc.
 ```
-
 来源：[@alanlovelq](https://x.com/alanlovelq)
 
 <a id="case-182"></a>
@@ -17582,7 +17078,6 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 [English]
 2000s Japanese TV drama comedy scene aimed at middle school students
 ```
-
 来源：[@UminekoStudio](https://x.com/UminekoStudio/status/2046488248256806981)
 
 <a id="case-204"></a>
@@ -17598,7 +17093,6 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 [English]
 Generate an animation storyboard generator
 ```
-
 来源：[@joshesye](https://x.com/joshesye/status/2046596222505361866)
 
 <a id="case-316"></a>
@@ -17618,7 +17112,6 @@ Generate an animation storyboard generator
   "prompt": "Ultra-realistic, vibrant photorealistic rendering of a young man with short curly dark hair, neatly trimmed beard, and black rectangular glasses, wearing a dark textured turtleneck sweater and jeans. He is captured mid-run in a dynamic, forward-breaking pose, dramatically emerging from a torn manga panel — one leg and one arm bursting into the real world while the rest of his body remains inside the comic frame. His expression is energetic and joyful, with sharp facial details, natural skin texture, and dramatic cinematic lighting with high contrast and depth. \n\nBackground: a highly detailed black-and-white manga layout filled with humorous, exaggerated reaction scenes that directly interact with him. The surrounding manga characters display shocked and comedic expressions, with bold speech bubbles and motion lines. The manga panels are illustrated in a classic high-contrast ink style with crisp linework and halftone shading. Torn paper edges and debris enhance the illusion of him breaking through the comic world. The fully colored, photorealistic figure contrasts strongly against the monochrome manga environment, creating a dynamic hybrid between reality and comic art. Ultra-detailed, 8k resolution, sharp focus, dramatic shadows, cinematic depth of field."
 }
 ```
-
 来源：[@Fujimoto_hina](https://x.com/Fujimoto_hina/status/2027748030825500722)
 
 <a id="case-319"></a>
@@ -17634,7 +17127,6 @@ Generate an animation storyboard generator
 [English]
 A playful high-fashion runway scene featuring a confident woman walking a luxury fashion show catwalk, wearing an extraordinary couture dress made entirely of birds. Hundreds of elegant, vividly colored birds form the shape of a flowing, sculptural gown, layered like living feathers, with wings partially spread to create the illusion of fabric and motion. Some birds lift gently into the air around her, captured mid-flight, adding a magical, surreal sense of movement. The birds display a rich variety of colors — iridescent blues, radiant reds, golden yellows, and soft whites — with intricate feather details and natural textures. She poses mid-stride with a joyful, confident expression, expressive eyes, and refined runway makeup. Dramatic stage lighting with glowing highlights, dark blurred audience background, cinematic depth of field, fantasy realism, ultra-detailed textures, high contrast, sharp focus, whimsical luxury fashion show, surreal couture, 4K resolution, professional color grading.
 ```
-
 来源：[@MrDasOnX](https://x.com/MrDasOnX/status/2026284342549340190)
 
 <a id="case-329"></a>
@@ -17650,7 +17142,6 @@ A playful high-fashion runway scene featuring a confident woman walking a luxury
 [English]
 A cinematic fantasy scene of a fierce female use image for face reference warrior falconer walking through a dark misty forest, wearing battle-worn leather armor infused with glowing ember textures. Her arm is raised, commanding a massive phoenix-eagle hybrid with blazing wings and flaming feathers, fire trailing from its tips. The bird radiates molten orange and red light, casting sparks and embers into the air.The warrior has braided hair, ash-streaked skin, and a determined expression, carrying a rope and utility pouch. Ultra-detailed feathers, realistic fire physics, dramatic lighting, volumetric fog, shallow depth of field, epic fantasy atmosphere, hyper-realistic, cinematic color grading, dark moody background, 8k, concept art, unreal engine quality.
 ```
-
 来源：[@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2008896649901535342)
 
 <a id="case-381"></a>
@@ -17680,7 +17171,6 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
   "dimensions": "wide landscape 3:1, high resolution"
 }
 ```
-
 来源：[@Iancu_ai](https://x.com/Iancu_ai/status/2051287273581203888) / [提示词回复](https://x.com/Iancu_ai/status/2051287283140096253)
 
 <a id="case-384"></a>
@@ -17716,7 +17206,6 @@ Clean grid composition, visually balanced, highly shareable social media design.
 
 Style: Ultra-realistic, 8K resolution, Vogue editorial shoot, cinematic lighting, soft depth of field, trending Instagram aesthetic, fashion photography masterpiece.
 ```
-
 来源：[@amynys](https://x.com/amynys/status/2051287229532639677)
 
 <a id="case-413"></a>
@@ -17744,7 +17233,6 @@ Annotation color system: red arrows = body movement blue arrows = camera movemen
 
 End with one overwhelming final movement pose beneath a harsh isolated spotlight.
 ```
-
 来源：[@ogbenniasamuel2](https://x.com/ogbenniasamuel2/status/2053088572031250799)
 
 <a id="case-419"></a>
@@ -17782,7 +17270,6 @@ CAMERA TIPS: wide on opener, close-up on butter slam and shaping, side angle on 
 LIGHT & STYLE: warm golden French bakery morning light, buttery cream tones, flour dust in the air, bright vivid Pixar colors, shallow depth of field on close-ups
 BAKER NOTES: one baker, one perfect croissant, one irresistible tear. The lamination layers and the final tear are everything — make them stunning.
 ```
-
 来源：[@TechieBySA](https://x.com/TechieBySA/status/2053523784481554759)
 
 <a id="case-422"></a>
@@ -17962,7 +17449,6 @@ Cinematography notes:
 * 8k production design board
 * premium movie pitch deck style
 ```
-
 来源：[@zulkarnaimx](https://x.com/zulkarnaimx/status/2053723774680535538)
 
 <a id="case-553"></a>
@@ -17992,7 +17478,6 @@ Create a 6-frame grid video storyboard layout graphic for a cosmetic brand adver
 
 ​Footer: Displays icons for Duration (10 Sec), Angle (POV Natural Hand), Style (Doodle Aesthetic), and Audio (SFX Only).
 ```
-
 来源：https://x.com/1H77k/status/2092111928793628995
 
 <a id="cat-history"></a>
@@ -18009,7 +17494,6 @@ _古风卷轴、历史人物、传统题材与诗词视觉_（18 例）
 ```text
 Generate avatars of various emperors from the {argument name="dynasty" default="Ming Dynasty"} based on the style of the uploaded image, with their posthumous names and personal names listed below the avatars.
 ```
-
 来源：[@liyue_ai](https://x.com/liyue_ai)
 
 <a id="case-205"></a>
@@ -18025,7 +17509,6 @@ Generate avatars of various emperors from the {argument name="dynasty" default="
 [English]
 Generate an ancient imperial palace × express delivery station
 ```
-
 来源：[@joshesye](https://x.com/joshesye/status/2046596222505361866)
 
 <a id="case-209"></a>
@@ -18041,7 +17524,6 @@ Generate an ancient imperial palace × express delivery station
 [English]
 Imitating the style of Valorant, generate a Three Kingdoms mythological FPS game
 ```
-
 来源：[@op7418](https://x.com/op7418/status/2046519666047426967)
 
 <a id="case-211"></a>
@@ -18057,7 +17539,6 @@ Imitating the style of Valorant, generate a Three Kingdoms mythological FPS game
 [English]
 Generate an architectural exploded view of the Temple of Heaven, with detailed annotations, Chinese aesthetic style
 ```
-
 来源：[@TanShilong](https://x.com/TanShilong/status/2046524996013662380)
 
 <a id="case-226"></a>
@@ -18073,7 +17554,6 @@ Generate an architectural exploded view of the Temple of Heaven, with detailed a
 [English]
 Based on the style of the uploaded image, generate portraits of the emperors of the Ming Dynasty, with their posthumous titles and names below the portraits
 ```
-
 来源：[@liyue_ai](https://x.com/liyue_ai/status/2045071977279635962)
 
 <a id="case-229"></a>
@@ -18159,7 +17639,6 @@ extreme detail precision,
 best image quality,
 ratio 9:16
 ```
-
 来源：[@liyue_ai](https://x.com/liyue_ai/status/2045873940883808523)
 
 <a id="case-276"></a>
@@ -18187,7 +17666,6 @@ Guangzhou's landmark buildings (Canton Tower, Pearl River New City building comp
 Surrounded by clouds and mist, ethereal and misty, rich in colors, complex in structure, rich in details, but because of a large area of negative space, the picture still appears fresh and refined, the lower left corner is typeset with "SPRING 2026" and vertical promotional slogans, the overall implication is "Millennium Commercial Capital, Charming Guangzhou".
 Beautiful and generous typography, clear and complete handwriting, aspect ratio 9:16.
 ```
-
 来源：[@liyue_ai](https://x.com/liyue_ai/status/2045332620352119274)
 
 <a id="case-281"></a>
@@ -18219,7 +17697,6 @@ I feel like the transparency, resolution, and fineness are different for the one
 Prompt
 Draw a near-future sci-fi version of a mandala
 ```
-
 来源：[@4WEB1](https://x.com/4WEB1/status/2045390207072256179)
 
 <a id="case-292"></a>
@@ -18235,7 +17712,6 @@ Draw a near-future sci-fi version of a mandala
 [English]
 Create a new X post page illustrated for Baoyu (refer to the homepage and some posts of this Twitter user at https://x.com/dotey) after time-traveling to the Ming Dynasty and ascending the throne, based on his business/personality.
 ```
-
 来源：[@tuzi_ai](https://x.com/tuzi_ai/status/2045193918736736365)
 
 <a id="case-340"></a>
@@ -18247,7 +17723,6 @@ Create a new X post page illustrated for Baoyu (refer to the homepage and some p
 ```text
 异质感oc，绝美红妆女子，位于彼岸花丛中，张力。 唐琬《钗头凤·世情薄》 世情薄，人情恶，雨送黄昏花易落。晓风干，泪痕残。欲笺心事，独语斜阑。难，难，难！
 ```
-
 来源：[@xiaofenggan](https://x.com/xiaofenggan)
 
 <a id="case-368"></a>
@@ -18259,7 +17734,6 @@ Create a new X post page illustrated for Baoyu (refer to the homepage and some p
 ```text
 这是india 料理中的一份真实menu。根据此 重新生成带文本说明的 引人入胜垂涎欲滴的 说明图片 先用English 文本易于识别（手机小屏幕） 这个是beef roast
 ```
-
 来源：[@Johnson998877](https://x.com/Johnson998877/status/2050354965110268123)
 
 <a id="case-554"></a>
@@ -18311,7 +17785,6 @@ Create a new X post page illustrated for Baoyu (refer to the homepage and some p
 破綻回避・禁止:
 同じ女性の顔、お団子髪、白いビキニ、近接する笑顔、青緑の入り江、強い昼光を固定する。別人、未成年、複数人物、追加衣装、アクセサリー、文字、ロゴ、透かし、分割画面を入れない。瞳、歯、肩、鎖骨、水着の縁、海岸線を自然な形に保つ。
 ```
-
 来源：https://x.com/AiPhotoDesigner/status/2092035495337279651
 
 <a id="case-573"></a>
@@ -18363,7 +17836,6 @@ Create a new X post page illustrated for Baoyu (refer to the homepage and some p
 破綻回避・禁止:
 同じ女性、白いラップトップ、水色レーススカート、前傾姿勢、右手のバッグ、街路樹の歩道を固定する。別人、未成年、複数人物の追加、別衣装、帽子、眼鏡、文字、ロゴ、透かし、分割画面を入れない。指、チェーン、レース、顔、背景の直線を崩さない。
 ```
-
 来源：https://x.com/AiPhotoDesigner/status/2092194045892157656
 
 <a id="case-577"></a>
@@ -18390,7 +17862,6 @@ Lighting & atmosphere (key redesign): The overall room is dim and intimate, not 
 Style & technical: ultra-realistic skin texture with fine pores and subtle morning sheen, luxurious silk fabric details, highly detailed lace, cinematic depth of field, 85 mm lens look, sophisticated magazine-quality composition focusing on the sensual flow of her torso curves, elegant, intimate, refined, complex charm, graceful yet intense erotic artistry, soft film grain, muted warm color palette dominated by deep shadows and selective golden highlights.
 Negative: bright overall room, flat lighting, overexposed, nipple exposure or visible nipples, fully nude, low quality, deformed anatomy, extra limbs, childish features, plastic skin, harsh fluorescent light, cluttered background, text, watermark.
 ```
-
 来源：https://x.com/FreedomMan_1984/status/2092084939755831785
 
 <a id="case-613"></a>
@@ -18428,7 +17899,6 @@ GPT IMAGE2 提示词：
 
 #GPT #image2 #今日提示词
 ```
-
 来源：https://x.com/AIVideoHub_/status/2092507302599504273
 
 <a id="case-622"></a>
@@ -18471,7 +17941,6 @@ GPT IMAGE2 提示词：
 
 #今日提示词 #GPT  #image2
 ```
-
 来源：https://x.com/AIVideoHub_/status/2094607634351755671
 
 <a id="case-626"></a>
@@ -18519,7 +17988,6 @@ GPT IMAGE2 提示词：
 
 #今日提示词 #GPT #image2
 ```
-
 来源：https://x.com/AIVideoHub_/status/2094297949627126267
 
 <a id="case-645"></a>
@@ -18550,7 +18018,6 @@ GPT Image 2生成日间清亮高光CCD生活照。
 画幅比例：9:16
 补充要求：运动感但不要专业竞技感，服装贴身利落，胸腰比例清楚，画面具有强烈晴天城市青春感
 ```
-
 来源：https://x.com/liyue_ai/status/2086730302953848927
 
 <a id="cat-document"></a>
@@ -18571,7 +18038,6 @@ _白皮书、手册、处方、证书与出版版式_（3 例）
 [English]
 Generate an image of a handwritten traditional Chinese medicine or Western medicine prescription
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2046514998965371144)
 
 <a id="case-201"></a>
@@ -18587,7 +18053,6 @@ Generate an image of a handwritten traditional Chinese medicine or Western medic
 [English]
 An outpatient prescription sheet from a Grade 3A hospital, doctor's illegible handwriting, containing realistic and reasonable diagnosis, drug names, dosages, with a doctor's signature and department stamp in the bottom right corner.
 ```
-
 来源：[@msjiaozhu](https://x.com/msjiaozhu/status/2046546317766500834)
 
 <a id="case-437"></a>
@@ -18621,13 +18086,12 @@ Magazine-quality presentation, luxury beauty report dashboard, highly organized 
 Rendering:
 Ultra-detailed, sharp UI design, realistic portrait adaptation, sophisticated editorial presentation, high-end branding aesthetic, 4K quality.
 ```
-
 来源：[@saniaspeaks_](https://x.com/saniaspeaks_/status/2055857787637522908)
 
 <a id="cat-video"></a>
 
 ## 🎞️ 创意视频案例
-_图生视频 / 文生视频提示词（播放见线上站）_（27 例）
+_图生视频 / 文生视频提示词（播放见线上站）_（29 例）
 
 <a id="case-536"></a>
 
@@ -18652,7 +18116,6 @@ _图生视频 / 文生视频提示词（播放见线上站）_（27 例）
 中文提示词：
 中景视角，一位留着棕红色长卷发的年轻东亚美少女，身穿白色无袖背心。她站在一栋蓝窗白墙的现代房屋前，背景是夕阳金辉下的户外草坪。她面对镜头甜美微笑，并进行灵动的可爱手势舞表演（包括举手、指点、眨眼等俏皮表情）。晚霞自然暖光散落在头发和皮肤上，画面精致，高画质。
 ```
-
 来源：小红书
 
 <a id="case-537"></a>
@@ -18683,7 +18146,6 @@ _图生视频 / 文生视频提示词（播放见线上站）_（27 例）
 风格 (Style)
 TikTok/抖音高画质流行短视频风格，短视频生活随拍（Vlog Style），极具现实感与真实人像质感（Photorealistic, 8k resolution）。
 ```
-
 来源：抖音
 
 <a id="case-538"></a>
@@ -18716,7 +18178,6 @@ TikTok/抖音高画质流行短视频风格，短视频生活随拍（Vlog Style
 风格 (Style)
 唯美人像摄影风格，色彩清新自然，画质清晰度极高（Photorealistic, 8k resolution）。
 ```
-
 来源：抖音
 
 <a id="case-539"></a>
@@ -18746,7 +18207,6 @@ TikTok/抖音高画质流行短视频风格，短视频生活随拍（Vlog Style
 场景 (Scene)
 温暖治愈的家庭厨房。背景有浅色木质案板、温润的台面、窗户以及大理石/木质橱柜；中间穿插暗色的现代烤箱内部结构。
 ```
-
 来源：X @Adam38363368936
 
 <a id="case-540"></a>
@@ -18782,7 +18242,6 @@ TikTok/抖音高画质流行短视频风格，短视频生活随拍（Vlog Style
 风格 (Style)
 建筑工程延时摄影风格（Construction Time-lapse Vlog），极具科技感、工业力量感与现代都市感，画质极其清晰（8k resolution, Ultra-realistic）。
 ```
-
 来源：X @Adam38363368936
 
 <a id="case-541"></a>
@@ -18802,7 +18261,6 @@ TikTok/抖音高画质流行短视频风格，短视频生活随拍（Vlog Style
 
 整个变化过程连续平滑，每个阶段清晰可见，主体造型保持一致，不突然切换、不瞬间成型。
 ```
-
 来源：X
 
 <a id="case-542"></a>
@@ -18820,7 +18278,6 @@ TikTok/抖音高画质流行短视频风格，短视频生活随拍（Vlog Style
 
 整个改造过程连续自然，每个阶段平滑过渡，同一房间、同一机位、空间结构保持一致，不突然切换场景，不瞬间完成装修，真实材质，电影级光影。
 ```
-
 来源：X
 
 <a id="case-545"></a>
@@ -18923,7 +18380,6 @@ No watermarks.
 
 The final result should look like a real, slightly imperfect Korean vacation vlog recorded on a consumer flip camera around 2008–2009, with genuine human reactions, spontaneous interactions, imperfect framing, and the feeling that nothing was rehearsed.
 ```
-
 来源：X
 
 <a id="case-557"></a>
@@ -18959,7 +18415,6 @@ Tall glass skyscrapers surround the street under a bright clear blue sky. Dynami
 
 The Red Bull can remains sharp and clearly visible in the foreground while the city streaks with controlled motion blur. Bright natural daylight, vibrant commercial advertising look, realistic reflections and textures, energetic atmosphere, premium beverage campaign aesthetic, smooth cinematic motion, shallow depth of field, ultra-detailed, 4K, professional product advertising.
 ```
-
 来源：https://x.com/DuaFatimaAi/status/2090753285372465562
 
 <a id="case-558"></a>
@@ -18983,7 +18438,6 @@ Use a slow cinematic top-down camera movement with gentle floating motion. Macro
 
 No text, no logo distortion, no extra objects, no people, no unnatural movement.
 ```
-
 来源：https://x.com/DuaFatimaAi/status/2090599809728364955
 
 <a id="case-559"></a>
@@ -19025,7 +18479,6 @@ The product remains centered as the background becomes dark and smoky. The Red B
 
 Overall visual direction: ultra-realistic, premium commercial cinematography, extreme sports energy, adrenaline, speed, power, wings, dramatic blue/red color palette, realistic human motion, physically accurate water and vapor, detailed city environment, dynamic lighting, seamless transitions, professional advertising production, crisp 4K-quality detail, cinematic depth of field, no cartoon look, no distorted anatomy, no flickering, no warped text, no extra limbs.
 ```
-
 来源：https://x.com/DuaFatimaAi/status/2089147176199114853
 
 <a id="case-560"></a>
@@ -19037,7 +18490,6 @@ Overall visual direction: ultra-realistic, premium commercial cinematography, ex
 ```text
 10秒，9:16竖屏，固定中景，同一个年轻成年亚洲女性，五官、脸型、发型、身材全程保持一致，不换脸。 女孩站在画面中央，正对镜头。她连续用手掌从镜头前横向擦过，每擦过一次，当前场景就完整重绘成下一个场景。 变化顺序： 现代摄影棚 → 温暖高级公寓 → 高级咖啡店 → 霓虹夜景街头 → 高级品牌广告大片场景 要求： 每次手掌擦过镜头，只触发一次完整场景切换  手掌经过镜头时，画面像被重新绘制一样自然变化  场景切换要清晰、丝滑，不要多个场景混在一起  不要随机跳转，不要连续错乱变化  女孩始终站在画面中央，人物一致性稳定  每次转场后，女孩服装也同步变成匹配该场景的穿搭  摄影棚对应基础简洁穿搭  公寓对应精致居家穿搭  咖啡店对应时尚日常穿搭  夜景街头对应酷感街头穿搭  品牌大片对应高级时尚造型  整体像高级广告短片，真实光影，视觉冲击力强
 ```
-
 来源：https://x.com/Adam38363368936/status/2091370521384607780
 
 <a id="case-572"></a>
@@ -19065,7 +18517,6 @@ Seedance 2.5这场景切换有点丝滑啊，
 
 四季必须发生在同一条街道和同一飞行路径上，建筑空间、屏幕方向和镜头轴线连续。纸飞机全程只有一架，不改变颜色、材质、折法和大小。季节变化只通过遮挡转场、光线、植被、天气与环境声完成。禁止额外纸飞机、人物突然出现或消失、文字乱码、纸张融化、镜头跳切、画面闪烁、平台水印、字幕、旁白和多余对白。
 ```
-
 来源：https://x.com/liyue_ai/status/2092147008895426977
 
 <a id="case-598"></a>
@@ -19095,7 +18546,6 @@ The holographic worlds continuously morph, rotate, and expand with every gesture
 
 Ending: The final geometric frame closes around her face, the holographic effects rapidly fade away, and everything smoothly returns to the original cozy room, leaving only subtle glowing particles as she finishes her final pose.
 ```
-
 来源：https://x.com/Aqsahere_/status/2087386090315616601
 
 <a id="case-607"></a>
@@ -19112,7 +18562,6 @@ Encontré esta biblioteca de @itsPolloAI con más de 200 prompts de Seedance 2.5
 Elegí este prompt de @BrentLynch y en 30 segundos tenía un vídeo que no habría imaginado por mi cuenta 👇
 Lo mejor: le das a "Probar este prompt", lo cargas directo en Pollo AI, cambias lo que quieras y generas tu versión.
 ```
-
 来源：https://x.com/zibxx/status/2092544363892969574
 
 <a id="case-608"></a>
@@ -19139,7 +18588,6 @@ you just need a good idea to start with.
 
 if you want to try some of the other prompts, you can find them here: https://pollo.ai/prompts/seedance-2-5?utm_source=xcom&utm_medium=jojo2608&utm_campaign=ronycoder
 ```
-
 来源：https://x.com/Ronycoder/status/2093317895887745221
 
 <a id="case-609"></a>
@@ -19166,7 +18614,6 @@ Minimal makeup: lip gloss, light blush, subtle mascara. Slow, elegant hand movem
 12–14s — Quiet Confidence
 Final shot by the window—she looks at her reflection, soft smile, glowing skin in warm sunlight as the camera slowly fades out. ✨
 ```
-
 来源：https://x.com/ayzalnooor24521/status/2052956400754602372
 
 <a id="case-610"></a>
@@ -19182,7 +18629,6 @@ Vedio prompt ⤵️⤵️:
 
 Create a 10-second ultra-realistic cinematic miniature cleaning crew video. A team of tiny professional cleaners, only a few centimeters tall, works together to clean a massive messy kitchen countertop. One miniature cleaner sprays cleaning solution, another scrubs the surface with a tiny sponge, two workers push a miniature mop, and another carries a tiny bucket of water. Show realistic teamwork, tiny tools, water droplets, foam, dust particles, and satisfying before-and-after cleaning. Use macro photography, shallow depth of field, realistic textures, smooth camera movement, warm cinematic lighting, highly detailed miniature humans, natural movements, and photorealistic visuals. Start with a messy dirty surface and end with an extremely clean, shiny countertop. Vertical 9:16, satisfying viral-video style, no text, no subtitles, seamless 10-second sequence.
 ```
-
 来源：https://x.com/MohdAdnanA86218/status/2092500686608957614
 
 <a id="case-611"></a>
@@ -19201,7 +18647,6 @@ Audio: distant city ambience, rain, footsteps, low-frequency spacecraft rumble, 
 Duration: 10 seconds
 Style: Photorealistic, cinematic, grounded sci-fi, high-budget film production, realistic physics, 24fps.
 ```
-
 来源：https://x.com/MohdAdnanA86218/status/2088884509001560320
 
 <a id="case-614"></a>
@@ -19220,7 +18665,6 @@ Seedance 2.5 prompt ⬇️
 【风格】抖音爆款搞怪变脸短视频（Viral Funny Elastic Face FX），真人实景，夸张橡胶级物理形变特效，4K超清画质，夜景人像打光，画面纯净无任何水印文字
 【时长】10秒
 ```
-
 来源：https://x.com/johnAGI168/status/2091182791467684197
 
 <a id="case-615"></a>
@@ -19237,7 +18681,6 @@ You can easily adapt this prompt for any food.
 Prompt:
 Create a high-end cinematic burger commercial in portrait format, designed like a premium restaurant campaign.  Open on an extreme macro shot of a golden toasted bun, revealing tiny bake-specks, soft flour dusting and rich surface texture under warm directional light. The camera glides smoothly across the bun, then pulls back as the burger ingredients separate into a perfectly aligned exploded stack above a matte wooden tabletop.  The full burger floats on a single vertical axis: toasted top bun, crisp ruffled lettuce, glossy tomato slices, translucent purple-red onion rings, melted cheddar, a thick char-grilled beef patty and toasted bottom bun. Each layer moves with elegant controlled motion, subtle rotation and realistic weight.  Use premium food-commercial camera movement throughout: macro tracking shots, smooth dolly pushes, slow orbital moves, shallow-focus passes between ingredients and precise rack focuses. Add occasional speed ramps into slow-motion beauty moments. Let tiny crumbs, droplets and subtle steam move through the light for additional depth.  Integrate bold hand-lettered white typography directly into the composition. Words appear between the floating burger layers, following the camera movement with kinetic typography. Letters can slide behind ingredients, reveal through depth, stretch slightly during transitions and lock cleanly into place. Add minimal white doodle strokes and graphic accent lines that animate around key ingredients.  Lighting is luxurious and appetizing: soft directional key from upper-left, controlled fill, warm highlights, deep dimensional shadows and glossy specular detail on tomato, cheese and meat. Background is a refined warm brown gradient with subtle cinematic falloff.  Build toward a final satisfying moment where all ingredients rapidly assemble into one perfect burger. The camera performs a fast controlled push-in, then settles into a polished hero shot. Steam rises gently from the patty, cheese settles over the edges and the typography resolves beside the burger.  Final frame: centered premium burger hero shot, clean composition, elegant white campaign typography and subtle animated graphic accents.  Visual style: luxury food advertising, modern restaurant campaign, cinematic macro photography, rich warm tones, high contrast, shallow depth of field, highly detailed food textures, sophisticated motion design, premium typography, smooth dynamic camera choreography, polished commercial finish.
 ```
-
 来源：https://x.com/aimikoda/status/2094279178602283013
 
 <a id="case-617"></a>
@@ -19255,7 +18698,6 @@ Camera: slow cinematic dolly-in toward the couple, followed by a gentle side-ang
 Visual style: photorealistic, luxury travel commercial, romantic cinematic atmosphere, natural skin texture, realistic human anatomy, physically accurate lighting, HDR, soft film grain, warm highlights, rich environmental detail, 35mm cinematic lens, high dynamic range, 4K/8K quality.
 Mood: peaceful, intimate, sophisticated, romantic, luxurious and aspirational.
 ```
-
 来源：https://x.com/JohnAi_01/status/2094072821039444333
 
 <a id="case-618"></a>
@@ -19271,7 +18713,6 @@ prompt 👇
 
 用上传的人物做一条 10 秒自拍 hyperlapse，走遍 20 个中国地标，每个节拍硬切一次。全程严格保持同一张脸。自拍杆广角视角，每个地点换一套当地风格的衣服。高清，浓郁的电影调色。
 ```
-
 来源：https://x.com/johnAGI168/status/2094291245879160940
 
 <a id="case-619"></a>
@@ -19324,7 +18765,6 @@ prompt 👇
 角色一致性：
 仅使用@[人类角色姓名]作为角色的唯一引用方式。在整 15 秒的时间内，保持角色的外貌、面部比例、眼睛、鼻子、嘴唇、下颌线条、发型、头发颜色、皮肤色调、身体比例、服装款式以及现有配饰的不变。不允许角色身份的变化、脸部的变形、发型或服装的改动、额外珠宝或配饰的添加、解剖结构的扭曲，也不允许增加额外的肢体或手指。从第一帧到最后一帧，都保持真实人类角色的外观不变。
 ```
-
 来源：https://x.com/ZephyraLeigh/status/2093998104546791915
 
 <a id="case-620"></a>
@@ -19345,7 +18785,6 @@ Try it with your own travel project and share the result in the comments.
 
 #TravelMarketing #CreativeVideo #AiVideo
 ```
-
 来源：https://x.com/KrevixAi/status/2093397086246961177
 
 <a id="case-621"></a>
@@ -19361,7 +18800,6 @@ Anime Fashion Editorial in Motion. Create a fashion photoshoot for your characte
 
 Prompt in the replies.
 ```
-
 来源：https://x.com/aimikoda/status/2093697204384887023
 
 <a id="case-635"></a>
@@ -19418,8 +18856,65 @@ SINGLE CONTINUOUS SHOT（00:00-00:10）
 Negative：  
 人物换脸，年龄变化，脸型漂移，服装串套，服装融化，直接瞬移，身体突然消失，未出画就入画，人未走完下一身已出现，两人同框，双人重叠，残影叠加，克隆第二人，新旧造型同时出现，空镜不足，空镜被跳过，沙发换款，沙发换色，沙发变形，沙发消失，沙发移位，靠垫数量变化，靠枕消失，靠枕换色，背景重绘，墙面换纹理，灯光结构突变，错误入画方向，额外人物，女声，男声，对白，口型说话，画外音，第二说话人，男主露脸，镜头切换，镜头推拉，机位漂移，夸张表情，机械动作，任何文字，任何字幕，中文字幕，英文字幕，底部字幕，左侧字幕，音频波形，任务栏，桌面图标，电脑桌面，窗口UI，界面元素，水印，平台Logo，面部扭曲，多余肢体，手指粘连，塑料皮肤，动漫感，平胸，小胸，A到D罩杯，没有乳沟，初始吊带黑白条纹，初始吊带有袖，初始吊带领口过高，JK，日式JK，水手服，格纹百褶裙，领结，过膝袜，学院风，第二套高腰半身包臀裙，第二套上下分体，第二套深色不透明厚布连衣裙，第二套一片式交叠包裹裙，换两次衣服
 ```
-
 来源：https://x.com/dugujun12/status/2094769424637300848
+
+<a id="case-657"></a>
+
+### 例657：Gpt image 2 via chat gpt
+
+> 🎞️ 视频案例（Pages 版可在画廊页播放；仓库文件：`videos/case657.mp4`）
+
+```text
+Gpt image 2 via chat gpt 
+
+Prompt 
+
+Create a cinematic, high-end commercial for Fanta Orange, vertical 9:16, ultra-realistic, photorealistic, premium advertising quality.
+
+Begin in a dark cosmic environment with a glowing fresh orange floating in space, surrounded by tiny sparkling particles. The camera slowly pushes toward the orange as it radiates warm golden light.
+
+Transition into a spectacular surreal orange landscape made entirely from juicy orange textures and flowing Fanta-orange liquid. Fresh orange slices, whole oranges, ice cubes, droplets, and citrus particles float dynamically through the air. A chilled Fanta Orange can emerges dramatically from the liquid, covered in realistic condensation.
+
+Show the can rotating slowly while a powerful wave of sparkling orange soda curls around it in slow motion. Orange slices fly through the scene, liquid splashes beautifully, and sunlight creates dramatic golden highlights and realistic reflections on the can.
+
+Build toward a hero shot: the Fanta can stands centered on a glossy transparent pedestal surrounded by splashing orange soda, floating citrus slices, ice cubes, and glowing particles. Strong warm sunlight behind the product creates a premium rim light and lens flare.
+
+End with a clean bright white-to-blue gradient background. Place the Fanta logo prominently in the center with the tagline: “OPEN A WORLD OF FUN.”
+
+Smooth cinematic camera movement, dynamic transitions, macro product photography, shallow depth of field, volumetric lighting, realistic liquid physics, detailed condensation, crisp branding, HDR, 4K, commercial-grade color grading, energetic and refreshing atmosphere, no people, no extra text, no distorted log
+
+Cinematic high-energy commercial video, photorealistic, vertical 9:16.
+
+A young adventurous man with messy blond hair and yellow sunglasses rushes toward the camera through a modern downtown city street, confidently holding a chilled Red Bull can close to the lens. He wears a stylish casual streetwear outfit and looks excited and energetic.
+
+Tall glass skyscrapers surround the street under a bright clear blue sky. Dynamic low-angle camera movement, strong perspective, dramatic motion blur around the edges, fast forward camera push-in, realistic pedestrians and cars in the background.
+
+The Red Bull can remains sharp and clearly visible in the foreground while the city streaks with controlled motion blur. Bright natural daylight, vibrant commercial advertising look, realistic reflections and textures, energetic atmosphere, premium beverage campaign aesthetic, smooth cinematic motion, shallow depth of field, ultra-detailed, 4K, professional product advertising.
+```
+来源：@DuaFatimaAi · https://x.com/DuaFatimaAi/status/2090753285372465562
+
+<a id="case-658"></a>
+
+### 例658：Gpt image 2 via chat gpt
+
+> 🎞️ 视频案例（Pages 版可在画廊页播放；仓库文件：`videos/case658.mp4`）
+
+```text
+Gpt image 2 via chat gpt 
+
+Prompt 
+
+Cinematic Orange Serum Product Video Prompt
+
+Create a premium ultra-realistic beauty commercial featuring a small transparent glass serum bottle filled with glowing orange liquid, surrounded by fresh juicy orange slices in sparkling clear water.
+
+The bottle floats elegantly at the center while orange slices drift naturally around it. Tiny water bubbles rise and shimmer, creating a fresh, luxurious, refreshing atmosphere. Soft warm sunlight passes through the oranges and glass bottle, producing beautiful golden highlights, realistic refractions, and subtle caustic reflections.
+
+Use a slow cinematic top-down camera movement with gentle floating motion. Macro product photography, shallow depth of field, crisp glass details, realistic liquid physics, natural water movement, premium skincare advertisement aesthetic, bright clean background, sophisticated composition, photorealistic textures, smooth motion, high-end commercial lighting, 4K cinematic quality.
+
+No text, no logo distortion, no extra objects, no people, no unnatural movement.
+```
+来源：@DuaFatimaAi · https://x.com/DuaFatimaAi/status/2090599809728364955
 
 <a id="cat-other"></a>
 
@@ -19439,7 +18934,6 @@ _创意实验、混合任务与实用杂项_（29 例）
 [English]
 Troll perspective copywriting + GPT Image 2
 ```
-
 来源：[@joshesye](https://x.com/joshesye/status/2046596222505361866)
 
 <a id="case-225"></a>
@@ -19455,7 +18949,6 @@ Troll perspective copywriting + GPT Image 2
 [English]
 Help me generate xxxx authentic picture
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2046201836525302032)
 
 <a id="case-232"></a>
@@ -19471,7 +18964,6 @@ Help me generate xxxx authentic picture
 [English]
 Combining the content from Wang Xizhi's "Lantingji Xu", generate a calligraphy copy image, requiring the image background to match the artistic conception of "Lantingji Xu", the background image can use a mask, the foreground is "Lantingji Xu"
 ```
-
 来源：[@liyue_ai](https://x.com/liyue_ai/status/2045137549149286858)
 
 <a id="case-245"></a>
@@ -19487,7 +18979,6 @@ Combining the content from Wang Xizhi's "Lantingji Xu", generate a calligraphy c
 [English]
 Design a set of seal carving stamps for "Elon Musk"
 ```
-
 来源：[@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
 <a id="case-262"></a>
@@ -19503,7 +18994,6 @@ Design a set of seal carving stamps for "Elon Musk"
 [English]
 Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presenting on stage. Shot from the crowd at a distance
 ```
-
 来源：[@austinit](https://x.com/patrickassale/status/2044687244368441742)
 
 <a id="case-265"></a>
@@ -19519,7 +19009,6 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 [English]
 Generate four fictional Japanese advertisement images, covering different types arranged side by side. Trendy design created by professional designers. Aspect ratio 1:1
 ```
-
 来源：[@midori_tatsuta](https://x.com/midori_tatsuta/status/2045253072289767815)
 
 <a id="case-266"></a>
@@ -19535,7 +19024,6 @@ Generate four fictional Japanese advertisement images, covering different types 
 [English]
 Amateur photo of an open notebook lying flat, filled with handwritten notes in black ballpoint pen. The handwriting is casual and slightly messy, like personnal notes, natural imperfections, crossed out words, underlined headings. Shot from slightly above, natural daylight from a window, no flash. Casual desk setting, shot on iPhone
 ```
-
 来源：[@patrickassale](https://x.com/patrickassale/status/2044569086013718958)
 
 <a id="case-268"></a>
@@ -19551,7 +19039,6 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 [English]
 Please create an X page of King Taejo Yi Seong-gye (right before carrying out the Wihwa Island Retreat - containing posts where he and General Choi Yeong are dissing each other).
 ```
-
 来源：[@SKA_Neotype](https://x.com/SKA_Neotype/status/2044637900978217334)
 
 <a id="case-293"></a>
@@ -19567,7 +19054,6 @@ Please create an X page of King Taejo Yi Seong-gye (right before carrying out th
 [English]
 Generate a campus daily newspaper, theme AI education
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
 
 <a id="case-294"></a>
@@ -19583,7 +19069,6 @@ Generate a campus daily newspaper, theme AI education
 [English]
 Generate a Teochew restaurant menu image.
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
 
 <a id="case-295"></a>
@@ -19599,7 +19084,6 @@ Generate a Teochew restaurant menu image.
 [English]
 Generate an old almanac for April 18, 2026
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
 
 <a id="case-297"></a>
@@ -19619,7 +19103,6 @@ Handwritten Recipe → Professional Cookbook Page Upload a messy handwritten fam
 
 [INSERT_RECIPE_LINK]
 ```
-
 来源：[@maxescu](https://x.com/maxescu/status/2045203839910056014)
 
 <a id="case-300"></a>
@@ -19636,7 +19119,6 @@ Handwritten Recipe → Professional Cookbook Page Upload a messy handwritten fam
 [English]
 Generate image: The full text of Chu Shi Biao handwritten on a classroom blackboard, realistic chalk handwriting, taken with an iPhone in real life on a sunny day
 ```
-
 来源：[@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
 
 <a id="case-303"></a>
@@ -19652,7 +19134,6 @@ Generate image: The full text of Chu Shi Biao handwritten on a classroom blackbo
 [English]
 Generate a page from the PEP (People's Education Press) primary school third-grade Chinese textbook
 ```
-
 来源：[@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
 
 <a id="case-334"></a>
@@ -19664,7 +19145,6 @@ Generate a page from the PEP (People's Education Press) primary school third-gra
 ```text
 帮我生成一张 RAG 技术的详细讲解图
 ```
-
 来源：苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
 <a id="case-337"></a>
@@ -19676,7 +19156,6 @@ Generate a page from the PEP (People's Education Press) primary school third-gra
 ```text
 帮我生成一张《短歌行》的意境图，带整篇《短歌行》文字
 ```
-
 来源：苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
 <a id="case-338"></a>
@@ -19688,7 +19167,6 @@ Generate a page from the PEP (People's Education Press) primary school third-gra
 ```text
 帮我生成一张《赤壁怀古》的长卷图，带整篇《赤壁赋》文字
 ```
-
 来源：苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
 <a id="case-361"></a>
@@ -19700,7 +19178,6 @@ Generate a page from the PEP (People's Education Press) primary school third-gra
 ```text
 Create a 3D Insane detailed exploded assembly drawing of [subject or object]
 ```
-
 来源：[@Ankit_patel211](https://x.com/Ankit_patel211/status/2048834306379075759)
 
 <a id="case-370"></a>
@@ -19722,7 +19199,6 @@ Stage 4: Structural Integration & Scaling Making the concept physically viable. 
 
 Stage 5: Final Prototyping & Material Finish Textural Replication: Apply a matte, slightly porous finish to the material to mimic the tactile feel of heavy-bond paper. Lighting Contrast: Use directional studio lighting in the final renders to emphasize the "tossed" shadows, making the chair look like a giant piece of discarded inspiration. Design Tip: To keep the "tossed" look authentic, avoid symmetry. The most compelling aspect of a crumpled paper ball is its unique irregularity—ensure the left and right sides of the chair are balance-equivalent but not identical
 ```
-
 来源：[@ShamsAmin56](https://x.com/ShamsAmin56/status/2050281206139461780)
 
 <a id="case-374"></a>
@@ -19734,7 +19210,6 @@ Stage 5: Final Prototyping & Material Finish Textural Replication: Apply a matte
 ```text
 彩色潦草小狗线条风格绘制该图，童趣和doodle加入其中，务必使用毫无章法的绘制手法，凌乱和草率即可。
 ```
-
 来源：[@berryxia](https://x.com/berryxia/status/2050226420681757102)
 
 <a id="case-383"></a>
@@ -19749,7 +19224,6 @@ Draw a snapshot of your everyday life as if it were accidentally taken on an iPh
 Make it feel like a very ordinary, imperfect candid shot.
 The photo should have slight motion blur, with uneven, natural lighting.
 ```
-
 来源：[@Ciri_ai](https://x.com/Ciri_ai/status/2051292618248904809)
 
 <a id="case-398"></a>
@@ -19761,7 +19235,6 @@ The photo should have slight motion blur, with uneven, natural lighting.
 ```text
 Create a freeform fashion-editorial collage of me in 8 distinct full-body casual wear, arranged organically on a clean cream studio backdrop. Keep my face identical across all looks, w/ consistent proportions that visually read as around (height) w/o stating height. Include subtle handwritten-style arrows & labels highlighting key pieces. Avoid any grids, borders, or boxed layouts.
 ```
-
 来源：[@aiwithaly](https://x.com/aiwithaly/status/2052218645951205463)
 
 <a id="case-402"></a>
@@ -19773,7 +19246,6 @@ Create a freeform fashion-editorial collage of me in 8 distinct full-body casual
 ```text
 一只手中握着一张3D小红书个人资料卡，卡片中间方形镂空，一个女孩随意地坐在卡片镂空的边缘，温暖的米色和柔和的粉彩美学背景，逼真的深度和阴影，电影般的柔和光线，闪亮光滑的纹理，小红书风格的UI，漂浮的互动图标（点赞、评论、分享）带有发光的霓虹效果，闪光和光晕，背景中温馨的美学布置包括书籍、花瓶里的花和一台复古相机，梦幻氛围，Pixar风格+半现实主义融合，超高品质，4K，居中构图，高端影响者美学
 ```
-
 来源：[@MrGafish](https://x.com/MrGafish/status/2052323461268467860)
 
 <a id="case-405"></a>
@@ -19785,7 +19257,6 @@ Create a freeform fashion-editorial collage of me in 8 distinct full-body casual
 ```text
 Recreate this image in a paper craft style, simplifying the details to make them suitable for paper craft artwork. Arrange the overall composition to feel visually pleasing, soft, and cute. You may add charming decorative elements such as birds, butterflies, flowers, etc., to enhance the adorable atmosphere while still matching the original image.
 ```
-
 来源：[@oggii_0](https://x.com/oggii_0/status/2052609040539328759)
 
 <a id="case-409"></a>
@@ -19797,7 +19268,6 @@ Recreate this image in a paper craft style, simplifying the details to make them
 ```text
 Please redraw the attached image in the most clumsy, messy, and hopelessly pathetic way possible. Use a white background and make it look like it was drawn in MS Paint with a mouse. It should vaguely resemble the original, but not really — like it’s kind of correct in some places yet strangely off and awkward overall. Emphasize a low-quality, pixelated look, and make it appear ridiculously badly drawn. …Actually, never mind — just draw it however you want in a sloppy way.
 ```
-
 来源：[@Ciri_ai](https://x.com/Ciri_ai/status/2052969749878059362)
 
 <a id="case-467"></a>
@@ -19809,7 +19279,6 @@ Please redraw the attached image in the most clumsy, messy, and hopelessly pathe
 ```text
 泳装时尚杂志广告页面，日本成熟模特，S型曲线。变换姿势和风格，九宫格展示，保持人物面部一致性
 ```
-
 来源：[@Adam38363368936](https://x.com/Adam38363368936/status/2058859338211656051)
 
 <a id="case-476"></a>
@@ -19821,7 +19290,6 @@ Please redraw the attached image in the most clumsy, messy, and hopelessly pathe
 ```text
 Create ultra-fine highly detailed 3D realistic miniature chibi-like cute girl, wearing cream colour top and jeans, resting and floating on creamy latte cup, stylized textured ceramic cup, sleeping expression, satin soft pillow tucked behind her head. The latte cream forms a text "Good Morning" in a cute handwriting. Soft-focus minimalist background, bright natural light, 8K UHD.
 ```
-
 来源：[@Zyrellix](https://x.com/Zyrellix/status/2059443447602561444)
 
 <a id="case-592"></a>
@@ -19844,7 +19312,6 @@ The lighting is diffused and soft, filtering through the canopy above in gentle 
 
 The camera is positioned at a low angle, looking slightly up at her, which emphasizes her presence against the towering trees and the falling rain. This viewpoint adds a sense of scale and reverence to the scene, while a shallow depth of field keeps her sharply in focus while softly blurring the background foliage. The image is presented in a 2:3 vertical composition, enhancing the verticality of the rain and the trees, and framing her within the natural environment.
 ```
-
 来源：https://x.com/christosina/status/2092215190872027396
 
 <a id="case-632"></a>
@@ -19856,5 +19323,4 @@ The camera is positioned at a low angle, looking slightly up at her, which empha
 ```text
 国风系，突然发现gpt 生成的也不错啊，提示词放评论区了
 ```
-
 来源：https://x.com/jackzhang123vip/status/2094621719449542833

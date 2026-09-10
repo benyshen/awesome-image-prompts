@@ -1,5 +1,5 @@
 {
- "count": 631,
+ "count": 634,
  "items": [
   {
    "id": 2,
@@ -4952,6 +4952,17 @@
    "live_url": "http://192.168.28.100:8600/"
   },
   {
+   "id": 656,
+   "title": "海風が薄い裾をさらって、振り向く一瞬だけが夕陽の色にほどけて…",
+   "prompt": "海風が薄い裾をさらって、振り向く一瞬だけが夕陽の色にほどけていく🌊✨\n\n#AIart #AI写真 #海辺のドレス\n\n【GPT Image2プロンプト】\n\n主題：\n海風をまとう薄衣\n\n主体：\n岩のある海辺で、淡い灰白色の透けるドレスを着た女性が背中を向けて振り返る。長い薄布と肩丈の髪が強い海風で画面左へ流れる。\n\n人物・表情：\n女性は肩越しに顔をカメラへ向け、唇をわずかに開いて静かに見つめる。小さな顎の卵形、横幅のあるアーモンド形の目、細く緩い眉、すっきりした鼻筋、淡いコーラルの唇。焦げ茶の肩丈ボブは濡れた束感があり、前髪と毛先が左へなびく。目尻に細いライン、頬に薄いピンク。\n\n服装・ポーズ：\n細い水色の肩紐と背中の編み上げ、幅広いウエスト帯を持つ淡い灰白色のシアードレス。透ける多層の長い裾が腰から左後方へ大きく翻る。腰をひねり、人物自身の右手で画面右下の裾を軽く持つ。\n\n背景・光：\n背景に青い海と低い水平線、画面右奥に暗い岬、右下に岩がある。画面右上からの柔らかな逆光が髪と肩を縁取り、水面に大きな玉ぼけを作る。\n\n構図・カメラ：\n3:4の縦位置、水平のカメラ視点で太腿上までを収め、後ろ姿を中央に大きく配置。空が上半分に広く残り、翻る薄布が左下から中央へ斜めの流れを作る。人物にピントを合わせ、背景は柔らかくぼける。\n\n質感・スタイル：\n風で動く極薄布、髪、逆光のきらめきを柔らかく写したシネマティックな実写写真。淡い青と桃色の低コントラスト。\n\nネガティブ：\n背中の振り向きを正面向きにしない；透ける長い裾を短くしない",
+   "image": "images/case656.jpg",
+   "media_type": "image",
+   "source": "@CyberTotal2026 · https://x.com/CyberTotal2026/status/2092012072116842607",
+   "orig_category": "GitHub投稿",
+   "category": "photo",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
    "id": 6,
    "title": "插画艺术创作图",
    "prompt": "参考图是角色人设图，为参考图的少女绘制一副日系唯美奇幻风格插画。 \n【构图】这是一个宏大的中景日系奇幻插画构图，画面中心是完全保留了完整细节的可爱少女，她站立在无边的、如镜面般平滑的水面中心。天空呈现出高饱和度的粉紫与深蓝交织，一条耀眼的蓝色巨型流星划破天际，配合着边缘发光的瑰丽层云。女孩处于背光状态，形成一个暗调但依然清晰可辨其服装和紫色明亮眼眸的剪影，被流星和星空的边缘光细腻勾勒，她微微仰头，一只手轻轻张开。下方的水面完美、对称地反射出整个壮丽的星空、流星、云彩，以及女孩清晰的倒影，点缀着微小的发光点，营造出天人合一、空灵静谧的唯美梦境意境。 \n【日系唯美奇幻风格说明】该风格以高饱和度的粉紫冷暖色调交织出浩瀚星空，并辅以壮丽的流星与边缘发光的层云作为视觉奇观；画面巧妙利用“天空之镜”般的完美水面反射，将宏大的宇宙背景与孤独静立的人物剪影相融合，通过极具电影感的光影渲染与高对比度的表现手法，营造出一种空灵、静谧且带有超现实宿命感的梦境氛围。 \n【要求】生成图片的比例9:16，分辨率 4k。",
@@ -6649,6 +6660,30 @@
    "category": "video",
    "live_url": "http://192.168.28.100:8600/",
    "video": "videos/upload_1788351452342.mp4"
+  },
+  {
+   "id": 657,
+   "title": "Gpt image 2 via chat gpt",
+   "prompt": "Gpt image 2 via chat gpt \n\nPrompt \n\nCreate a cinematic, high-end commercial for Fanta Orange, vertical 9:16, ultra-realistic, photorealistic, premium advertising quality.\n\nBegin in a dark cosmic environment with a glowing fresh orange floating in space, surrounded by tiny sparkling particles. The camera slowly pushes toward the orange as it radiates warm golden light.\n\nTransition into a spectacular surreal orange landscape made entirely from juicy orange textures and flowing Fanta-orange liquid. Fresh orange slices, whole oranges, ice cubes, droplets, and citrus particles float dynamically through the air. A chilled Fanta Orange can emerges dramatically from the liquid, covered in realistic condensation.\n\nShow the can rotating slowly while a powerful wave of sparkling orange soda curls around it in slow motion. Orange slices fly through the scene, liquid splashes beautifully, and sunlight creates dramatic golden highlights and realistic reflections on the can.\n\nBuild toward a hero shot: the Fanta can stands centered on a glossy transparent pedestal surrounded by splashing orange soda, floating citrus slices, ice cubes, and glowing particles. Strong warm sunlight behind the product creates a premium rim light and lens flare.\n\nEnd with a clean bright white-to-blue gradient background. Place the Fanta logo prominently in the center with the tagline: “OPEN A WORLD OF FUN.”\n\nSmooth cinematic camera movement, dynamic transitions, macro product photography, shallow depth of field, volumetric lighting, realistic liquid physics, detailed condensation, crisp branding, HDR, 4K, commercial-grade color grading, energetic and refreshing atmosphere, no people, no extra text, no distorted log\n\nCinematic high-energy commercial video, photorealistic, vertical 9:16.\n\nA young adventurous man with messy blond hair and yellow sunglasses rushes toward the camera through a modern downtown city street, confidently holding a chilled Red Bull can close to the lens. He wears a stylish casual streetwear outfit and looks excited and energetic.\n\nTall glass skyscrapers surround the street under a bright clear blue sky. Dynamic low-angle camera movement, strong perspective, dramatic motion blur around the edges, fast forward camera push-in, realistic pedestrians and cars in the background.\n\nThe Red Bull can remains sharp and clearly visible in the foreground while the city streaks with controlled motion blur. Bright natural daylight, vibrant commercial advertising look, realistic reflections and textures, energetic atmosphere, premium beverage campaign aesthetic, smooth cinematic motion, shallow depth of field, ultra-detailed, 4K, professional product advertising.",
+   "image": null,
+   "media_type": "video",
+   "source": "@DuaFatimaAi · https://x.com/DuaFatimaAi/status/2090753285372465562",
+   "orig_category": "GitHub投稿",
+   "category": "video",
+   "live_url": "http://192.168.28.100:8600/",
+   "video": "videos/case657.mp4"
+  },
+  {
+   "id": 658,
+   "title": "Gpt image 2 via chat gpt",
+   "prompt": "Gpt image 2 via chat gpt \n\nPrompt \n\nCinematic Orange Serum Product Video Prompt\n\nCreate a premium ultra-realistic beauty commercial featuring a small transparent glass serum bottle filled with glowing orange liquid, surrounded by fresh juicy orange slices in sparkling clear water.\n\nThe bottle floats elegantly at the center while orange slices drift naturally around it. Tiny water bubbles rise and shimmer, creating a fresh, luxurious, refreshing atmosphere. Soft warm sunlight passes through the oranges and glass bottle, producing beautiful golden highlights, realistic refractions, and subtle caustic reflections.\n\nUse a slow cinematic top-down camera movement with gentle floating motion. Macro product photography, shallow depth of field, crisp glass details, realistic liquid physics, natural water movement, premium skincare advertisement aesthetic, bright clean background, sophisticated composition, photorealistic textures, smooth motion, high-end commercial lighting, 4K cinematic quality.\n\nNo text, no logo distortion, no extra objects, no people, no unnatural movement.",
+   "image": null,
+   "media_type": "video",
+   "source": "@DuaFatimaAi · https://x.com/DuaFatimaAi/status/2090599809728364955",
+   "orig_category": "GitHub投稿",
+   "category": "video",
+   "live_url": "http://192.168.28.100:8600/",
+   "video": "videos/case658.mp4"
   },
   {
    "id": 203,
