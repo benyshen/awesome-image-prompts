@@ -1,23 +1,23 @@
 # 🖼️ 案例全库 · Full Gallery
 
-共 **706** 个公开案例，按场景分类。图片已压缩至 1280px 长边；视频案例存于 `videos/`，可在 GitHub Pages 画廊页直接播放。
+共 **736** 个公开案例，按场景分类。图片已压缩至 1280px 长边；视频案例存于 `videos/`，可在 GitHub Pages 画廊页直接播放。
 
 ## 目录
 
 - [🖥️ 界面与社媒截图](#cat-ui)（73 例）— App / 网页 / 直播 / 社媒界面、UI 样机与截图
 - [📊 信息图与知识可视化](#cat-infographic)（69 例）— 信息图、图谱、科普百科、地图与结构化图解
-- [📰 海报与版式设计](#cat-poster)（136 例）— 活动海报、封面、字体排版与强版式视觉
+- [📰 海报与版式设计](#cat-poster)（144 例）— 活动海报、封面、字体排版与强版式视觉
 - [🛍️ 商品与电商视觉](#cat-product)（26 例）— 商品主图、详情页、包装与广告创意
-- [🏷️ 品牌与标识设计](#cat-brand)（21 例）— Logo、VI、吉祥物与品牌触点
-- [🏛️ 建筑与空间场景](#cat-architecture)（54 例）— 建筑渲染、室内空间、城市规划与鸟瞰
-- [📷 摄影与写真人像](#cat-photo)（128 例）— 人像写真、手机摄影、胶片与商业摄影质感
+- [🏷️ 品牌与标识设计](#cat-brand)（22 例）— Logo、VI、吉祥物与品牌触点
+- [🏛️ 建筑与空间场景](#cat-architecture)（57 例）— 建筑渲染、室内空间、城市规划与鸟瞰
+- [📷 摄影与写真人像](#cat-photo)（134 例）— 人像写真、手机摄影、胶片与商业摄影质感
 - [🎨 插画与艺术风格](#cat-illustration)（51 例）— 插画、绘画流派、材质实验与装饰艺术
-- [🧍 角色与人物设定](#cat-character)（31 例）— 角色设计、卡牌、3D 玩具与形象设定
-- [🎬 场景与叙事分镜](#cat-scene)（27 例）— 分镜、故事场景、漫画叙事与世界观
-- [🏮 国风与历史题材](#cat-history)（19 例）— 古风卷轴、历史人物、传统题材与诗词视觉
+- [🧍 角色与人物设定](#cat-character)（33 例）— 角色设计、卡牌、3D 玩具与形象设定
+- [🎬 场景与叙事分镜](#cat-scene)（29 例）— 分镜、故事场景、漫画叙事与世界观
+- [🏮 国风与历史题材](#cat-history)（21 例）— 古风卷轴、历史人物、传统题材与诗词视觉
 - [📚 文档与出版物料](#cat-document)（3 例）— 白皮书、手册、处方、证书与出版版式
-- [🎞️ 创意视频案例](#cat-video)（32 例）— 图生视频 / 文生视频提示词（播放见线上站）
-- [🧪 综合与创意实验](#cat-other)（36 例）— 创意实验、混合任务与实用杂项
+- [🎞️ 创意视频案例](#cat-video)（34 例）— 图生视频 / 文生视频提示词（播放见线上站）
+- [🧪 综合与创意实验](#cat-other)（40 例）— 创意实验、混合任务与实用杂项
 
 <a id="cat-ui"></a>
 
@@ -5615,7 +5615,225 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 <a id="cat-poster"></a>
 
 ## 📰 海报与版式设计
-_活动海报、封面、字体排版与强版式视觉_（136 例）
+_活动海报、封面、字体排版与强版式视觉_（144 例）
+
+<a id="case-759"></a>
+
+### 例759：GPT Image 2.5
+
+*2026-09-11*
+
+![例759](images/case759.jpg)
+
+```text
+GPT Image 2.5
+
+Prompt:
+Create an ultra-high-resolution premium travel poster for [LOCATION] in a strict 4:5 vertical format.
+
+Automatically identify the most iconic and visually interesting elements of [LOCATION]—landmarks, architecture, streets, transportation, nature, food, culture, and skyline—and transform them into one cohesive flat-vector / modern travel-poster illustration.
+
+Make [LOCATION] the dominant central typography using a bold, clean geometric sans-serif typeface. Integrate miniature local scenes and recognizable details inside or around the letters, creating a continuous visual story while keeping the location name perfectly readable.
+
+Create a sophisticated full-frame composition with strong visual hierarchy and controlled negative space. Add a thin illustrated skyline or location-detail strip near the top featuring recognizable elements of [LOCATION].
+
+Unify the typography, illustrations, geometric shapes, colors, and textures into one professional art direction.
+
+STYLE: Mid-century modern × Swiss graphic design × premium international travel poster. Use flat geometric shapes, simplified architecture, clean vector edges, minimalist illustration, sophisticated editorial composition, and subtle screen-print texture.
+
+Automatically choose a refined 3–5 color palette inspired by [LOCATION] and use it consistently throughout the artwork.
+
+TYPOGRAPHY: All visible text must be English only. The primary headline is [LOCATION]. Spell it exactly, keep it complete, highly readable, professionally typeset, and undistorted. No random text, fake logos, Thai script, or watermarks.
+
+The final artwork should feel like a world-class collectible tourism poster—timeless, sophisticated, artistic, clean, and instantly recognizable as [LOCATION].
+
+STRICT 4:5 VERTICAL | Ultra-high resolution | Razor-sharp vector edges | Premium print quality | No reference image required.
+```
+来源：@Goodmanprotocol · https://x.com/Goodmanprotocol/status/2098372539332587684
+
+<a id="case-758"></a>
+
+### 例758：这个风格真的有点帅住了！⚫🔴
+
+*2026-09-11*
+
+![例758](images/case758.jpg)
+
+```text
+这个风格真的有点帅住了！⚫🔴
+黑白主调加一个高亮色点缀，做人物会特别有 海报感、编辑感、时尚感；做猫狗这类动物形象，也会有一种 极简但超有记忆点 的效果，拿来做封面或者视觉主图都很好看！
+
+风格名称：黑白越界插画与单点彩色
+
+评论区留下你的作品，一起解锁有趣的风格～
+提示词我放评论区啦，欢迎大家来交作业！
+
+#gptimage #prompt #表情包风格
+```
+来源：@zhidawang219555 · https://x.com/zhidawang219555/status/2098343054159835367
+
+<a id="case-755"></a>
+
+### 例755：【OVERSCALE POP SCREENPRINT TRA…
+
+*2026-09-11*
+
+![例755](images/case755.jpg)
+
+```text
+【OVERSCALE POP SCREENPRINT TRAVEL PORTRAIT｜巨幅撞色丝网旅行人物】
+
+原本属于旅途的一瞬间因此有了街头海报般的声量。丝网的缺墨、错版和纸张露白让这种强烈不显得光滑廉价，反而像一张被反复刮印、带着温度和脾气的旅行肖像。
+
+prompt：
+请将上传的单人或少量人物旅行照片制作成一张3:4竖版“巨幅撞色丝网旅行人物”对比海报。
+
+画面采用清晰的上下双联结构。上方约占42%，完整、清楚地保留原始照片并横向铺满：保持人物身份与数量、面部、姿势、动作方向、服装、随身物件、地点环境、拍摄角度、透视、自然光线和原始色彩关系，只允许轻微的艺术出版物调色。
+
+上方必须仍是真实摄影，不得插画化、替换人物、改变动作、镜像、模糊补边或发明地标。
+
+下方约占58%，将同一人物重新制成强烈的手工丝网印刷肖像。不要复刻照片的完整取景，也不要保留原人物的远景或全身尺度。
+
+优先提取面部、头发或帽子、眼睛、嘴部、手势、肩颈、衣领以及最有识别度的动作，把人物放大到下方区域的105%–125%。允许脸、帽檐、头发、手臂、肩膀或衣服大胆越过上沿、左右边缘和底边，使人物像贴近观看者一样压住整个版面。人物至少贴近三个画面边缘，不得缩小后居中摆放。
+
+面部身份、表情、视线、手部动作、服装轮廓和主要姿态必须能够追溯到原图，不得为了图形感扭曲脸部、改变动作或增加肢体。
+
+环境只保留1–3个最有地点识别度的碎片，例如一道建筑色面、一截车辆、栏杆、山脊、海浪、船桅、草原线或动物纹样；把它们压缩成几块大色面或粗网点剪影，不要完整重画整个场景。
+
+色彩以暖色无涂布纸为底，加入黑色结构墨，再从原照片提取2–4种高对比专色。色盘必须随照片变化，可以形成冷暖、明暗或互补色碰撞，但禁止固定橙蓝模板和彩虹配色。人物面部、衣物和背景由大块不透明专色、黑色轮廓及纸白负形共同构成。
+
+强化真实制版痕迹：非常醒目的粗颗粒半调网点、不均匀油墨覆盖、干刮板拖痕、模板毛边、针孔状露白、纸纤维、局部缺墨，以及约2–4毫米的套印偏移。错版应在人物轮廓和色块交界形成明确彩色边缘，但不能破坏五官与手势。
+
+禁止平滑数字渐变、光泽矢量色块、普通波普滤镜和干净的摄影阈值效果。
+
+下方必须具有满版、贴脸、强压迫的视觉冲击，同时主动保留约15%–20%的连续低信息专色色场或纸面，让文字成为构图中的一块重色，而不是角落里的小注释。
+
+只加入以下文字：
+
+“【地点或场景英文标题】”
+“SCREENPRINT 【编号】”
+“【一行5–9个英文单词的真实画面观察】”
+
+主标题使用巨大、粗窄、全大写的套印铅字，占下方宽度约22%–38%，在聊天预览中必须清楚可读。字段与观察句较小，但不能缩成灰线。
+
+所有文字使用画面中的同色油墨，带缺墨、粗网点和轻微错版，像与人物一起被丝网印上纸面；不得使用光滑悬浮的数字字体。
+
+避免：弱小人物、居中全身像、同尺度同构图重画、完整背景覆盖、普通波普滤镜、彩虹色盘、过细网点、光滑渐变、过小文字、脸部变形、额外人物或肢体、无关天际线、作者名、艺术家名、签名、品牌、Logo、网址、水印、二维码、假中文和随机乱码。
+```
+来源：@Hamburgerai · https://x.com/Hamburgerai/status/2098206039657386045
+
+<a id="case-754"></a>
+
+### 例754：🤯 用 Images 2.5 怎么做人物海报？圆形框景构图，…
+
+*2026-09-11*
+
+![例754](images/case754.jpg)
+
+```text
+🤯 用 Images 2.5 怎么做人物海报？圆形框景构图，和谐又优雅！
+
+把圆真正变成人物构图的一部分，通过穿插、承托、嵌入和留白，让画面更有层次
+
+1. 越界，人物穿出圆环
+2. 声落成纹，黑胶圆盘承接人物
+3. 相移，月牙弧面托起身体
+4. 更大的世界，圆洞嵌入人物空间
+
+🌟很适合人物海报、时尚 Editorial、杂志封面和品牌视觉参考！
+
+Prompt below 👇
+```
+来源：@MrLarus · https://x.com/MrLarus/status/2098044076238963018
+
+<a id="case-751"></a>
+
+### 例751：GPT image 2.5
+
+*2026-09-11*
+
+![例751](images/case751.jpg)
+
+```text
+GPT image 2.5
+
+Prompt:
+Create a minimalist cultural travel poster for [CITY, COUNTRY] where [ICONIC LANDMARK] is transformed into a bold graphic symbol rather than a realistic illustration. Construct the landmark from a few elegant geometric shapes and architectural lines. Place it over a simplified abstract representation of the city—river curve, skyline, hills, streets or coastline. Use a warm ivory background with one dominant heritage color and deep black typography. Add oversized “[CITY]”, small “[COUNTRY]”, coordinates and a tiny archival catalog number. Swiss editorial design meets vintage European travel poster, sophisticated negative space, precise composition, subtle paper texture, premium museum graphic, vertical 4:5.
+```
+来源：@Naiknelofar788 · https://x.com/Naiknelofar788/status/2098377484303548642
+
+<a id="case-746"></a>
+
+### 例746：🤯 用 Images 2.5 怎么做人物海报？用圆形框景让光…
+
+*2026-09-11*
+
+![例746](images/case746.jpg)
+
+```text
+🤯 用 Images 2.5 怎么做人物海报？用圆形框景让光、镜面参与构图！
+
+这组图采用圆形大框架，再用光影、叠色、折射和反射改变人物与空间关系
+
+1. 光落成界，圆形光域切开人物与影子
+2. 两界之间，透明双圆叠出空间层次
+3. 折光之间，透镜改变人物视觉比例
+4. 另一种我，圆镜带出不同观察视角
+
+🌟很适合人物海报、时尚 Editorial、摄影实验和艺术视觉参考！
+
+Prompt below 👇
+```
+来源：@MrLarus · https://x.com/MrLarus/status/2098049584152863016
+
+<a id="case-734"></a>
+
+### 例734：🤯 用 Images 2.5 做平面海报怎么通杀？1:2 偏…
+
+*2026-09-11*
+
+![例734](images/case734.jpg)
+
+```text
+🤯 用 Images 2.5 做平面海报怎么通杀？1:2 偏轴构图太稳了！
+
+主视觉占 2/3，信息收进 1/3，再让文字、产品和材质互相穿插，画面一下就有层次。
+
+1. 柚光，果皮穿字
+2. 玉光，玉镯穿字
+3. 雨杉，书法与香氛
+4. 青痕，陶瓷与钴蓝
+
+🌟 同一套构图换产品、材质和配色都能成立，很适合品牌海报、产品视觉和编辑设计！
+
+Prompts below 👇
+```
+来源：@MrLarus · https://x.com/MrLarus/status/2098371005785723269
+
+<a id="case-733"></a>
+
+### 例733：GPT Image 2.5生成东方极简封面海报。
+
+*2026-09-11*
+
+![例733](images/case733.jpg)
+
+```text
+GPT Image 2.5生成东方极简封面海报。
+
+提示词（欢迎返图）：
+主题方向：东方禅意极简封面海报
+风格分支：女性审美高对比型
+主体内容：一位女子站在极简花器旁，轻轻整理一枝花
+情绪母题：精致、明亮、轻奢东方感
+场景与意象：白色空间、葡萄紫花朵、青柠绿叶片、白瓷花器、女子
+构图与空间：9:16 竖版构图，花器与人物位于下半部分偏一侧，上方保留完整白色标题区，花枝形成第一视觉点
+色彩控制：纯白或奶油白作为高明度基底，葡萄紫只用于花朵，青柠绿用于叶片，花器保持白色或浅米色，人物服装用浅暖白；避免紫绿污染整张画面
+光线与质感：明亮柔光，轮廓清晰，干净平面海报质感
+画幅比例：9:16
+补充要求：颜色要鲜明现代，整体高级精致，适合女性审美封面
+```
+来源：@liyue_ai · https://x.com/liyue_ai/status/2098246112159420546
 
 <a id="case-724"></a>
 
@@ -11194,7 +11412,28 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
 <a id="cat-brand"></a>
 
 ## 🏷️ 品牌与标识设计
-_Logo、VI、吉祥物与品牌触点_（21 例）
+_Logo、VI、吉祥物与品牌触点_（22 例）
+
+<a id="case-749"></a>
+
+### 例749：又到周末了，本周搞钱还是没有大的进展。
+
+*2026-09-11*
+
+![例749](images/case749.jpg)
+
+```text
+又到周末了，本周搞钱还是没有大的进展。
+
+提示词：
+场景：雨廊下，青石湿亮，屋檐滴水成线，远处雨幕灰蓝，散射天光柔和包裹人物。
+主体：一位绝美23岁东亚美女，身材匀称丰满，胸部明显自然丰满，视觉约E杯，具有自然重量感与柔和圆润轮廓，胸腰差明显但自然，纤细腰部与丰满胸部形成清晰比例；长发微湿披散肩头，几缕贴在颈侧，眼神湿润，浅笑看向镜头。
+细节：月白低领交领襦裙外罩近乎透明的薄纱斗篷，雨水让纱料轻贴身体，低领与胸腰比例更清晰；一手撑油纸伞斜遮肩，一手提裙摆防湿。半身到七分身构图，微仰角、正面。超写实人像摄影，皮肤质感细腻自然，浅景深，雨天漫射光写真，高清8K。
+约束：性感来自湿纱与低领，不要淋透暴露或低俗姿势；不要现代雨伞品牌字、文字水印。
+负面提示词：
+低质量，模糊，变形，多余手指，肢体畸形，塑料感皮肤，过曝，卡通，动漫，文字，水印，夸张美颜，过度性感姿态，现代服饰，塑料假发感。
+```
+来源：@sdjn_wgc · https://x.com/sdjn_wgc/status/2098325595256160625
 
 <a id="case-692"></a>
 
@@ -11963,7 +12202,95 @@ A photorealistic selfie of a young man with short wavy dark hair and light stubb
 <a id="cat-architecture"></a>
 
 ## 🏛️ 建筑与空间场景
-_建筑渲染、室内空间、城市规划与鸟瞰_（54 例）
+_建筑渲染、室内空间、城市规划与鸟瞰_（57 例）
+
+<a id="case-760"></a>
+
+### 例760：夜市最热闹的时候，她偏偏从人群里回了头。
+
+*2026-09-11*
+
+![例760](images/case760.jpg)
+
+```text
+夜市最热闹的时候，她偏偏从人群里回了头。
+
+长袖被风卷到镜头前，灯笼、木楼、行人与烟火全退成背景，像在喧闹里突然空出一瞬，只剩她停下来。
+prompt：
+ Prompt（EN）
+ultra wide close perspective (14-20mm), exaggerated perspective, dutch tilt 15 degrees, slight barrel distortion, handheld snapshot aesthetic, strong depth: sharp subject, deep background layers, subject distance 0.5m, direct on camera hard flash, bright catchlights, ambient underexposed by 1-2 stops, flash falloff, specular highlights on skin/jewelry, fast shutter flash snapshot look, high frequency detail, pores, fabric weave, filmic grain medium, halation, micro contrast, subtle chromatic aberration on corners, wind driven motion on edges, flying hair, drifting fabric, Tang Dynasty Chang'an, ancient Chinese wuxia aesthetic, bustling Zhuque street, majestic wooden architecture, East Asian female, delicate refined facial features, big expressive eyes, small cherry mouth, extremely voluptuous figure, exaggerated large bust, extremely high aesthetic standard, flawless bone structure, porcelain skin quality, high status, clean silhouette, premium materials, high production value, turning back mid-step, looking over the shoulder directly at the camera with a serene yet slightly surprised expression, wide silk sleeves drifting extremely close to the lens, massive Tang wooden pavilions, glowing red paper lanterns lining the wide street, distant Zhuque city gate, blurred night crowd in the deep background, night time, cool hard flash on foreground subject vs warm ambient practicals in background, subtle 'Soran' element naturally integrated into exquisite silk embroidery, faint aesthetic signature, organic blending, harmonious composition, non intrusive, almost invisible
+ Negative（EN）
+plastic skin, over smoothed skin, airbrushed skin, CGI, anime look, uncanny valley, doll like, bad anatomy, extra fingers, deformed hands, malformed limbs, crossed eyes, asymmetrical face, duplicated face, muddy texture, low detail fabric, harsh HDR, over sharpening, beauty studio lighting, softbox, flat evenly lit, overexposed highlights, clean studio look, everything in focus, tack sharp background, random text, watermark, logo, letters, captions, subtitles, jpeg artifacts, modern buildings, streetlights, cars, neon signs, contemporary clothing, western architecture, anachronism
+```
+来源：@Soranlan · https://x.com/Soranlan/status/2098298108992242124
+
+<a id="case-741"></a>
+
+### 例741：この光、もう少し浴びていたいな。
+
+*2026-09-11*
+
+![例741](images/case741.jpg)
+
+```text
+この光、もう少し浴びていたいな。
+
+【ChatGPT再現用プロンプト】
+被写体:
+日差しの入る白い室内で床に座り、レンズを静かに見つめる架空の成人日本人女性一人。くつろぎとファッションを兼ねた自然な室内ポートレート。
+
+場所・時間・背景:
+昼のミニマルな白い部屋。左の窓、淡い壁、明るい床、背後の素朴な木製ベンチを少ない要素で構成し、静かな余白を残す。
+
+衣装・小物:
+ベージュのリブ編みキャミソール、肩からゆるく落とした薄い白シャツ、淡いブルーデニム。小物は増やさず、衣服の重なりを見せる。
+
+姿勢・手指・接触:
+床に脚を曲げて斜めに座り、背中を木製ベンチへ近づける。肩をやや内側へ寄せ、腕と手は膝まわりへ自然に置く。
+
+表情・視線:
+顔をわずかに傾けてレンズをまっすぐ見つめ、唇を閉じた静かな表情。親密さは保ちながら誇張した笑顔にしない。
+
+顔・メイク:
+小さめの卵形輪郭、焦げ茶の瞳、自然な眉、薄いブラウンの目元、淡いピンクの頬と唇。窓光に合う透明感のあるメイク。
+
+髪:
+濃い茶色の髪を後頭部でゆるくまとめ、薄い前髪と頬、首まわりの細い後れ毛を残す。毛先は肩へ自然に沿わせる。
+
+光源:
+左の窓から斜めに入る強めだが柔らかな自然光を使い、額、頬、肩、胸元へ明るいハイライトを置く。右側には淡い室内影を残す。
+
+色・階調:
+白、アイボリー、ベージュ、淡いブルーデニム、木の薄茶を低彩度でまとめる。高明度の室内に暖かな肌色と柔らかな陰影を保つ。
+
+材質・微細質感:
+キャミソールの細いリブ、薄いシャツの透けない布目、デニムの縫い目、髪の後れ毛、乾いた木目、白い床の反射を丁寧に描く。
+
+構図・カメラ:
+縦9:16のやや高い近接ポートレート。胸の視覚中心を画面幅50%付近、顔中心を51%付近へ置き、頭部、両肩、胸元、腰上、木製ベンチを自然に収める。
+
+画像処理・仕上げ:
+窓光の階調と肌の自然な質感を残し、人物へ繊細な解像感、背景へ弱いぼけを加える。フィルム感は控えめな商用ポートレート品質。
+
+破綻回避・禁止:
+成人女性一人、同じキャミソール、白シャツ、デニム、床座り、木製ベンチを固定する。衣服の透過、余分な手足、顔の歪み、ロゴ、文字、透かしを加えない。
+```
+来源：@AiPhotoDesigner · https://x.com/AiPhotoDesigner/status/2098192332885524661
+
+<a id="case-738"></a>
+
+### 例738：深夜试水prompt：
+
+*2026-09-11*
+
+![例738](images/case738.jpg)
+
+```text
+深夜试水prompt：
+
+超真实成年东亚女性室内生活流写真，整体呈现realistic japanese photography、平成末期写真集、手机近距离抓拍与轻微广角私写真质感，画面像在高级公寓或酒店楼梯间被摄影者突然贴近记录的一张真实照片，不要商业棚拍和精修广告感；场景为暖色石材楼梯与狭窄走廊，米黄色大理石台阶带嵌入式灯带，黑色金属扶手与深色玻璃墙形成纵向线条，顶部筒灯与暖黄环境灯共同照亮空间，背景结构真实、略杂、有明显生活空间纵深。人物是一位明确成年的二十多岁东亚女性，脸型为偏窄的小鹅蛋脸，额头饱满，面中适中偏短，下颌线纤细柔和，下巴小而圆，脸颊有轻微软组织感；眼睛偏大、横向稍长的杏眼，双眼皮自然清晰，眼尾轻微上挑，深棕色瞳孔直接稳定看向镜头，鼻梁细直、鼻尖小巧圆润，嘴唇饱满，唇峰柔和，嘴角自然向上形成轻微含笑，整体表情主动靠近摄影者、放松、亲密、带明显停留感，但不是夸张媚态。深棕近黑色长发，长度到胸下，发量充足，顶部略蓬松，长层次自然散开，发尾形成松散大波浪，一侧头发落在肩胸前，额前为轻薄空气刘海与几缕自然碎发，毛流略凌乱，保留真实头发反光和飞丝。妆容为偏日系的清透浓淡适中妆感，底妆薄透但皮肤质感真实，面颊带自然粉色腮红，眼妆使用柔棕色眼影、细眼线与清晰睫毛，唇部是带水润反光的裸粉玫瑰色，避免玻璃皮和过度磨皮。身材为纤细骨架与强烈女性曲线结合，肩宽偏窄、腰部纤细、胯部自然丰满，胸部体量明显非常丰满丰厚，具有真实柔软重量感、自然下坠与受重力影响的形变，胸腰差明显但胸廓、肩宽和身体比例仍保持可信，腰臀曲线清晰，腿部修长；上身穿一件象牙白或浅奶白色极宽松软垂吊带上衣，细肩带、低而宽的大U形垂坠领口，面料为轻薄柔软、略带弹性的莫代尔或粘胶针织布，布料没有硬挺支撑，而是随身体前倾大幅向下自然垂落，在胸前形成深而松弛的布料弧线、真实拉伸和大量细小褶皱，宽松衣身与丰满胸部之间形成明显空间感，布料边缘受重力向下坠，不要做成紧身包裹；外搭一件薄而贴身的乳白色长袖针织开衫，前襟完全敞开，胸前纽扣仅作为细节存在，袖子贴合手臂并带轻微织物纹理，开衫在肩部和腋下产生真实拉扯褶皱；下身为高腰黑色修身长裤，面料哑光、有弹性，紧贴腰臀与腿部但不过度塑形，形成真实穿着压痕。颈部佩戴一条细银色水钻或小钻石V形项链，长度位于锁骨下方，随着身体前倾自然垂下并成为胸前视觉中心的小型高光。人物站在楼梯中段，身体大幅向镜头前倾，上半身约前屈50至70度，脸部与胸肩主动靠近镜头，右侧手臂向后弯曲并扶住腰臀附近或楼梯扶手方向，另一只手自然放在前侧大腿或膝部帮助保持平衡，骨盆略向后移，臀部与上身形成明显反向重量关系，腰线因此更加清晰；头部微微抬起并直视镜头，摄影者与人物距离很近，产生私人抓拍般的侵入式亲密感。采用24mm至28mm等效广角镜头，竖幅构图，镜头位于人物胸口略下方到腰部高度并近距离向上、向前拍摄，人物面部处于画面左上至中央区域，前倾的上半身被广角轻微放大，胸肩更接近镜头，腰臀与腿部向后延伸，产生明显但自然的近大远小透视和身体纵深，楼梯扶手、墙面与天花板线条向背景汇聚，强化狭窄空间的真实透视；不要长焦压缩，不要标准棚拍构图，要有手机快照或便携相机近距离拍摄时略显夸张但可信的广角感。光线以楼梯暖黄色环境灯、顶部筒灯和近距离手机闪光或小型机顶闪光混合构成，人物正面受到偏中性的直接补光，因此脸部、肩颈、胸前与手臂清晰明亮，皮肤出现真实细小高光，背景则保持暖黄氛围，形成前景偏中性、背景偏暖的混合色温；鼻梁、嘴唇和脸颊保留轻微直闪反光，头发与肩部边缘同时接收楼梯环境暖光，不要柔光棚拍，不要大面积奶油色泛光，让阴影边界稍硬、空间更真实。画质保持高清但不过度精致，真实皮肤纹理、轻微毛孔、细小肤色差异、颈肩和胸前的自然皮肤纹理都可见，保留轻微高ISO噪点、手机相机锐化痕迹与局部闪光高光，整体像真实人物在室内楼梯间临时拍摄的私写真，而不是CG或时尚广告。避免韩系奶油风、plastic skin、AI illustration、CG render、3D感、商业棚拍感、过度磨皮、HDR过强、假皮肤高光、油光出汗感、过曝奶白、过度锐化、胸部僵硬球形、胸部悬浮、身体比例失真、腰过度收窄、奇怪手指、低质量脸部、畸形肢体、布料无重力、吊带上衣变成紧身衣、僵硬姿势、廉价网红滤镜、夸张色情表演、动漫皮肤、fake glossy skin。
+```
+来源：@Hamburgerai · https://x.com/Hamburgerai/status/2098136678472777892
 
 <a id="case-728"></a>
 
@@ -14027,7 +14354,366 @@ A vintage 35mm film photograph of a {argument name="subject description" default
 <a id="cat-photo"></a>
 
 ## 📷 摄影与写真人像
-_人像写真、手机摄影、胶片与商业摄影质感_（128 例）
+_人像写真、手机摄影、胶片与商业摄影质感_（134 例）
+
+<a id="case-753"></a>
+
+### 例753：洗面所での出来事
+
+*2026-09-11*
+
+![例753](images/case753.jpg)
+
+```text
+洗面所での出来事
+キラバこんな事も出来ます
+「KIRAVA」で作成。 
+ #KIRAVA #AI写真
+-----プロンプト---
+A completely fictional Japanese woman, clearly adult, 20 years old, not resembling any real person, celebrity, actress, model, or idol. Natural adult facial anatomy, subtle asymmetry and realistic skin texture. classic approachable Japanese idol styling, small oval face, balanced forehead and jaw, rounded sides and tapered chin, large rounded downturned eyes with natural double eyelids, natural straight brows with soft density and individual hairs, small nose, low-to-moderate bridge, soft nostrils and rounded tip, naturally upturned mouth-corner anatomy with balanced lips, soft rounded adult cheeks with gentle fullness, Japanese idol makeup, enlarged eye definition, delicate lashes, lower-eye highlights, rosy cheeks and glossy pink lips. a simple triangle bikini with secure lining and tasteful coverage, shocking pink color, quite thin fabric, give a wet feeling. night, summer, a realistic home washroom, ordinary warm household lighting, subtle realistic optical lens flare, faint flare orbs, delicate internal lens reflections, very soft flare streaks, gentle natural light scattering, restrained sun flare, a relaxed unforced posture with soft shoulders, a naturally feminine silhouette integrated into an everyday scene, subtle signs of everyday life, a tasteful non-explicit gravure photograph with clean natural appeal. 4 different bold poses (turning your chest and buttocks, etc.). subtle smartphone HDR processing. The image reflected in the mirror also accurately reflects the pose, Arrange 4 patterns of images side by side, 16:9. realistic anatomy, realistic gravity and cloth physics. tasteful, non-explicit, securely clothed or covered, no accidental exposure.
+```
+来源：@y_suou · https://x.com/y_suou/status/2098035821203112288
+
+<a id="case-748"></a>
+
+### 例748：9:16竖版，超写实真人摄影，电影级欧式复古宫廷人像，高级时…
+
+*2026-09-11*
+
+![例748](images/case748.jpg)
+
+```text
+提示词
+
+9:16竖版，超写实真人摄影，电影级欧式复古宫廷人像，高级时尚Editorial，一位23-27岁的成年东亚女性，坐在奢华欧式古典雕花沙发上，正面略微侧身面对摄影机，中近景至大腿构图。
+
+【人物】
+
+明确成年东亚女性，
+纤细修长、自然成熟的成年女性体态，
+精致柔和鹅蛋脸，
+流畅小巧下颌线，
+象牙白自然肌肤，
+皮肤通透但保留真实毛孔与细微肌理，
+不是塑料磨皮。
+
+深棕黑色杏仁眼，
+自然双眼皮，
+纤长睫毛，
+低饱和暖棕眼影，
+眼尾轻微上挑，
+眼神平静、清冷、带一点疏离感，
+直接凝视摄影机。
+
+自然纤细鼻梁，
+水润珊瑚豆沙色嘴唇，
+嘴唇轻微闭合。
+
+【发型】
+
+浓密乌黑长发盘成蓬松法式复古低盘发，
+头顶具有自然空气感，
+后脑形成圆润饱满发髻，
+额前中分，
+两侧大量轻薄自然碎发，
+几根发丝垂落脸颊，
+不要整齐僵硬发型。
+
+暖色逆光穿过发丝，
+产生非常明显的金棕色发丝轮廓光。
+
+佩戴精致珍珠水晶发饰，
+不要大型皇冠。
+
+双耳佩戴长款珍珠水晶流苏耳坠。
+
+【服装——核心】
+
+香槟珍珠白色高定缎面礼服，
+高级丝绸/真丝缎面材质，
+具有真实柔和镜面光泽。
+
+礼服为珍珠挂脖结构，
+大量细小天然珍珠组成肩带与领口。
+
+胸前为深V结构，
+左右两侧由香槟白丝缎自然褶皱形成，
+边缘密集镶嵌小颗珍珠。
+
+胸口中央设置一枚大型椭圆珍珠珠宝扣，
+周围由银白色水晶和细密金属镶嵌组成。
+
+珍珠链继续沿腰部、身体侧面向下延伸，
+形成高级珠宝式身体装饰。
+
+腰腹部分保留部分半透明薄纱，
+点缀非常细小的珍珠与水晶，
+形成若隐若现的高定结构感。
+
+裙摆仍为香槟白真丝缎面，
+顺着身体形成自然流畅褶皱。
+
+不要普通婚纱，
+不要现代廉价吊带裙，
+强调高级定制珠宝礼服。
+
+【首饰】
+
+颈部由多层细珍珠链组成，
+中央连接大型水滴珍珠吊坠。
+
+珍珠呈真实奶油白色，
+具有细腻珠光，
+不要纯白塑料珠。
+
+腰侧与胸前珠链自然下垂，
+具有真实重力。
+
+【姿势】
+
+人物斜坐在欧式古典沙发上。
+
+上半身微微向摄影机方向倾斜，
+一侧肩膀略低，
+形成优雅S形身体线条。
+
+一只手向下支撑在沙发坐垫上，
+手掌自然放松，
+手指纤细、自然分开。
+
+另一只手位于身体侧后方或沙发扶手附近。
+
+头部保持正面，
+下巴略微降低，
+眼睛直接看镜头。
+
+姿态安静、高贵、慵懒，
+类似20世纪复古电影女主角的私人沙龙肖像。
+
+【沙发】
+
+人物坐在大型欧式洛可可风格贵妃沙发上。
+
+沙发为灰香槟色丝绒/锦缎材质，
+靠背具有传统纽扣拉扣结构，
+表面存在精致暗纹。
+
+木质扶手为深胡桃木色，
+边缘带有古铜金色雕花装饰，
+卷草纹、花叶纹清晰可见。
+
+【场景】
+
+欧式古典豪宅室内，
+背景整体较暗。
+
+人物身后存在巨大的落地窗，
+左右两侧垂落象牙白蕾丝窗帘，
+窗帘边缘具有细密流苏。
+
+画面左后方摆放浅香槟色玫瑰花，
+玻璃高脚杯中装有浅金色起泡饮品，
+桌面和沙发上散落少量珍珠链。
+
+整体环境：
+奶油白
+香槟金
+深棕
+少量墨绿色阴影。
+
+【光线——最重要】
+
+人物身后存在强烈暖金色窗光。
+
+golden hour backlight，
+soft cinematic rim light，
+warm sunlight through lace curtains。
+
+阳光从人物后上方进入，
+重点照亮：
+头发边缘
+耳朵
+肩膀
+锁骨
+手臂
+珍珠
+丝绸褶皱。
+
+形成一圈柔和金色轮廓光。
+
+人物脸部由前方非常柔和的暖白补光照亮，
+眼睛必须清晰，
+脸部不能完全逆光变黑。
+
+珍珠产生大量非常小的高光点，
+丝绸产生长条柔和高光。
+
+背景明显压暗，
+人物像从黑暗中被阳光照亮。
+
+空气中存在少量真实灰尘颗粒，
+在逆光中可见。
+
+【镜头】
+
+85mm全画幅人像镜头，
+f/1.8-f/2.2，
+ISO 100，
+1/250s，
+
+摄影机略高于人物胸部，
+轻微向下拍摄。
+
+人物占画面约70%，
+从头部拍摄至大腿附近。
+
+眼睛精准对焦，
+背景沙发、窗帘、花朵自然虚化。
+
+真实光学浅景深，
+柔和奶油散景，
+high dynamic range，
+cinematic highlight rolloff。
+
+【最终质感】
+
+photorealistic adult East Asian woman,
+luxury pearl couture,
+champagne ivory silk satin gown,
+pearl body jewelry,
+vintage European palace interior,
+rococo sofa,
+lace curtains,
+golden hour window light,
+warm cinematic backlight,
+realistic translucent skin,
+individual hair strands,
+natural skin pores,
+luxury fashion editorial,
+85mm lens,
+shallow depth of field,
+cinematic photography,
+high dynamic range,
+8K ultra detail.
+```
+来源：@jackzhang123vip · https://x.com/jackzhang123vip/status/2097869918259859681
+
+<a id="case-742"></a>
+
+### 例742：摄影 + 稚拙主义编辑插画
+
+*2026-09-11*
+
+![例742](images/case742.jpg)
+
+```text
+摄影 + 稚拙主义编辑插画
+
+保留真实结构
+以手绘线条、高饱和色块和蜡笔质感重新转译
+
+提示词👇：
+
+为上传照片生成一张3:4竖版高端插画海报，非拼贴
+
+画面上下严格1:1分割。上半部分保留原照片：主体、结构、真实质感、自然光影和原有氛围不变，仅做轻微艺术杂志感摄影调色，可自然延展背景但不变形主体
+
+下半部分将照片重构为笨拙可爱的韩式平面插画：保留主体轮廓、动作、物体关系和叙事布局，去除写实光影、透视和材质，用圆润几何形、纯色填充、粗糙抖动的手绘黑线表现，清晰可识别但不写实
+
+插画使用从照片提取的高饱和有限色彩，大面积明亮纯色背景和负空间，构图有明确视觉中心，辅以错位、遮挡、大小变化和轻微裁切，避免杂乱、渐变、阴影、灰浊混色和塑料感
+
+最后加入简短英文标题和少量英文注释，沿主体、色块或负空间自然排版，可轻微旋转和错位，使文字融入画面
+
+整体感觉：真实摄影、儿童绘本式平面插画、独立出版物海报、明亮、童真、友好、俏皮
+```
+来源：@hann7712 · https://x.com/hann7712/status/2098063748795924953
+
+<a id="case-737"></a>
+
+### 例737：Made in @Grok Imagine:《A Whisp…
+
+*2026-09-11*
+
+![例737](images/case737.jpg)
+
+```text
+Made in @Grok Imagine:《A Whisper at Daybreak》
+
+The light is good. So are you.☀️
+
+Good morning my dear #friends .😉
+
+#AIart #AIgirl
+#GrokImagine prompt:
+
+1. Subject & Action
+A stunning 25-year-old Japanese woman with porcelain fair skin, extremely refined facial features, natural gray-blue eyes, and a fashionable tousled hairstyle with cool-toned highlights. She has just woken up and sits on the bed in a half-awake state, looking softly toward the camera with quiet, confident calm. She wears an oversized slightly wrinkled white men’s dress shirt with no bra; the shirt has slipped off one shoulder and is unbuttoned low but still covers the chest. Full G-cup breasts show realistic soft natural hang and weight under the fabric. Extremely slim waist. A thin-string thong is only hinted as a fine line at the hip. One hand rests on the bed supporting her body as she leans slightly forward.
+2. Setting & Time
+Luxury rumpled linen sheets and pillows on a large bed in a high-end, minimal bedroom. Early morning, just after waking.
+3. Composition & Camera
+Vertical portrait, magazine-cover composition. Subject centered on the bed. Precise, elegant framing that emphasizes collarbone, waist line, and the drape of the shirt. Shot on 85mm lens, shallow depth of field, fashion-editorial crop.
+4. Lighting & Style
+Strong golden cinematic side light from a large window creating dramatic highlights and shadows across skin, shirt folds, and linen. Hyper-photorealistic, high-fashion, electric glamorous sensuality in the style of Mert and Marcus. Rich color, tactile fabric and skin texture, Vogue-cover atmosphere. Sleepy yet powerful, intimate but elevated.
+5. Constraints
+No vulgarity. No nipple or genital exposure. Shirt must keep the chest covered. Thong only as a subtle line. Keep the half-awake “just woke up” feeling. Ultra-natural realistic skin (pores, morning glow, fabric wrinkles). High-end and tasteful, never explicit or cheap.
+```
+来源：@AIGirl_Show · https://x.com/AIGirl_Show/status/2098199847254020443
+
+<a id="case-736"></a>
+
+### 例736：使用什么创建skill会好一点？感觉skill-creato…
+
+*2026-09-11*
+
+![例736](images/case736.jpg)
+
+```text
+使用什么创建skill会好一点？感觉skill-creator好像不怎么满足我的需求。
+
+提示词：
+
+场景：深夜闺房，半掩花格门，桌上一盏油灯，烛火摇曳，墙影轻轻晃动，空气里有淡淡脂粉味。
+主体：一位绝美23岁东亚美女，身材匀称丰满，胸部明显自然丰满，视觉约E杯，具有自然重量感与柔和圆润轮廓，胸腰差明显但自然，纤细腰部与丰满胸部形成清晰比例；墨发半挽，耳边垂一缕软发，眼波含笑，唇色偏深，侧目看向镜头。
+细节：穿着潘金莲风低领交领短襦，外罩极轻薄暗红纱衫，领口开得较低，锁骨与上胸曲线自然显露，薄纱被灯火映出半透暖色；一手虚掩门沿，一手轻提纱袖贴在胸前。七分身构图，正面微侧。超写实人像摄影，皮肤质感细腻自然，浅景深，古典烛光写真，高清8K。
+约束：只保留夜闺烛光与轻薄低领古装；不要现代灯具、现代服饰、文字、水印、卡通或动漫风格。
+负面提示词：
+低质量，模糊，变形，多余手指，肢体畸形，塑料感皮肤，过曝，卡通，动漫，文字，水印，夸张美颜，过度性感姿态，现代服饰，塑料假发感。
+```
+来源：@sdjn_wgc · https://x.com/sdjn_wgc/status/2098212079043829776
+
+<a id="case-732"></a>
+
+### 例732：GPT Image 2.5生成写实生活照。
+
+*2026-09-11*
+
+![例732](images/case732.jpg)
+
+```text
+GPT Image 2.5生成写实生活照。
+
+提示词（欢迎返图）：
+9:16 竖版，真实 iPhone 手机普通主摄随手拍摄的生活感女性照片，一位视觉年龄约 20–26 岁的年轻成年东方女性，具有自然明确的东方女性特征，不过度欧美化，不显年龄偏大，没有未成年感。整体风格为凌晨收拾行李情绪下的真实居家抓拍，场景位于普通公寓卧室，人物站在打开的行李箱旁 / 衣架杆边，背景可见凌乱但真实的床铺、床单褶皱、衣架杆、挂着的衣服、墙面照片、台灯、窗帘、夜晚城市窗景、地毯和少量生活杂物，空间有明显真实居住痕迹，不是样板间，不是摄影棚。
+
+人物气质安静、轻微倦意、克制、温柔、有故事感，像凌晨准备出门或临时收拾行李时，被随手记录下来的一个生活瞬间。五官方向为真实生活中长得很好看的年轻东方女性，柔和鹅蛋脸或轻微瓜子脸，面部轮廓自然流畅，清亮杏眼，眼神低垂安静，带一点深夜疲惫和专注感，鼻梁清秀流畅，唇形自然柔软，低饱和裸粉或豆沙唇色，仅有轻微淡妆。五官比例协调但保留轻微自然不对称，不要网红脸，不要商业模特脸，不要过度精修。皮肤白皙自然，保留真实毛孔、轻微肤色不均、轻微面部纹理、少量自然油光和真实生活状态，不磨皮，不塑料皮，不瓷娃娃感。
+
+发型为黑色或深棕色长发，随意挽成松散丸子头，额前和脸侧有自然碎发，发丝略微凌乱，像深夜在家整理东西时的真实状态，不做精致造型。
+
+人物身形为丰腴自然曲线型，胸部饱满自然，胸前轮廓通过贴身吊带家居裙和轻微前倾姿态自然可见，胸腰比例协调，腰线清晰但真实，腰胯转折自然，臀腿线条圆润流畅，肩颈线柔和，整体身体比例健康协调。线条强调中偏强，但必须通过整理行李的前倾动作、贴身衣料和真实室内光线自然体现，不靠夸张扭腰、挺胸或刻意摆拍。
+
+服装为深灰蓝色修身吊带家居短裙，细肩带设计，柔软贴身棉质或针织面料，裙身自然贴合身体，带轻微褶皱和真实穿着痕迹，胸前、腰腹和裙摆位置有自然受力变化，整体是普通居家睡裙 / 家居裙质感，不要时装大片感，不要过度暴露。
+
+人物站在打开的黑色行李箱旁，身体轻微前倾并偏向镜头，一只手拿着折好的深色或灰色衣服，另一只手伸向行李箱内正在整理衣物或扶着行李箱边缘。视线自然落在行李箱内，不直视镜头，神情安静专注。站姿要稳定真实，双脚完整落地，重心明确，骨盆、胸腔和肩膀方向基本一致，只做轻微前倾，不反向扭腰，不夸张摆姿。行李箱内可见折好的 T 恤、睡衣、条纹衣物、浅色衣物和网格隔层，增强真实收拾行李的叙事感。
+
+重点保证人物肢体完整自然，双手结构清晰，手指数量正确，手腕与手肘关节合理，肩膀放松，双腿比例正常，站姿受力明确，不出现手脚畸形、身体扭曲、悬空站姿或错误透视。拿衣服的手与整理行李的手要动作分明，前倾整理动作要像真实生活中的自然停顿，而不是刻意摆拍。
+
+光线采用真实凌晨卧室室内灯光，主要来自床头灯、台灯和房间暖色环境灯，色温偏暖但不过度橙黄；窗外夜景保持较暗，可见零散城市灯光。人物面部、肩颈、锁骨、胸前、手臂和腿部有普通室内灯造成的自然高光，同时保留局部阴影、轻微曝光不完美、暗部噪点和真实明暗反差，不使用柔光箱，不使用商业轮廓光，不使用电影布光，不做过度 HDR。
+
+整体必须呈现明显 iPhone 手机普通模式随手拍摄感：真实手机主摄视角，接近 24–28mm 等效广角，普通自动曝光，真实自动白平衡，轻微手机算法锐化，轻微低清感，允许轻微噪点、轻微失焦和非完美构图。人物与行李箱、床铺、衣架杆、墙面照片和夜晚窗景都保持清晰可辨，不使用人像模式，不做大光圈背景虚化，不做电影景深，不做商业摄影精修。
+
+第一眼真实记忆点是：凌晨安静的卧室里，一个五官自然漂亮、身形丰腴柔和的年轻东方女性，穿着深灰蓝色修身吊带家居短裙，站在打开的黑色行李箱旁，一只手拿着折好的衣服，另一只手整理箱内物品，身体轻微前倾并偏向镜头，神情低垂专注，背景是凌乱床铺、衣架杆和夜晚城市窗景，像真实生活中用 iPhone 随手拍下的一张照片。
+```
+来源：@liyue_ai · https://x.com/liyue_ai/status/2098298191536095588
 
 <a id="case-727"></a>
 
@@ -18815,7 +19501,59 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 <a id="cat-character"></a>
 
 ## 🧍 角色与人物设定
-_角色设计、卡牌、3D 玩具与形象设定_（31 例）
+_角色设计、卡牌、3D 玩具与形象设定_（33 例）
+
+<a id="case-750"></a>
+
+### 例750：低领丰润；薄纱滑肩；胸前肌肤大片显露；帘影欲掩；竹石琴茶；烟…
+
+*2026-09-11*
+
+![例750](images/case750.jpg)
+
+```text
+低领丰润；薄纱滑肩；胸前肌肤大片显露；帘影欲掩；竹石琴茶；烟雨寂寥；佳人含羞；惊鸿破格
+```
+来源：@Hamburgerai · https://x.com/Hamburgerai/status/2098046584739242231
+
+<a id="case-743"></a>
+
+### 例743：捏个脸，可以作为短剧角色使用。
+
+*2026-09-11*
+
+![例743](images/case743.jpg)
+
+```text
+捏个脸，可以作为短剧角色使用。
+以下为nanobanana，gpt，grok效果👇
+
+9:16竖幅，
+东方年轻女性正面肖像，标准正面近景肖像特写，镜头平视面对人物，头部端正自然，视线水平直视镜头，双眼稳定位于画面视觉中心，构图舒展平稳，整体呈现极具艺术摄影感、随性松弛感与清瘦面部主导感。
+
+人物气质清冷、随性、鬼马、自然，带有一丝少年感、漫不经心与文艺清透感，神态松弛不做作，不做甜美过度幼态感，不做浓妆网红僵硬感，不做攻击性压迫感。
+
+脸型为窄长鹅蛋脸偏清瘦瓜子脸，脸长偏长，脸宽较窄，骨肉贴合紧致，面部留白适中，轮廓线条极度干净清瘦。额头高低适中，被额前随性碎刘海自然修饰。太阳穴平顺不凹陷，颧骨与颧弓完全内收不外扩，苹果肌轻微扁平不突兀，面中平平整整过渡顺畅，鼻基底饱满，无任何法令纹与冗余纹路。下颌线清晰利落如刀削般紧致上扬，下颌角位置较高且折角柔和弱化，下巴尖巧微窄但收口圆润自然，整体骨相轻盈骨感，带有天然上镜的清冷感。
+
+五官清秀且极富辨识度。眉毛为自然黑灰棕色原生平细眉，毛流感真实舒展，被额前刘海半隐半现自然遮拂。双眼为清澈内双偏细长型杏眼，眼裂较长，内眼角尖细清晰微向下勾，外眼角平直舒展带有一点点轻微猫系俏皮感，上眼皮轻薄平整，内双折痕极窄隐蔽，下眼睑弧度平缓，卧蚕轻微真实自然绝不夸张膨胀。眼瞳为纯净明亮的深黑咖啡色玻璃珠质感，正面直视镜头，瞳孔稳定聚焦清澈，眼神清亮、平静坦然中带有一点点放空与好奇灵动神采。睫毛纤细自然，根根分明，不使用浓密假睫毛。鼻子为极其优越的细直骨感秀气鼻，山根平缓顺接眉心，鼻梁挺拔细直且骨感分明，鼻背平整干净，鼻头小巧圆润带轻微尖翘，鼻翼窄小收紧，正面视角下鼻孔不外露，中轴稳定端正。嘴唇为小巧清秀花瓣唇，上唇微薄且唇峰清晰精致，下唇饱满度适中，唇肉柔软，嘴角自然放松微闭，神态平静随性，不做刻意嘟唇微笑。
+
+皮肤为白皙清透冷白皮，保留微单原图级真实皮肤肌理与轻微通透感，底妆为轻薄清透的柔雾哑光裸妆质感，不厚重假白，不做油腻反光水光肌。面中与鼻梁中轴有极轻微克制的自然光泽提亮，修容极淡，面部明暗立体感主要来自清瘦骨相结构与柔和漫射环境光。
+
+妆容为极致清爽的轻日常伪素颜妆感，几乎无明显粉质堆积痕迹。眼妆极简，仅在眼窝与眼尾带有极淡的裸杏棕色浅浅消肿，内眼线纤细隐形于睫毛根部，无夸张外拉眼线。腮红极轻微地隐没于颧侧与面中，呈现健康微透血色。唇妆为哑光低饱和干枯玫瑰豆沙红，中心略微浓郁，向唇缘自然虚化渐变，质感真实自然。
+
+发型为深黑茶色自然层次中长发，发质轻盈柔顺略带随性微散的空气感，修剪出轻微鲻鱼头与高层次微碎碎发轮廓。额前为轻薄随性的八字空气碎刘海，中间微分散开露出额头中央，两侧碎发顺着下颌与侧颈自然对称垂落，修饰颈肩线条，发顶自然蓬松无刻意定型感。
+
+颈部线条纤细修长，锁骨平直清晰。颈间佩戴一条精致纤细的冷银色细锁骨链，正中悬垂一枚小巧极简银质小猫剪影吊坠，小猫轮廓线条灵动优美，微微贴合锁骨窝肌肤，增添灵动别致的猫系专属细节。
+
+服饰更换为深炭烟灰色极简法式低方领针织薄上衣，领口剪裁利落平直，大面积露出修长颈项与精致锁骨线条，针织面料细腻亲肤微带自然细密肌理，纯色无多余繁杂图案，风格极简纯粹，完美衬托清冷骨感与高级少年感。
+
+光线为大柔光箱漫射自然柔光，正面平光柔和包裹脸庞，面部干净无生硬杂乱阴影，双眼中映出微小清澈的眼神光斑。背景完全虚化，为大光圈深度柔焦的极简浅灰米色微暗影调，几乎无任何实体道具与场景干扰，彻底消除杂质，形成极高纯净度的主体面部视觉分离。
+
+画面仅聚焦于人物正面头部、五官、发型、妆容、锁骨猫项链与极简方领针织上衣本身，人物端正居中，不加入复杂肢体动作，不加入任何生活道具与水印杂乱文字。非卡通插画，非二次元平涂，非生硬3D渲染，严格锁定微单商业肖像真实摄影质感。
+
+在画面右下角加入专属签名"voxcat"，签名形式为小型自然手写英文签名，笔触干净轻巧，尺寸较小，不抢主体，不破坏整体构图，签名颜色为低饱和灰白色。
+```
+来源：@VoxcatAI · https://x.com/VoxcatAI/status/2098341222540841362
 
 <a id="case-512"></a>
 
@@ -19705,7 +20443,68 @@ Create {argument name="items" default="fan goods"} for a standard {argument name
 <a id="cat-scene"></a>
 
 ## 🎬 场景与叙事分镜
-_分镜、故事场景、漫画叙事与世界观_（27 例）
+_分镜、故事场景、漫画叙事与世界观_（29 例）
+
+<a id="case-757"></a>
+
+### 例757：没有复杂场景，蓝天、树荫、草地，一条被太阳照得发亮的香槟色缎…
+
+*2026-09-11*
+
+![例757](images/case757.jpg)
+
+```text
+没有复杂场景，蓝天、树荫、草地，一条被太阳照得发亮的香槟色缎面裙。人物本身也不需要太多设计，珍珠、湿润感皮肤和一点被风吹乱的碎发就够了。
+prompt：
+9:16 竖幅，真人写实实验时尚人像，成年东亚女性，户外蓝天、绿地与道路环境，极近距离超广角低机位拍摄。人物双手主动伸向镜头，前景双手距离镜头极近，被透视明显放大，尺寸显著大于后方人脸。人物脸位于双手之后的第二空间层，形成强烈的“巨大前景手 + 后撤人脸 + 远处环境”三级空间关系。
+
+靠近镜头的一只手掌展开，食指与中指向上伸直，拇指横向打开，其余手指自然屈曲，另一只手从画面下方斜向伸入，与前一只手形成交叉和开放式几何框架。双手共同构成一个不规则取景框，局部遮挡人物脸部与身体，但不能完全挡住眼睛、鼻梁和嘴唇。必须保持真实手部骨骼逻辑、掌面朝向、指节弯曲、手腕受力和前后遮挡关系，所有手指数量正确，不能粘连。
+
+人物头部微微侧转并轻抬，下颌线在低机位中自然突出，视线接近镜头方向，但略微越过手指看向镜头附近，避免僵硬死盯。上眼睑自然，眉间放松，嘴唇轻微分开，神情冷静、克制、轻微疏离。黑色或深棕黑头发向后梳理，面部轮廓干净，发型权重低于双手和脸。
+
+人物穿珍珠白、银白或香槟白贴身缎面吊带礼服，面料带真实丝绸或涂层缎面反射，胸腰区域出现柔和块状高光。手部佩戴多枚香槟金、玫瑰金、珍珠和浅色宝石戒指，搭配细手链、珍珠手串、项链和耳饰。珠宝必须具有真实金属曲面、镶爪、珍珠反光和接触阴影，避免廉价塑料饰品感。
+
+背景保持真实户外环境，大面积浅灰蓝天空占据上方与后方，深绿色树林和草地分布在两侧，深灰道路从下方延伸。地平线允许轻微倾斜，增强随手抓拍和实验时尚摄影感。背景保持低频和较低权重，不加入复杂建筑、广告牌、车辆或其他人物。
+
+光线使用强烈正面硬光或近距离直闪感，人物脸、前景双手、手臂、珠宝和银白缎面服装被明显照亮，皮肤高光清楚，掌纹和关节仍然可见。背景保持自然日间环境光，树林更暗，天空更冷。肤色维持自然暖粉中性，仅接受少量蓝天环境反射，不能整脸发蓝。强硬光要形成真实曝光差和轻微高光溢出，不能变成均匀影楼柔光。
+
+色彩比例控制：约 28% 浅灰蓝天空，21% 暖粉肤色高光，16% 银白与珍珠白服装，14% 深绿黑树林暗部，12% 中度自然绿色草地，9% 香槟金和玫瑰金首饰。蓝色主要控制天空，绿色主要控制环境，金色集中在珠宝，不能扩散成统一滤镜。
+
+整体为现代真人时尚摄影，超广角近距离透视明显，手部巨大但仍保持真实结构，脸部尺寸相对较小，前后空间冲击强。画面要有实验感、现场感和非标准构图感，避免传统人像构图、标准自拍手势、普通比心和普通 V 手势。
+
+Soran 三层自然水印
+
+第一层可读水印：精确文字 “Soran” 清晰镌刻在最靠近镜头的一枚香槟金宽戒指外圈，或靠近镜头的小型金属手链铭牌上，像真实高级珠宝品牌刻字，肉眼明确可读，跟随戒指曲面、手指弯曲、超广角透视和金属高光自然变化。
+
+第二层隐藏水印：隐藏 “Soran” 融入珍珠手链排列、项链链节结构和银白缎面服装的高光褶皱中。
+
+第三层微观水印：微型 “Soran” 由戒指镶爪、金属微划痕、珍珠点列、指甲高光边缘和缎面织纹共同形成。
+
+所有 Soran 都必须像真实珠宝品牌和材质细节的一部分，明显、自然、有品味，不形成外贴文字。
+
+负向词
+
+普通自拍，标准 V 手势，比心，双手远离镜头，手和脸大小接近，长焦透视，平视普通人像，僵硬直视镜头，标准模特摆拍，错误手指，多余手指，缺失手指，手指粘连，关节畸形，手掌方向错误，手腕扭曲，悬浮手，双手没有前后关系，脸部被完全遮挡，塑料皮肤，瓷白磨皮，AI 美女脸，动漫脸，完美对称五官，廉价珠宝，塑料金属，缎面像塑料，影楼背景，复杂建筑背景，额外人物，HDR，过度锐化，8K 假细节，全图蓝色滤镜，全图绿色滤镜，全图暖金滤镜，额外可读文字，额外品牌名，external watermark, sticker-like logo, detached letters, captions, subtitles, floating text, oversized branding, flat pasted logo
+```
+来源：@Soranlan · https://x.com/Soranlan/status/2098174693987725811
+
+<a id="case-735"></a>
+
+### 例735：来个现代风
+
+*2026-09-11*
+
+![例735](images/case735.jpg)
+
+```text
+来个现代风
+人物： 25岁以上成年东亚女性，成熟高级时装模特气质，黑色长卷发，精致但自然的高定妆容。
+服装： 黑白银现代高级定制晚礼服，结构感缎面抹胸长裙＋银色水晶刺绣＋收腰立体剪裁＋可拆卸轻纱披肩＋高级珠宝＋尖头高跟鞋。
+场景： 巴黎法式豪宅高级衣帽间，奶油白墙面、胡桃木衣柜、落地镜、法式雕花、丝绒沙发、水晶吊灯、巨大落地窗。
+九宫格流程： 挑选礼服 → 穿主体礼服 → 调整肩颈结构 → 系腰部装饰 → 披高定轻纱 → 落地镜前整理 → 整理裙摆 → 穿高跟鞋 → 完整高定造型。
+整体改成 Vogue / Haute Couture Editorial 的真人时尚大片质感，暖白自然窗光，50mm/85mm，真实皮肤、缎面、水晶、薄纱材质，九格严格保持同一人物、同一礼服、同一豪宅场景。
+```
+来源：@jackzhang123vip · https://x.com/jackzhang123vip/status/2098323408572317957
 
 <a id="case-553"></a>
 
@@ -20390,7 +21189,45 @@ Genshin Impact {argument name="character" default="Raiden Shogun"} cosplay selfi
 <a id="cat-history"></a>
 
 ## 🏮 国风与历史题材
-_古风卷轴、历史人物、传统题材与诗词视觉_（19 例）
+_古风卷轴、历史人物、传统题材与诗词视觉_（21 例）
+
+<a id="case-756"></a>
+
+### 例756：提示词：绝美23岁东亚女性，明确成年的潘金莲古典形象，身材匀…
+
+*2026-09-11*
+
+![例756](images/case756.jpg)
+
+```text
+提示词：绝美23岁东亚女性，明确成年的潘金莲古典形象，身材匀称丰满，胸部明显自然丰满，视觉约E杯，具有自然重量感与柔和圆润轮廓，胸腰差明显而自然；纤细腰部与丰满胸部形成清晰比例，气质清艳、自信、温柔。清凉性感宋韵改良古装，雾青色低胸U领细带短背心以柔软丝棉贴合自然胸线，领缘带细密银线水纹；搭配月白色低腰包臀超短裙，裙侧垂下一段轻盈青色绦带，整体完整利落。
+
+雾蓝眼尾、自然红润面颊与裸粉唇色，长发编成松散侧辫搭在肩后，佩戴青玉发针与银色水滴耳环。
+
+她站在油纸伞铺深长骑楼的雨檐下，一手握住竹柄把刚试过的青绿色亮面油纸伞缓缓合拢，檐角水珠落下时正面望向镜头。成排倒挂伞骨、湿润石板与街口雨雾构成清凉空间，雨后柔光映亮她的脸，像一场小雨替她留住了脚步。
+
+50mm人像摄影，9:16竖版正面三分之二身环境构图，面部、胸腰曲线、低腰短裙与收伞动作清晰，大光圈浅景深，奶油散景，真实皮肤质感，雨后云层漫射光从街口柔和照入，湿石板反射清亮微光托亮眼神，高级东方生活方式写真，清润电影感，ultra realistic, masterpiece, best quality。
+```
+来源：@sdjn_wgc · https://x.com/sdjn_wgc/status/2098204089880334515
+
+<a id="case-731"></a>
+
+### 例731：最近这种换装的火了，复刻一版，提示词如下
+
+*2026-09-11*
+
+![例731](images/case731.jpg)
+
+```text
+最近这种换装的火了，复刻一版，提示词如下
+生成一张 3×3九宫格、超写实真人东方古典穿装 Lookbook，九个画面尺寸完全一致，以极细白色分隔线组成完整九宫格。九格必须为同一名明确25岁以上成年东亚女性，严格保持脸型、五官、肤色、身材比例、发型完全一致，不允许九格换脸。人物气质冷艳、高贵、成熟、克制，纤细修长身材，自然窄鹅蛋脸，柔和下颌线，黑色杏仁眼，细长自然眉，挺直精致鼻梁，暗红色自然唇妆。皮肤白皙但保留真实毛孔、细小皮肤纹理和自然光泽，拒绝塑料磨皮。乌黑浓密长发，盛唐宫廷风高位盘发＋部分超长披发，头顶形成蓬松立体发髻，佩戴多枚精致鎏金牡丹发簪、金色步摇、细长金属流苏、少量珠玉装饰；脸颊两侧留自然碎发。服装
+一套极具高级感的黑金东方宫廷高定礼服。主体使用哑光黑色真丝、黑色锦缎与轻薄黑纱制作。内层为黑色修身礼服，胸前及腰部覆盖大量精细的暗金牡丹、缠枝花卉、凤凰纹样刺绣。腰部使用宽幅黑金宫廷腰封，金线刺绣、金属扣饰与垂坠流苏形成视觉中心。外层为宽大半透明黑色轻纱长袍，大袖设计，袖口和衣襟布满精细暗金植物刺绣。下身为黑色垂坠长裙，大面积黑金刺绣从腰部向裙摆延伸，裙摆宽大自然落地。搭配黑金东方绣花鞋、金色长耳坠及少量精致宫廷饰品。整体不是普通汉服，而是盛唐宫廷美学＋东方高定礼服＋轻仙侠设计语言的融合。
+九宫格动作必须严格区分
+左上｜挑选外袍人物站在黑色木质衣架旁，侧身低头，用手拿起一件黑金刺绣长袍观察，展示整套服装穿着前的准备状态。中上｜穿上主体礼服人物已经穿上黑金主体长裙，低头整理左右肩部和衣领，让金色牡丹刺绣成为画面重点。右上｜系金色腰封正面半身至大腿构图，人物低头，双手同时整理宽大的黑金腰封，突出纤细腰线以及腰间金色流苏。左中｜披黑色薄纱外袍人物一只手高高抬起宽大的黑色半透明刺绣衣袖，另一只手正在穿入袖口，黑纱自然展开，阳光与烛光穿透薄纱。正中｜整理完整腰封人物正面站立，外袍已经穿好，双手再次整理腰间金色装饰与流苏，完整展示上半身穿搭层次。右中｜铜镜整理人物背身约45度站在大型古典铜镜前，一只手轻触肩部外袍，镜子里出现人物正面倒影。重点展示高盘发、金色步摇、超长黑发以及服装背部结构。左下｜整理裙摆人物坐在古典木质床榻边缘，身体微微前倾，低头整理黑金长裙和外层薄纱，让部分裙摆自然垂落。中下｜穿绣花鞋人物坐在床榻边，一条腿自然抬起弯曲，低头穿黑金刺绣鞋，外袍和长裙自然铺散在床榻与地面。右下｜最终完整定妆人物完成全部穿搭，正面自然站立，身体略微侧转，一只手轻放腰间，另一只手自然下垂，完整展示黑金礼服、腰封、刺绣外袍、发簪和流苏。最后一格必须具有东方宫廷女主正式定妆照的感觉。
+场景与灯光
+场景统一为奢华但古朴的唐风宫廷寝殿。深红色木柱、胡桃木雕花家具、黑金梳妆台、大型椭圆铜镜、金色屏风、木格窗、暗红色丝绒窗帘、红黑床榻、铜制烛台。房间内点燃大量暖黄色蜡烛。下午金色阳光从木格窗侧后方射入，与室内烛光形成暖金色双重光源。人物面部使用非常柔和的电影级补光。黑色丝绸保持丰富暗部层次，不能死黑；金色刺绣受到侧光后出现细腻金属反射；黑色透明薄纱拥有真实透光纹理。整体色调：曜石黑＋暗金＋深红＋暖琥珀色。高级、成熟、奢华、电影化，避免艳俗。
+```
+来源：@jackzhang123vip · https://x.com/jackzhang123vip/status/2098276034227626140
 
 <a id="case-715"></a>
 
@@ -21059,7 +21896,53 @@ Generate an image of a handwritten traditional Chinese medicine or Western medic
 <a id="cat-video"></a>
 
 ## 🎞️ 创意视频案例
-_图生视频 / 文生视频提示词（播放见线上站）_（32 例）
+_图生视频 / 文生视频提示词（播放见线上站）_（34 例）
+
+<a id="case-745"></a>
+
+### 例745：お持ち帰り企画でちょっとセクシーだったミントちゃんの魅力をお…
+
+*2026-09-11*
+
+> 🎞️ 视频案例（Pages 版可在画廊页播放；仓库文件：`videos/case745.mp4`）
+
+```text
+お持ち帰り企画でちょっとセクシーだったミントちゃんの魅力をお届けします✨
+
+スレンダーなスタイルとロングヘアーがとても魅力的です🩷
+
+見つめ過ぎに注意ですよ🤭
+
+#AI推し姫
+```
+来源：@kiyomana · https://x.com/kiyomana/status/2098365948075835433
+
+<a id="case-739"></a>
+
+### 例739：Grok 提示词：
+
+*2026-09-11*
+
+> 🎞️ 视频案例（Pages 版可在画廊页播放；仓库文件：`videos/case739.mp4`）
+
+```text
+Grok 提示词：
+
+一位约20岁出头的日系美女，写实照片级画质。皮肤白皙细腻、带有自然光泽和轻微红润，锁骨清晰，锁骨下方到胸部的皮肤被阳光照亮。五官精致，大而温柔的眼睛，浅棕色瞳孔，自然妆容，淡粉色嘴唇，微微上扬的嘴角。棕色头发，有空气感刘海，头发在脑后扎成低马尾，发丝被风和阳光轻轻吹动。脖子上戴着一根细细的黑色choker项链。身材丰满但腰肢纤细，胸部非常大、饱满、有重量感，乳沟深，比基尼肩带和胸下缘被撑得紧实。腹部平坦，腰线清晰，肚脐隐约可见。
+
+穿着黑色底色、带小黄花碎花图案的三角比基尼。上衣是细肩带三角杯，几乎包不住胸部，侧面和中间都露出大量肌肤；下装是同款碎花细带丁字/低腰比基尼裤，胯部和腰侧露出很多。整体是 gravure 写真偶像风格，性感但不低俗。
+
+场景是户外白天，人物站在一栋浅米色瓷砖外墙的建筑物旁。背景左侧和后方是茂密的绿色灌木，叶子厚实，上面点缀着许多小红花。地面是浅色铺装，画面右侧能看到墙面的瓷砖纹理。阳光强烈而干净，属于夏日正午到下午的直射光，树叶在她胸口、锁骨、肩膀和腹部投下不断轻轻移动的斑驳阴影。整体光线明亮、通透，皮肤高光自然，阴影柔和。
+
+镜头为竖屏构图（约3:4或9:16），从中近景开始。前2秒镜头对准她的脸和上胸部，她正面看向镜头，眼神温柔，嘴角带浅笑。随后镜头缓慢下移，经过锁骨、巨大的胸部、平坦的小腹，直到露出比基尼下装和腰胯，停留约2秒后再慢慢抬回脸部。整个过程中她身体有轻微自然晃动和呼吸起伏，胸部随动作产生真实、有重量的轻微晃动。她微微侧身又转回来，头部轻轻歪向一侧，笑容逐渐变得更妩媚、更会看镜头。发丝和树叶阴影同步轻轻晃动。动作幅度不大，整体是缓慢、暧昧、写真感的摆拍，而不是大幅度跳舞。
+
+画质要求：超高清、照片级写实、皮肤纹理真实、毛孔和细微阴影可见、光线自然、色彩鲜艳但不过曝、电影级质感、8k、高细节、无畸变、无多余肢体。时长约10秒。氛围是夏日午后、清爽又性感、阳光宅女/写真偶像感觉。
+
+负向提示词：
+
+模糊，低清晰度，变形，多余手指，多余肢体，面部崩坏，身体比例错误，过曝，过饱和，卡通，二次元，动漫，文字，水印，logo，衣服穿帮，裸露过度，低俗表情，僵硬动作，镜头抖动过大
+```
+来源：@dugujun12 · https://x.com/dugujun12/status/2098218171325141078
 
 <a id="case-729"></a>
 
@@ -22036,7 +22919,106 @@ TikTok/抖音高画质流行短视频风格，短视频生活随拍（Vlog Style
 <a id="cat-other"></a>
 
 ## 🧪 综合与创意实验
-_创意实验、混合任务与实用杂项_（36 例）
+_创意实验、混合任务与实用杂项_（40 例）
+
+<a id="case-752"></a>
+
+### 例752：Made in @Grok Imagine:《Cool Ni…
+
+*2026-09-11*
+
+![例752](images/case752.jpg)
+
+```text
+Made in @Grok Imagine:《Cool Night Stare》
+
+May your night be quiet, and beautiful enough.🌛
+
+Sweet dream my dear #friends .😊
+
+#AIart #AIgirl
+#GrokImagine prompt:
+
+1. Subject & Action
+A beautiful Japanese woman, 25 years old, porcelain fair delicate skin with visible natural pores, natural gray-blue eyes, extremely refined elegant facial features, high-fashion makeup, long cool ashy-gray wavy hair spread across the pillow. Plump natural G-cup breasts with soft realistic side-hang while lying down, extremely slender waist. She is fully lying on the bed, head resting on a dark silk pillow, body horizontal. Wearing a tight silver silk camisole that fully covers the breasts and a thin black thong with only the delicate waistband visible at the hips. Shy, elegant, slightly tempting expression, looking directly into the phone camera. She is taking a bedtime selfie, one arm extended toward the lens.
+2. Setting & Time
+Luxury high-rise apartment bedroom at night. Rumpled black silk sheets and a dark silk pillow. Floor-to-ceiling window with a city night skyline in the background. Minimal high-end hotel atmosphere. Quiet moment just before sleep.
+
+3. Composition & Camera
+True front-camera phone selfie, not a third-person posed photograph. Foreshortened selfie arm visible in the foreground, smartphone held at arm’s length above or toward the face. Slight wide-angle phone-camera distortion. Vertical portrait framing. Subject lying on her back/side on the bed, head on the pillow, body receding into the sheets. Direct eye contact with the lens. Fashion-editorial crop from head to mid-thigh.
+4. Lighting & Style
+Helmut Newton style. Hard cool side light from a bedroom lamp, strong contrast, deep shadows on silk sheets, desaturated cinematic night tones. Hyper-realistic, photorealistic skin and fabric texture, ultra-detailed, high-end fashion-erotic editorial, tasteful and elegant, not vulgar.
+
+5. Constraints
+No nipple visibility, no wardrobe malfunction, no explicit nudity. Camisole must fully cover the chest. Thong only shows as a thin waistband. Keep the look pure-sexy and elegant, never cheap or pornographic. Adult woman only. No extra people, no text, no watermark.
+```
+来源：@AIGirl_Show · https://x.com/AIGirl_Show/status/2098048859742073081
+
+<a id="case-747"></a>
+
+### 例747：GPT2 x 纸雕 x 透光 x 美学提示词 x VOL.1…
+
+*2026-09-11*
+
+![例747](images/case747.jpg)
+
+```text
+GPT2 x 纸雕 x 透光 x 美学提示词 x VOL.175
+
+今晚不用睡觉了
+因为chatGPT这几天基本不能用
+导致我很多样张没有做完
+
+现在稳定了不少，所以我开始补充我喜欢的很多风格
+分享给可爱的你，祝你人生少这种磨难
+
+skills 项目地址：
+https://github.com/nevertoday/xxd-panel-175
+
+其中5国原始提示词在其中文件夹
+references/original-prompt
+```
+来源：@xiaoxiaodong01 · https://x.com/xiaoxiaodong01/status/2098099996910661920
+
+<a id="case-744"></a>
+
+### 例744：あのさ。知ってた？
+
+*2026-09-11*
+
+![例744](images/case744.jpg)
+
+```text
+あのさ。知ってた？
+AI美女のポーズ、「自然なポーズにして」だけ送ってる人、AI感が全然消えてない。
+
+ポーズ指定のプロンプトを変えるだけで
+実在感が全然変わる。
+
+20個まとめた。
+リプに全部置いた👇
+コピペOK・保存推奨。
+```
+来源：@pongpong2225 · https://x.com/pongpong2225/status/2098159610792464753
+
+<a id="case-740"></a>
+
+### 例740：这不是《东京热》，这是“东京夜闪”。📸
+
+*2026-09-11*
+
+![例740](images/case740.jpg)
+
+```text
+这不是《东京热》，这是“东京夜闪”。📸
+
+四个人往沙发上一挤，28mm 贴脸直闪一开，白、蓝、棕、黑四套穿搭直接撞在一起。
+
+背景越黑、闪光越硬、构图越挤，越像 2000s 夜店里不知道谁顺手按下快门留下的一张。
+
+Prompt 👇
+```
+来源：@DDJCXX · https://x.com/DDJCXX/status/2098069800006431122
 
 <a id="case-730"></a>
 
