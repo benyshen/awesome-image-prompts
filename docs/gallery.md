@@ -1,23 +1,23 @@
 # 🖼️ 案例全库 · Full Gallery
 
-共 **781** 个公开案例，按场景分类。图片已压缩至 1280px 长边；视频案例存于 `videos/`，可在 GitHub Pages 画廊页直接播放。
+共 **791** 个公开案例，按场景分类。图片已压缩至 1280px 长边；视频案例存于 `videos/`，可在 GitHub Pages 画廊页直接播放。
 
 ## 目录
 
 - [🖥️ 界面与社媒截图](#cat-ui)（73 例）— App / 网页 / 直播 / 社媒界面、UI 样机与截图
 - [📊 信息图与知识可视化](#cat-infographic)（69 例）— 信息图、图谱、科普百科、地图与结构化图解
-- [📰 海报与版式设计](#cat-poster)（148 例）— 活动海报、封面、字体排版与强版式视觉
+- [📰 海报与版式设计](#cat-poster)（149 例）— 活动海报、封面、字体排版与强版式视觉
 - [🛍️ 商品与电商视觉](#cat-product)（26 例）— 商品主图、详情页、包装与广告创意
-- [🏷️ 品牌与标识设计](#cat-brand)（22 例）— Logo、VI、吉祥物与品牌触点
-- [🏛️ 建筑与空间场景](#cat-architecture)（62 例）— 建筑渲染、室内空间、城市规划与鸟瞰
-- [📷 摄影与写真人像](#cat-photo)（150 例）— 人像写真、手机摄影、胶片与商业摄影质感
-- [🎨 插画与艺术风格](#cat-illustration)（54 例）— 插画、绘画流派、材质实验与装饰艺术
+- [🏷️ 品牌与标识设计](#cat-brand)（23 例）— Logo、VI、吉祥物与品牌触点
+- [🏛️ 建筑与空间场景](#cat-architecture)（64 例）— 建筑渲染、室内空间、城市规划与鸟瞰
+- [📷 摄影与写真人像](#cat-photo)（152 例）— 人像写真、手机摄影、胶片与商业摄影质感
+- [🎨 插画与艺术风格](#cat-illustration)（56 例）— 插画、绘画流派、材质实验与装饰艺术
 - [🧍 角色与人物设定](#cat-character)（35 例）— 角色设计、卡牌、3D 玩具与形象设定
 - [🎬 场景与叙事分镜](#cat-scene)（31 例）— 分镜、故事场景、漫画叙事与世界观
 - [🏮 国风与历史题材](#cat-history)（24 例）— 古风卷轴、历史人物、传统题材与诗词视觉
 - [📚 文档与出版物料](#cat-document)（3 例）— 白皮书、手册、处方、证书与出版版式
 - [🎞️ 创意视频案例](#cat-video)（36 例）— 图生视频 / 文生视频提示词（播放见线上站）
-- [🧪 综合与创意实验](#cat-other)（48 例）— 创意实验、混合任务与实用杂项
+- [🧪 综合与创意实验](#cat-other)（50 例）— 创意实验、混合任务与实用杂项
 
 <a id="cat-ui"></a>
 
@@ -5615,7 +5615,32 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 <a id="cat-poster"></a>
 
 ## 📰 海报与版式设计
-_活动海报、封面、字体排版与强版式视觉_（148 例）
+_活动海报、封面、字体排版与强版式视觉_（149 例）
+
+<a id="case-807"></a>
+
+### 例807：GPT Image 2.5生成东方极简封面海报
+
+*2026-09-15*
+
+![例807](images/case807.jpg)
+
+```text
+GPT Image 2.5生成东方极简封面海报
+
+提示词（欢迎返图）：
+主题方向：东方禅意极简封面海报
+风格分支：女性审美明亮型
+主体内容：一位古风女子站在浅色长阶中段，低头轻扶裙摆
+情绪母题：轻松、清朗、秋日明媚感
+场景与意象：银杏叶、白色台阶、晴空蓝背景、女子、少量树影
+构图与空间：9:16 竖版构图，长阶从下方向上延伸形成视觉引导，人物位于中下部，顶部保留大面积干净标题区
+色彩控制：奶白作为高明度基底，银杏黄用于落叶和局部点睛，晴空蓝用于远景天空色块，人物服装用浅米白或淡杏色；避免全图黄蓝滤镜化
+光线与质感：明亮日光，边缘清晰，轻平面海报感，极轻纸面质感即可
+画幅比例：9:16
+补充要求：整体要明快、通透、有呼吸感，台阶结构要简洁高级，适合做高颜值封面
+```
+来源：@liyue_ai · https://x.com/liyue_ai/status/2099025209110274525
 
 <a id="case-800"></a>
 
@@ -11586,7 +11611,39 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
 <a id="cat-brand"></a>
 
 ## 🏷️ 品牌与标识设计
-_Logo、VI、吉祥物与品牌触点_（22 例）
+_Logo、VI、吉祥物与品牌触点_（23 例）
+
+<a id="case-814"></a>
+
+### 例814：🚀这种风格的图像这么火吗？分享下prompt：
+
+*2026-09-15*
+
+![例814](images/case814.jpg)
+
+```text
+🚀这种风格的图像这么火吗？分享下prompt：
+
+使用上传的参考图作为严格的人物身份与服装参考。准确保留参考图中的面部、五官、肤色、发型、发色、配饰、服装以及整体氛围，不要进行任何改变。
+
+创作一张高质量的竖版（4:5 或 9:16）混合媒介人物肖像，画面包含：
+
+一个真实感十足的全身人物，人物外貌与参考图中的人保持高度一致。
+在人物旁边的墙壁上，出现一个黑色手绘涂鸦风格的同款人物剪影/影子。
+
+真实人物应该呈现出可爱、略带害羞、俏皮的感觉，并且每次生成时都自然地摆出一个全新、随机、带有恶作剧感的俏皮姿势。
+
+墙上的手绘涂鸦影子也应该做出与真人相同的姿势构思，但表现得更加夸张、混乱、卡通化和充满戏剧性。加入漫画风格的动作线、星星、爱心和闪光效果，让涂鸦影子看起来活泼有趣。
+
+使用干净的白色/奶油色摄影棚墙面，背景保持极简。采用柔和、自然的光线，并确保真人和涂鸦影子都完整呈现在画面中，不被裁切。
+
+涂鸦人物必须能够通过发型、配饰、服装轮廓以及姿势，清晰地让人联想到真实人物。
+
+负面提示词（Negative Prompt）：
+
+更换服装、改变人物身份、第二个真实人物、普通真实阴影、恐怖风格、动漫人物真人化、杂乱背景、重复的指人姿势或手指枪姿势、僵硬的姿势、多余的肢体/手指、身体变形、文字、水印、Logo、AI生成痕迹。
+```
+来源：@AISuperDomain · https://x.com/AISuperDomain/status/2099481577969312010
 
 <a id="case-749"></a>
 
@@ -12376,7 +12433,74 @@ A photorealistic selfie of a young man with short wavy dark hair and light stubb
 <a id="cat-architecture"></a>
 
 ## 🏛️ 建筑与空间场景
-_建筑渲染、室内空间、城市规划与鸟瞰_（62 例）
+_建筑渲染、室内空间、城市规划与鸟瞰_（64 例）
+
+<a id="case-811"></a>
+
+### 例811：GPT image 2.5
+
+*2026-09-15*
+
+![例811](images/case811.jpg)
+
+```text
+GPT image 2.5 
+
+PROMPT:
+
+Create a charming vintage cross-stitch embroidery artwork featuring [CITY / STRUCTURE] as the main subject. The entire scene should look meticulously hand-stitched onto warm ivory linen fabric, with visible tiny embroidery stitches, slightly imperfect handmade details, and a soft antique textile texture.
+
+Place the main landmark or recognizable city architecture in the center, illustrated entirely with delicate cross-stitch embroidery. Surround it with small symbolic elements representing the destination — tiny flowers, stars, trees, clouds, birds, local scenery, decorative objects, or miniature architectural details.
+
+Frame the artwork with an elegant ornamental embroidered border, featuring tiny flowers, leaves, stars, vines, and vintage decorative corners. Use a nostalgic palette of dusty rose, muted sage green, faded blue, warm beige, soft brown, and antique gold.
+
+At the top, stitch:
+
+[CITY NAME]
+
+At the bottom, stitch:
+
+[COUNTRY] • [FAMOUS FOR]
+
+Use old-fashioned embroidered serif lettering, slightly irregular like a handmade heirloom sampler.
+
+The overall composition should feel like a vintage collectible textile souvenir, whimsical, nostalgic, cozy, sophisticated and highly detailed — not a modern graphic poster. Visible fabric weave, individual threads, tiny cross-stitches, soft aged texture, subtle imperfections, handcrafted museum-quality embroidery.
+
+Vertical 4:5 composition, centered symmetrical layout, no people, no modern logos, no watermark.
+```
+来源：@Naiknelofar788 · https://x.com/Naiknelofar788/status/2099378987713896800
+
+<a id="case-809"></a>
+
+### 例809：Made in @Grok Imagine:
+
+*2026-09-15*
+
+![例809](images/case809.jpg)
+
+```text
+Made in @Grok Imagine:
+
+她刚回来。
+灯还亮着，城市还没睡。
+
+#GrokImagine 提示词：
+1. Subject & Action
+A beautiful 26-year-old Japanese woman with porcelain fair, tender skin; extremely delicate, refined facial features; natural gray-blue eyes; fashionable dewy makeup; slightly messy elegant dark hair. Plump G-cup breasts with natural soft hanging weight and sag, no bra. Extremely slender waist. Shy, gentle smile — bashful, as if she has just realized she is being looked at. She sits on the edge of a hotel bed, one hand loosely touching her hair, body relaxed with slight natural movement. She wears an oversized white silk shirt worn loosely over a thin beige knit slip; fabric clings and drapes to show breast weight and shape while fully covering the chest.
+
+2. Setting & Time
+Luxury hotel bedroom at late night. Large window with Tokyo city lights and neon bokeh outside. Rumpled white bed sheets. Warm table lamp on a side table. Intimate after-party leftover mood — she has just come back and has not changed into proper sleepwear.
+
+3. Composition & Camera
+Portrait orientation, medium-full shot from slightly above eye level. Subject seated, three-quarter angle, looking toward camera with a shy side-glance. Shallow depth of field, 85mm lens look. Focus on face, collarbone, chest contour under fabric, and waist. Natural, candid fashion-editorial framing with a hint of movement.
+
+4. Lighting & Style
+Photorealistic high-fashion editorial in the style of Ellen von Unwerth. Mixed lighting: warm interior lamp + cool city neon leaking through the window. Soft highlights on skin, visible fabric texture and folds. Ultra-realistic skin pores, hair strands, and cloth weave. Playful, sensual, lived-in glamour. Tasteful eroticism, not vulgar.
+
+5. Constraints
+No nudity. No nipples visible. No wardrobe malfunction or flashing. Clothing must fully cover the breasts. Keep the look high-quality, natural, and elegant. No explicit pose, no looking down the shirt, no underwear exposure. Adult woman only (mid-20s). Super-natural photorealism.
+```
+来源：@AIGirl_Show · https://x.com/AIGirl_Show/status/2099498408969122277
 
 <a id="case-801"></a>
 
@@ -14644,7 +14768,59 @@ A vintage 35mm film photograph of a {argument name="subject description" default
 <a id="cat-photo"></a>
 
 ## 📷 摄影与写真人像
-_人像写真、手机摄影、胶片与商业摄影质感_（150 例）
+_人像写真、手机摄影、胶片与商业摄影质感_（152 例）
+
+<a id="case-812"></a>
+
+### 例812：GPT Image 2.5生成高光CCD生活照。
+
+*2026-09-15*
+
+![例812](images/case812.jpg)
+
+```text
+GPT Image 2.5生成高光CCD生活照。
+
+提示词（欢迎返图）：
+摄影风格：日间清亮高光CCD生活照风
+写真方向：未来都市生活写真
+场景方向：城市太阳能顶棚步道 / 深蓝光伏板 / 银色支架 / 浅灰步道 / 开阔城市背景
+服装方向：明亮杏橙色修身吊带针织上衣 + 冷白色超低腰A字超短裙
+气质标签：时尚、明亮、未来感、轻熟、利落
+五官方向：精致清透淡颜
+身形方向：轻盈纤细
+线条强调：强
+镜头方向：大腿及上半身
+姿态动作：沿太阳能步道自然行走，走过镜头后轻微回身，一只手整理肩侧头发
+光线氛围：晴天高亮自然光 + 银色金属结构反射补光 + 光伏板形成干净冷色背景
+滤镜效果：高亮清晰冷暖CCD色彩 + 干净白色高光 + 清晰中间调 + 稳定黑位
+画幅比例：9:16
+补充要求：杏橙色负责人物视觉中心，蓝灰光伏结构只作为背景对比；整体不要科幻CG感，要真实城市公共空间
+```
+来源：@liyue_ai · https://x.com/liyue_ai/status/2099498799786074400
+
+<a id="case-810"></a>
+
+### 例810：Created with GPT Image 2
+
+*2026-09-15*
+
+![例810](images/case810.jpg)
+
+```text
+Created with GPT Image 2
+
+Prompt:
+
+A close-up portrait of a stunningly beautiful and elegant young woman facing the camera directly with a calm, gentle, and slightly mysterious expression. Her face is perfectly symmetrical and natural, featuring bright, smooth, and flawless skin that retains a realistic texture, illuminated by soft lighting that creates a natural glow.
+Soft glam makeup: neat, natural brows; soft nude-brown eyeshadow; subtle eyeliner; long, curled lashes; greenish-gray eyes focused on the camera; soft pink-peach blush; a subtle nose highlight; and glossy nude-pink lips with a natural, slightly plump shape.
+Long, thick, dark brown hair—straight with soft waves at the ends—cascading naturally to frame her face. A slightly centered part allows a few fine strands to fall across her forehead and the sides of her face, creating an effortless, sensual look. She wears medium-sized silver hoop earrings.
+Pose: one hand raised to her head, palm touching the top of her hair with elegantly positioned fingers. Shoulders slightly exposed; body facing the camera frontally. Close-up to medium close-up composition, with the face as the primary focus.
+Attire: a black dress or top with a deep V-neckline, conveying a modern, minimalist, sophisticated, and fashionable aesthetic.
+Background: a very bright, clean, and plain off-white/light gray backdrop, free of distracting objects. Professional front-facing studio lighting with soft diffusion, creating very gentle shadows and natural highlights on the face and hair.
+Photography style: luxury beauty editorial, high-fashion portrait, realistic studio photography, cinematic soft lighting, photorealistic, ultra-detailed, realistic skin texture, sharp facial details, natural hair strands, professional beauty photography, shallow depth of field, clean composition, 9:16 vertical portrait, Ultra HD, 8K.  Negative prompt: anime, cartoon, illustration, doll-like face, plastic skin, excessive smoothing, distorted face, asymmetrical eyes, deformed hands, extra fingers, blurry face, low resolution, oversaturated makeup, harsh shadows, messy background, unnatural proportions.
+```
+来源：@TaliaAariz · https://x.com/TaliaAariz/status/2099413389164364068
 
 <a id="case-805"></a>
 
@@ -19115,7 +19291,52 @@ Express [{argument name="subject" default="a powerful AI builder"}] in a graffit
 <a id="cat-illustration"></a>
 
 ## 🎨 插画与艺术风格
-_插画、绘画流派、材质实验与装饰艺术_（54 例）
+_插画、绘画流派、材质实验与装饰艺术_（56 例）
+
+<a id="case-815"></a>
+
+### 例815：GPT2 x 转绘 x 插画 x 美学 x 提示词 x VO…
+
+*2026-09-15*
+
+![例815](images/case815.jpg)
+
+```text
+GPT2 x 转绘 x 插画 x 美学 x 提示词 x VOL.115
+
+第115号序列的提示词
+功力还是被小看了~
+很喜欢这种随兴感
+
+五国语言版本提示词：
+https://github.com/nevertoday/xxd-panel-115/tree/main/references/original-prompt
+
+项目skills 地址：
+https://github.com/nevertoday/xxd-panel-115
+（可以制作各种用途，包含壁纸等）
+
+你的各种照片，哪怕是废片，被这组提示词处理后
+容易诞生惊喜，治愈风的惊喜。
+```
+来源：@xiaoxiaodong01 · https://x.com/xiaoxiaodong01/status/2099379818659991667
+
+<a id="case-806"></a>
+
+### 例806：谁懂这种复古水彩感的杀伤力啊！！🎨🌿
+
+*2026-09-15*
+
+![例806](images/case806.jpg)
+
+```text
+谁懂这种复古水彩感的杀伤力啊！！🎨🌿
+颜色温温柔柔的，人物做出来会显得很治愈，猫猫狗狗做出来也会特别灵动可爱，有一点旧杂志插画 + 手账海报的感觉，真的很适合做 人物形象 / 宠物形象 / 生活方式感作品！
+
+评论区留下你的作品，一起解锁有趣的风格～提示词我放评论区！
+
+#gptimage #prompt #人物宠物形象
+```
+来源：@zhidawang219555 · https://x.com/zhidawang219555/status/2099295085250916707
 
 <a id="case-790"></a>
 
@@ -24187,7 +24408,37 @@ TikTok/抖音高画质流行短视频风格，短视频生活随拍（Vlog Style
 <a id="cat-other"></a>
 
 ## 🧪 综合与创意实验
-_创意实验、混合任务与实用杂项_（48 例）
+_创意实验、混合任务与实用杂项_（50 例）
+
+<a id="case-813"></a>
+
+### 例813：原来这种叫「襦衣」
+
+*2026-09-15*
+
+![例813](images/case813.jpg)
+
+```text
+原来这种叫「襦衣」
+
+超短襦衣；衣衫滑落露肩；后背大面积肌肤；低腰高开衩长裙；俯身斟酒；抿唇轻笑
+```
+来源：@Hamburgerai · https://x.com/Hamburgerai/status/2099582707122446480
+
+<a id="case-808"></a>
+
+### 例808：晚安玛卡巴卡
+
+*2026-09-15*
+
+![例808](images/case808.jpg)
+
+```text
+晚安玛卡巴卡
+
+交叉薄纱上衣；背部婀娜曲线；侧腰镂空；束腰收紧；贴身长裙；双侧高开衩；跪坐焚香；指尖抵唇；欲语还休
+```
+来源：@Hamburgerai · https://x.com/Hamburgerai/status/2099536904924582202
 
 <a id="case-797"></a>
 
