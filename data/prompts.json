@@ -1,6 +1,6 @@
 {
- "count": 791,
- "built_at": "2026-09-15 11:27",
+ "count": 815,
+ "built_at": "2026-09-30 14:37",
  "items": [
   {
    "id": 2,
@@ -3495,6 +3495,42 @@
    "live_url": "http://192.168.28.100:8600/"
   },
   {
+   "id": 818,
+   "title": "GPT Image 2.5生成东方美学壁纸：石榴有喜。",
+   "prompt": "GPT Image 2.5生成东方美学壁纸：石榴有喜。\n\n提示词（欢迎返图）：\n主题方向：东方禅意极简高传播封面\n风格分支：女性审美鲜活型\n主体内容：一位女子站在一株极简石榴枝下，双手轻捧一枚成熟石榴\n情绪母题：丰盈、明朗、生活喜悦\n场景与意象：白墙、石榴枝、少量果实、女子、大片干净留白\n构图与空间：9:16竖版，石榴枝从右上方斜入，人物位于下方偏右，左侧与顶部形成大面积连续标题区\n色彩控制：奶油白作为背景，翡翠绿只用于叶片，荔枝红用于石榴果实和极少花苞，人物服装使用浅杏白；红绿饱和但面积克制，禁止背景同步染色\n光线与质感：明亮自然光，清晰叶片投影，平整纸面质感\n画幅比例：9:16\n补充要求：石榴数量要少，色彩鲜活但不能繁杂，整体有明显东方吉祥意味和高颜值封面感，画面留白处配上合适的文字",
+   "image": "images/case818.jpg",
+   "media_type": "image",
+   "source": "@liyue_ai · https://x.com/liyue_ai/status/2104111821615751216",
+   "orig_category": "GitHub投稿",
+   "category": "poster",
+   "created_at": "2026-09-30",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
+   "id": 821,
+   "title": "这张「东方禅意极简」海报我很喜欢🌞",
+   "prompt": "这张「东方禅意极简」海报我很喜欢🌞\n第一眼就有风吹开整张画面的感觉。\n\n白色高台压得很静，孔雀青把空间拉开，朱橙长帛从上方一路斜下来，整张图一下就有了向上生长的力量。\n女子站在下面伸手去碰那一截被风吹起的丝帛，画面很轻，也很自由。\n这种留白很多、元素很少的图，反而特别容易把情绪留住。\n\n提示词（欢迎返图）：\n主题方向：东方禅意极简高传播封面 \n风格分支：女性审美明亮高对比型 \n主体内容：一位古风女子站在白色高台边，伸手轻触从高处垂落并被风吹起的长幅丝帛 \n情绪母题：自由、舒展、向上、生机 \n场景与意象：大片白色高台、孔雀青天空色块、朱橙色长帛、女子、极少远山 \n构图与空间：9:16竖版，长帛从画面顶部斜向贯穿中部形成巨大视觉动线，女子位于下方偏右，上方偏左保留完整标题区 \n色彩控制：象牙白作为高明度空间基底，孔雀青用于天空与远景大色块，朱橙只用于迎风长帛，人物服装保持月白；形成鲜明冷暖对比，禁止全图青橙化 \n光线与质感：明亮高空自然光，轮廓清晰，色块干净，现代东方平面插画感 \n画幅比例：9:16 \n补充要求：长帛要形成第一眼视觉冲击，但元素仍然极少，画面轻盈通透，有明显标题区，画面留白处配上合适的文字",
+   "image": "images/case821.jpg",
+   "media_type": "image",
+   "source": "@liyue_ai · https://x.com/liyue_ai/status/2103699814613696545",
+   "orig_category": "GitHub投稿",
+   "category": "poster",
+   "created_at": "2026-09-30",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
+   "id": 833,
+   "title": "1. Open ChatGPT",
+   "prompt": "1. Open ChatGPT\n\n2. Upload Your Image\n\n3. Copy and paste Prompt⤵️ \n\nA hybrid collage poster: a real photographic cutout of a smiling young Indian woman standing full-length in the center, surrounded by a black-and-white manga/comic panel layout in which the same woman appears as an illustrated character. The real woman wears round wire-frame glasses and has a long side braid over her right shoulder. She wears a white collared polka-dot shirt with rolled-up sleeves, a long flowy black maxi skirt with an elastic waist, white canvas sneakers and a wristwatch. Her hands are in her pockets, she is smiling warmly, and her legs are casually crossed. The background is a fully inked manga page with bold linework, screentone shading and dynamic panel borders:\nTop-left: a close-up with radial speed lines, a braid, an open blazer over a dark top, and a speech bubble saying \"HAAA!\"\nTop-right: the character with a ponytail and glasses working at a computer in an office, with a small Ganesh idol on the desk, file shelves behind her and the English text \"SAFALTA\" (Success) on the wall.\nMiddle-left: the character holding a gimbal-mounted phone and vlogging at a street stall with a signboard reading \"CHAAT\", with an ornate carved pillar in the background.\nMiddle-right: the character with long open hair walking through a busy Indian street with a shoulder bag, auto-rickshaws and English shop signboards such as \"AARTI STORE\" and \"BAZAAR\".\nBottom-left: an excited close-up with a \"KYA!\" bubble, glasses, a braid and a video camera on a gimbal, in a market stall setting with a signboard reading \"NOTEPAD STORE\".\nBottom-right: two women laughing and hugging joyfully under a \"MELA\" (fair) banner with tents and crowds.\nThe overall look is pure black and white, a crisp manga ink style, high contrast, a modern Indian street-life storytelling theme, and the real photo contrasts sharply with the monochrome comic background",
+   "image": "images/case833.jpg",
+   "media_type": "image",
+   "source": "@HaniaAi12 · https://x.com/HaniaAi12/status/2105120818652954841",
+   "orig_category": "GitHub投稿",
+   "category": "poster",
+   "created_at": "2026-09-30",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
    "id": 33,
    "title": "电商商品展示设计",
    "prompt": "A 3D render of a cute kawaii {argument name=\"subject\" default=\"cloud\"} character on a pure white background. The character has a soft, matte, squishy texture resembling clay or a stress toy. It features large glossy black eyes with white highlights, a simple curved smile, and round pink blush on its cheeks. The edges and bottom of the figure have a subtle pastel gradient of {argument name=\"accent colors\" default=\"pink, blue, and purple\"}. Soft studio lighting, minimalist icon style, casting a gentle shadow.",
@@ -4848,6 +4884,18 @@
    "orig_category": "GitHub投稿",
    "category": "architecture",
    "created_at": "2026-09-15",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
+   "id": 834,
+   "title": "你想白天遇到她还是晚上？",
+   "prompt": "你想白天遇到她还是晚上？\n\nGPT IMAGE2.5 提示词：\n\n9:16 竖版，白天自然光 × 古早 DV 录像质感 × 中式华服 × 日式和风室内 × 水墨花卉 × INS 随手抓拍。\n\n一位 23–25 岁、明确成年的漂亮日本女性，正面朝向镜头，小头、小脸，精致紧致的鹅蛋脸，清晰流畅的下颌线与微尖下巴，五官精致、有辨识度，呈现真实自然的日本女性真人脸。\n\n肌肤非常白皙、细腻、通透，呈干净的冷白瓷肌色调。脸部、颈部、肩部、锁骨与胸前肤色自然统一，在白天窗边自然光下出现轻微柔和高光，同时保留真实皮肤纹理与自然粉润血色。\n\n乌黑或深棕色长发浓密柔顺，可采用松弛古典盘发 × 部分长发自然披散的造型，加入精致金属发簪、珍珠、小型花饰与少量流苏。几缕碎发自然垂落脸侧，但不遮挡主要五官。\n\n妆容采用精致克制的东方时尚妆：冷灰棕眼影、自然纤长睫毛、细致眼线、淡淡桃粉腮红与水润红棕唇色。整体画面低饱和，但面部妆容保持正常饱和度，让五官依然有清晰视觉重点。\n\n人物身穿华丽中式改良时装，主色采用墨黑、月白、冷青蓝与少量暗金，融合真丝、提花、刺绣、薄纱与传统盘扣元素。服装表面加入水墨花卉 / 墨花纹样，像黑色墨迹在浅色丝绸上自然晕染。\n\n上身采用明显的大深 V 低领设计，V 型衣襟自然向下延伸，展现肩颈、锁骨与较多上胸线条；胸部视觉约为自然 E 罩杯，丰满但不过度夸张。服装结构完整、真实、自然。\n\n人物采用正面半身构图，身体可轻微侧转约 10–15°，但脸部保持正面看向镜头。神态清冷中带一点俏皮，嘴角轻轻上扬，眼神自然、松弛。一只手可轻触发簪、长发或衣襟，另一只手自然停留在腰侧或画面下缘。\n\n半身裁切固定为完整头顶至腰胯附近，人物占画面约 75%–85%，完整保留发型、真人面容、双肩、锁骨、深 V 衣襟、双臂主要部分与腰线。\n\n背景为白天的传统日式和风室内，可见障子门、榻榻米、浅深交错的木结构、和纸灯、挂轴以及少量插花。明亮自然光从障子门或窗户方向进入室内，空间通透、安静、带真实生活感。\n\n墨花元素通过水墨花卉屏风、挂画、花枝投影或室内装饰纹样呈现，避免直接覆盖人物身体或脸部。\n\n画面采用白天版古早 DV 视觉语言：低灰度、低对比、轻微冷白偏色、细腻胶片颗粒与模拟录像噪点，加入轻微高光溢出、少量 Bloom 与非常克制的边缘拖影。整体不要阴暗，不要夜景感，不要蓝黑背景。\n\n人物眼睛、五官、发丝和服装主体保持清晰，朦胧感主要作用于画面边缘与背景，使整体像白天窗边被旧 DV 随手记录下的一帧东方时尚影像。\n\n整体呈现：漂亮日本女性 × 冷白皮 × 华丽中式改良服装 × 大深 V × E 罩杯视觉 × 水墨花卉 × 白天和室 × 自然窗光 × 古早 DV × 低饱和 INS 抓拍，清冷、华丽、俏皮、安静而有东方审美。\n\n负面提示词： 夜晚，暗黑背景，蓝黑夜景，霓虹灯，昏暗照明，严重冷蓝偏色，大头，大脸，宽脸，圆脸，胸部过度夸张，V领过浅，高领，衣物滑落，衣物穿模，廉价古装，廉价Cosplay，墨迹遮脸，发饰遮眼，头发遮脸，塑料皮肤，过度磨皮，严重过曝，严重失焦，整张画面模糊，颗粒过大，动漫脸，CG脸，多余肢体，多手多指，背景杂乱，文字，Logo，水印。\n\n#今日提示词 #GPT  #IMAGE2.5",
+   "image": "images/case834.jpg",
+   "media_type": "image",
+   "source": "@AIVideoHub_ · https://x.com/AIVideoHub_/status/2105173798139965488",
+   "orig_category": "GitHub投稿",
+   "category": "architecture",
+   "created_at": "2026-09-30",
    "live_url": "http://192.168.28.100:8600/"
   },
   {
@@ -6675,6 +6723,150 @@
    "live_url": "http://192.168.28.100:8600/"
   },
   {
+   "id": 817,
+   "title": "GPT Image 2.5生成日间清亮CCD生活照。",
+   "prompt": "GPT Image 2.5生成日间清亮CCD生活照。\n\n提示词（欢迎返图）：\n摄影风格：日间清亮高光CCD生活照风\n写真方向：都市互动时尚写真\n场景方向：现代数字艺术水幕区 / 白色互动屏幕 / 细线水幕 / 浅灰平台 / 极简城市建筑\n服装方向：覆盆子粉色修身Polo短款上衣 + 冷白色低腰A字超短裙\n气质标签：甜酷、明亮、时尚、俏皮、夏日感\n五官方向：高级元气初恋脸\n身形方向：轻盈纤细\n线条强调：强\n镜头方向：大腿及上半身\n姿态动作：从细线水幕边缘经过，一只手轻拨头发，身体正面略偏侧，回头看镜头\n光线氛围：晴天高亮自然光 + 白色互动屏幕形成大面积柔亮补光 + 水幕形成少量高光点\n滤镜效果：高亮清晰粉白CCD色彩 + 鲜明中间调 + 白净肤色 + 轻颗粒 + 极轻数码锐度\n画幅比例：9:16\n补充要求：水幕只能做少量高光点，不能雾化整图；覆盆子粉显色饱和但不荧光；短款上衣露出腰腹和肚脐，胸线清楚但自然，画面整体明亮通透",
+   "image": "images/case817.jpg",
+   "media_type": "image",
+   "source": "@liyue_ai · https://x.com/liyue_ai/status/2104154581877862712",
+   "orig_category": "GitHub投稿",
+   "category": "photo",
+   "created_at": "2026-09-30",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
+   "id": 819,
+   "title": "兄弟们，出个中国传统色系列，这一期色彩：桃夭。",
+   "prompt": "兄弟们，出个中国传统色系列，这一期色彩：桃夭。\n\n这个真的会心动，像春天刚好落在一个人的脸上。\n\n桃夭色用得特别妙，脸上的腮红、唇妆和衣服一点点呼应，整个人就有种被娇养出来的甜润感，有分寸的漂亮。\n\nGPT提示词（欢迎返图）：\n9:16 竖版，古风清甜美妆写真，春日闺阁贵女人像，真实摄影质感，胸像到半身近景构图，一位年轻成年东方女性坐在古风妆台前，身体正对镜头略微轻侧，神情温柔甜润，眼神明亮清澈，嘴角带浅浅笑意，整体气质娇养、清甜、柔美、明媚。\n人物视觉年龄约 20–26 岁，明确成年，精致东方淡颜，柔和小鹅蛋脸，额头饱满，面中丰盈，清亮杏眼，眼裂自然修长，眼尾轻微拉长，鼻梁秀气流畅，鼻头小巧精致，唇形柔软饱满，唇珠清晰，自然耐看，不幼态，不欧美化，不网红脸。\n妆容为 桃夭露珠水光妆，底妆白皙通透、细腻柔润，皮肤清透但保留自然质感；眼妆使用桃粉、浅暖棕与细腻珠光，卧蚕与眼中有轻微亮泽；面中与眼下带明显但高级的桃粉腮红，鼻尖和唇峰有细致高光；唇妆为桃色玻璃唇，清透水润，整体呈现娇养甜润的桃夭妆感。\n发型为黑色柔顺长发半挽，发量丰盈，顶部发髻圆润自然，长发垂落胸前；发饰为桃花玉簪、珍珠流苏、浅金小花钗、白玉与粉珠组合发饰，层次精致，轻盈华贵；耳饰为浅金、玉石与珍珠垂坠耳环。\n服装为 桃夭色短襦，搭配 玉白色高腰长裙 与 水青色轻纱披帛，面料轻柔飘逸，带有精致金线刺绣与花枝纹样；胸前为桃粉色刺绣抹胸结构，花朵、金线、珠饰细节清晰，胸部饱满自然，胸线明显但不过分夸张；腰间有玉石流苏与珍珠配饰，整体清甜精致，富养感明显。\n人物右手自然轻举，轻轻拈着一枝盛开的桃花枝，左手自然搭放，姿态轻松柔和，动作自然不僵硬。\n场景为 春日花窗 / 桃枝花影 / 铜镜妆台 / 暖白自然光，背景有木质花窗、古典铜镜、珠宝首饰盒、花枝摆件与古风妆台细节，窗外隐约可见盛开的桃花；背景虚化柔和，不喧宾夺主。\n光线为明亮温暖的自然日光，从窗边斜照入室内，形成柔和的面部补光与高光层次，整体色彩关系为 桃粉 + 玉白 + 水青 + 浅木色 + 少量金色点缀，画面明亮通透，不整张图偏粉。\n高清细节，真实摄影感，85mm 人像镜头，浅景深，面部精准对焦，高完成度古风美妆写真。",
+   "image": "images/case819.jpg",
+   "media_type": "image",
+   "source": "@liyue_ai · https://x.com/liyue_ai/status/2103820452812693689",
+   "orig_category": "GitHub投稿",
+   "category": "photo",
+   "created_at": "2026-09-30",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
+   "id": 820,
+   "title": "兄弟们，最近很吃「日间清亮高光CCD」×「都市自然生活写真」…",
+   "prompt": "兄弟们，最近很吃「日间清亮高光CCD」×「都市自然生活写真」这种感觉，整个人像刚从城市阳光里走出来一样。\n\n宝石青上衣真的很提气，配奶油白短裙，干净、明亮，又带一点清冷感。\n高架步道、白色护栏、浅灰石材这些场景元素也很舒服，城市感有了，画面还不会太拥挤。\n她一边慢慢往前走，一边轻扶栏杆看向镜头，这种松弛感特别像真实生活里刚好被拍到的一瞬间。\n\n提示词（欢迎返图）：\n摄影风格：日间清亮高光CCD生活照风\n写真方向：都市自然生活写真\n场景方向：商业区高架花园步道 / 白色护栏 / 浅灰石材 / 少量绿植 / 远处现代楼群\n服装方向：宝石青色修身方领短袖上衣 + 奶油白低腰修身超短裙\n气质标签：清冷、明亮、自然、精致、松弛\n五官方向：清冷初恋感淡颜\n身形方向：轻盈纤细\n线条强调：强\n镜头方向：半身到大腿\n姿态动作：沿高架步道慢走，一只手轻扶栏杆，身体正面略带侧角，目光自然看向镜头\n光线氛围：晴天高亮自然光 + 白色栏杆与浅灰石材形成柔亮补光\n滤镜效果：高亮清晰青白CCD色彩 + 白皙肤色 + 干净白色高光 + 稳定黑位 + 轻颗粒\n画幅比例：9:16\n补充要求：宝石青颜色清澈鲜明，不灰绿；人物肤色偏白净通透；方领上衣自然突出胸线，低腰超短裙清楚表现腰臀衔接；不要森林感",
+   "image": "images/case820.jpg",
+   "media_type": "image",
+   "source": "@liyue_ai · https://x.com/liyue_ai/status/2103749848868806812",
+   "orig_category": "GitHub投稿",
+   "category": "photo",
+   "created_at": "2026-09-30",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
+   "id": 822,
+   "title": "这个系列好久没更新了，续更上🥳",
+   "prompt": "这个系列好久没更新了，续更上🥳\n\nGPT Image 2.5生成3D CG插画：樱花照影。\n\n提示词：\n9:16 竖版，高精度 3D CG 东方幻想女性角色肖像，3D CG oriental fantasy beauty portrait，anime-style 3D CG character art，semi-realistic 3D character render，胸像至腰部附近的中近景构图，画面主体是一位明确成年的年轻东方女性，视觉年龄约 20–25 岁，整体气质温柔、空灵、梦幻、清澈、柔美、轻盈，带有春日花灵与东方仙境神女般的高级感。整体不是平面插画，而是高完成度 3D CG 虚拟角色渲染，具有精致人物建模、真实材质表现、电影级柔光与高端角色宣传 CG 质感。\n\n人物拥有精致柔美的东方美型脸，小巧流畅的鹅蛋脸，面部骨相柔和自然，下颌线干净。皮肤为白皙通透的奶油瓷肌，肤色如瓷白玉润，保持中性偏冷白，不被环境粉色整体染色；皮肤表面光滑细腻，带柔和自然光泽、细微珠光反射与真实次表面散射效果，鼻梁、脸颊、肩颈、锁骨与胸口有克制而通透的柔亮高光。\n\n眼睛大而清澈，为修长杏眼，瞳色为浅茶棕、灰棕与柔和琥珀色混合，虹膜层次细腻，具有湿润玻璃质感与清晰星点高光。眼神温柔、安静、略带朦胧和亲近感，直视镜头。睫毛纤长卷翘，眼妆为极低浓度桃粉、浅玫瑰棕与珠光提亮，眼下带极浅卧蚕与细腻亮泽。鼻梁秀气窄直，鼻尖小巧自然。嘴唇柔软饱满，唇色为浅蜜桃粉与樱花粉混合，带明显但自然的玻璃水润唇光，嘴唇微微张开，神情柔和克制。\n\n妆容整体清透、低浓度、干净，双颊保留浅浅自然粉色腮红，像春日阳光下轻微泛红，不要浓妆，不要强烈网红妆感。\n\n发型为乌黑浓密的超长黑发，发量丰盈，自然蓬松，从头顶向肩背大量垂落，部分头发被微风吹起。额前与脸侧保留少量轻盈碎发和自然飞发，发丝根根分明，具有高精度发丝建模、丝绸般柔顺质感与真实高光。强侧逆光照射后，部分黑发边缘呈现柔和金棕与银白色半透明轮廓光。发间点缀少量樱花、珍珠、小型金色叶片、粉色晶体与细小垂饰，装饰精致但不过度堆叠。\n\n人物穿粉色、冰蓝色、浅薄荷青交织的东方幻想轻纱礼裙。上身为露肩式轻礼服结构，胸部饱满自然，曲线柔和立体，礼服贴合身体但不过度挤压。服装由半透明欧根纱、轻薄雪纺、珠光薄纱与柔软丝缎叠加组成，胸前以浅冰蓝、淡粉色与薄荷青柔和分区，不形成单一粉色色罩。礼服表面装饰精致立体樱花、小型珍珠、透明晶体、细密香槟金丝与轻微珠光刺绣。袖部与前景有大面积半透明薄纱自然铺展和飘动，材质轻盈、柔软、通透，带细密金丝闪点。\n\n人物身体明显偏向镜头，身体约 20–30 度轻微侧转后向镜头靠近，上半身略微前倾，肩部自然舒展开，不耸肩，不内扣。脸部基本正向镜头，头部可轻微侧倾，形成亲近而梦幻的第一视角互动感。人物一侧手臂自然向镜头方向伸出，前景手臂与薄纱形成柔和虚化，制造明显透视关系与前、中、后景空间层次。镜头重点表现脸部、眼睛、肩颈、锁骨、胸前礼服以及向镜头延伸的薄纱动态。\n\n背景为梦幻春日东方仙境。人物位于樱花盛开的湖畔或临水仙境庭院，背景可见清澈浅蓝色湖面、东方石拱桥、远处山峦、瀑布、古典亭台楼阁与层叠樱花树。天空为明亮浅天青色，远景带柔和春雾与空气透视，山体、桥梁、亭台和瀑布适度虚化，形成具有纵深感的仙境背景，但人物始终是绝对视觉中心。\n\n画面前景和人物周围漂浮少量樱花花瓣、半透明薄纱、细小发光粒子与晶莹 sparkle。花瓣数量克制，不遮挡脸部和眼睛。背景樱花形成柔和奶油状 bokeh，湖面带轻微高光反射。空气中存在非常轻的柔光雾、细小星芒与梦幻光晕，使画面比普通春日写真更有东方幻想仙境感，但不要重雾、不要过曝、不要把细节洗掉。\n\n光线采用明亮、柔和的春日自然光。右后上方或左后上方设置明显但柔和的侧逆光，穿过黑色长发、樱花与薄纱，形成精致银白金色轮廓光；人物正面使用大面积柔和漫反射补光，使脸部和皮肤均匀通透，没有硬阴影。鼻梁、眼睛、嘴唇、肩颈、锁骨和胸前轮廓具有细腻高光，皮肤保留光滑柔亮质感。\n\n色彩采用明亮通透的春日粉彩体系，但整体仅比低饱和版本略微增加饱和度。天空与水面保持清透冰蓝、天青蓝；樱花为自然浅粉、樱花粉与少量桃粉；礼服使用冰蓝、薄荷青、淡粉与珠光白形成清晰色彩分区；少量香槟金用于首饰、金丝和边缘高光。整体高明度、中低饱和、柔和对比、清透干净，不灰蒙，不浓艳，不形成全局粉色滤镜。黑色长发作为主要深色视觉锚点。\n\n85–105mm portrait lens look，large aperture，shallow depth of field，creamy bokeh，cinematic depth，soft focus background，sharp detailed eyes，high-density realistic hair strands，PBR fabric material，subsurface scattering skin，smooth luminous porcelain skin，translucent chiffon，iridescent organza，delicate floral embroidery，cinematic rim light，volumetric backlight，dreamy glowing particles，soft bloom，subtle halation，spring cherry blossom fantasy world，oriental paradise landscape，high-end game cinematic character render，ultra-detailed 3D character modeling，polished anime realism，premium virtual character promotional artwork，high resolution。",
+   "image": "images/case822.jpg",
+   "media_type": "image",
+   "source": "@liyue_ai · https://x.com/liyue_ai/status/2100975671971549373",
+   "orig_category": "GitHub投稿",
+   "category": "photo",
+   "created_at": "2026-09-30",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
+   "id": 824,
+   "title": "GPT Image 2.5生成日间高光CCD生活照。",
+   "prompt": "GPT Image 2.5生成日间高光CCD生活照。\n\n提示词（欢迎返图）：\n摄影风格：日间清亮高光CCD生活照风\n写真方向：都市创意生活写真\n场景方向：现代风力互动装置广场 / 白色旋转叶片装置 / 银灰平台 / 极简建筑背景\n服装方向：蜜桃橘色修身吊带针织短上衣 + 冷白色超短裙\n气质标签：俏皮、明亮、时尚、轻松、有设计感\n五官方向：元气精致自然脸\n身形方向：轻盈纤细\n线条强调：强\n镜头方向：低角度仰拍大腿及上半身\n姿态动作：站在风力装置旁，一只手压住被风吹动的发尾，另一只手自然放在腰侧，侧前方看镜头\n光线氛围：晴天明亮自然光 + 白色装置与银灰平台形成清晰中性补光\n滤镜效果：高亮清晰橙白CCD色彩 + 白净高光 + 鲜明中间调 + 轻颗粒 + 极轻锐度\n画幅比例：9:16\n补充要求：蜜桃橘鲜亮但不要偏黄；人物皮肤白皙，吊带短上衣自然表现肩颈、锁骨、胸线和腰腹；整体高饱和但不俗艳",
+   "image": "images/case824.jpg",
+   "media_type": "image",
+   "source": "@liyue_ai · https://x.com/liyue_ai/status/2103383385662263799",
+   "orig_category": "GitHub投稿",
+   "category": "photo",
+   "created_at": "2026-09-30",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
+   "id": 825,
+   "title": "Sleek white dress with simple …",
+   "prompt": "Sleek white dress with simple background. \n\nMy old short simple prompt from six months ago.\n\nPrompt : \nUltra-realistic studio portrait of Korean model,20s, glamorous figure, leaning gracefully against a minamalist desk, beautiful detailed eyes, perfect eyes, dressed in a sleek white casual slip dress. Slightly messy hair with a strand hanging down her forehead.  \nWearing elegant diamond drop earrings and thin elegant box chain necklace.\nShot from a subtle low-angle to accentuate her facial features and confident expression. Cinematic\nblack-and-white color grade with refined, natural skin tones.\nClean composition, no clutter, minimalist background.\n\n#aiart",
+   "image": "images/case825.jpg",
+   "media_type": "image",
+   "source": "@tealdog2 · https://x.com/tealdog2/status/2103877177502765220",
+   "orig_category": "GitHub投稿",
+   "category": "photo",
+   "created_at": "2026-09-30",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
+   "id": 827,
+   "title": "恶魔女战士",
+   "prompt": "恶魔女战士\n\nprompt:成年女性幻想恶魔战士，白色短发，黑色双角，黑蓝色紧身战斗服与机械护甲，侧身高速奔跑跃起，身体悬空，一条腿大幅向前延伸，动态夸张，人物脸部与胸肩局部相对清晰，四肢与头发产生极强高速拖影，长曝光摄影，intentional camera movement，violent motion blur，radial motion blur，directional smear，旋转甩镜效果，大面积黑色笔刷状残影，轮廓被速度拉伸，黑蓝色高光，纯白高键背景，极简构图，大量留白，强烈速度感，抽象时尚摄影，实验性摄影，超现实动态抓拍 --ar 3:4 --stylize 400",
+   "image": "images/case827.jpg",
+   "media_type": "image",
+   "source": "@nicebabycat · https://x.com/nicebabycat/status/2104108442361462846",
+   "orig_category": "GitHub投稿",
+   "category": "photo",
+   "created_at": "2026-09-30",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
+   "id": 835,
+   "title": "现在claude code封号不自动退款了吗？还要去研究怎么…",
+   "prompt": "现在claude code封号不自动退款了吗？还要去研究怎么退款，又是与claude code抗争的一天。这种公司也是很少见。\n\n提示词：\n绝美23岁东亚美女，身材匀称丰满，胸部明显自然丰满，视觉约 F 杯，具有自然重量感与柔和圆润轮廓，胸腰差明显，但不夸张、不假体感；纤细腰部，与丰满胸部形成清晰但自然的比例对比；气质时尚、自信、温柔。酒红三角罩杯比基尼，杯缘一圈黑色蕾丝边，低腰侧系带三角泳裤在髋侧打结，克制缎光弹力面料，罩杯与泳裤上印着大朵胭脂色牡丹。\n\n复古红唇配细腻底妆，眼尾一笔上扬眼线；深棕波浪长发披肩，一侧别一支红玉发簪；细金圆环耳环。\n\n她抱着一大束胭脂牡丹立于镜厅中央，花枝压住锁骨下方，身体微侧回眸看向镜头。古堡镜厅的成排落地镜与水晶吊灯把烛光与天光折射成层层暖金，镜中身影与真实花束彼此交叠，空气里有幽淡花香。\n\n85mm 人像摄影，正面回眸三分之二身，大光圈浅景深，奶油散景，真实皮肤质感，水晶灯光与镜面反射光，高级生活方式写真，电影感，ultra realistic, masterpiece, best quality。",
+   "image": "images/case835.jpg",
+   "media_type": "image",
+   "source": "@sdjn_wgc · https://x.com/sdjn_wgc/status/2105087847082459262",
+   "orig_category": "GitHub投稿",
+   "category": "photo",
+   "created_at": "2026-09-30",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
+   "id": 836,
+   "title": "Image created on Gpt 2",
+   "prompt": "Image created on Gpt 2 \n\nPrompt:\nUltra-realistic cinematic high-fashion editorial photograph of a strikingly handsome young man in his early 20s, with thick naturally wavy jet-black hair, strong eyebrows, deep dark-brown eyes, a sharply defined sculpted jawline, subtle natural stubble, and realistic skin texture with visible pores.\n\nConcept: His face is seen through several large, irregularly broken mirror fragments, each piece reflecting a slightly different angle of his face — one showing his intense eyes, another capturing his sharp side profile, another revealing his jawline and lips, and the central fragment showing his face staring directly into the camera. The fractured mirror pieces create a mysterious, artistic composition, with sharp geometric edges and realistic reflections.\n\nExpression & Pose: Calm, mysterious and emotionally intense expression, deep captivating gaze directed toward the camera through the mirror fragments, head slightly tilted, with a subtle sense of introspection and hidden identity.\n\nOutfit: Elegant black high-neck shirt beneath a tailored black blazer, minimal luxury styling, sophisticated and timeless.\n\nLighting: Dramatic low-key cinematic lighting, deep shadows, subtle cool blue highlights along the mirror edges, soft light illuminating his eyes and facial features, realistic reflections and delicate specular highlights on the broken glass.\n\nBackground: Dark minimalist interior with a charcoal-black background, subtle atmospheric haze, faint reflections and a sophisticated noir aesthetic.\n\nPhotography: Extreme attention to facial details, photorealistic skin texture, natural facial proportions, 85mm portrait lens, shallow depth of field, cinematic color grading, high contrast, ultra-detailed 8K HDR, luxury fashion magazine editorial, masterpiece composition.\n\nMood: Mysterious, introspective, dark, elegant, psychologically intriguing and cinematic.\n\nVertical 9:16 composition, close-up portrait, face occupying the central area, mirror fragments artistically arranged around the face, realistic glass reflections, perfectly coherent facial features within each reflection, professional editorial photography.\n\nNo text, no typography, no watermark, no extra faces, no distorted facial features, no artificial-looking skin, no cartoon effects.",
+   "image": "images/case836.jpg",
+   "media_type": "image",
+   "source": "@MohdAdnanA86218 · https://x.com/MohdAdnanA86218/status/2105173643294802060",
+   "orig_category": "GitHub投稿",
+   "category": "photo",
+   "created_at": "2026-09-30",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
+   "id": 837,
+   "title": "シャワー後の静かな鏡越しセルフィー。首元の白いタオルと柔らか…",
+   "prompt": "シャワー後の静かな鏡越しセルフィー。首元の白いタオルと柔らかな光が、素肌の質感をそっと引き立てる。🪞✨\n\n#AIart #AI写真 #ミラーセルフィー\n\n【GPT Image2プロンプト】\n主題：\n静かなバスルームセルフィー\n\n主体：\n20代女性がグレーのタイル張りのバスルームで、シルバーのスマートフォンを人物自身の左手（画面左側）に持ち、鏡越しにセルフィーを撮っている。上半身は背中側を大きく見せた3/4バックビューで、首には白い小さめのタオルを掛け、濃いブルーのデニムを着用している。\n\n人物・表情：\n顔は左方向を向いた横顔で、スマートフォンと顔まわりの髪によって大部分が隠れ、鼻先と唇の輪郭がわずかに見える。明るいアイボリーベージュ系の自然な肌色で、肩や背中には柔らかな光沢と細かな肌理を残す。髪は明るいミルクティーブラウンからアッシュベージュ系で、低い位置のラフなシニヨンにまとめ、顔まわりと襟足に細い後れ毛を残した自然なスタイル。\n\n服装・ポーズ：\n上半身は背中と肩が露出し、胸元は画面からほぼ見えない角度。首に白いテリークロスの小さめタオルを掛け、縁には細い赤いパイピングが入る。タオルの一端は身体の前側へ短く垂れる。ボトムは濃いインディゴブルーのデニムで、腰に小さなブラウンのレザーパッチが付く。身体は画面右方向へ背中を見せながら、上体だけをわずかに左へひねる。左肘を曲げてスマートフォンを顔の高さまで持ち上げ、右腕は身体の後ろ側へ自然に下ろす。左手の爪は淡い乳白色の細長いアーモンド型。\n\n背景・光：\n背景は装飾を抑えたグレーの大型マットタイル壁。画面左奥に小さなクローム製の壁面金具、右端にシンプルなグレーの設備が部分的に見える。柔らかな拡散光が人物の左側から入り、肩、腕、背中の稜線に穏やかなハイライトを作る。全体はニュートラルなグレーと暖かい肌色を中心にした静かな色調。\n\n構図・カメラ：\n縦3:4。頭頂からヒップ上部までを収めた腰上のミディアムショット。人物は画面中央からやや右側を大きく占め、スマートフォンと左手が画面左中央の前景に入る。背中を中心にした斜め後方の視点で、自然な遠近感。人物に明確にピントを合わせ、背景はわずかに柔らかくする。\n\n質感・スタイル：\n高解像度の写実写真。自然なスマートフォン撮影の質感で、肌、髪、テリークロス、デニム、金属の素材感を細かく描写する。過度な美肌補正やHDRを避け、柔らかな階調、控えめなコントラスト、落ち着いたニュートラルカラーで仕上げる。\n\nネガティブ：\nタオルを頭に巻かない；正面向きに変更しない",
+   "image": "images/case837.jpg",
+   "media_type": "image",
+   "source": "@CyberTotal2026 · https://x.com/CyberTotal2026/status/2104909055701684685",
+   "orig_category": "GitHub投稿",
+   "category": "photo",
+   "created_at": "2026-09-30",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
+   "id": 838,
+   "title": "https://x.com/johnAGI168/statu…",
+   "prompt": "https://x.com/johnAGI168/status/2100610731150639178\nprompt:\nA cinematic intimate lifestyle photograph captured handheld — a candid high-angle boyfriend-perspective POV hero composition looking down at an East Asian woman reclining on a plush hotel bed, the camera positioned close above her at a tilted downward angle, capturing her playful expression as she playfully reaches her right hand forward toward the lens with fingers spread to softly block the shot in an M1 cinematic narrative register.  The woman has long, silky dark espresso-black hair fanned out naturally across the white bed pillows, with loose, delicate strands falling across her forehead and cheek in an effortless, waking state. Her fair porcelain skin has a soft, velvety morning glow with fine natural pore texture, subtle subsurface scattering, and gentle collarbone definition. Her large, dark almond eyes gaze up directly into the camera with an endearing, quiet intimacy and faint amusement, paired with soft natural rose-tinted lips relaxed in a subtle candid expression. She wears a clean, crisp white cotton hotel bathrobe draped casually and loosely over her shoulders and torso, held gently closed at the midriff with her left hand, revealing a relaxed morning loungewear silhouette paired with delicate black floral lace sleepwear briefs. Her right hand is stretched forward into the extreme foreground with fingers extended, slightly softened by natural optical depth of field, creating an authentic, immersive first-person interaction.  The setting is an elegant, minimalist hotel suite bedroom in the quiet morning — a clean, expansive bed covered in crisp white cotton sheets and large, plump white pillows neatly propped against a neutral beige upholstered headboard. The surrounding room stays quiet and uncluttered in soft, subtle out-of-focus background tones, emphasizing the private sanctuary atmosphere of the space.  The scene is bathed in soft, diffused natural morning daylight filtering through a sheer window curtain from camera-left, gently wrapping her facial features, hair, and the textured folds of the white robe with flattering, low-contrast illumination. Subtle ambient warm room light softly fills the shadows, creating authentic, gentle highlights on the white cotton bed linens and preserving her true, warm skin tones without harsh contrast or digital sheen.  Captured with a wide-latitude digital cinema look on a fast 28mm-equivalent wide-angle prime lens at wide aperture T2.0, providing natural three-dimensional perspective distortion that renders her face and eyes in tack-sharp focus while gracefully softening her reaching foreground hand into smooth, gentle depth-of-field blur, in an M1 cinematic narrative register. Kodak daylight film emulation with smooth highlight roll-off in the white linens and open, rich shadows holding fine weave texture in the cotton fabric and lace. Organic 35mm theatrical film grain visible across the entire frame. Real photographic frame captured on a real cinema camera, real wide-angle prime lens, real woven cotton bathrobe, real human subject, real hotel bed and soft daylight — no CGI, no rendered look, no digital cleanliness, no plastic surfaces, no AI smoothness, no skin smoothing, no glow, no halation bloom that reads as artificial, no glossy highlights.",
+   "image": "images/case838.jpg",
+   "media_type": "image",
+   "source": "@oneviske · https://x.com/oneviske/status/2104823168716410942",
+   "orig_category": "GitHub投稿",
+   "category": "photo",
+   "created_at": "2026-09-30",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
+   "id": 839,
+   "title": "男友视角，可爱女友😊",
+   "prompt": "男友视角，可爱女友😊\n\nGrok  🆚 ChatGPT Images 2.5  📷\n\nprompt 👇\n\nA cinematic intimate lifestyle photograph captured handheld — a candid high-angle boyfriend-perspective POV hero composition looking down at an East Asian woman reclining on a plush hotel bed, the camera positioned close above her at a tilted downward angle, capturing her playful expression as she playfully reaches her right hand forward toward the lens with fingers spread to softly block the shot in an M1 cinematic narrative register.\n\nThe woman has long, silky dark espresso-black hair fanned out naturally across the white bed pillows, with loose, delicate strands falling across her forehead and cheek in an effortless, waking state. Her fair porcelain skin has a soft, velvety morning glow with fine natural pore texture, subtle subsurface scattering, and gentle collarbone definition. Her large, dark almond eyes gaze up directly into the camera with an endearing, quiet intimacy and faint amusement, paired with soft natural rose-tinted lips relaxed in a subtle candid expression. She wears a clean, crisp white cotton hotel bathrobe draped casually and loosely over her shoulders and torso, held gently closed at the midriff with her left hand, revealing a relaxed morning loungewear silhouette paired with delicate black floral lace sleepwear briefs. Her right hand is stretched forward into the extreme foreground with fingers extended, slightly softened by natural optical depth of field, creating an authentic, immersive first-person interaction.\n\nThe setting is an elegant, minimalist hotel suite bedroom in the quiet morning — a clean, expansive bed covered in crisp white cotton sheets and large, plump white pillows neatly propped against a neutral beige upholstered headboard. The surrounding room stays quiet and uncluttered in soft, subtle out-of-focus background tones, emphasizing the private sanctuary atmosphere of the space.\n\nThe scene is bathed in soft, diffused natural morning daylight filtering through a sheer window curtain from camera-left, gently wrapping her facial features, hair, and the textured folds of the white robe with flattering, low-contrast illumination. Subtle ambient warm room light softly fills the shadows, creating authentic, gentle highlights on the white cotton bed linens and preserving her true, warm skin tones without harsh contrast or digital sheen.\n\nCaptured with a wide-latitude digital cinema look on a fast 28mm-equivalent wide-angle prime lens at wide aperture T2.0, providing natural three-dimensional perspective distortion that renders her face and eyes in tack-sharp focus while gracefully softening her reaching foreground hand into smooth, gentle depth-of-field blur, in an M1 cinematic narrative register. Kodak daylight film emulation with smooth highlight roll-off in the white linens and open, rich shadows holding fine weave texture in the cotton fabric and lace. Organic 35mm theatrical film grain visible across the entire frame. Real photographic frame captured on a real cinema camera, real wide-angle prime lens, real woven cotton bathrobe, real human subject, real hotel bed and soft daylight — no CGI, no rendered look, no digital cleanliness, no plastic surfaces, no AI smoothness, no skin smoothing, no glow, no halation bloom that reads as artificial, no glossy highlights.",
+   "image": "images/case839.jpg",
+   "media_type": "image",
+   "source": "@johnAGI168 · https://x.com/johnAGI168/status/2100610731150639178",
+   "orig_category": "GitHub投稿",
+   "category": "photo",
+   "created_at": "2026-09-30",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
    "id": 6,
    "title": "插画艺术创作图",
    "prompt": "参考图是角色人设图，为参考图的少女绘制一副日系唯美奇幻风格插画。 \n【构图】这是一个宏大的中景日系奇幻插画构图，画面中心是完全保留了完整细节的可爱少女，她站立在无边的、如镜面般平滑的水面中心。天空呈现出高饱和度的粉紫与深蓝交织，一条耀眼的蓝色巨型流星划破天际，配合着边缘发光的瑰丽层云。女孩处于背光状态，形成一个暗调但依然清晰可辨其服装和紫色明亮眼眸的剪影，被流星和星空的边缘光细腻勾勒，她微微仰头，一只手轻轻张开。下方的水面完美、对称地反射出整个壮丽的星空、流星、云彩，以及女孩清晰的倒影，点缀着微小的发光点，营造出天人合一、空灵静谧的唯美梦境意境。 \n【日系唯美奇幻风格说明】该风格以高饱和度的粉紫冷暖色调交织出浩瀚星空，并辅以壮丽的流星与边缘发光的层云作为视觉奇观；画面巧妙利用“天空之镜”般的完美水面反射，将宏大的宇宙背景与孤独静立的人物剪影相融合，通过极具电影感的光影渲染与高对比度的表现手法，营造出一种空灵、静谧且带有超现实宿命感的梦境氛围。 \n【要求】生成图片的比例9:16，分辨率 4k。",
@@ -7344,6 +7536,18 @@
    "orig_category": "GitHub投稿",
    "category": "illustration",
    "created_at": "2026-09-15",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
+   "id": 823,
+   "title": "GPT Image 2.5生成3D CG插画：赤瞳妖姬",
+   "prompt": "GPT Image 2.5生成3D CG插画：赤瞳妖姬\n\n提示词（欢迎返图）：\n9:16 竖版，高精度 3D CG 东方幻想狐妖女性角色海报，semi-realistic anime-style 3D character render，high-end oriental fantasy character portrait，upper body close-up，胸部以上近景到半身构图，画面主体是一位明确成年的年轻东方幻想狐妖女性，视觉年龄约 20–26 岁，整体气质冷艳、神秘、克制、危险、妖异，具有高级游戏角色宣传 CG 质感。\n\n人物拥有精致冷感的东方美型脸，小巧鹅蛋脸，面部轮廓清秀纤细，下颌线流畅，皮肤冷白细腻，带通透瓷白质感与柔和次表面散射。五官秀丽但带锋利感，眼型修长微挑，瞳孔呈强烈赤红发光效果，目光冰冷平静，带非人感与强压迫感。鼻梁纤细挺直，嘴唇小巧柔薄，唇色浅淡偏冷。面部一侧带细微红色妖纹 / 泪痕，增强妖异气质。\n\n人物拥有蓬松巨大的白色狐耳，耳尖带少量深色毛尖；一头雪白银白色长发，大量发丝飘散，层次丰富，轻盈柔顺，发丝具有高精度 CG 质感与细腻高光。背景中隐约可见柔软蓬松的白色狐尾轮廓，增强九尾狐式东方幻想氛围。头部佩戴红色流苏、金属发饰、花型装饰与精致垂饰，细节华丽但克制。\n\n服装为白色东方巫女风和服上装，红色滚边与红色内衬，衣身带红梅花枝刺绣与精致花纹，宽大和风长袖自然垂落；腰部系高光黑色宽腰封与大蝴蝶结，形成强烈黑白对比。整体服装材质偏丝绸与缎面，表面具有柔亮反光、高级布料褶皱与精致刺绣质感。胸口结构自然贴合，轮廓柔和立体但不夸张。\n\n人物采用正面上半身近景拔刀姿态，身体基本正对镜头，构图从狐耳顶部到腰部附近。画面中轴线是一把竖直贯穿全画面的赤红发光妖刀。人物右手高举至额前，紧握刀柄上端，做出明确的拔刀动作；左手位于腹前或腰前，稳定握住黑色刀鞘。刀身保持竖直，部分出鞘，形成“拔刀中”的动态瞬间，而不是提刀动作。眼神穿过刀身直视前方，整体动作稳定、克制、庄严、充满压迫感。\n\n刀为一把东方幻想妖刀，刀柄为黑色缠绳与金属结构，刀镡精致华丽，带红色宝石与克制雕纹。刀鞘为黑色漆面与金属装饰结合，装饰明显且精致，具有高质感金属包口、雕纹、红色流苏或宝石细节。刀身本体发出强烈鲜红色光芒，如灵力能量凝聚，刀刃上带少量发光符纹或妖异纹样，呈现危险、神秘、强能量压缩感。\n\n背景为极暗的夜色虚空或黑色神秘空间，整体简洁纯净，不做复杂场景，仅保留少量漂浮的红色花瓣、红色火星、碎屑、微光粒子与冷暗氛围，突出人物与刀。背景虚化，人物是绝对视觉中心。\n\n光影采用电影级高对比布光：主光源来自妖刀本身的赤红发光，红色光芒照亮人物脸部中线、鼻梁、眼周、唇部、手指、领口和胸前衣料，在皮肤与白衣上形成明显红色投光；同时使用克制的冷白补光照亮白发、狐耳、肩部与衣袖，使白色元素保留清晰层次细节；头发边缘与肩线加入轻微冷白轮廓光，使角色从黑色背景中清晰分离。整体高对比、强聚焦、氛围冷冽。\n\n色彩系统以极致克制的红、白、黑三色为核心：白色用于头发、狐耳、服装和冷白肤色；赤红色用于发光刀刃、眼睛、发饰、衣服滚边和点缀花纹；黑色用于背景、腰封、刀柄、刀鞘和阴影。整体色彩纯净、冲击力强、高级、不杂乱。\n\nultra detailed 3D CG render, high-end fantasy game promotional artwork, cinematic lighting, realistic hair strands, PBR materials, silk and satin reflection, glowing katana, volumetric light, sharp facial detail, polished anime realism, premium character poster, no text, no logo, no watermark",
+   "image": "images/case823.jpg",
+   "media_type": "image",
+   "source": "@liyue_ai · https://x.com/liyue_ai/status/2103502949356105785",
+   "orig_category": "GitHub投稿",
+   "category": "illustration",
+   "created_at": "2026-09-30",
    "live_url": "http://192.168.28.100:8600/"
   },
   {
@@ -8931,6 +9135,71 @@
    "video": "videos/case793.mp4"
   },
   {
+   "id": 816,
+   "title": "换个角度，乖乖女很性感呀🥰",
+   "prompt": "换个角度，乖乖女很性感呀🥰",
+   "image": null,
+   "media_type": "video",
+   "source": "@AIVideoHub_ · https://x.com/AIVideoHub_/status/2104197992802902193",
+   "orig_category": "GitHub投稿",
+   "category": "video",
+   "created_at": "2026-09-30",
+   "live_url": "http://192.168.28.100:8600/",
+   "video": "videos/case816.mp4"
+  },
+  {
+   "id": 828,
+   "title": "出去浪吗？这套又飒又可爱",
+   "prompt": "出去浪吗？这套又飒又可爱",
+   "image": null,
+   "media_type": "video",
+   "source": "@AIVideoHub_ · https://x.com/AIVideoHub_/status/2104060689677693014",
+   "orig_category": "GitHub投稿",
+   "category": "video",
+   "created_at": "2026-09-30",
+   "live_url": "http://192.168.28.100:8600/",
+   "video": "videos/case828.mp4"
+  },
+  {
+   "id": 829,
+   "title": "下午没有精神？来吸收一下元气",
+   "prompt": "下午没有精神？来吸收一下元气",
+   "image": null,
+   "media_type": "video",
+   "source": "@AIVideoHub_ · https://x.com/AIVideoHub_/status/2104460617142964696",
+   "orig_category": "GitHub投稿",
+   "category": "video",
+   "created_at": "2026-09-30",
+   "live_url": "http://192.168.28.100:8600/",
+   "video": "videos/case829.mp4"
+  },
+  {
+   "id": 830,
+   "title": "万里挑一的好身材，珠圆肉润，你顶得住？",
+   "prompt": "万里挑一的好身材，珠圆肉润，你顶得住？",
+   "image": null,
+   "media_type": "video",
+   "source": "@AIVideoHub_ · https://x.com/AIVideoHub_/status/2084190705006817722",
+   "orig_category": "GitHub投稿",
+   "category": "video",
+   "created_at": "2026-09-30",
+   "live_url": "http://192.168.28.100:8600/",
+   "video": "videos/case830.mp4"
+  },
+  {
+   "id": 831,
+   "title": "粉色的珠圆玉润，你顶得住吗？🩷",
+   "prompt": "粉色的珠圆玉润，你顶得住吗？🩷\n本地模型做了在线版本，效果怎么样？",
+   "image": null,
+   "media_type": "video",
+   "source": "@AIVideoHub_ · https://x.com/AIVideoHub_/status/2104570767732244510",
+   "orig_category": "GitHub投稿",
+   "category": "video",
+   "created_at": "2026-09-30",
+   "live_url": "http://192.168.28.100:8600/",
+   "video": "videos/case831.mp4"
+  },
+  {
    "id": 203,
    "title": "杠精视角的独特文案创意",
    "prompt": "[中文]\n杠精视角文案 + GPT Image 2\n\n[English]\nTroll perspective copywriting + GPT Image 2",
@@ -9528,6 +9797,30 @@
    "orig_category": "GitHub投稿",
    "category": "other",
    "created_at": "2026-09-15",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
+   "id": 826,
+   "title": "In our element. 🍃 🌪️",
+   "prompt": "In our element. 🍃 🌪️\n\nPrompt:\nA casual, highly alluring fashion editorial photograph of two adult East Asian women in their mid-20s, each possessing distinct facial identities, slender runway proportions, and unique hairstyles: one with long, soft platinum blonde hair falling naturally, and the other with a sharp, textured silver-white short bob. The woman with platinum hair features defined cheekbones, a soft jawline, and clear almond eyes, while the woman with silver hair has sharp, sculpted facial geometry and expressive, deep-set eyes. Both retain completely separate facial features, hair textures, and physical identities.\n\nThe woman with long platinum blonde hair wears an oversized, off-shoulder knit sweater in a soft slate gray, draped loosely over one shoulder to expose a clean collarbone, paired with relaxed low-waist tailored trousers in washed dark denim. The sweater's heavy gauge texture drapes naturally against her skin. The woman with silver-white short hair wears a cropped, structured white tank top crafted from fine-ribbed cotton that fits closely to her torso, paired with high-waisted, wide-leg beige linen trousers featuring a relaxed waistline and undone top button detail. The garments show distinct fabric weights and textures without any crossover of pieces between the two subjects.\n\nThe woman in the platinum hair sits relaxed on the edge of a mid-century wooden daybed, her torso leaning slightly forward with one hand resting casually on her knee and her gaze directed away from the lens in deep thought. Behind her, positioned closer to the light source, the woman in silver-white hair stands with her weight shifted to one leg, leaning lightly against a tall concrete pillar, her body angled at a three-quarter turn while her eyes look down toward the camera with an effortless, confident gaze. The spatial arrangement creates an asymmetrical depth where the standing subject frames the background, while the seated subject establishes the foreground anchor, maintaining an intentional distance without physical contact.\n\nThe setting is an understated, minimalist sunlit loft with raw polished concrete walls, floor-to-ceiling iron-framed windows, and matte natural wood accents. Soft, diffused mid-morning daylight streams in from the side, casting gentle shadows across the floor and highlighting the contrast between the rough knit fabric and smooth ribbed cotton. Light catches the edges of their distinct platinum and silver hair strands, creating soft luminous highlights without blowing out detail. The atmosphere feels intimate, unposed, and quietly captivating.\n\nShot from a slightly low camera angle at eye level with the seated subject, utilizing an 85mm prime lens to yield a shallow depth of field that smoothly isolates both subjects from the soft concrete architectural backdrop. Natural skin texture with fine detail, visible fabric weave, crisp photographic clarity, balanced contrast, and realistic material behavior. Aspect ratio 4:5.\n\nNEGATIVE:\namateur posing, symmetrical stiffness, generic couple pose, catalog flatness, mismatched proportions between subjects, floating hands, disconnected body language, duplicate faces, face blending, identity swapping, garment swapping, duplicated garments, incorrect garment ownership, extra limbs, extra fingers, fused limbs, anatomical distortion, awkward overlap, illustration, anime, painting, watermark, text, logo, heavy airbrushing, plastic skin, doll-like skin, sexually explicit content, vulgar framing, unproportional features",
+   "image": "images/case826.jpg",
+   "media_type": "image",
+   "source": "@christosina · https://x.com/christosina/status/2104079625496535355",
+   "orig_category": "GitHub投稿",
+   "category": "other",
+   "created_at": "2026-09-30",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
+   "id": 832,
+   "title": "Quiet nights, cute sets. Unwin…",
+   "prompt": "Quiet nights, cute sets. Unwinding in pastel yellow. 🕊️✨ \n\nPrompt:\nAn early‑twenties East Asian woman stands as the focal point, her softly elongated oval face framed by thick straight black hair that cascades to the waist, softened by wispy curtain bangs that brush her forehead and cheeks. She wears a light pastel yellow camisole of thin straps, its gently fitted bodice flowing into an airy hem, a small brown bow centered at the neckline. The matching shorts are slightly ruffled, with a comfortable elastic waistband, subtle gathers, and a tiny matching bow at the front, together conveying a lightweight, cozy feel for a relaxed evening.\n\nShe leans slightly forward, weight shifted onto the balls of her feet, the left knee bent and raised just enough to suggest a casual, inquisitive stance, while her right hand rests lightly on the hip and her left hand plays with the edge of the short’s bow. The camera is positioned at a low angle, roughly hip level, looking up just enough to emphasize the elongation of her silhouette and the gentle upward tilt of her chin, creating a sense of dynamic intimacy.\n\nThe scene is lit by a soft, diffused glow reminiscent of a moonlit night, the light source coming from slightly off‑center right, casting delicate, feather‑soft shadows that outline the folds of the camisole and the ruffles of the shorts. The pastel yellow of the garment catches the cool bluish‑gray ambient tones, while the brown bows absorb a warm amber hue, balancing the cool night palette with subtle warmth that highlights the fair, neutral‑warm skin.\n\nBehind her, a modest balcony with a wrought‑iron railing is barely visible, draped in sheer white curtains that ripple in a gentle night breeze. Beyond the railing, faint silhouettes of distant city lights and a deep navy sky suggest a relaxed urban night. The background remains intentionally shallow, its muted tones and soft focus ensuring the subject remains the primary visual anchor while still providing contextual atmosphere.\n\nThe camisole fabric appears as a lightweight, semi‑sheer cotton blend that drapes smoothly over the torso, catching the light on the subtle creases of the fitted bodice and the airy hem. The tiny brown bow at the neckline is made of satin, its sheen evident in the moonlit illumination. The shorts’ ruffles are rendered with delicate gathered stitching, their elastic waistband shows a faint stretch tension, and the front bow’s ribbon texture is crisp, each loop defined by a faint shadow.\n\nThe composition is captured with a 50mm prime lens on a full‑frame sensor, delivering a shallow depth of field that keeps the woman sharply in focus while the balcony and cityscape melt into a smooth bokeh. The frame follows a 2:3 vertical orientation, centering the subject slightly off‑center to the right, allowing negative space on the left for the night sky, and guiding the viewer’s eye from the bow details up along the line of her gaze toward the distant lights.\n\nAvoid: no watermark, no text overlay, no extra limbs, no unrealistic anatomy, no harsh shadows.",
+   "image": "images/case832.jpg",
+   "media_type": "image",
+   "source": "@christosina · https://x.com/christosina/status/2104988810333557101",
+   "orig_category": "GitHub投稿",
+   "category": "other",
+   "created_at": "2026-09-30",
    "live_url": "http://192.168.28.100:8600/"
   }
  ]
