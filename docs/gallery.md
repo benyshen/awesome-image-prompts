@@ -1,23 +1,23 @@
 # 🖼️ 案例全库 · Full Gallery
 
-共 **949** 个公开案例，按场景分类。图片已压缩至 1280px 长边；视频案例存于 `videos/`，可在 GitHub Pages 画廊页直接播放。
+共 **1017** 个公开案例，按场景分类。图片已压缩至 1280px 长边；视频案例存于 `videos/`，可在 GitHub Pages 画廊页直接播放。
 
 ## 目录
 
 - [🖥️ 界面与社媒截图](#cat-ui)（73 例）— App / 网页 / 直播 / 社媒界面、UI 样机与截图
 - [📊 信息图与知识可视化](#cat-infographic)（70 例）— 信息图、图谱、科普百科、地图与结构化图解
-- [📰 海报与版式设计](#cat-poster)（161 例）— 活动海报、封面、字体排版与强版式视觉
-- [🛍️ 商品与电商视觉](#cat-product)（27 例）— 商品主图、详情页、包装与广告创意
-- [🏷️ 品牌与标识设计](#cat-brand)（25 例）— Logo、VI、吉祥物与品牌触点
-- [🏛️ 建筑与空间场景](#cat-architecture)（86 例）— 建筑渲染、室内空间、城市规划与鸟瞰
-- [📷 摄影与写真人像](#cat-photo)（218 例）— 人像写真、手机摄影、胶片与商业摄影质感
-- [🎨 插画与艺术风格](#cat-illustration)（62 例）— 插画、绘画流派、材质实验与装饰艺术
-- [🧍 角色与人物设定](#cat-character)（36 例）— 角色设计、卡牌、3D 玩具与形象设定
-- [🎬 场景与叙事分镜](#cat-scene)（33 例）— 分镜、故事场景、漫画叙事与世界观
-- [🏮 国风与历史题材](#cat-history)（24 例）— 古风卷轴、历史人物、传统题材与诗词视觉
+- [📰 海报与版式设计](#cat-poster)（164 例）— 活动海报、封面、字体排版与强版式视觉
+- [🛍️ 商品与电商视觉](#cat-product)（28 例）— 商品主图、详情页、包装与广告创意
+- [🏷️ 品牌与标识设计](#cat-brand)（26 例）— Logo、VI、吉祥物与品牌触点
+- [🏛️ 建筑与空间场景](#cat-architecture)（98 例）— 建筑渲染、室内空间、城市规划与鸟瞰
+- [📷 摄影与写真人像](#cat-photo)（241 例）— 人像写真、手机摄影、胶片与商业摄影质感
+- [🎨 插画与艺术风格](#cat-illustration)（65 例）— 插画、绘画流派、材质实验与装饰艺术
+- [🧍 角色与人物设定](#cat-character)（40 例）— 角色设计、卡牌、3D 玩具与形象设定
+- [🎬 场景与叙事分镜](#cat-scene)（37 例）— 分镜、故事场景、漫画叙事与世界观
+- [🏮 国风与历史题材](#cat-history)（30 例）— 古风卷轴、历史人物、传统题材与诗词视觉
 - [📚 文档与出版物料](#cat-document)（3 例）— 白皮书、手册、处方、证书与出版版式
-- [🎞️ 创意视频案例](#cat-video)（62 例）— 图生视频 / 文生视频提示词（播放见线上站）
-- [🧪 综合与创意实验](#cat-other)（69 例）— 创意实验、混合任务与实用杂项
+- [🎞️ 创意视频案例](#cat-video)（64 例）— 图生视频 / 文生视频提示词（播放见线上站）
+- [🧪 综合与创意实验](#cat-other)（78 例）— 创意实验、混合任务与实用杂项
 
 <a id="cat-ui"></a>
 
@@ -5630,7 +5630,111 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 <a id="cat-poster"></a>
 
 ## 📰 海报与版式设计
-_活动海报、封面、字体排版与强版式视觉_（161 例）
+_活动海报、封面、字体排版与强版式视觉_（164 例）
+
+<a id="case-1037"></a>
+
+### 例1037：角色趴桌摄影书封面｜提示词
+
+*2026-10-29*
+
+![例1037](images/case1037.jpg)
+
+```text
+角色趴桌摄影书封面｜提示词
+
+风格基调： 日系摄影书封面 × 暖调棚拍 × 极简几何构图 × 复古胶片暖感 × 角色 Cos 写真。
+
+奶油色留白、彩色拱形背景与木质桌面形成三段式版面。角色趴在桌后，只露出头部和双手，搭配半眯眼、鼓脸颊等微表情，营造慵懒、傲娇又有点可爱的感觉。
+
+提示词｜通用模板
+【角色】，保留核心发型/毛色、轮廓、配色和标志性特征。
+竖版日系摄影书封面，暖调棚拍，柔和干净，带轻微胶片暖感。
+画面分三段：上方约四成为【留白色】留白区；中部为【拱形色】拱形色块，顶边向上拱起，衬在角色身后；下方为【桌面材质】，表面微反光。
+角色在桌后，【动作】，只露出头部和双手，表情【表情】
+正面中心对称，相机与桌面齐平，头部占画面宽度约七成。
+柔光从正前方略偏上打来，眼睛有小眼神光，中低反差，浅景深，前景桌面柔和虚化。
+3:4。
+
+使用方法： 替换角色、三种颜色/材质、动作和表情，即可延伸不同角色的摄影书封面系列。
+```
+来源：@VoxcatAI · https://x.com/VoxcatAI/status/2114478358876631046
+
+<a id="case-1016"></a>
+
+### 例1016：喜欢这种构图
+
+*2026-10-29*
+
+![例1016](images/case1016.jpg)
+
+```text
+喜欢这种构图
+
+【主题】：如冰隙 / 石隙 / 林隙 / 土隙
+【英文标题】：拆成两组，分别排在左右两面材质上，如 ICE / INTERVAL
+【左侧巨大材质】：一种尺度巨大的自然材质，写出质地与明暗
+【右侧巨大材质】：与左侧形成对比的自然材质，写出透明度与明暗
+【中央裂隙光线】：一道光落入裂隙，写出光的颜色与它照亮的边缘
+【底部微小人物】：一位极小的人物，写出衣着颜色（与点缀色一致）
+【主色调】：2–3 种低饱和自然色
+【点缀色】：一个高饱和色，不用蓝橙组合，如酸橙绿 / 品红 / 亮黄
+【辅助标注】：2–3 条极短的索引式小字，如参数、编号、方向
+【画幅比例】：9:16
+
+生成一张编辑设计海报，把“夹缝构图”和“斜向透视平面字体”合成一件作品：真实摄影质感的巨大自然实体夹出一道光缝，而标题不是平铺在画面上，而是被排成两组倾斜的二维文字平面，沿着裂隙的透视方向向深处收缩。
+
+构图骨架：画面左右各有一面尺度巨大的自然材质进入画幅并被边缘裁切，向中央挤压，中间留出一条从顶到底的窄缝，缝里的光和空气是整张海报的视觉主角。缝略微倾斜，不要笔直，也不要左右对称。
+
+材质：左侧是【左侧巨大材质】，右侧是【右侧巨大材质】，两侧必须有明显差异，一侧不透明深重，一侧半透明浅柔。缝里是【中央裂隙光线】，内部保持明亮干净，不填入复杂风景。先看到巨大形体，再看到材质细节。
+
+文字：标题【英文标题】，每一组字都像一块平面的印刷面板，被放进倾斜的二维平面里，贴着所在材质表面的走向做透视压缩，近大远小，越靠近裂隙越窄越小，全部指向裂隙深处的同一个消失点。文字保持平面矢量的锐利边缘，清晰可读，不做 3D 挤出、不加投影、不做玻璃或金属质感，也不模拟刻在材质上。左面的字使用暖米白，右面的字使用深靛墨色。
+
+向量辅助系统：用【点缀色】画少量极细的辅助线：两三条沿透视方向收向消失点的细线、一个指向缝底的小箭头、几个细小的点。它们属于文字的平面系统，延伸文字的倾斜方向，只占画面很小的面积。缝内竖排一个较小的中文标题【主题】，使用纤细、克制的现代宋体。
+
+底部微小人物：裂隙底部有【底部微小人物】，只占画面的极小面积，与巨大材质形成明显的比例反差。
+
+辅助标注：加入极少量【辅助标注】，模拟编辑设计里的索引注释，小字号，放在材质边缘或留白处，不形成信息框。
+
+配色：整体使用【主色调】，保持低饱和、哑光、克制；唯一的高饱和色是【点缀色】，只出现在向量线、箭头和微小人物上。
+
+视觉层级：从远处看，先看到两侧巨大形体夹出的光缝和斜向收缩的两组字；近看才发现材质纹理、辅助线、索引小字和微小人物。
+
+避免：普通风景摄影、旅游海报、探险英雄姿势、正面平铺的标题、3D 挤出字、厚重投影、玻璃字或金属字、复杂背景、满屏纹理和线条、多种点缀色、强 HDR、CGI 材质和无意义英文。
+```
+来源：@Hamburgerai · https://x.com/Hamburgerai/status/2114014439439847657
+
+<a id="case-982"></a>
+
+### 例982：GPT Image 2 On ChatGPT
+
+*2026-10-29*
+
+![例982](images/case982.jpg)
+
+```text
+GPT Image 2 On ChatGPT 
+
+Prompt:
+Use the uploaded image as the primary visual reference. Create a premium minimalist editorial art poster combining photorealistic nature photography with delicate hand-drawn ink illustration.
+
+COMPOSITION: Strict vertical 2:3 format with an exact 50/50 horizontal split. The upper half features realistic photography; the lower half features minimalist illustration on warm ivory paper. Maintain a clean, precise division.
+
+UPPER HALF — PHOTOGRAPHY: Preserve the original subject's identity and defining characteristics. Use natural lighting, intricate textures, authentic colors, cinematic depth, and a peaceful, nostalgic atmosphere inspired by premium travel photography.
+
+LOWER HALF — ILLUSTRATION: Seamlessly continue elements from the photograph into a delicate black-and-white pen-and-ink illustration. Use fine lines, subtle crosshatching, and a minimalist Japanese editorial aesthetic. Include a tiny human figure only when appropriate. Add sparse environmental details and generous negative space.
+
+PAPER TEXTURE: Use warm ivory handmade paper with subtle grain and natural fibers, avoiding pure white.
+
+TYPOGRAPHY: Add one short, original poetic English phrase in elegant handwritten cursive, with a subtle underline. Use understated dark-gray ink and position it naturally within the lower half's negative space.
+
+ART DIRECTION: Japanese minimalist design, quiet luxury, poetic storytelling, soft nostalgia, organic transitions, and collectible art-print quality.
+
+IMPORTANT: Adapt naturally to the uploaded subject without introducing unrelated elements. Keep the upper half richly detailed and the lower half airy and understated. Ensure authentic hand-drawn linework, balanced composition, and legible typography. No logos, watermarks, borders, clutter, or extra text.
+
+OUTPUT: One high-resolution vertical 2:3 poster with an exact 50/50 split between photorealistic photography and minimalist ink illustration.
+```
+来源：@Sairah_0 · https://x.com/Sairah_0/status/2109149596731801878
 
 <a id="case-949"></a>
 
@@ -11080,7 +11184,50 @@ Integrated text and layout: Centered Songti font at the top reads "{argument nam
 <a id="cat-product"></a>
 
 ## 🛍️ 商品与电商视觉
-_商品主图、详情页、包装与广告创意_（27 例）
+_商品主图、详情页、包装与广告创意_（28 例）
+
+<a id="case-989"></a>
+
+### 例989：don哥揭开的算法的“真相”实在太魔幻了。
+
+*2026-10-29*
+
+![例989](images/case989.jpg)
+
+```text
+don哥揭开的算法的“真相”实在太魔幻了。
+
+在X，一个虚构的落魄中年男可以暴增流量“封神”。而在小红书，我的一篇“真实吐槽”笔记，却被“违规”了。
+
+这事儿让我彻底看透了这两个平台。也让我对流量算法和人设IP有了新的理解。
+
+先说X。
+don哥的总结点透了（懂人性、懂算法、懂提示词）。X的算法，不直接奖赏“真实”，它奖赏“人性”。那个中年男人的故事，无论真假，它精准“戳中”了人性的一些方面，比如焦虑、认同、窥探。它的“事实”不重要，重要的是它引发了“人性共振”，算法只是忠实地放大了这个“共振”。
+这是X这个言论广场的逻辑。
+
+然后看小红书。
+我今天发了一篇关于deepseek“爹味”的真实吐槽，但它“违规”了。
+因为XHS的算法，更不奖赏“真实”，它奖赏“规则”和“包装”。
+它的核心是“商业秩序”。我的“真实”是一种“破坏秩序”的“拉踩”，是“不安全”的。
+
+那么对我们有什么启发？
+既然“真实”在算法面前似乎一文不值——在X要“戳中人性”，在XHS要“精美包装”——那我们是不是都该成为“算法的万物”？
+
+是不是该放弃“真实”，去换“流量”？
+不。
+
+“算法玩家”和“真实IP”，是两条完全不同的路。
+“算法玩家”追逐的是“算法红利”。他们用“虚构”或“包装”去精准投喂算法。他们能获得 "泼天流量"，但他们建立的是“对内容的依赖”，而不是“对人的信任”。
+
+而我们最终的目的，是成为一个“真实可信的人”。
+“算法”会变，“平台”会亡，“流量密码”会失效。“算法玩家”是在“沙滩”上建高塔，浪一来，算法一改，就没了。唯一不变的，是“人”对“真实连接”的渴望。
+
+作为“职场探路人”和“连续创业者”，我的核心资产不是“流量”，而是“信任”。
+“基于真实”（不讲废话、分享我踩过的坑）是“建立信任”的唯一路径。
+
+算法很强大，但我们要懂算法，更要守真实。 在理解算法的基础上，坚守“真实”去塑造信任，未来的路才能走得更长远。
+```
+来源：@Adam38363368936 · https://x.com/Adam38363368936/status/1987097812698603890
 
 <a id="case-935"></a>
 
@@ -12264,7 +12411,22 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
 <a id="cat-brand"></a>
 
 ## 🏷️ 品牌与标识设计
-_Logo、VI、吉祥物与品牌触点_（25 例）
+_Logo、VI、吉祥物与品牌触点_（26 例）
+
+<a id="case-987"></a>
+
+### 例987：【丝绒礼服质感与中欧混血高级脸】👇
+
+*2026-10-29*
+
+![例987](images/case987.jpg)
+
+```text
+【丝绒礼服质感与中欧混血高级脸】👇
+
+高端室内商业广告写真，真人电影级超写实奢华时尚摄影，融合国际顶级酒店品牌广告、高级香水视觉大片与奢侈礼服品牌Editorial时尚杂志的美学语言。画面以克制、优雅、精致、静谧的奢华感为核心，不追求繁复堆砌，而是通过空间比例、材质碰撞、人物姿态、光影层次与高级色彩营造极具质感的商业视觉。整体呈现真实摄影质感，构图严谨，空间通透，细节丰富但不杂乱，色彩统一而富有层次，具有专业广告摄影的完整度与高级品牌Campaign的视觉表现力。【室内场景与空间结构】一间约32平方米的高端现代卧室，采用三面连续的落地曲面玻璃作为核心建筑设计，玻璃沿房间转角自然延伸，形成具有包裹感与通透感的弧形玻璃空间。落地玻璃从地面延伸至天花板，采用极窄香槟金金属边框，玻璃表面洁净通透，隐约映出室内暖色灯光与柔和的环境倒影，展现真实的玻璃折射、反射与细腻的透光层次。窗外是虚化的城市夜景或朦胧的远景灯光，避免出现过多清晰建筑细节，以柔和的暖金色光斑和深浅不一的环境色构成背景层次。室内整体采用现代极简设计语言，空间布局疏朗，动线清晰，拥有高端精品酒店总统套房般的精致气质。墙面采用暖灰米白色艺术涂料与局部浅香槟色天然石材，表面呈现细腻的矿物肌理与柔和的漫反射效果。地面铺设浅米灰色天然石材或哑光微水泥，具有细腻真实的纹理与柔和的光影过渡。天花板线条简洁，隐藏式灯槽沿建筑结构自然延伸，形成低调而均匀的暖色环境光。
+```
+来源：@imeilin0520 · https://x.com/imeilin0520/status/2109160200124981519
 
 <a id="case-933"></a>
 
@@ -13127,7 +13289,640 @@ A photorealistic selfie of a young man with short wavy dark hair and light stubb
 <a id="cat-architecture"></a>
 
 ## 🏛️ 建筑与空间场景
-_建筑渲染、室内空间、城市规划与鸟瞰_（86 例）
+_建筑渲染、室内空间、城市规划与鸟瞰_（98 例）
+
+<a id="case-1034"></a>
+
+### 例1034：很好玩，可以侧面展示人性的另一面
+
+*2026-10-29*
+
+![例1034](images/case1034.jpg)
+
+```text
+很好玩，可以侧面展示人性的另一面 
+
+9:16の縦長画像。
+
+【シーン】
+昼間のリビングルーム。赤ちゃん用のベビー用品がさりげなく置かれ、新婚の生活感が漂う明るい室内。生活感はあるが清潔で、非性的な家庭空間。
+
+【人物・服装】
+画像1の人物を参照し、顔の一貫性を強く保つ。大人っぽい赤色の夏服。着こなしはラフでだらしなく、肩紐も自然にずれた状態。露出は控えめで非性的。
+
+【構図・ポーズ】
+カメラは女性の真正面やや上方から見下ろす近距離。女性はカメラのすぐ目の前に座り、近さのためボトムスなど下半身は映らない。手前に座ったまま後ろへ大きく仰け反り、片手は後ろについて身体を支え、もう片手で服の端を軽く押さえている。画面右下と左下の角に腿の一部だけがわずかに入る。
+
+【細部】
+薬指の結婚指輪が自然な光を反射している。へそは清潔でピアスなし。肌は少し汗ばみ、細かい毛穴やわずかな赤みの跡がリアルに感じられる。美しいが過度に加工せず、実在感を残す。
+
+【表情】
+女性はカメラを見下ろす自然な表情。作り笑いや自撮り用のポーズではなく、不意に視線が合った瞬間。
+
+【撮影】
+自撮りではない。スマホで不意に撮ったような自然なスナップ。9:16縦長。近距離の正面俯視遠近法を強調する。
+
+【制約】
+No NSFW. No explicit. 実在キャラクターは絶対に無し。非性的で健全な範囲を厳守。
+```
+来源：@aisima2046 · https://x.com/aisima2046/status/2114275582917931430
+
+<a id="case-1026"></a>
+
+### 例1026：GPT VS Gemini 之：午夜之前｜黑丝与红酒
+
+*2026-10-29*
+
+![例1026](images/case1026.jpg)
+
+```text
+GPT VS Gemini 之：午夜之前｜黑丝与红酒
+
+主题： 都市轻熟御姐 × 法式性感 × 复古CCD直闪 × 私人公寓生活写真
+
+人物设定：
+
+一位明确成年的23岁东亚女性，身高170cm，身材高挑匀称，腰部纤细，臀腿比例自然，双腿修长，具有柔和真实的女性身体曲线。
+
+精致鹅蛋脸，狭长杏眼，眼尾微微上挑，鼻梁秀气，唇形饱满。深棕色长卷发随意披散，一侧头发自然搭在肩前，少量碎发贴近脸颊。
+
+成熟韩系御姐妆容：灰棕色眼影、纤长睫毛、细长上扬眼线、淡玫瑰腮红、酒红色水光唇。皮肤白皙透暖，保留真实毛孔与细微肤色变化。
+
+服装造型：
+
+黑色缎面吊带迷你连衣裙，低V领口搭配细窄蕾丝装饰，胸前具有完整不透明内衬。裙身自然贴合腰臀，裙摆停在大腿中上段，穿着稳定且完整遮挡。
+
+搭配15D烟黑色透肤连裤丝袜，纱线细密均匀，在灯光下产生柔和光泽，具有真实织物张力。
+
+脚穿黑色漆皮尖头细跟高跟鞋，约9cm鞋跟。颈部佩戴细银色项链，耳侧有小巧珍珠耳坠。
+
+动作与姿态：
+
+人物侧坐在深棕色复古皮沙发上，身体略微朝向镜头，一条腿自然向前伸展，另一条腿轻轻屈膝，脚尖自然下压，形成优雅的腿部线条。
+
+左手撑在沙发坐垫上，右手轻握一只盛有少量红酒的高脚杯，酒杯停留在腰部附近。
+
+上半身微微后仰，肩颈放松，姿态从容自然。裙摆始终完整覆盖，不出现走光。
+
+眼神与神态：
+
+头部轻轻侧倾，下巴微收，双眼直视镜头。
+
+上眼睑自然低垂，眼尾轻挑，眼神深邃、慵懒，带有成熟自信的媚态。
+
+嘴角微微上扬，双唇自然放松，似乎刚刚听见摄影师说了一句有趣的话。
+
+表情克制，不做夸张挑逗动作。
+
+场景与光线：
+
+夜晚的现代高层公寓客厅。人物身后是一整面落地窗，窗外可见虚化的城市灯光。沙发旁摆放一盏琥珀色复古落地灯，玻璃茶几上有一本翻开的杂志和小型花瓶。
+
+室内主光来自人物右侧的暖黄色落地灯，色温约3200K；摄影机使用微弱正面直闪补光，使脸部、丝袜和缎面裙装呈现清晰的质感。
+
+背景整体偏暗，窗外城市夜景形成细小冷蓝色光斑，暖冷色彩自然交融。
+
+镜头与构图：
+
+9:16竖幅，全身写真，完整拍摄发顶至高跟鞋鞋尖。
+
+相机位于沙发前方约2米处，采用35mm镜头，机位略低于人物坐姿视线，呈现轻微近大远小的自然透视。
+
+人物约占画面高度80%，面部与腿部均保持清晰，背景适度虚化。
+
+摄影质感：
+
+模拟2000年代高端CCD数码相机，轻微直闪、真实ISO颗粒、有限动态范围、暗部保留细节、局部金属与漆皮反光。
+
+整体呈现真实的私人生活抓拍感，而不是过度精修的商业广告。
+
+负面提示词：
+
+未成年人、幼态外观、裸体、敏感部位暴露、裙底视角、走光、裙摆异常缩短、丝袜破损、畸形手指、多余肢体、腿部融合、错误高跟鞋结构、过度丰胸、夸张腰臀比、塑料皮肤、网红AI脸、过度磨皮、卡通、CG感、文字、水印、Logo。
+```
+来源：@GenRyoma · https://x.com/GenRyoma/status/2114326367026426303
+
+<a id="case-1025"></a>
+
+### 例1025：Seedance 提示词分享
+
+*2026-10-29*
+
+![例1025](images/case1025.jpg)
+
+```text
+Seedance 提示词分享
+
+9:16竖版，单幅独立画面，超写实韩系清冷美少女肖像摄影，电影级写实人像，高级私人摄影写真，真实单反相机拍摄质感，细腻自然的皮肤纹理，低照度暗调氛围，柔和的电影级侧逆光，极致精致但自然可信的五官，安静、温柔、清冷、略带忧郁的氛围。
+【人物面容】
+一位22岁左右、明确成年的东亚年轻女性，极其精致的小巧鹅蛋脸，巴掌大小的脸型，脸部宽度较窄，面部骨骼纤细，颧骨平滑，脸颊软组织较少但保留自然柔和的面部曲线，下颌线流畅向内收窄，小巧圆润的下巴。
+冷白色自然肤色，皮肤细腻通透，带有真实柔和的皮肤光泽，鼻梁纤细挺直，鼻尖小巧圆润，深棕色清澈杏仁眼，眼型柔和，内眼角自然，眼尾轻微下垂，卧蚕自然饱满，细长自然睫毛，眉毛平直柔和，淡粉色眼影，双颊带有极浅的自然腮红，柔软饱满的淡玫瑰粉色嘴唇。
+嘴角微微上扬，双唇自然轻抿，下唇略微向前，形成轻微俏皮却克制的表情。直视镜头，眼神清澈、安静，带有淡淡的慵懒与少女气息。
+【头发】
+浓密柔顺的黑色及腰长发，自然蓬松，轻微自然波浪，头顶自然蓬松的发根，额前没有厚重刘海，几缕细长碎发自然垂落在额头与脸颊两侧。头发受到轻微气流影响向画面左侧自然飘动，发丝在侧逆光照射下呈现清晰银白色轮廓光，能够看见独立细小发丝与自然光泽。
+【服装与身形】
+身材纤细，骨架小巧，肩膀窄而柔和，锁骨清晰自然，修长纤细的颈部。身穿浅灰白色、略带淡鼠尾草绿色的细肩带吊带上衣，柔软轻薄的棉质面料，胸前自然褶皱与精致小抽绳设计，宽松自然的衣料纹理。
+【姿势与构图】
+近距离半身人像，人物身体轻微侧向画面右侧，肩膀放松，上半身自然微微前倾，头部轻轻向一侧倾斜，正面看向镜头。双臂自然放在身体前方，姿态轻松真实，不刻意摆拍。
+镜头位于人物眼睛高度，面部处于画面中上部，头顶保留少量空间，画面下方延伸至胸部以下，采用自然亲密的人像构图。
+【背景与光线】
+深灰黑色极简室内背景，背景几乎隐藏在暗部，没有明显家具与杂乱物体。
+一束柔和但具有明显方向性的冷白色光线，从人物左前上方照射面部，在额头、鼻梁、脸颊、嘴唇与肩膀形成细腻柔和的高光。
+另一束微弱的冷白色侧逆光从后方照射黑色长发，使部分发丝形成明亮的银白色边缘光。
+人物面部一侧明亮，另一侧逐渐过渡到深色阴影。暗部保留自然细节，皮肤不过曝，光影过渡柔和，形成具有立体感的电影级明暗层次。
+【摄影与画质】
+85mm人像镜头，f/1.8光圈，真实摄影光学质感，精准对焦人物双眼，眼睛清晰明亮，发丝细节丰富，轻微自然背景虚化，低饱和冷色调，细腻35mm胶片颗粒，真实皮肤微纹理，柔和高光过渡，自然白平衡。
+高品质专业人像摄影，真实照片质感，非商业棚拍式过度精修，保留细微真实皮肤纹理和自然面部不对称性。
+整体视觉效果： 第一眼是真实拍摄的年轻女性写真，清冷、纯净、安静，具有细微情绪和自然生活气息，而不是人工生成的精修人偶。
+```
+来源：@CryY666666 · https://x.com/CryY666666/status/2114378787349819627
+
+<a id="case-1023"></a>
+
+### 例1023：プールより、こっちに夢中？近くで見てもいいよ。
+
+*2026-10-29*
+
+![例1023](images/case1023.jpg)
+
+```text
+プールより、こっちに夢中？近くで見てもいいよ。
+
+【ChatGPT再現用プロンプト】
+被写体:
+架空の成人女性が屋内プールの縁に身体を寄せ、カメラへ柔らかく微笑む近い水着ポートレート。黒に近い濃紺のホルターネックの水着を着て、細い金色のチェーンと小さな円形のペンダントを首元に付ける。茶髪を後ろへまとめ、濡れた細い毛が額と頬に落ちる。明るい肌の小さな水滴、手前の前腕、青い水面と暖かい室内灯の対比を保つ。
+
+場所・時間・背景:
+夜の青い水が光る屋内プール。奥に太いベージュの柱と暗いガラス面、暖色の灯り、緑の植栽が柔らかくぼける。広い原版の左にある水のカーテンは密な縦画角では外にあり、奥の水面に黄白色の細かな反射とぼけた人影が少し残る。手前の下端には薄いベージュの石のプール縁を入れ、人物と水の境界を明確にする。
+
+衣装・小物:
+水着は光沢を抑えた黒から濃紺の無地。細い紐が胸の上から首の後ろへ上がるホルターネックで、紐の途中に小さな金色の金具がある。胸のカップの布はなだらかな曲線を描き、肌との縁は細く自然に沿う。首には繊細な金色のチェーンと円形の小さな飾りが一つあり、肌の水滴とは異なる鋭い小さな反射を持つ。
+
+姿勢・手指・接触:
+肩を少し前へ寄せ、身体をプールの石の縁へ近づける。画面左の本人の右腕はカメラの方向へ伸び、手先は左手前の外へ続く。反対の前腕は石の縁へ横向きに置かれ、手指の大半は左の画角外。横たえた前腕と胸の下部の重なり、肩から腕への丸みを自然につなぐ。顔を軽く傾け、肩の左右の高さに少し差を付ける。
+
+表情・視線:
+両目でカメラを見つめ、口角をわずかに上げた柔らかな微笑み。唇は軽く閉じ、頬に少し赤みがある。顔を少し斜めに傾け、近くで目が合った自然な親密さを残す。目を大きく見開いたり、歯を見せる強い笑顔へ変えたりせず、落ち着いた休憩の表情にする。
+
+顔・メイク:
+柔らかい卵形の顔、濃い茶色の瞳、細い自然な眉、小さな鼻と淡い赤みのあるピンクの唇。目には白い小さな光の反射があり、上まぶたとまつ毛に細い暗さがある。頬と鼻の表面には穏やかなつや、口元と顎の下には柔らかな陰影を残す。肌は濡れているが、均一な鏡のような光沢にはしない。
+
+髪:
+茶色の髪を後ろへ緩くまとめ、額を覆う薄い前髪を数本の束に分ける。濡れた細いおくれ毛が目の外側、頬、首と肩へ曲がって落ちる。頭頂には緩いふくらみと細い毛の浮きがあり、まとめ髪を固い球体にしない。左の髪とこめかみの外縁は縦画角へ自然に続く。
+
+光源:
+手前の柔らかな光が顔と肩、胸元を明るくし、奥の暖色の照明と青い水面の光が混じる。細かな水滴は小さな点の反射となり、肩の丸みに沿って散る。顎の下、首、水着の紐の接触部分には淡い陰がある。水面の黄白色の反射は奥ほどぼかし、人物の目と水滴の鮮明さとの差を作る。
+
+色・階調:
+鮮やかな青とターコイズの水、黒に近い水着、暖かいベージュの肌と柱、濃い茶髪、黄色い室内灯を組み合わせる。顔と胸元には少し桃色を残し、水の青が肌全体へ強く乗らないようにする。暗い水着にもわずかな紺色の階調を持たせる。背景の点状の灯りは暖色だが、人物を橙色に染めすぎない。
+
+材質・微細質感:
+肌には小さな水滴と濡れた薄い膜、肩の細かいきめ、前腕の緩いしわがある。水着はなめらかな密な布で、細い紐と小さな金具を分ける。石の縁は粒の細かいざらつきと、水を含んだ弱い反射を持つ。水面には重なる細かな波と光の筋を作り、背景の植物は葉の形が読める程度の柔らかなぼけにする。
+
+構図・カメラ:
+縦9:16の近い自撮りの構図。顔を左上寄りに置き、黒い水着の胸元を下の中央へ、横たえた前腕と石の縁を最下部へ配する。固定アンカー1は左からおよそ45%・上からおよそ30%の目と鼻のまとまり。固定アンカー2は左からおよそ55%・上からおよそ70%の黒い水着の襟ぐりの中心。左の髪とこめかみの軽い見切れを許容し、両目と鼻、口は完全に読める位置に残す。
+
+画像処理・仕上げ:
+夜のプールで撮った写実的なスマートフォン写真。肌の細かい水滴、瞳、濡れた毛束、水着の紐に鮮明さを置き、背景は柔らかな浅いぼけにする。色を強く盛ったHDRや切り抜いた輪郭を避け、暖色の室内灯と青い水の自然な混色を保つ。顔を磨きすぎず、微細な肌の色差を残す。
+
+破綻回避・禁止:
+余分な腕、指、水着の紐、ペンダント、可読文字やロゴを足さない。水面と身体を融合させず、前腕の重なりと石の縁の前後関係を保つ。目、鼻、口を切らず、濡れ髪を顔の一部へ変えない。背景の人影を主役の身体へ接続せず、光点や水滴を過度な宝石状の形にしない。
+```
+来源：@AiPhotoDesigner · https://x.com/AiPhotoDesigner/status/2114329905550786828
+
+<a id="case-1022"></a>
+
+### 例1022：每日一词：
+
+*2026-10-29*
+
+![例1022](images/case1022.jpg)
+
+```text
+晚安
+每日一词：
+主题：
+晚上在卧室里，一个女人躺在白色的床上。将上半身从画面中央稍微向左配置较大，脸和胸部占据画面中心。在右后方，窗户和床头灯被放置，以平衡人的近距离感和夜晚的深度。
+人与表情：
+她是一个自然、真实的女人。将深棕色的头发在较低的位置松散地聚集在一起，留下薄薄的刘海和沿着脸颊的后毛。他的脸稍微向右移动，只把视线放回照相机上。眼睑失去了力量，嘴唇轻轻地闭上了，露出了平静的表情。粉红色的米色嘴唇，淡玫瑰柚木，纤细精致的睫毛和不起眼的眼泪袋，使日本化妆成为优雅。
+服装及姿势：
+淡灰色的筋素材卡米索尔。胸前有一个纤细的象牙花边，一个柔软的轮廓，自然地跟随身体。从上面穿上薄手的生色室开衫，一侧从肩膀上自然地落下。人物自己的右臂向头顶弯曲，用指尖轻轻触摸头发。左臂沿着身体的两侧，躲在被子里。将背部放在枕头上，稍微扭曲腰部的姿势。在衣服和寝具上加入沿着重力的细小皱纹。
+背景及光线：
+舒适的日本公寓的卧室。前景是柔软而倒塌的白色被子，中景中的人物和枕头，后景右侧的木制小床头柜和暖色的灯。在左里面的窗户外面，模糊的路灯和集体住宅的窗灯被看作是小球模糊的。主光是从画面右内侧的床边灯进入的温暖的灯泡颜色。在脸颊，肩膀，锁骨和手臂的顶部落下柔和的高光，而另一侧则是透过窗户发出的微弱的蓝灰色夜光。阴影柔和，自然落在人物的左侧和床上用品的皱纹上。
+摄影师和摄影师：
+长度：4比5。从床边拍摄的近距离上半身肖像。人物的脸靠近画面左上方，胸部中央，灯右内侧。在头部和右侧留下少量的空白，底部用被子自然切割。照相机的位置比人物的胸部稍高，轻俯瞰。相当于50 mm，光圈很浅。聚焦在眼睛和脸上，城市的灯光和灯光在背景中柔和模糊。
+感觉与风格：
+真正的室内肖像照片。皮肤光滑，但留下毛孔和细微的质地，避免过度的美容修正。它仔细地描述了肋骨材料，薄开襟羊毛衫和棉质床上用品的触感。暖色和蓝灰色静静地混合在一起的夜晚色调。低对比度，细腻的颗粒感，柔和的完成就像杂志的睡衣特色。
+否定：负数
+不自然的脸，不自然的胸部形状，左右不对称的眼睛，多余的手指，缺失的手指，弯曲的手臂，肩膀和关节破裂，衣服和身体的融合，与床上用品的接触不良，漂浮，不自然的重力，阴影与光源不一致，过度的皮肤修复，塑料皮肤，字母，标识，水印。
+```
+来源：@WMJ8888 · https://x.com/WMJ8888/status/2114375177920544986
+
+<a id="case-1019"></a>
+
+### 例1019：Happy weekend, dear comrades-i…
+
+*2026-10-29*
+
+![例1019](images/case1019.jpg)
+
+```text
+Happy weekend, dear comrades-in-arms.😊
+
+Prompt：
+Subject & Action
+Young Japanese woman, early 20s, extreme hourglass figure with large breasts, full hips, and dramatically thin waist. She wears exquisite glamorous makeup (soft smoky eyes, contoured cheeks, full glossy lips) and beige lace lingerie with a strong waist cincher. Seductive classic pose: rear three-quarter view, slight arch of the back, looking back over her shoulder with a pure yet tempting gaze, one hand resting on her waist.
+Setting & Time
+Luxurious classical interior with elegant architecture, soft natural daylight streaming through tall windows. Timeless, refined atmosphere evoking 1970s European art-house erotic cinema.
+Composition & Camera
+Medium shot from a slightly low angle, rear three-quarter composition. Focus on the curve of the waist, hips, and back. Shallow depth of field, subject sharply in focus against a softly blurred elegant background.
+Lighting & Style
+Soft, bright, diffused natural lighting with gentle highlights on skin and lace. Warm, luminous, painterly aesthetic in the style of Walerian Borowczyk’s artistic erotic films — refined body celebration, pure desire, classical and sensual without vulgarity.
+Constraints
+High-end artistic photoshoot, pure desire aesthetic, refined and elegant. No explicit nudity, no vulgar expressions, no low-quality or amateur look. Photorealistic, cinematic quality, adult subject only.
+```
+来源：@MissAI_Show · https://x.com/MissAI_Show/status/2113820787526312028
+
+<a id="case-1013"></a>
+
+### 例1013：累瘫，腿都是软的
+
+*2026-10-29*
+
+![例1013](images/case1013.jpg)
+
+```text
+累瘫，腿都是软的
+下次选个难度低的山😓
+
+Prompt：
+主题：
+白色泳装与夏天的车内
+主体：
+在黑色皮革包裹的高级车副驾驶座上，一位年轻成年女性背对着这边，仅上半身转头回望。人物占据画面中央偏右的大部分空间，以腰部到头部为主角，左侧是车门，右侧是中控台，窗外留有夏天的街景。
+人物・表情：
+小巧的卵形脸庞，光滑明亮的肌肤，焦茶色的大眼睛，细致自然的眉毛，挺直的鼻梁，淡珊瑚粉色的嘴唇。脸庞从肩头越过直视镜头，带着平静的微笑，薄薄的眼线和长长的睫毛，淡雅的光泽与脸颊的浅浅血色自然妆容。肩头轻触的深棕色直发，薄薄束起的稍长刘海，发梢微微内卷，耳边整洁利落。
+服装・姿势：
+细绳和小巧的珍珠风装饰点缀的白色三角比基尼，腰间系着透视的白色薄纱短荷叶边纱裙。侧身坐在副驾驶座上，膝盖弯曲，展示背部和右肩转头回望。右肘抬起，右手指尖轻轻触及下巴侧边，左臂隐于身体阴影中。颈部・肩部・背部・腰部的扭转以及泳装的系带按照原图自然呈现。
+背景・光线：
+黑色皮革，光泽浓郁的深色木质面板，银色金属件，圆形出风口可见的高级车内。画面左侧窗户和侧视镜外可见绿意盎然的街路树与白色建筑，右侧远处是玻璃幕墙的办公大楼。窗户透入的夏日午间光线从画面左前方照亮脸庞、背部和大腿，车内黑色部分投下深邃却不失层次的阴影。阳光鲜明但在肌肤上稍显柔和地环绕。
+构图・镜头：
+纵向4:5。从后排座位偏近的视角对准副驾驶座的中近距离三-quarter背面视角，略带广角感。人物从头顶到大腿大幅入镜，头部靠近上端，腰部和纱裙占据下半分，脸庞位于上部中央，窗外景致置于上部左右。脸部和上半身精准对焦，车内与窗外景物保持可辨识形状的中等景深。
+质感・风格：
+高精度的自然写实摄影肖像照片。肌肤保留微妙的毛孔，呈现光滑质感；头发细致成束并带有自然光泽；白色泳装的面料・绳带・透视薄纱的荷叶边、黑色皮革的缝线、金属与木质的反射皆写实呈现。明亮清新的夏日色调，避免过度美肌处理或插图风格。
+负面提示：
+面容・发型・白色泳装・回望姿势的改动
+```
+来源：@FromSummerF · https://x.com/FromSummerF/status/2114282072793809378
+
+<a id="case-1010"></a>
+
+### 例1010：GPT image 提示词分享
+
+*2026-10-29*
+
+![例1010](images/case1010.jpg)
+
+```text
+GPT image 提示词分享
+
+东方水墨美人 · 旗袍写真
+
+【整体画面风格】
+
+9:16竖版，单幅独立画面，超写实电影级东方古典女性人像摄影，新中式高级时尚写真，传统中国水墨山水美学与现代改良旗袍设计融合。
+
+深色中式室内场景，古典木质家具，竹帘透射的斑驳阳光，暖白色局部高光，深棕色背景，香槟白色丝绸旗袍，青灰色水墨山水图案。
+
+整体氛围清冷、优雅、含蓄、慵懒，略带复古东方电影感。
+
+真实相机摄影质感，高清晰度，细腻皮肤纹理，真实丝绸光泽，精致五官，准确人体比例，柔和光影层次。
+
+【人物面容】
+
+一位23至25岁、明确成年的绝美东亚女性。
+
+精致小巧的鹅蛋脸，巴掌大小的脸型，额头自然饱满，颧骨平滑，脸颊软组织较少，下颌线柔和收窄，小巧精致的圆尖下巴。
+
+冷白色细腻肌肤，具有真实自然的皮肤纹理，肩颈、锁骨和手臂在阳光下呈现柔和的瓷白色光泽。
+
+一双清澈明亮的深棕色杏仁眼，眼尾微微上扬，双眼皮自然，卧蚕细腻，眼神清冷而略带慵懒。
+
+自然纤长的睫毛，浅棕色眼影，柔和的眼尾眼线，细致平缓的眉形。
+
+鼻梁纤细挺直，鼻尖小巧，鼻翼自然。
+
+双唇自然饱满，淡玫瑰豆沙红色唇妆，轻微哑光水润质感。
+
+面部表情平静、克制、略带疏离感，目光自然注视镜头，头部微微低垂。
+
+整体为精致清透的新中式淡妆，保留真实皮肤质感，不使用浓妆和夸张美颜。
+
+【发型】
+
+深黑棕色长发，采用松散的中式低盘发造型。
+
+头顶自然蓬松，发根具有真实体积感。
+
+部分长发在脑后轻轻挽起，形成低位发髻。
+
+额前保留轻薄的偏中分碎刘海，脸颊两侧垂落少量细长发丝，修饰脸型。
+
+后脑勺留有少量松散发束，展现自然随意的古典气息。
+
+发丝整体乌黑柔顺，在阳光照射下呈现柔和的深棕色高光。
+
+不使用过于复杂的凤冠或大型发饰，突出简洁清冷的新中式美感。
+
+【服装设计】
+
+身穿一条香槟米白色真丝改良旗袍长裙。
+
+旗袍采用柔软顺滑的真丝缎面材质，具有真实的丝绸光泽与细腻的面料纹理。
+
+整体为贴身修身剪裁，顺着身体自然曲线垂落，腰部收拢，臀部具有自然合体的剪裁结构。
+
+领口为现代改良低领设计，结合柔和的直线领口与传统中式盘扣装饰。
+
+肩部采用细窄肩带与露肩设计，一侧细肩带自然贴近上臂，露出肩颈和锁骨。
+
+旗袍表面印有青灰色、墨绿色和深青蓝色的中国传统水墨山水图案。
+
+图案包含苍松、远山、山石、淡墨云雾和传统国画植物纹样。
+
+图案自然分布于胸前、腰侧、裙摆和开衩边缘，具有高级手绘水墨质感。
+
+腰臀部的布料自然贴合人体曲线，形成少量真实的丝绸褶皱。
+
+旗袍一侧采用较高的侧开衩设计，裙摆随着人物坐姿自然分开，露出部分腿部线条。
+
+开衩边缘采用精致浅色滚边和小型珍珠盘扣装饰。
+
+旗袍裙摆自然延伸至木桌一侧，形成柔软的真丝垂坠效果。
+
+整体服装精致、优雅、修身，具有现代新中式时尚感，保留真实服装结构与合理遮盖。
+
+【饰品】
+
+手腕佩戴一只浅白色玉石手镯。
+
+脚踝佩戴一只纤细银色脚镯。
+
+不佩戴大型耳环与夸张项链。
+
+饰品数量较少，整体风格简洁精致，符合东方古典气质。
+
+【人物姿势】
+
+人物坐在深棕色中式实木桌面边缘，身体以三分之二侧身角度朝向镜头。
+
+上半身自然向前轻轻倾斜，肩膀放松，背部呈现柔和曲线。
+
+双手支撑在身前的木质桌面上，一只手放在身体左侧，另一只手放在身体前方。
+
+手臂自然伸展，手掌平放于桌面，手指纤细舒展。
+
+头部微微向下倾斜，脸部转向镜头，目光平静而直接。
+
+双腿自然弯曲，一条腿抬起并横向放置在身体前方，另一条腿自然向下弯曲。
+
+双腿在画面前景形成交叠层次，膝盖与脚踝位置清晰，腿部透视自然。
+
+开衩旗袍随着坐姿形成自然的面料褶皱，裙摆沿桌面与身体一侧自然垂落。
+
+人物姿势优雅、慵懒，仿佛在安静的中式书房内休息的瞬间。
+
+肩膀、腰部、髋关节、膝盖和脚踝连接符合真实人体解剖结构。
+
+【背景环境】
+
+传统中式书房或古典茶室。
+
+背景以深棕色木质墙面和暗色家具为主。
+
+画面左侧是一扇带有竹编卷帘的窗户，竹帘呈自然半开启状态。
+
+窗外明亮阳光透过竹帘缝隙照入室内，在人物肩膀、锁骨、胸前和木桌表面形成细密的条纹光影。
+
+左侧放置一盏暖黄色复古中式布艺台灯，灯罩呈柔和椭圆形，散发温暖光线。
+
+人物后方右侧悬挂一幅传统中国水墨山水挂轴。
+
+挂轴内容为墨绿色松树、远山、云雾及少量传统书法题字，具有真实宣纸质感。
+
+人物身下是一张深棕色实木桌，木纹清晰，表面具有轻微自然反光。
+
+桌面铺放一张米白色宣纸画卷，上面绘有淡墨松树与山水图案。
+
+桌面左前方摆放一只小巧的青灰色陶瓷花瓶，带有细致的传统纹样。
+
+整体空间安静、古朴，具有高级东方文化氛围。
+
+【镜头与构图】
+
+9:16竖版，坐姿大半身至腿部构图。
+
+摄影机位略高于人物坐姿时的腰部，采用轻微俯拍角度。
+
+使用等效50mm人像镜头，拍摄距离约2至3米。
+
+人物位于画面中央略偏左，脸部处于画面上方三分之一位置。
+
+上半身、腰部、旗袍开衩、弯曲的双腿和桌面完整呈现。
+
+人物脸部、肩颈和双腿形成自然的对角线构图。
+
+左侧保留温暖台灯与竹帘，右侧保留水墨山水挂轴。
+
+桌面与腿部形成前景层次，背景略微柔化但保留清晰的中式环境信息。
+
+人物面部与丝绸服装保持高度清晰，背景具有柔和的电影级空间深度。
+
+【光影设计】
+
+低照度中式室内电影摄影。
+
+主光来自画面左侧的窗户，明亮日光经过竹帘过滤后形成自然的条纹状光影。
+
+阳光在人物肩膀、锁骨、胸前、上臂和腿部形成不规则的明亮光斑。
+
+人物冷白色皮肤与暖色条纹阳光形成柔和的明暗对比。
+
+脸部受到柔和的侧前方漫射光照亮，五官清晰，鼻梁与脸颊具有自然立体高光。
+
+画面左侧台灯提供微弱暖黄色环境光。
+
+背景整体处于深棕色阴影中，右侧山水挂轴受到少量柔和环境光照射。
+
+真丝旗袍表面呈现细致的银白色反射与自然褶皱阴影。
+
+高光明亮但不过曝，暗部深沉但保留真实细节。
+
+【色彩风格】
+
+整体采用暖棕色与冷白色对比的东方电影调色。
+
+主色为深胡桃木棕色、香槟米白色、青墨绿色、暖金色和冷白肤色。
+
+人物皮肤清透白皙，略带自然粉色血色感。
+
+旗袍呈柔和的香槟白色，山水图案为青灰与墨绿色。
+
+背景保持暗棕色，竹帘日光和台灯呈现温暖琥珀色。
+
+整体饱和度适中，光影反差明显，具有细腻的复古电影层次。
+
+【真实感与画质要求】
+
+超写实摄影，高清自然五官，真实皮肤微纹理，清晰深棕色瞳孔，精致睫毛与眉毛。
+
+真实黑色发丝，准确自然的手指结构，正确的身体比例和腿部关节。
+
+真丝面料具有真实高光、褶皱和重量感。
+
+桌面木纹、陶瓷花瓶、山水宣纸与竹帘纹理真实清晰。
+
+保留真实摄影镜头的细微颗粒感与自然光学质感。
+
+无文字水印，无LOGO，无手机截图黑边。
+
+【负面提示词】
+
+动漫，插画，3D渲染，塑料皮肤，过度磨皮，强HDR，过度锐化，夸张网红脸，浓妆，假睫毛，过尖下巴，五官不对称，眼睛错位，异常嘴唇，头部比例失真，颈部扭曲，肩膀错位，多余手臂，多余手指，手掌畸形，腰部异常扭曲，骨盆错位，臀部畸形，腿部融合，膝盖错位，多余腿部，脚踝扭曲，丝绸面料穿模，旗袍开衩结构错误，布料不合理透明，背景挂画变形，桌面结构错误，竹帘光影不自然，强烈背景虚化，明显AI生成痕迹，文字，LOGO，水印，截图界面。
+```
+来源：@CryY666666 · https://x.com/CryY666666/status/2114456268530393398
+
+<a id="case-1000"></a>
+
+### 例1000：用白模 具象化人物姿势动作
+
+*2026-10-29*
+
+![例1000](images/case1000.jpg)
+
+```text
+用白模 具象化人物姿势动作
+用提示词去刻画具体细节
+
+两者搭配 是个不错的选择
+参考提示词：
+约6:13狭长竖幅写实人像摄影，取景从头顶至腰部，人物位于画面中下部，头部偏右，头顶上方保留约五分之一画高的深暗背景。
+一位年轻成年东亚女性，上半身接近正对镜头，肩线略微倾斜，双臂沿身体两侧向下延伸，双手在画外。头部向画面右侧明显倾斜，颈部自然舒展，脸部仍接近正面，目光接近镜头，双唇轻合，神态平静。脸部轮廓偏椭圆，下颌逐渐收窄，下巴圆缓，眉眼舒展，唇色为低饱和玫瑰豆沙色。黑色偏分长直发，主要发束沿画面右侧垂落，少量细发散在颈肩前。
+穿白色大U领长袖罗纹针织上衣，衣身贴合，纵向织纹清楚，前中有细窄门襟与小纽扣，领口露出肩颈和锁骨。
+画外斜向定向光照亮画面右侧的额头、鼻梁、脸颊与下巴，另一侧眼窝和颊侧保持明显阴影；颈侧、锁骨下方及发丝覆盖处保留自然暗面。受光的白色衣料接近亮白，脸部亮度低于衣料。数枚枝叶的深色投影斜落在锁骨下方和胸前裸露皮肤上，叶片与细枝的形状可辨，边缘清楚而略有自然柔化。
+背景为近黑色室内空间，仅隐约保留竖向框架和暗灰矩形块，自然虚化。整体采用深黑位、克制饱和度与明显明暗反差，白衣中性略冷，肤色保留浅米粉与微暖感。面部合焦，皮肤局部反差柔和，受光发束和针织纹理可辨；暗部保持干净，避免均匀正面补光、灰雾和过度锐化。
+```
+来源：@lishishen7i · https://x.com/lishishen7i/status/2110724209148355046
+
+<a id="case-995"></a>
+
+### 例995：GPT image 2 on chatgpt
+
+*2026-10-29*
+
+![例995](images/case995.jpg)
+
+```text
+GPT image 2 on chatgpt
+
+Prompt
+
+Transform the uploaded photograph into a minimalist vintage travel-journal collage. Match the provided two-panel reference style as closely as possible.
+
+CANVAS:
+Vertical 3:4 composition with two horizontal sections of approximately equal height.
+
+TOP HALF — ORIGINAL PHOTO:
+Preserve the uploaded photograph and its original composition, location, architecture, objects, colors, and perspective. Keep the image photographic, natural, slightly soft-focused, and cinematic. Do not turn the top half into an illustration.
+
+BOTTOM HALF — SIMPLE FLAT ILLUSTRATION:
+Create a deliberately simplified, minimalist watercolor-and-ink illustration of the EXACT SAME SCENE.
+
+IMPORTANT: The bottom illustration must look like the simple, faded illustration in the reference image, NOT a detailed watercolor painting.
+
+Use:
+
+Simplified architectural silhouettes
+
+Flat, translucent watercolor washes
+
+Minimal outlines and loose brushwork
+
+Faded terracotta and dusty blue
+
+Muted olive green and charcoal
+
+Large areas of empty cream paper
+
+Simple human silhouettes
+
+Very few architectural details
+
+Soft, imperfect edges
+
+Do not reproduce every photographic detail. Preserve only the most recognizable elements of the original scene.
+
+The illustration should feel understated, airy, slightly faded, and hand-painted on vintage paper.
+
+LAYOUT:
+Keep the photograph in the upper half and the illustration in the lower half. Separate them with a simple, subtly irregular horizontal edge. Avoid elaborate torn-paper effects.
+
+PAPER:
+Warm ivory paper with subtle natural grain and a matte finish. The lower section should have plenty of empty space.
+
+TEXT:
+At the bottom of the illustrated section, add a small lowercase typewriter-style heading followed by two short lines of reflective text relevant to the scene.
+
+Use dark gray monospaced letters, slightly faded ink, and generous spacing. Keep the text small and understated.
+
+STRICT STYLE RULES:
+The top must remain a photograph.
+The bottom must remain a simple flat illustration.
+Do not make the bottom photorealistic.
+Do not use highly detailed watercolor rendering.
+Do not fill the entire paper with paint.
+Do not add extra panels, borders, decorative elements, or random text.
+Preserve the original scene's recognizable identity.
+
+The final image must resemble a minimalist travel-journal page with a photograph above and a simple illustrated interpretation below.
+
+Aspect ratio: 3:4 vertical.
+```
+来源：@AiwithLariab · https://x.com/AiwithLariab/status/2111010045442048383
+
+<a id="case-983"></a>
+
+### 例983：【BLUEPLATE NIGHT IMPRESSION｜蓝印…
+
+*2026-10-29*
+
+![例983](images/case983.jpg)
+
+```text
+【BLUEPLATE NIGHT IMPRESSION｜蓝印夜景版画转绘风】
+
+把景色进行一次独立的手工制版，让色阶、刻线、留白和纸张共同完成转绘。
+
+Prompt：
+上半部保持真实照片，下半部将同一场景转为手工靛蓝蓝晒与凸版印刷效果。使用靛蓝、普鲁士蓝、蓝灰和象牙纸分层，以深蓝剪影、干刷断边、刻线、吸水纸纤维、版压不均、针孔和轻微套版偏移重建主体。保留主体身份、数量、姿态、建筑结构、地形关系和视角；下半部可带宽阔象牙留白及简短印刷标题。禁止简单蓝色滤镜、霓虹蓝、数字渐变和虚构主体。
+```
+来源：@Hamburgerai · https://x.com/Hamburgerai/status/2109178723924860997
+
+<a id="case-978"></a>
+
+### 例978：【PIXEL PROOF INDEX EDITORIAL｜像…
+
+*2026-10-29*
+
+![例978](images/case978.jpg)
+
+```text
+【PIXEL PROOF INDEX EDITORIAL｜像素校样索引转绘风】
+
+prompt：
+将上半部完整保留为真实摄影，下半部把同一照片重组为艺术家印前校样与像素索引档案页。提取照片中的4–6种语义色层，制作像素化形体、细线轮廓和四格色彩索引，分别对应主体、结构、环境、阴影/材质；加入十字定位线、裁切线、编号、纸张压印、轻微套印错位和丝网颗粒。适用于人物、动物、建筑、城市、自然、食物和物件，禁止左右并排、九宫格、普通滤镜和角标。
+```
+来源：@Hamburgerai · https://x.com/Hamburgerai/status/2109251490116452445
 
 <a id="case-959"></a>
 
@@ -16160,7 +16955,1172 @@ A vintage 35mm film photograph of a {argument name="subject description" default
 <a id="cat-photo"></a>
 
 ## 📷 摄影与写真人像
-_人像写真、手机摄影、胶片与商业摄影质感_（218 例）
+_人像写真、手机摄影、胶片与商业摄影质感_（241 例）
+
+<a id="case-1040"></a>
+
+### 例1040：【花花的AI写真 —— 想试试膝枕吗？】
+
+*2026-10-29*
+
+![例1040](images/case1040.jpg)
+
+```text
+【花花的AI写真 —— 想试试膝枕吗？】      
+
+张力源于生活，膝枕的提示词真的非常难调，纯文字驱动超级费劲，最终我还是决定放出来啦，大家可以再指导我一下
+
+{
+"角色参考": "严格参考图中女性容貌，女性身材比例。有符合物理效果的多样化动态刘海状态和发型状态（不能和原图1头发和刘海状态一致）。",
+"建议画幅": "9:16",
+"完整提示词": {
+"主题": "雨天傍晚，成年女性坐在沙发上，让男性枕在自己腿上休息。画面是男性睁眼向上看她的第一人称视角。",
+"人物与服装": "她穿浅粉色真丝吊带睡裙，外搭松垮的奶油色针织开衫。真丝顺着身体自然垂落，领口与胸前衣料形成柔软褶皱；开衫随她俯身从肩侧略微滑开，呈现松弛的居家状态。",
+"动作与表情": "她稍稍俯身看向枕在腿上的男性，眼神温柔，嘴角带一点亲昵的笑意。她手轻轻梳理他的头发，手可以停留在画面外；几缕发丝随低头动作自然垂向镜头。",
+"镜头构图": "镜头严格位于男性枕在她腿上的双眼位置，从极近处斜向上看。她的胸前上身和真丝衣料因距离最近，大面积占据画面左侧与下方前景；低头看他的面容位于稍远的右上方，从肩颈旁自然露出。两者形成鲜明的斜向近大远小关系，而不是上下排列的标准人像。画面其余空隙只露出少量天花板与暗色室内背景；承托头部的腿、完整沙发和男性头部身体均在视野之外。",
+"光线与质感": "窗外雨天的冷蓝余光照亮她的侧脸，身后的暖灯轻轻勾亮发丝、肩头和真丝褶皱。真实手机近距离视角，面容清晰，靠近镜头的衣料保留自然透视与轻微边缘柔化。重点呈现她俯身时近在眼前的上身、侧旁温柔的脸，以及只有躺在她腿上才能看到的光景。"
+}
+}
+
+#GPT #PROMPT #image2
+```
+来源：@huahuansfw1 · https://x.com/huahuansfw1/status/2114169608722674003
+
+<a id="case-1039"></a>
+
+### 例1039：http://promptsref.com/tool/AI-…
+
+*2026-10-29*
+
+![例1039](images/case1039.jpg)
+
+```text
+http://promptsref.com/tool/AI-Image-Generator/share/b02f9b2c06065fa4f7e68559ae3ecde3
+Prompt:{
+  "subject": {
+    "description": "An adult Cute Japanese  woman posing in a dark, intimate editorial portrait with a whimsical white rabbit-inspired costume. She has a delicate oval face, large dark brown eyes, a small straight nose, softly defined lips, and long, flowing black hair with wispy bangs. She wears an elaborate white lace rabbit-ear headpiece, a pale ivory strapless corset-style dress, long white lace gloves, and a black choker with a small silver ring pendant. She sits sideways on a dark floor or low platform, with one leg folded across the foreground and her upper body turned toward the camera. Her expression is calm, poised, and subtly alluring, with direct eye contact and relaxed lips. The image combines delicate bridal-inspired styling, playful bunny-costume details, dark romantic fashion photography, and handwritten golden annotations.",
+    "mirror_rules": "This is a direct portrait, not a mirror selfie. Preserve the front-facing view of the subject, the seated three-quarter body angle, the asymmetrical rabbit ears, and the long hair cascading over one shoulder. Keep the subject centered slightly to the right within the dark composition. Preserve the handwritten decorative lettering and heart doodles as part of the original editorial design if recreating the complete graphic; omit them only when generating a clean photograph without overlays.",
+    "age": "Adult woman, approximately 21–28 years old.",
+    "expression": {
+      "eyes": {
+        "look": "Large, dark brown almond-shaped eyes with natural catchlights, fine upper eyeliner, softly defined lower lashes, and delicately groomed brows.",
+        "energy": "Quiet, composed, gently playful, and self-assured.",
+        "direction": "Looking directly into the camera with a steady, slightly contemplative gaze."
+      },
+      "mouth": {
+        "position": "Lips softly closed, with a natural muted rose-pink color and a subtle fullness.",
+        "energy": "Relaxed and understated, conveying restrained confidence rather than a broad smile."
+      },
+      "overall": "A serene, slightly enigmatic expression with direct eye contact and minimal facial tension. The contrast between her composed expression and the whimsical rabbit-ear headpiece creates a refined, quietly playful mood."
+    },
+    "face": {
+      "preserve_original": "Preserve the visible facial proportions, oval face shape, natural eye spacing, delicate nose, softly rounded cheeks, and subtle lip shape. Maintain realistic skin texture and small natural asymmetries. Avoid replacing the face with an overly symmetrical or doll-like template.",
+      "makeup": "Soft East Asian editorial makeup with a pale neutral-beige complexion, subtle pink blush, delicate brown-black eyeliner, softly separated lashes, lightly defined brows, muted rose lips, and restrained highlights on the nose bridge and cheekbones. The makeup is clean and understated, with a gentle porcelain-like finish while retaining realistic pores and natural skin variation."
+    }
+  },
+  "hair": {
+    "color": "Deep natural black with subtle cool brown reflections where the light catches individual strands.",
+    "style": "Long, loose hair falling well below the chest, with wispy, slightly separated bangs across the forehead. The hair is parted subtly near the center, with face-framing strands and a heavier section cascading over the subject's left shoulder from the viewer's perspective.",
+    "effect": "Silky, naturally glossy, and softly voluminous, with visible individual strands and loose waves through the lower lengths. The hair lies naturally over the corset and shoulder, creating dark flowing lines against the pale outfit. Preserve minor flyaways and irregular strand placement."
+  },
+  "body": {
+    "frame": "A slender adult feminine frame with relaxed shoulders, an elongated neck, and a seated three-quarter pose. The torso remains upright while the hips and legs angle diagonally across the lower frame.",
+    "waist": "A defined waist emphasized by the structured ivory corset-style dress, with realistic fabric tension and gentle shaping rather than exaggerated proportions.",
+    "chest": "The upper chest, collarbones, shoulders, and upper bust are visible above the strapless neckline. The fitted ivory garment provides coverage and follows the natural torso contour. Preserve the original neckline and garment structure without increasing exposure.",
+    "legs": "The thighs and knees are visible in the seated pose. One leg folds across the lower foreground, extending diagonally toward the lower-left edge, while the other remains bent beneath or beside the body. The pale garment and gloves overlap parts of the legs. Preserve the natural anatomy, original leg placement, and soft skin highlights.",
+    "skin": {
+      "visible_areas": "Face, neck, collarbones, shoulders, upper chest, upper arms, forearms partially covered by lace gloves, and portions of the thighs and knees.",
+      "tone": "Light ivory-beige skin with a neutral undertone and subtle peach-pink warmth in the cheeks and limbs.",
+      "texture": "Smooth, supple skin with natural fine texture, faint pores, delicate tonal variation, and soft transitions around the knees and elbows. The skin appears lightly moisturized, with a restrained satin sheen rather than an artificial plastic finish.",
+      "lighting_effect": "A frontal key light creates gentle highlights across the forehead, nose bridge, collarbones, shoulders, and exposed thighs. Soft side illumination defines the arms and body against the dark background. The brightest highlights remain on the face and pale clothing, while the outer arms and hair transition into deeper shadow. Preserve realistic skin gradients and avoid overexposed highlights."
+    }
+  },
+  "pose": {
+    "position": "Seated on a dark floor or low platform against a nearly black background, with the torso facing the camera and the hips turned slightly sideways.",
+    "base": "The subject sits with her upper body upright and shoulders relaxed. One arm rests close to her side, while the other descends toward the lap. The legs are folded asymmetrically across the foreground, creating a diagonal line from the lower-left corner toward the center-right. Long hair falls naturally over the front of the dress.",
+    "overall": "A controlled but relaxed fashion pose combining a straight upper-body silhouette with an asymmetrical seated lower-body arrangement. The posture feels deliberately composed but not rigid, with slight natural shoulder asymmetry and soft fabric folds. Preserve the elegant, slightly theatrical stillness."
+  },
+  "clothing": {
+    "top": {
+      "type": "Ivory-white strapless corset-style top integrated into a fitted short dress.",
+      "color": "Soft ivory, pale champagne, and faint warm white.",
+      "details": "A strapless sweetheart-inspired neckline with structured vertical seams, subtle translucent fabric panels, and delicate white lace accents. The bodice fits closely around the torso and transitions into a short, pale lower garment. Preserve the visible seam lines and understated textured finish.",
+      "effect": "Matte-to-satin fabric with gentle highlights and fine wrinkles where the torso bends. The structured bodice retains its shape without looking rigid or overly glossy. The pale fabric contrasts strongly with the black hair and background."
+    },
+    "bottom": {
+      "type": "Short ivory skirt or fitted dress lower section, partially obscured by the seated pose and foreground leg.",
+      "color": "Pale ivory-white with faint champagne shadows.",
+      "details": "A fitted, short lower section consistent with the strapless dress, with soft folds and overlapping fabric around the hips. The hem and lower silhouette are partially hidden by the folded legs and lace gloves.",
+      "effect": "Lightweight fabric with realistic creasing and soft shadow gradients. Keep the garment's original coverage, shape, and pale color without adding unnecessary embellishments."
+    }
+  },
+  "accessories": {
+    "headwear": "An elaborate white lace rabbit-ear headpiece. One ear rises vertically above the crown, while the other bends outward and curves downward to the right side of the image. The ears have a delicate openwork lace texture, slightly translucent sections, and soft white edging. Preserve their intentionally asymmetrical shapes and lightweight appearance.",
+    "jewelry": "A black choker fitted closely around the neck, featuring a small circular silver ring pendant at the center. Keep the jewelry minimal and distinct against the pale skin.",
+    "prop": "Long white lace gloves or arm warmers extending from the hands toward the forearms, with intricate floral openwork, soft scalloped edges, and small ribbon ties near the wrists. The gloves partially overlap the pale dress and the subject's folded legs.",
+    "device": "No phone, camera, or other handheld electronic device is visible."
+  },
+  "photography": {
+    "camera_style": "Dark romantic fashion portrait with a cosplay-editorial aesthetic, combining realistic digital photography, soft retouching, and a deliberately designed graphic layout. The image resembles a carefully composed personal fashion shoot rather than a brightly lit commercial studio photograph.",
+    "angle": "Camera positioned approximately at the subject's seated upper-body level, facing slightly downward toward the folded legs. The face remains nearly frontal, while the torso and lower body create a subtle diagonal perspective.",
+    "shot_type": "Vertical three-quarter seated portrait, framed from the rabbit ears to the lower legs. The subject occupies the center-right of the composition, with ample black negative space on the upper-left and left sides for handwritten lettering and decorative heart shapes. The lower edge crops part of the legs and outfit.",
+    "aspect_ratio": "Approximately 2:3 vertical portrait.",
+    "texture": "Crisp facial detail, visible lace fibers, individual hair strands, and realistic fabric texture. The black background retains deep shadows with faint architectural detail. Subtle photographic grain and gentle tonal softness contribute to the dark editorial mood. Preserve the contrast between the clean subject and the lightly distressed, graphic-overlay treatment.",
+    "lighting": "A soft frontal flash or compact diffused key light illuminates the face, shoulders, and ivory outfit against a nearly black room. The light produces controlled highlights on the skin and lace while leaving the background substantially underexposed. Mild directional shadowing under the chin and around the hair creates dimensionality. Avoid excessive rim lighting, colorful gels, or an evenly illuminated background.",
+    "depth_of_field": "Moderately shallow depth of field, keeping the face, headpiece, and bodice in clear focus while allowing the dark background to recede. The foreground leg remains recognizable with natural perspective. Avoid excessive artificial bokeh or blurred lace details."
+  },
+  "background": {
+    "setting": "A dark indoor room or studio-like corner with a black wall or dark paneled backdrop and a dark floor.",
+    "wall_color": "Near-black charcoal with subtle cool-gray undertones and faint architectural panel lines.",
+    "elements": [
+      "Dark vertical wall panels behind the subject.",
+      "A nearly black background with minimal visible environmental detail.",
+      "A dark, low floor or platform supporting the seated pose.",
+      "Handwritten pale-gold lettering in the upper-left area reading 'HERO IN EARTH, JOY IS YOURS.'",
+      "Small hand-drawn gold heart outlines on the left and right sides.",
+      "Additional pale-gold handwritten decorative text near the lower portion of the image.",
+      "A narrow, irregular pale border around the outer image edges."
+    ],
+    "atmosphere": "Dark, intimate, whimsical, and slightly theatrical. The black environment emphasizes the pale lace costume, luminous skin, and flowing dark hair. The handwritten gold marks introduce a personal scrapbook or fashion-zine quality.",
+    "lighting": "The subject is illuminated much more strongly than the background, creating a controlled low-key exposure. The backdrop remains nearly black, with faint gray details visible in selected areas. Pale clothing and skin catch the frontal light, while the surrounding space stays subdued."
+  },
+  "the_vibe": {
+    "energy": "Quiet confidence, delicate playfulness, and composed elegance.",
+    "mood": "Dreamy, mysterious, soft, and subtly mischievous.",
+    "aesthetic": "Dark romantic bunny cosplay, ivory lace, black choker styling, soft East Asian beauty editorial, gothic-inspired minimalism, and handwritten scrapbook graphics.",
+    "authenticity": "Keep natural facial asymmetry, slightly uneven lace edges, loose hair strands, subtle garment creases, and realistic shadows. The graphic elements should feel handwritten rather than perfectly typeset. Avoid an overly polished, synthetic, or generic fantasy-render appearance.",
+    "intimacy": "Direct eye contact, the close seated pose, the delicate choker, and the soft texture of the lace create a quiet connection with the viewer. The dark background makes the portrait feel private and self-contained.",
+    "story": "She had settled into the shadows, the lace rabbit ears bending in two different directions as the light caught the pale fabric. Her gaze stayed on the camera, calm and unreadable, while handwritten golden words drifted around the edges like a personal note left on a photograph.",
+    "caption_energy": "A little lace, a little darkness, and a quiet kind of mischief."
+  },
+  "constraints": {
+    "must_keep": [
+      "Adult woman with long, flowing black hair and wispy bangs.",
+      "Large dark brown eyes and a calm, direct gaze.",
+      "Natural facial proportions and subtle rosy makeup.",
+      "Asymmetrical white lace rabbit ears, one upright and one curved outward.",
+      "Ivory strapless corset-style dress with a structured bodice.",
+      "Black choker with a small circular silver pendant.",
+      "Long white lace gloves with floral openwork and ribbon ties.",
+      "Seated three-quarter pose with legs folded diagonally across the foreground.",
+      "Nearly black background with faint panel details.",
+      "Frontal soft flash or diffused key lighting.",
+      "Strong contrast between the pale outfit and dark surroundings.",
+      "Handwritten pale-gold text and heart doodles when recreating the complete graphic.",
+      "Vertical portrait composition with generous dark negative space.",
+      "Realistic skin texture, lace detail, and natural fabric folds.",
+      "A quiet, dark romantic, whimsical editorial atmosphere."
+    ],
+    "avoid": [
+      "Changing the hair to blonde or brightly colored hair.",
+      "Short hair or elaborate curls that obscure the original silhouette.",
+      "Matching rabbit ears that are both straight and symmetrical.",
+      "Replacing the lace headpiece with solid plastic ears.",
+      "Changing the ivory outfit to black or saturated colors.",
+      "Adding straps to the strapless bodice.",
+      "Removing the black choker or circular pendant.",
+      "Removing the lace gloves or ribbon ties.",
+      "Changing the seated pose to standing.",
+      "Exaggerated body proportions or unnatural anatomy.",
+      "Overexposed skin or excessive skin smoothing.",
+      "Bright studio backgrounds or colorful neon lighting.",
+      "Fantasy illustration, anime rendering, or plastic 3D textures.",
+      "Overly sharp, perfectly symmetrical lace.",
+      "Unnaturally blurred hair or accessories.",
+      "Additional people or unsupported props.",
+      "Incorrect or random decorative lettering.",
+      "Extra watermarks, logos, signatures, or unrelated text.",
+      "Cropping off the rabbit ears or the essential facial features."
+    ]
+  },
+  "negative_prompt": [
+    "anime",
+    "illustration",
+    "3D render",
+    "plastic skin",
+    "over-smoothed face",
+    "blonde hair",
+    "short hair",
+    "straight symmetrical rabbit ears",
+    "plastic bunny ears",
+    "colored costume",
+    "strapped bodice",
+    "missing choker",
+    "missing lace gloves",
+    "standing pose",
+    "distorted anatomy",
+    "oversized eyes",
+    "heavy contouring",
+    "bright background",
+    "neon lighting",
+    "excessive HDR",
+    "artificial bokeh",
+    "blurry lace",
+    "extra limbs",
+    "duplicate person",
+    "random text",
+    "watermark",
+    "logo",
+    "signature"
+  ]
+}
+```
+来源：@ViggoHayes · https://x.com/ViggoHayes/status/2114494456158429262
+
+<a id="case-1036"></a>
+
+### 例1036：冰蓝薄纱 · 韩系清冷电影感人像
+
+*2026-10-29*
+
+![例1036](images/case1036.jpg)
+
+```text
+冰蓝薄纱 · 韩系清冷电影感人像
+
+Seedance 提示词分享
+
+【整体画面风格】
+
+9:16竖版，单幅独立画面，超写实韩系高级女性人像摄影，电影级唯美人像写真，清冷氧气感美人，真实摄影质感与高级时尚人像美学结合。
+
+冷灰蓝色背景，冰蓝色透明薄纱服装，浓密深棕色长发，柔和清透的冷白肤色，自然粉色裸妆，细致光影，高级低饱和度电影调色。
+
+强烈但柔和的侧逆光，细腻的面部明暗过渡，真实肌肤纹理，精细独立发丝，微风吹动长发，清晰瞳孔反光。
+
+整体氛围纯净、安静、温柔、清冷、梦幻，略带忧郁感，但具有真实人物摄影的自然气息。
+
+高清摄影，真实光学质感，避免塑料皮肤、过度磨皮和明显AI生成痕迹。
+
+【人物面容】
+
+一位23岁左右、明确成年的绝美东亚女性。
+
+精致小巧的鹅蛋脸，巴掌大小的脸型，头型自然偏小，额头柔和饱满，颧骨平滑，脸颊软组织较少，下颌线柔和自然收窄，小巧圆润的尖下巴。
+
+面部轮廓干净，五官精致协调，带有柔和的清冷感，不使用夸张的网红脸比例。
+
+肤色为细腻通透的冷白瓷肌，具有自然柔软的皮肤光泽，保留真实微弱毛孔和细小肌肤纹理。
+
+双颊带有淡淡的樱花粉色红晕，鼻尖与眼下区域具有柔和自然的粉色血色感。
+
+一双清澈明亮的深灰棕色杏仁眼，眼型自然偏大，眼尾微微下垂，眼神温柔干净。
+
+细致自然的双眼皮，轻微饱满的卧蚕，柔和粉棕色眼影。
+
+睫毛纤长、自然、根根分明，不使用浓密假睫毛。
+
+眉毛细致自然，呈柔和偏平直的灰棕色眉形。
+
+鼻梁挺直纤细，鼻尖小巧圆润，鼻翼自然，鼻梁与鼻尖形成明亮柔和的立体高光。
+
+双唇饱满柔软，嘴角自然微微上扬，呈现浅玫瑰蜜桃粉色水润唇妆。
+
+双唇轻轻张开，露出少量自然上排牙齿，形成非常轻微、温柔的笑意。
+
+面部表情平静、柔和、略带清冷感，双眼自然直视镜头。
+
+【发型】
+
+深黑棕色长发，长度延伸至胸部以下，发量自然丰盈。
+
+头顶自然蓬松，发根具有真实体积感。
+
+自然偏中分的长刘海，额前保留少量细小凌乱的碎发。
+
+发丝整体呈现自然松散的柔和波浪，不是规则的大卷发。
+
+大部分长发自然披散在肩膀两侧，部分发丝垂落至胸前。
+
+微风从人物左侧轻轻吹向右侧，使头顶和脸颊附近的细小发丝自然飘动。
+
+人物右侧的部分长发向画面右方轻轻扬起，形成松散自然的飞散发丝。
+
+头发受到强烈侧逆光照射，呈现深棕色、浅栗棕色与少量银白色轮廓反光。
+
+每根发丝具有细致真实的高光层次，暗部仍保留清晰的发束结构。
+
+避免过度卷曲、假发、头发黏连和油亮的塑料质感。
+
+【服装设计】
+
+身穿一件浅冰蓝色轻薄透明薄纱连衣裙。
+
+服装采用半透明欧根纱、轻柔雪纺与内层不透明衬布组合。
+
+低饱和度浅灰蓝与冰蓝色之间的清透色调。
+
+领口采用柔和的宽圆领与浅V形交叉设计，自然露出肩颈与锁骨。
+
+肩部带有轻薄透明的薄纱覆盖层，隐约呈现自然肩部轮廓。
+
+长袖采用半透明薄纱材质，袖口略微宽松，薄纱在手腕附近形成轻柔褶皱。
+
+衣服胸前与肩部具有自然层叠的透明薄纱结构。
+
+布料在阳光下呈现淡淡的冰蓝色透光效果，具有细腻的纱线纹理。
+
+薄纱轻盈、柔软，边缘具有自然半透明质感。
+
+内层服装保持不透明，结构完整，避免布料穿模和不合理暴露。
+
+【首饰】
+
+颈部佩戴两至三条极其纤细的银色项链。
+
+项链长度略有不同，形成自然的多层叠戴效果。
+
+其中一条银色项链带有非常小巧的圆形水晶吊坠。
+
+项链贴合人物锁骨和颈部曲线，具有真实金属反光。
+
+不佩戴夸张耳饰和复杂头饰，整体首饰轻盈、精致、简洁。
+
+【人物姿势】
+
+人物身体略微侧向镜头约15至25度。
+
+上半身自然挺直，肩膀放松，一侧肩膀轻微靠近镜头。
+
+头部自然转向镜头，面部呈接近正面的轻微三分之二角度。
+
+头部向一侧轻轻倾斜，形成温柔自然的颈部线条。
+
+一只手臂从画面下方自然抬起，手掌靠近胸前锁骨位置。
+
+手指轻轻弯曲，食指自然靠近锁骨和项链附近，仿佛正在轻触衣领。
+
+其余手指自然放松，部分手掌被冰蓝色薄纱长袖覆盖。
+
+另一只手臂自然垂落于身体侧面，位于画面外。
+
+人物肩颈自然舒展，锁骨清晰，手指修长，动作轻柔。
+
+眼睛平静地注视镜头，嘴唇略微张开，带有非常浅淡的自然笑意。
+
+整体姿势安静、优雅，具有韩系时尚人像的自然松弛感。
+
+【背景环境】
+
+简洁干净的冷灰蓝色背景。
+
+背景呈现深灰蓝、浅雾蓝与柔和青灰色之间的细微渐变。
+
+背景没有明显建筑、家具或复杂装饰。
+
+环境整体偏暗，人物面部与冰蓝色服装处于画面最明亮区域。
+
+背景具有少量自然光影变化，不使用完全均匀的纯色背景。
+
+远处呈现细微柔和的灰蓝色空气感，具有真实摄影的空间层次。
+
+保持极简背景，让人物面容、发丝和透明薄纱成为视觉重点。
+
+【镜头与构图】
+
+9:16竖版，近距离胸部以上半身人像特写。
+
+采用等效85mm人像镜头视角，自然的人像透视，没有明显广角变形。
+
+摄影机位接近人物眼睛高度，采用正面平视拍摄。
+
+拍摄距离约1.2至1.8米。
+
+人物位于画面中央，头部轻微偏向画面左侧。
+
+头顶保留少量背景留白。
+
+人物双眼位于画面上方三分之一附近。
+
+完整呈现面部、颈部、锁骨、肩膀、部分上半身和胸前轻抬的手掌。
+
+深棕色长发从头顶自然延伸至画面两侧与下方。
+
+人物面部高度清晰，眼睛、鼻梁、嘴唇与发丝具有精细细节。
+
+背景自然柔和，不使用过度强烈的景深虚化。
+
+【光影设计】
+
+电影级冷色调侧逆光人像摄影。
+
+主光从人物右后上方照射，形成明显的冷白色发丝轮廓光。
+
+人物右侧头发、肩膀和薄纱衣服边缘受到明亮的自然光照射。
+
+脸部左侧处于相对柔和的阴影区域，右侧脸颊和鼻梁具有更加明亮的高光。
+
+人物正前方存在非常柔和的大面积冷白色环境补光，使眼睛、鼻梁和嘴唇保持清晰。
+
+面部光影具有明显但柔和的立体层次。
+
+额头、鼻梁、脸颊、下巴和锁骨具有真实的亮暗变化。
+
+光线穿过冰蓝色薄纱长袖，产生自然半透明的高光与细腻阴影。
+
+深色长发在逆光下形成银白与浅栗棕色混合的细致发丝反光。
+
+整体光照明亮柔和，保留真实摄影中的阴影深度，不制造过度均匀的美颜光。
+
+【色彩风格】
+
+整体采用低饱和度冷灰蓝色电影调色。
+
+主色为冷灰蓝、冰蓝、银白、深黑棕和柔和粉色。
+
+背景保持冷灰蓝色，暗部具有轻微青蓝倾向。
+
+人物皮肤呈清透冷白色，但保留自然淡粉色血色感。
+
+眼睛保持深灰棕色，嘴唇呈浅蜜桃玫瑰粉色。
+
+深棕色头发与冷蓝背景形成明显的色彩对比。
+
+高光柔和，暗部深沉但不死黑，整体对比度适中。
+
+避免过度蓝色色偏、过度磨皮和强HDR。
+
+【真实感与画质】
+
+超写实人像摄影，精细自然的五官结构，真实皮肤微纹理，细腻自然的睫毛与瞳孔反光。
+
+真实独立发丝，准确的肩颈与手部解剖结构。
+
+薄纱具有自然半透明效果和真实物理褶皱。
+
+银色项链具有真实金属与水晶反射。
+
+真实摄影镜头成像，轻微自然颗粒，柔和的光学高光过渡。
+
+人物面部清晰，背景自然柔和。
+
+无文字，无LOGO，无水印，无拼图，无截图边框。
+
+【负面提示词】
+
+动漫，插画，卡通，3D渲染，CG人物，塑料皮肤，过度磨皮，网红脸，夸张大眼，过尖下巴，假睫毛，浓妆，面部不对称，眼睛错位，瞳孔畸形，鼻梁变形，异常嘴唇，夸张脸部高光，假发，头发黏连，过度卷发，手指畸形，多余手指，手腕错位，多余手臂，肩膀扭曲，颈部异常，薄纱穿模，错误透明材质，项链变形，过度锐化，强HDR，背景过亮，严重蓝色色偏，低清晰度，明显AI生成痕迹，文字，LOGO，水印，边框。
+```
+来源：@CryY666666 · https://x.com/CryY666666/status/2114395612330496299
+
+<a id="case-1030"></a>
+
+### 例1030：http://promptsref.com/tool/AI-…
+
+*2026-10-29*
+
+![例1030](images/case1030.jpg)
+
+```text
+http://promptsref.com/tool/AI-Image-Generator/share/1742d622e54deeafab56165d706ea3a1
+Prompt:{
+  "subject": {
+    "description": "An adult Cute Japanese  woman posing in a dark, intimate editorial portrait with a whimsical white rabbit-inspired costume. She has a delicate oval face, large dark brown eyes, a small straight nose, softly defined lips, and long, flowing black hair with wispy bangs. She wears an elaborate white lace rabbit-ear headpiece, a pale ivory strapless corset-style dress, long white lace gloves, and a black choker with a small silver ring pendant. She sits sideways on a dark floor or low platform, with one leg folded across the foreground and her upper body turned toward the camera. Her expression is calm, poised, and subtly alluring, with direct eye contact and relaxed lips. The image combines delicate bridal-inspired styling, playful bunny-costume details, dark romantic fashion photography, and handwritten golden annotations.",
+    "mirror_rules": "This is a direct portrait, not a mirror selfie. Preserve the front-facing view of the subject, the seated three-quarter body angle, the asymmetrical rabbit ears, and the long hair cascading over one shoulder. Keep the subject centered slightly to the right within the dark composition. Preserve the handwritten decorative lettering and heart doodles as part of the original editorial design if recreating the complete graphic; omit them only when generating a clean photograph without overlays.",
+    "age": "Adult woman, approximately 21–28 years old.",
+    "expression": {
+      "eyes": {
+        "look": "Large, dark brown almond-shaped eyes with natural catchlights, fine upper eyeliner, softly defined lower lashes, and delicately groomed brows.",
+        "energy": "Quiet, composed, gently playful, and self-assured.",
+        "direction": "Looking directly into the camera with a steady, slightly contemplative gaze."
+      },
+      "mouth": {
+        "position": "Lips softly closed, with a natural muted rose-pink color and a subtle fullness.",
+        "energy": "Relaxed and understated, conveying restrained confidence rather than a broad smile."
+      },
+      "overall": "A serene, slightly enigmatic expression with direct eye contact and minimal facial tension. The contrast between her composed expression and the whimsical rabbit-ear headpiece creates a refined, quietly playful mood."
+    },
+    "face": {
+      "preserve_original": "Preserve the visible facial proportions, oval face shape, natural eye spacing, delicate nose, softly rounded cheeks, and subtle lip shape. Maintain realistic skin texture and small natural asymmetries. Avoid replacing the face with an overly symmetrical or doll-like template.",
+      "makeup": "Soft East Asian editorial makeup with a pale neutral-beige complexion, subtle pink blush, delicate brown-black eyeliner, softly separated lashes, lightly defined brows, muted rose lips, and restrained highlights on the nose bridge and cheekbones. The makeup is clean and understated, with a gentle porcelain-like finish while retaining realistic pores and natural skin variation."
+    }
+  },
+  "hair": {
+    "color": "Deep natural black with subtle cool brown reflections where the light catches individual strands.",
+    "style": "Long, loose hair falling well below the chest, with wispy, slightly separated bangs across the forehead. The hair is parted subtly near the center, with face-framing strands and a heavier section cascading over the subject's left shoulder from the viewer's perspective.",
+    "effect": "Silky, naturally glossy, and softly voluminous, with visible individual strands and loose waves through the lower lengths. The hair lies naturally over the corset and shoulder, creating dark flowing lines against the pale outfit. Preserve minor flyaways and irregular strand placement."
+  },
+  "body": {
+    "frame": "A slender adult feminine frame with relaxed shoulders, an elongated neck, and a seated three-quarter pose. The torso remains upright while the hips and legs angle diagonally across the lower frame.",
+    "waist": "A defined waist emphasized by the structured ivory corset-style dress, with realistic fabric tension and gentle shaping rather than exaggerated proportions.",
+    "chest": "The upper chest, collarbones, shoulders, and upper bust are visible above the strapless neckline. The fitted ivory garment provides coverage and follows the natural torso contour. Preserve the original neckline and garment structure without increasing exposure.",
+    "legs": "The thighs and knees are visible in the seated pose. One leg folds across the lower foreground, extending diagonally toward the lower-left edge, while the other remains bent beneath or beside the body. The pale garment and gloves overlap parts of the legs. Preserve the natural anatomy, original leg placement, and soft skin highlights.",
+    "skin": {
+      "visible_areas": "Face, neck, collarbones, shoulders, upper chest, upper arms, forearms partially covered by lace gloves, and portions of the thighs and knees.",
+      "tone": "Light ivory-beige skin with a neutral undertone and subtle peach-pink warmth in the cheeks and limbs.",
+      "texture": "Smooth, supple skin with natural fine texture, faint pores, delicate tonal variation, and soft transitions around the knees and elbows. The skin appears lightly moisturized, with a restrained satin sheen rather than an artificial plastic finish.",
+      "lighting_effect": "A frontal key light creates gentle highlights across the forehead, nose bridge, collarbones, shoulders, and exposed thighs. Soft side illumination defines the arms and body against the dark background. The brightest highlights remain on the face and pale clothing, while the outer arms and hair transition into deeper shadow. Preserve realistic skin gradients and avoid overexposed highlights."
+    }
+  },
+  "pose": {
+    "position": "Seated on a dark floor or low platform against a nearly black background, with the torso facing the camera and the hips turned slightly sideways.",
+    "base": "The subject sits with her upper body upright and shoulders relaxed. One arm rests close to her side, while the other descends toward the lap. The legs are folded asymmetrically across the foreground, creating a diagonal line from the lower-left corner toward the center-right. Long hair falls naturally over the front of the dress.",
+    "overall": "A controlled but relaxed fashion pose combining a straight upper-body silhouette with an asymmetrical seated lower-body arrangement. The posture feels deliberately composed but not rigid, with slight natural shoulder asymmetry and soft fabric folds. Preserve the elegant, slightly theatrical stillness."
+  },
+  "clothing": {
+    "top": {
+      "type": "Ivory-white strapless corset-style top integrated into a fitted short dress.",
+      "color": "Soft ivory, pale champagne, and faint warm white.",
+      "details": "A strapless sweetheart-inspired neckline with structured vertical seams, subtle translucent fabric panels, and delicate white lace accents. The bodice fits closely around the torso and transitions into a short, pale lower garment. Preserve the visible seam lines and understated textured finish.",
+      "effect": "Matte-to-satin fabric with gentle highlights and fine wrinkles where the torso bends. The structured bodice retains its shape without looking rigid or overly glossy. The pale fabric contrasts strongly with the black hair and background."
+    },
+    "bottom": {
+      "type": "Short ivory skirt or fitted dress lower section, partially obscured by the seated pose and foreground leg.",
+      "color": "Pale ivory-white with faint champagne shadows.",
+      "details": "A fitted, short lower section consistent with the strapless dress, with soft folds and overlapping fabric around the hips. The hem and lower silhouette are partially hidden by the folded legs and lace gloves.",
+      "effect": "Lightweight fabric with realistic creasing and soft shadow gradients. Keep the garment's original coverage, shape, and pale color without adding unnecessary embellishments."
+    }
+  },
+  "accessories": {
+    "headwear": "An elaborate white lace rabbit-ear headpiece. One ear rises vertically above the crown, while the other bends outward and curves downward to the right side of the image. The ears have a delicate openwork lace texture, slightly translucent sections, and soft white edging. Preserve their intentionally asymmetrical shapes and lightweight appearance.",
+    "jewelry": "A black choker fitted closely around the neck, featuring a small circular silver ring pendant at the center. Keep the jewelry minimal and distinct against the pale skin.",
+    "prop": "Long white lace gloves or arm warmers extending from the hands toward the forearms, with intricate floral openwork, soft scalloped edges, and small ribbon ties near the wrists. The gloves partially overlap the pale dress and the subject's folded legs.",
+    "device": "No phone, camera, or other handheld electronic device is visible."
+  },
+  "photography": {
+    "camera_style": "Dark romantic fashion portrait with a cosplay-editorial aesthetic, combining realistic digital photography, soft retouching, and a deliberately designed graphic layout. The image resembles a carefully composed personal fashion shoot rather than a brightly lit commercial studio photograph.",
+    "angle": "Camera positioned approximately at the subject's seated upper-body level, facing slightly downward toward the folded legs. The face remains nearly frontal, while the torso and lower body create a subtle diagonal perspective.",
+    "shot_type": "Vertical three-quarter seated portrait, framed from the rabbit ears to the lower legs. The subject occupies the center-right of the composition, with ample black negative space on the upper-left and left sides for handwritten lettering and decorative heart shapes. The lower edge crops part of the legs and outfit.",
+    "aspect_ratio": "Approximately 2:3 vertical portrait.",
+    "texture": "Crisp facial detail, visible lace fibers, individual hair strands, and realistic fabric texture. The black background retains deep shadows with faint architectural detail. Subtle photographic grain and gentle tonal softness contribute to the dark editorial mood. Preserve the contrast between the clean subject and the lightly distressed, graphic-overlay treatment.",
+    "lighting": "A soft frontal flash or compact diffused key light illuminates the face, shoulders, and ivory outfit against a nearly black room. The light produces controlled highlights on the skin and lace while leaving the background substantially underexposed. Mild directional shadowing under the chin and around the hair creates dimensionality. Avoid excessive rim lighting, colorful gels, or an evenly illuminated background.",
+    "depth_of_field": "Moderately shallow depth of field, keeping the face, headpiece, and bodice in clear focus while allowing the dark background to recede. The foreground leg remains recognizable with natural perspective. Avoid excessive artificial bokeh or blurred lace details."
+  },
+  "background": {
+    "setting": "A dark indoor room or studio-like corner with a black wall or dark paneled backdrop and a dark floor.",
+    "wall_color": "Near-black charcoal with subtle cool-gray undertones and faint architectural panel lines.",
+    "elements": [
+      "Dark vertical wall panels behind the subject.",
+      "A nearly black background with minimal visible environmental detail.",
+      "A dark, low floor or platform supporting the seated pose.",
+      "Handwritten pale-gold lettering in the upper-left area reading 'HERO IN EARTH, JOY IS YOURS.'",
+      "Small hand-drawn gold heart outlines on the left and right sides.",
+      "Additional pale-gold handwritten decorative text near the lower portion of the image.",
+      "A narrow, irregular pale border around the outer image edges."
+    ],
+    "atmosphere": "Dark, intimate, whimsical, and slightly theatrical. The black environment emphasizes the pale lace costume, luminous skin, and flowing dark hair. The handwritten gold marks introduce a personal scrapbook or fashion-zine quality.",
+    "lighting": "The subject is illuminated much more strongly than the background, creating a controlled low-key exposure. The backdrop remains nearly black, with faint gray details visible in selected areas. Pale clothing and skin catch the frontal light, while the surrounding space stays subdued."
+  },
+  "the_vibe": {
+    "energy": "Quiet confidence, delicate playfulness, and composed elegance.",
+    "mood": "Dreamy, mysterious, soft, and subtly mischievous.",
+    "aesthetic": "Dark romantic bunny cosplay, ivory lace, black choker styling, soft East Asian beauty editorial, gothic-inspired minimalism, and handwritten scrapbook graphics.",
+    "authenticity": "Keep natural facial asymmetry, slightly uneven lace edges, loose hair strands, subtle garment creases, and realistic shadows. The graphic elements should feel handwritten rather than perfectly typeset. Avoid an overly polished, synthetic, or generic fantasy-render appearance.",
+    "intimacy": "Direct eye contact, the close seated pose, the delicate choker, and the soft texture of the lace create a quiet connection with the viewer. The dark background makes the portrait feel private and self-contained.",
+    "story": "She had settled into the shadows, the lace rabbit ears bending in two different directions as the light caught the pale fabric. Her gaze stayed on the camera, calm and unreadable, while handwritten golden words drifted around the edges like a personal note left on a photograph.",
+    "caption_energy": "A little lace, a little darkness, and a quiet kind of mischief."
+  },
+  "constraints": {
+    "must_keep": [
+      "Adult woman with long, flowing black hair and wispy bangs.",
+      "Large dark brown eyes and a calm, direct gaze.",
+      "Natural facial proportions and subtle rosy makeup.",
+      "Asymmetrical white lace rabbit ears, one upright and one curved outward.",
+      "Ivory strapless corset-style dress with a structured bodice.",
+      "Black choker with a small circular silver pendant.",
+      "Long white lace gloves with floral openwork and ribbon ties.",
+      "Seated three-quarter pose with legs folded diagonally across the foreground.",
+      "Nearly black background with faint panel details.",
+      "Frontal soft flash or diffused key lighting.",
+      "Strong contrast between the pale outfit and dark surroundings.",
+      "Handwritten pale-gold text and heart doodles when recreating the complete graphic.",
+      "Vertical portrait composition with generous dark negative space.",
+      "Realistic skin texture, lace detail, and natural fabric folds.",
+      "A quiet, dark romantic, whimsical editorial atmosphere."
+    ],
+    "avoid": [
+      "Changing the hair to blonde or brightly colored hair.",
+      "Short hair or elaborate curls that obscure the original silhouette.",
+      "Matching rabbit ears that are both straight and symmetrical.",
+      "Replacing the lace headpiece with solid plastic ears.",
+      "Changing the ivory outfit to black or saturated colors.",
+      "Adding straps to the strapless bodice.",
+      "Removing the black choker or circular pendant.",
+      "Removing the lace gloves or ribbon ties.",
+      "Changing the seated pose to standing.",
+      "Exaggerated body proportions or unnatural anatomy.",
+      "Overexposed skin or excessive skin smoothing.",
+      "Bright studio backgrounds or colorful neon lighting.",
+      "Fantasy illustration, anime rendering, or plastic 3D textures.",
+      "Overly sharp, perfectly symmetrical lace.",
+      "Unnaturally blurred hair or accessories.",
+      "Additional people or unsupported props.",
+      "Incorrect or random decorative lettering.",
+      "Extra watermarks, logos, signatures, or unrelated text.",
+      "Cropping off the rabbit ears or the essential facial features."
+    ]
+  },
+  "negative_prompt": [
+    "anime",
+    "illustration",
+    "3D render",
+    "plastic skin",
+    "over-smoothed face",
+    "blonde hair",
+    "short hair",
+    "straight symmetrical rabbit ears",
+    "plastic bunny ears",
+    "colored costume",
+    "strapped bodice",
+    "missing choker",
+    "missing lace gloves",
+    "standing pose",
+    "distorted anatomy",
+    "oversized eyes",
+    "heavy contouring",
+    "bright background",
+    "neon lighting",
+    "excessive HDR",
+    "artificial bokeh",
+    "blurry lace",
+    "extra limbs",
+    "duplicate person",
+    "random text",
+    "watermark",
+    "logo",
+    "signature"
+  ]
+}
+```
+来源：@ViggoHayes · https://x.com/ViggoHayes/status/2114225116536295520
+
+<a id="case-1029"></a>
+
+### 例1029：【花花的AI写真技巧 —— 胸部如何更加真实？】
+
+*2026-10-29*
+
+![例1029](images/case1029.jpg)
+
+```text
+【花花的AI写真技巧 —— 胸部如何更加真实？】      
+
+大家觉得现在美女图的胸部是不是很假？因为可以挤乳沟，我尝试优化了提示词，可以真实一些啦，大家参考一下
+
+{
+"角色参考": "严格参考图1女性容貌，女性身材比例。有符合物理效果的多样化动态刘海状态和发型状态（不能和原图1头发和刘海状态一致）。",
+"建议画幅": "2:3",
+"完整提示词": {
+"人物与服装": "她穿浅粉色真丝吊带睡裙。胸部整体生理结构自然流露的符合躺着的重力物理学质感，无刻意的乳沟，真丝顺着身体自然垂落，领口与胸前衣料形成柔软褶皱",
+"动作与表情": "她无力的躺在床上，微微侧身，好像刚从一场酣畅淋漓的按摩中结束，幸福的表情依然带着强烈的凌乱余韵张力",
+"镜头与角度"：上半身只到腹部的近景俯视镜头，背景是自己家的床上",
+}
+}
+
+#GPT #PROMPT #image2
+```
+来源：@huahuansfw1 · https://x.com/huahuansfw1/status/2114312866576597056
+
+<a id="case-1028"></a>
+
+### 例1028：ターコイズの服に、夕日の光。海風で髪が揺れる、この時間が好き…
+
+*2026-10-29*
+
+![例1028](images/case1028.jpg)
+
+```text
+ターコイズの服に、夕日の光。海風で髪が揺れる、この時間が好き✨
+
+#AIart #AI写真 #ターコイズと夕日
+
+【画像生成プロンプト】
+
+主題：
+ターコイズと夕暮れの海
+
+主体：
+海沿いの石のテラスに立つ20代の成人女性。胴は正面斜め、腰を低い石壁へ寄せ、顔と視線を画面右へ向ける。画面左の掌で手前の石壁を支え、反対の腕は腿の横へ下げる。頭から腿までを大きく写す。
+
+人物・表情：
+細めの下顔と短い顎、小さな鼻、灰茶色の横長のアーモンド形の目。ピンクの唇を少し開き、遠くを見る落ち着いた表情。肌は明るいクリーム桃色、頬は淡いピンクで、顔と肩に白寄りの艶と柔らかな影を残す。腰へ続く長い茶色のウェーブ髪が画面左に多く落ち、風で細い束が広がる。薄い前髪、白い花の耳飾りと小さな銀色ネックレス。
+
+服装・ポーズ：
+ターコイズ色の幅広い肩紐と四角い胸元のミニワンピース。胴に横方向の切り替えと皺、画面右の脇から裾まで大きな開口、銀色の穴に白い細い紐を交差させる編み上げ。開口の内側に淡いレースの生地が少し見える。左側の手首にターコイズの太いバングル、指に銀のリング。画面左の腕を斜め下へ伸ばして石壁に掌を置き、画面右の手は腿の横で自然に下げる。
+
+背景・光：
+左の海に低い夕日と縦に伸びる金色の反射。右奥に岩の海岸と小さな白い建物。左下の手前に粗い淡色の石壁と小さな木の柱、右に白い丸いテーブルと小さなランタン、木の柱と屋根の一部。左の夕日が髪の縁を金色にし、顔には柔らかい前方の明るさを残す。青い海と空を夕日の橙色で塗りつぶさない。
+
+構図・カメラ：
+縦3:4。立った人物の胴の正面斜めに近い水平の視点から、頭から腿の途中まで。左の支える手を見せ、右側の編み上げ開口を隠さない。足先は枠外、頭上に空を少し残す。石壁を左前景、人物を中央、海と崖を奥へ分け、顔と服を鮮明にする。
+
+質感・スタイル：
+夕暮れの暖かな縁取りを持つ写真表現。肌の淡い桃色と白い艶、ターコイズの生地、青い海を分ける。長い髪と細い紐、服の横の皺、石の粗い表面を描き、顔は滑らかな陰影にする。
+```
+来源：@CyberTotal2026 · https://x.com/CyberTotal2026/status/2114327112283005160
+
+<a id="case-1014"></a>
+
+### 例1014：Grok Imagine 2.0 :
+
+*2026-10-29*
+
+![例1014](images/case1014.jpg)
+
+```text
+Grok Imagine 2.0 :
+Photorealistic editorial portrait.
+
+A 20s seductive stunning Japanese or Korean woman, I–K cup bust, slim arms, narrow waist, wide hips, fuller upper thighs, slim calves, balanced proportions, pronounced hourglass silhouette, curves stretching fitted fabric with soft flesh bulges at snug garment edges; height 163–168 cm, bust–waist–hip 103–60–98 cm, long soft waves with see-through bangs, defined romantic wave shape, clean face-framing ends, lightly wind-swept movement, gentle directional flow, a few naturally loose strands, controlled overall silhouette, soft black-tea brown hair, muted brown-black salon tone, playful mock-angry expression, lightly furrowed brows, small pout, subtly puffed cheeks, restrained smile.
+
+She wears seamless lace thong bottoms, ultra-thin side straps, low-rise V-front, minimal back panel.
+
+Upward reflected fill on the subject, subtle lift under the face.
+```
+来源：@VIBEQUIRKLABS · https://x.com/VIBEQUIRKLABS/status/2113898587642098039
+
+<a id="case-1012"></a>
+
+### 例1012：出门之前｜卧室穿丝袜的生活抓拍
+
+*2026-10-29*
+
+![例1012](images/case1012.jpg)
+
+```text
+出门之前｜卧室穿丝袜的生活抓拍
+
+主题：韩系轻熟私房写真 × 出门前穿丝袜 × 黑色蕾丝边连体衣内搭 × 修长美腿美足 × CCD直闪生活摄影。
+
+人物：
+一位明确成年的24岁东亚女性，身高约170cm，身材高挑纤细，四肢修长，腿部比例优雅。腿型自然笔直，小腿纤细，脚踝清晰，足部比例自然。
+精致鹅蛋脸，细长杏眼，黑茶色长发自然披散，淡妆，裸粉色双唇。皮肤白皙但保留真实毛孔、细小绒毛和自然肤色变化，避免塑料皮肤和过度磨皮。
+
+服装：
+人物正在卧室准备出门，此时还没有穿外衣。
+
+内搭是一件黑色蕾丝边修身连体衣，主体采用柔软、完全不透明的黑色弹力面料，贴合身体但不过度紧绷。领口、肩带及腿口仅以细窄黑色花卉蕾丝作为装饰。
+连体衣采用日常时装内搭设计而非情趣内衣设计，胸部、腹部、臀部及私密区域均具有完整不透明覆盖，不使用透视面料，不露点、不走光。
+
+床边可以自然放置尚未穿上的白色衬衫、深灰色半身裙或长款风衣，使画面能够直接表达“正在穿衣准备出门”的时间节点。
+
+她正在穿一双黑色半透明连裤丝袜，约20D—30D，细腻哑光尼龙材质，具有真实织物纹理与轻微光泽。
+
+丝袜已经完整穿好一条腿，另一条腿正在整理。丝袜从脚趾、脚掌、脚踝、小腿逐渐贴合腿部，可以观察到真实的布料张力与细微褶皱。
+
+动作：
+人物侧坐在床沿。
+
+一条已经穿好丝袜的长腿自然向前伸展，脚掌轻轻落在木地板上；另一条腿屈膝抬起。
+
+她双手轻轻捏住丝袜布料，正在从脚踝、小腿方向逐渐向上整理丝袜，而不是完成穿着后的刻意摆拍。
+头部略微低垂，视线自然落在自己的腿和丝袜上，神态专注而放松，不看摄影机。
+
+双脚完整进入画面。重点呈现丝袜覆盖脚趾、脚背、足弓和脚踝后的真实织物状态以及自然足部轮廓。脚趾保持自然放松，不做刻意挑逗动作。
+
+场景：
+现代简约私人卧室。
+
+浅灰色床铺带有自然使用后的褶皱。床边随意摆放准备穿上的白色衬衫、半身裙、风衣和小包。
+
+旁边衣柜半开，能够看到整齐悬挂的日常外衣。
+
+木质地板、米白墙壁、床头柜和落地窗组成简洁背景。傍晚自然光从窗户进入，暖黄色床头灯已经开启。
+镜头与构图：
+9:16竖版全身写真，35mm镜头。
+
+摄影师位于人物左前方约45度，距离约2米。
+
+机位接近人物坐姿时腰部至胸部高度，镜头轻微向下，以正常的人眼观察角度记录人物，不使用贴地机位。
+
+人物从头顶至双脚完整入镜，不裁切腿部、脚踝或脚趾。
+
+利用左前方45度视角同时呈现人物部分正面与侧面轮廓。向前伸展的丝袜腿形成自然纵深，使腿部显得修长，但保持35mm镜头的正常透视，不夸张放大前景脚部。
+画面的主要视觉关系是：
+
+黑色蕾丝边连体衣 → 腰部自然轮廓 → 修长双腿 → 半透明黑色丝袜 → 脚踝与完整足部。
+
+床上的外衣作为环境叙事元素，让人物状态明确表现为“内搭已经穿好，正在穿丝袜，下一步才准备穿外衣”。
+
+摄影质感：
+超写实真人生活摄影，模拟2000年代便携CCD数码相机。
+
+轻微正面直闪、傍晚窗光和暖色床头灯形成混合光源。
+
+CCD直闪使人物皮肤、黑色连体衣以及丝袜纤维保持清晰，同时让卧室背景略微欠曝。
+
+保留真实皮肤纹理、腿部自然明暗、膝盖结构、脚踝骨骼轮廓、丝袜纤维和面料细小褶皱。
+
+轻微高ISO颗粒、自然室内色偏、柔和边缘清晰度，不过度锐化，不使用商业影棚式精修。
+
+整体效果像摄影师在她准备出门过程中偶然记录的一张生活抓拍，而不是正式摆拍。
+严格负面提示词：
+未成年人、幼态外观、裸体、露点、敏感部位暴露、透明连体衣、胸部透视、裆部透视、衣物移位、走光、色情行为、情趣内衣造型、刻意张腿、胯部特写、镜头正对两腿之间、裙底视角、正后方贴近拍摄、臀部特写、极低机位仰拍、恋足式极端脚部特写、夸张足部透视、丝袜结构错误、丝袜破损、六根脚趾、脚趾融合、畸形足弓、反向脚踝、畸形膝盖、多余肢体、手指变形、极端长腿、过度丰胸、极端腰臀比例、塑料皮肤、AI网红脸、过度磨皮、动漫感、CG感、文字、水印、Logo。
+```
+来源：@GenRyoma · https://x.com/GenRyoma/status/2114378857461731824
+
+<a id="case-1011"></a>
+
+### 例1011：GPT Image 2.5生成日间清亮CCD生活照。
+
+*2026-10-29*
+
+![例1011](images/case1011.jpg)
+
+```text
+GPT Image 2.5生成日间清亮CCD生活照。
+
+提示词（欢迎返图）：
+摄影风格：日间清亮高光CCD生活照风
+写真方向：高级生活方式写真
+场景方向：城市精品果汁概念店外立面 / 白色门头 / 玻璃橱窗 / 浅灰步道 / 极简木质吧台
+服装方向：香槟豆沙色裹身V领修身短上衣 + 奶油白低腰修身超短裙
+气质标签：温柔、明亮、精致、松弛、轻熟
+五官方向：清透知性自然脸
+身形方向：轻盈纤细，上围自然饱满
+线条强调：强
+镜头方向：大腿及上半身
+姿态动作：站在果汁店门口，一只手拿透明果汁杯，另一只手轻搭门框，身体略侧，抬眼自然看向镜头
+光线氛围：晴天高亮自然光 + 白色门头与玻璃橱窗形成柔亮补光
+滤镜效果：高亮清晰暖白CCD色彩 + 白皙通透肤色 + 干净高光 + 清晰中间调 + 稍高饱和 + 轻颗粒
+画幅比例：9:16
+补充要求：裹身V领顺着胸腰线条自然贴合，突出自然胸线和纤细腰腹；修身超短裙利落整齐，清楚表现腰臀比例；整体是干净明快的都市生活方式感，不做网红摆拍
+```
+来源：@liyue_ai · https://x.com/liyue_ai/status/2114290203473203463
+
+<a id="case-1008"></a>
+
+### 例1008：Based on the same young adult …
+
+*2026-10-29*
+
+![例1008](images/case1008.jpg)
+
+```text
+Based on the same young adult girl from the reference image, only locking in facial recognition features, long hair, and a cool, girlish vibe, a high-quality real-person portrait is generated. The outfit is changed to a stepmother-style mini-skirt with a quirky, girlish touch, fitted but natural. She wears jewelry and headgear, with delicate cool-white skin texture, a slender figure, and long, graceful hands. The setting is an antique-style indoor photography studio with floral decorations, butterfly motifs, and walls adorned with calligraphy scrolls. The shot is from mid-shot to half-body, captured with soft lighting. The style mimics the texture of old DV videos, with low-grayscale, soft color tones that retain the saturation of her makeup. There are noticeable nostalgic film-like grain, natural noise, and a low-resolution realism. The camera shakes slightly, creating dreamy, blurred fragments of the image. Her pose is changed to a side profile with a glance back, one hand lightly resting on her waist, the other adjusting her hair. Her shoulders and neck lines are elegant, giving the shot a sense of spontaneity and the flatness of a fashion model's display.
+```
+来源：@noahvisualsx · https://x.com/noahvisualsx/status/2114221369130979635
+
+<a id="case-1007"></a>
+
+### 例1007：p1没给锚点脸，反而感觉是最好看的🤔
+
+*2026-10-29*
+
+![例1007](images/case1007.jpg)
+
+```text
+p1没给锚点脸，反而感觉是最好看的🤔
+
+prompt-image2.5:
+
+masterpiece, best quality, ethereal vintage beauty portrait, dreamy semi-realistic anime photography, delicate Korean beauty illustration, intimate close-up, melancholic gaze, porcelain skin, rosy blush, glossy lips, soft natural makeup
+
+luxurious ivory Baroque lace dress, delicate floral embroidery, romantic off-shoulder silhouette, extravagant wide lace-and-pearl headband, layered ivory lace, pearl clusters, antique silver filigree, floral appliqués, cascading lace ribbons
+
+vintage direct-flash photography, luminous milky-white skin, soft overexposed highlights, pearlescent glow, delicate halation, subtle film grain, dreamy soft focus, desaturated ivory and champagne tones, pitch-black background, haunting romantic atmosphere, nostalgic 1990s film aesthetic
+
+clean silky hair, soft controlled highlights, delicate skin texture, refined anime realism, no harsh shadows, no plastic skin, no modern studio look, no excessive sharpness
+```
+来源：@JoywDan · https://x.com/JoywDan/status/2114383007138390475
+
+<a id="case-1006"></a>
+
+### 例1006：Effortless glamour, a little b…
+
+*2026-10-29*
+
+![例1006](images/case1006.jpg)
+
+```text
+Effortless glamour, a little black satin, and a whole lot of confidence. 🖤✨
+
+Prompt
+
+Photorealistic high-fashion editorial, 2:3 vertical, full body, in a sleek, minimalist, red-carpet evening style. An elegant woman in her late 20s stands in a three-quarter back view, with her shoulders and hips angled away from the camera and her head turned back over her shoulder, looking into the lens with a soft, confident, slightly shy smile and a faint natural blush. She has short, chestnut-brown, softly tousled wavy hair in a chin-length cut, with loose strands falling around her face and ear. Her eyes are warm dark brown, with soft natural makeup, defined brows, and a glossy rose-nude lip. Her skin is warm, sun-kissed, and smooth, with visible natural texture and a soft glow on the shoulders and back. She wears geometric gold drop earrings and a wide, polished gold cuff bracelet.
+Outfit: a floor-length black satin evening gown with thin spaghetti straps, a low open back, a cut-out at the waist, and soft ruched draping at the hip, fitted through the body and falling into a long column skirt with a high side slit that reveals one leg. The fabric shows a subtle liquid sheen and fine folds. She wears glossy black pointed-toe stiletto pumps. In her lowered hand, she holds a small black leather envelope clutch with a gold-trimmed edge, while her other arm rests relaxed at her side.
+Setting: a clean seamless studio backdrop in a muted, cool steel-gray, with a soft gradient and a long, soft shadow falling on the floor at the lower left. No props.
+Mood: refined, understated, glamorous, quietly confident, like a luxury eveningwear campaign. Lighting: soft, large-softbox key light from the front-left, gentle fill, and a subtle rim light along her shoulder, arm, and the slit of the dress, with smooth skin highlights and soft, natural shadows. Color palette: black, warm skin tones, brass gold, and cool gray, with a clean, slightly desaturated editorial grade. Shot on an 85mm lens at f/4 for a full-body sharp focus, with fine film grain, highly detailed satin texture, hair strands, skin, gold jewelry, and leather.
+```
+来源：@Tanvir48992 · https://x.com/Tanvir48992/status/2114405490293927999
+
+<a id="case-1005"></a>
+
+### 例1005：She wasn’t falling into the da…
+
+*2026-10-29*
+
+![例1005](images/case1005.jpg)
+
+```text
+She wasn’t falling into the darkness… she was becoming the nightmare the heavens feared. 🥀🔥
+
+Prompt
+
+Photorealistic dark-baroque fashion editorial, 9:16, top-down overhead view, in a surreal, theatrical, gothic-romantic style. A striking woman in her late 20s lies back and floats weightlessly in the middle of the frame, as if falling through a swirl of fabric, leaves, and shadow. Her head is tilted slightly, and she looks up into the camera with a calm, hypnotic, sultry, slightly mournful gaze. One arm is raised high above her with the index finger pointing and the fingers elegantly curled, and the other hand rests on her chest with the fingers spread. She has voluminous, wild, dark espresso-brown curly hair that billows outward in loose spirals and flyaway strands, as if she were suspended in air or water. Her skin is fair with warm undertones, natural freckles across the nose and cheeks, and visible pores. She has dark brown eyes, strong natural brows, a soft smoky lid, and a muted rose-terracotta matte lip. A delicate vine of tiny dark leaves is wrapped around her hand and wrist like living jewelry.
+Outfit: a dramatic gown in black crushed velvet with a high ruffled collar, which merges into deep shadow. A huge ribbon of sheer, crinkled, deep-red oxblood silk organza spirals from one shoulder and the opposite hip and sweeps up past her raised arm, with translucent folds catching the light. Tiny, scattered, rust-red autumn leaves and twigs drift across the dress and through the air around her.
+Setting: a surreal, dreamlike chamber. The background at the top left is a softly blurred Renaissance ceiling fresco, with pale, cream-and-peach cherubs and clouds, in warm, hazy beige tones. At the edges of the frame, dark, sculptural gargoyle-like shapes and shadowy winged figures curl in from the right and left, in charcoal and black stone. In the bottom right corner, glowing orange embers and a small flame flicker in the darkness.
+Mood: mythical, sensual, ominous, and beautiful, like a Renaissance painting meets a dark-fantasy fashion film, or a cinematic still of a fallen angel or a witch’s ritual. Lighting: warm, soft, directional light from the upper left, a glowing, painterly rim light on the face, hair, and silk, translucent red highlights where the light passes through the organza, deep black shadows in the velvet, and a faint warm glow from the embers below. Color palette: oxblood red, rust, black, cream, peach, and warm gold, with a rich, slightly desaturated, high-contrast, cinematic grade. Shot on a 35mm lens at f/2.0 from directly above, sharp focus on the face and the raised hand, with creamy, soft blur at the edges, fine film grain, and highly detailed curly hair strands, skin texture, crushed velvet, sheer silk folds, leaf details, and ember sparks, 8k.
+```
+来源：@Tanvir48992 · https://x.com/Tanvir48992/status/2114435916500808077
+
+<a id="case-1004"></a>
+
+### 例1004：Where haute couture meets the …
+
+*2026-10-29*
+
+![例1004](images/case1004.jpg)
+
+```text
+Where haute couture meets the mysterious beauty of nature. 🦋✨
+
+Prompt
+
+Photorealistic avant-garde haute couture beauty portrait, 4:5 vertical, head-and-shoulders, perfectly symmetrical and front-facing, in a surreal entomological “insect couture” style. A young woman in her late teens to early 20s looks straight into the camera with a calm, blank, porcelain-doll stare and softly parted lips. Her skin is luminous pale porcelain with a cool undertone and dense, natural reddish-brown freckles across the nose and cheeks, with a soft peach flush on the cheekbones. Her eyes are gray-green with a gentle heavy-lidded gaze, with natural lashes, thick soft brows, and a muted rose-nude matte lip. Her hair is jet black, pulled back flat and sleek against her skull in a center part, with a glossy, tight finish and her ears fully exposed.
+Headpiece: a huge, hyper-realistic, taxidermy-style moth perches on top of her head like a living hat. It has large, ragged-edged, cream-and-black tiger-striped wings raised upward, a plump, textured, ribbed cream abdomen, a glossy iridescent teal-blue thorax, a bright crimson head with a compound eye, and long, thin, red feathery antennae sweeping out to the right. On each side of her head, ornate antique gold hairpins with filigree, tiny dangling charms, and spindly insect-leg-like details are tucked into the hair. Two tiny, delicate, real-looking brown-and-amber butterflies rest on her forehead above each brow, like beauty marks.
+Outfit: a sculptural, haute-couture high-neck collar in cream and ivory, built from hundreds of finely pleated, shredded, fringed silk and paper-like ruffles, stacked in tiered layers that rise up under her chin like a ruff. A thin antique gold chain is draped across the collar. The massive, structured shoulders are embroidered with cascades of pearls, seed beads, and crystals, with brocade appliqué in ivory and pale gray-blue, and a small pale moth resting on the right shoulder.
+Setting: a seamless, flat studio backdrop in soft, muted sage-gray-green, with a very subtle gradient and no props.
+Mood: eerie, ethereal, refined, otherworldly, like an Alexander McQueen-inspired museum piece or a surreal high-fashion beauty campaign. Lighting: soft, even, diffused frontal beauty lighting from a large octabox, gentle fill, minimal shadows, and subtle specular highlights on the pearls, gold, moth, and glossy hair. Color palette: sage green-gray, ivory, cream, antique gold, jet black, crimson, and teal accents, with a clean, slightly desaturated, cinematic editorial grade. Shot on a 100mm lens at f/5.6, razor-sharp focus on the eyes and skin, with ultra-detailed skin texture and freckles, individual moth scales and hairs, pleated silk fringe, pearls, gold filigree, and fine film grain, 8k.
+```
+来源：@Tanvir48992 · https://x.com/Tanvir48992/status/2114460238808322333
+
+<a id="case-1003"></a>
+
+### 例1003：Dancing between moonlight and …
+
+*2026-10-29*
+
+![例1003](images/case1003.jpg)
+
+```text
+Dancing between moonlight and mythology 🌙✨ A celestial vision woven in silk, gold, and dreams.
+
+Prompt
+
+Photorealistic cinematic fine-art fashion photograph, 2:3 vertical, full body, in an ethereal Tang-dynasty “moon goddess dance” style. A graceful East Asian woman in her mid-20s stands in a flowing dance pose in side profile, her torso arched slightly back and her face tilted up with closed eyes and a serene, dreamy, devotional expression. Her left arm is raised high toward the glowing moon with delicate, open fingers, while the other arm is lowered and swept back. Her skin is smooth and luminous with natural texture, with soft blush on the cheeks, defined brows, closed eyes with a rose-gold lid and fine lashes, and bold classic red lips. Her black hair is styled in an elaborate high chignon decorated with an antique gold hairpiece, with filigree flowers, tiny leaves, and long dangling beaded tassels, plus ornate gold drop earrings and a gold collar necklace with hanging charms.
+Outfit: traditional Hanfu-inspired couture. A fitted bodice in pale celadon and cream with gold embroidery. A very long, wide, flowing, sheer aqua-turquoise silk-organza sleeve and shawl, with fine gold floral brocade patterns, sweeps dramatically upward and outward on the left, caught mid-air in the wind like a cloud. Below, a high-waisted, floor-length, layered skirt in vivid coral-orange and apricot silk gradients with gold brocade, embroidered patterns, and a gilded dragon-shaped waist ornament. A long red silk tassel hangs from the waist, and translucent turquoise ribbons trail behind in long, flowing curves along the ground.
+Setting: a surreal, dreamlike void behind her. A giant, glowing, full golden moon, with an intricately engraved gold-leaf surface and a soft double halo ring, fills the upper half of the frame. The background is a hazy mix of warm amber, soft saffron-gold, and deep jade-green mist, with drifting smoke-like clouds of coral and orange swirling around her feet and the fabric. A few tiny gold dust particles float in the air.
+Mood: mythical, poetic, graceful, serene, and majestic, like a luxury Chinese New Year campaign, a Dunhuang mural brought to life, or a high-end museum-poster photograph. Lighting: warm, glowing backlight from the moon, with a soft golden rim light on her face, profile, hair, and the silk edges, gentle translucent light passing through the sheer fabric, and a soft, hazy, atmospheric glow. Color palette: molten gold, saffron yellow, coral orange, aqua turquoise, jade green, and warm skin tones, with a rich, painterly, slightly desaturated, film-like grade. Shot on an 85mm lens at f/2.8, a fast shutter to freeze the fabric in motion, sharp focus on her face and hands, soft dreamy falloff in the background, fine film grain, highly detailed silk organza, gold embroidery, filigree hair ornaments, fabric folds, and skin, 8k.
+```
+来源：@Tanvir48992 · https://x.com/Tanvir48992/status/2114475590204129733
+
+<a id="case-999"></a>
+
+### 例999：砂浜にごろん。今日はこのまま、のんびり。
+
+*2026-10-29*
+
+![例999](images/case999.jpg)
+
+```text
+砂浜にごろん。今日はこのまま、のんびり。
+
+#AIart #AI写真 #砂浜の休憩
+
+【画像生成プロンプト】
+
+主題：
+赤いビキニと砂浜の休憩
+
+主体：
+20代の成人女性。色とりどりのタオルに仰向け寄りで寝そべり、頭を右奥、腰と太ももを左下の手前へ置く。
+
+人物・表情：
+灰緑色を少し含む茶色の瞳、細い鼻、小さなあご。淡い桃色の唇を閉じて微笑み、傾いた顔でカメラを見る。濡れた濃い茶色の長い髪が頭の周りに広がり、前髪が額にかかる。肌は明るい桃色・クリーム色に日差しの暖かさ。細かな砂と水分の光沢、頬の淡い赤み。
+
+服装・ポーズ：
+鮮やかな赤い三角ビキニ。カップとボトムの縁に白い丸ボタン、腰の両脇に細い結びひも。両腕を腰へ曲げ、左右の手でそれぞれ腰のサイドひもを軽く持つ。右下の近い手は大きく、左の奥の手は小さく見える。脚は手前へ伸びて画面外に続く。
+
+背景・光：
+前景の黄色・赤・緑・青のタオルと右下の桃色の小物。背後の浜に白黒のパラソルと小さな人々、ヤシと高い建物、左奥に雲のかかった山。明るい日中の直射光で腹部と手に小さな輝き。顔は髪の浅い影も残す。
+
+構図・カメラ：
+脚側の非常に近い低い位置から、胴体に沿って頭へ向ける。手前の太ももと手を大きく、頭を右奥に置く強い遠近感。縦3:4。頭の右上と髪の一部を端で切り、腰と太ももが下部を大きく占める。足先は外、都市の浜辺を上半分に残す。
+
+質感・スタイル：
+自然な日差しの写真調。砂の粒と湿った肌の微細な光沢、近い手と遠い顔の大きさの差を保つ。
+```
+来源：@CyberTotal2026 · https://x.com/CyberTotal2026/status/2111022587086057646
+
+<a id="case-998"></a>
+
+### 例998：Image 2.5生成日间清亮CCD生活照。
+
+*2026-10-29*
+
+![例998](images/case998.jpg)
+
+```text
+Image 2.5生成日间清亮CCD生活照。
+
+提示词（欢迎返图）：
+摄影风格：日间清亮高光CCD生活照风
+写真方向：都市知性生活写真
+场景方向：商务园区开放咖啡中庭 / 白色廊柱 / 玻璃办公楼 / 浅灰地面 / 极简休闲座椅
+服装方向：薄荷灰蓝色短款Polo修身上衣 + 燕麦白低腰修身超短裙
+气质标签：知性、明亮、俏皮、精致、松弛
+五官方向：电影感清秀自然脸
+身形方向：轻盈纤细，上围自然饱满
+线条强调：强
+镜头方向：大腿及上半身
+姿态动作：站在中庭座椅旁，一只手拿冰美式，另一只手轻扶座椅靠背，正面略带侧角看镜头
+光线氛围：高亮自然光 + 白色廊柱与玻璃立面形成中性清亮补光
+滤镜效果：高亮清晰青白CCD色彩 + 白净高光 + 清楚中间调 + 轻颗粒 + 极轻锐度
+画幅比例：9:16
+补充要求：短款Polo保持知性感和结构感，衣长露出腰腹与肚脐；修身短裙清楚表现腰线与臀胯转折；整体像都市周末办公区附近的随手抓拍
+```
+来源：@liyue_ai · https://x.com/liyue_ai/status/2111024008431088060
+
+<a id="case-997"></a>
+
+### 例997：ChatGPT Images 2.5  prompt 👇
+
+*2026-10-29*
+
+![例997](images/case997.jpg)
+
+```text
+ChatGPT Images 2.5  prompt 👇
+
+High-angle, first-person perspective (POV) dramatic portrait of a stylish early-20s East Asian woman seated in a black chair, looking upward with an engaging, playful expression. In the foreground, a hand gently reaches in to support her chin, while she lightly rests her own manicured fingers against it. Her lips are slightly parted in a charming, confident half-smile as she looks up toward the camera.
+
+She features sharp, delicate facial contours: smooth fair skin, an elegant V-line jaw, and large dark almond eyes accentuated by winged eyeliner and fine natural lashes. Her long, straight jet-black hair is parted in the center, flowing gracefully over her shoulders and against the chair. A minimalist silver pendant necklace accents her collarbone.
+
+She is dressed in a tailored all-black modern gothic streetwear outfit: black crossover straps forming an X-shape at her neck, worn beneath a fitted black zip-up cropped cardigan featuring a metallic silver zipper, layered over a black camisole top. Below, she wears tailored black shorts paired with sheer black thigh-high stockings connected to garter straps, each leg featuring a distinctive matte-black cross emblem on the thigh.
+
+The setting is a minimalist indoor space: she sits comfortably on a matte-black desk chair against a clean, uncluttered light-grey wall.
+
+Lit by clean, diffused studio softbox light from the front, producing soft, flattering highlights across her facial features and collarbones while preserving the rich, deep textures of her black attire. Shot on a 35mm prime lens at f/2.2, ISO 160, 1/200s, capturing authentic skin texture, crisp fabric seams, and a compelling, fashion-forward perspective.
+```
+来源：@johnAGI168 · https://x.com/johnAGI168/status/2110756836307591321
+
+<a id="case-984"></a>
+
+### 例984：GPT Image 2.5 on ChatGPT
+
+*2026-10-29*
+
+![例984](images/case984.jpg)
+
+```text
+GPT Image 2.5 on ChatGPT 
+
+Prompt:
+The image is in a 3:4 vertical composition, divided into two regions, with a strict 1:1 ratio, each taking up 50% of the image.
+
+Upper Region - Original Photo Shoot Area
+
+Preserves the subject's identity, structure, perspective, and true material, natural light, and original color atmosphere, with only slight high-end color grading and image purification, presenting it with the texture of art magazines or exhibition photography. It allows for a moderate expansion of the background to fit the screen size, but does not stretch, distort, or reshape the subject, without changing the subject's structure, posture, and core composition.
+
+Lower Region - Minimalist Ink Wash Reconstruction Area
+
+First, refine the subject with the most memorable details, such as the outline, structure, trend, perspective, rhythm, and atmosphere, and then reconstruct the same scene into a minimalist ink wash material landscape. Do not copy the photo details, do not make a realistic copy, only preserve the most recognizable structure and charm, allowing people to recognize the corresponding relationship between the upper region and the original photo at first glance.
+
+The overall base of the lower half is milky white, warm white or paper white, with delicate paper fiber and natural texture. The main body is reconstructed in ink wash blending, dry-wet interplay, flying white, seepage, ink accumulation, and white space, forming a quiet, restrained, and poetic Eastern visual. Removing secondary details, only retaining the most distinctive contours, structural turns, spatial layers, and breath, not pursuing realistic completeness, but rather summarizing, refining, and leaving a lingering impression. The use of ink in black, gray, and light ink tones, layered and progressing, with varying intensities and rhythms.
+
+The most vibrant colors can be extracted from the original image to create a few spots of dyeing or coloring, without mechanically replicating the color values. The colors can be transformed locally into clear blue-gray, distant blue, soft gold, warm yellow, vermilion red, light cyan, etc., to emphasize the main focus and emotional rhythm, but the overall composition is still dominated by ink tones and negative space. Avoiding dull, heavy, old brown, excessive decoration, and vulgar color combinations.
+
+The main core areas should be more refined and concentrated, with edges gradually loosening, breaking away, disappearing, and scattering, forming a sense of breathing with the large negative space. The lower half of the composition should account for about 30%-45%, with the rest reserved for large negative spaces. The composition can be biased, framed, suspended, or slightly cut, but must maintain an asymmetrical balance and a high-end editorial feel. Negative space is not blank, but an important component of the visual structure. It is better to reduce information than to fill the entire image, so that the main focus looks like an ink seal or an oriental material work displayed on a page.
+
+Text Treatment
+
+Text is only allowed a very small amount of editing intervention, without preset titles and numbers. A small number of words or short sentences can be extracted from the subject, location, time, action, emotion, or metaphor, and quietly placed in the blank area or the edge of the subject. The text should be restrained, sparse, and have a sense of breathing, not noisy or dominant.
+
+Overall Presentation
+
+Contemporary Eastern aesthetics, minimalist ink wash reconstruction, large-scale art blank, small-scale seal impression, quiet editing layout and exhibition poster style. Avoid complex backgrounds, piled-up real details, overly decorative, excessive text, template layout and filled composition
+```
+来源：@Shorelyn_ · https://x.com/Shorelyn_/status/2109118256045002828
+
+<a id="case-979"></a>
+
+### 例979：Classic charm, modern street s…
+
+*2026-10-29*
+
+![例979](images/case979.jpg)
+
+```text
+Classic charm, modern street style.
+
+Prompt:           A vertical studio portrait of a glamorous young East Asian woman with refined Japanese facial features, long flowing dark brown hair gently swept by a breeze, and soft, luminous makeup with flushed rosy cheeks and glossy pink lips. She is wearing a fitted, crimson-red strapless ribbed tube top paired with high-waisted, light-wash blue denim jeans decorated with a pattern of printed white stars along the legs. She poses with one hand raised behind her head resting casually near her hair while her other hand hooks into her jeans pocket, looking at the camera with a confident expression against a seamless, minimal off-white background lit by soft, crisp studio lighting.
+```
+来源：@Minahil42298354 · https://x.com/Minahil42298354/status/2109074146864869795
+
+<a id="case-977"></a>
+
+### 例977：白いタオルに座って、街をひと眺め。プールの青と空の青、どっち…
+
+*2026-10-29*
+
+![例977](images/case977.jpg)
+
+```text
+白いタオルに座って、街をひと眺め。プールの青と空の青、どっちも好き🩵
+
+#AIart #AI写真 #天空プール
+
+【画像生成プロンプト】
+
+主題：
+空に近いプールでひと休み
+
+主体：
+20代の成人女性。白いデイベッドに横座りし、肩と顔をカメラへ向ける。腰は左寄り、膝は右下へまとまり、前に伸びる腕と大きな手が奥行きを作る。
+
+人物・表情：
+短い細顎の小さな卵形顔。灰色がかった茶色の大きな瞳、細い眉、小ぶりな鼻、艶のあるピンクの唇を閉じて柔らかく微笑む。頭を少し左に傾けカメラを見る。茶色の長い髪を緩いハーフアップにし、濡れたような細い束を左肩の前へ下ろす。額には薄い前髪。明るいピーチベージュの肌に、水気を思わせる小さな艶。顔には薄いピンクが残り、腕と脚の強いハイライトと区別する。
+
+服装・ポーズ：
+白い縦リブの三角ビキニ。胸中央と腰脇の白い結び紐、手首の細いブレスレット。両膝を曲げて右側へ寄せ、折ったすねと両足は左下で重なる。手前の腕を伸ばし掌をタオルの前中央へ広げ、奥の腕は下ろして右膝の後ろの座面を支える。
+
+背景・光：
+白いタオルが下部を埋め、右後ろに青いプール。左に灰色クッションのソファ、レモン入りのグラス、木柱と白いカーテン、鉢植え。ガラス柵の向こうに水湾と高層ビル、右奥の細い尖塔、青空。強い昼の自然光と白い布からの反射光。髪と肩の縁は明るく、顔は柔らかな明暗で瞳を明瞭にする。
+
+構図・カメラ：
+座面より高い正面寄りから軽く見下ろす。近い手と膝がやや大きく、遠い都市は小さい。縦長3:4。頭上に青空を残し、頭から足先と手前の指まで収めた座り全身。人物を中央へ大きく置き、タオルの手前縁を下端で裁つ。
+
+質感・スタイル：
+澄んだ青と白の明るい写真調。肌の穏やかな細部と透明感のある反射、タオルの織りと水着のリブを描く。都市は軽く柔らかい。
+```
+来源：@CyberTotal2026 · https://x.com/CyberTotal2026/status/2108685437061521823
+
+<a id="case-976"></a>
+
+### 例976：The allure of the all-black se…
+
+*2026-10-29*
+
+![例976](images/case976.jpg)
+
+```text
+The allure of the all-black series.🖤
+
+Prompt:
+Subject & Action
+A 20-year-old Japanese woman with natural gray-blue eyes, extremely delicate and refined facial features, extremely slender waist, extremely full natural G-cup breasts with realistic gravity sag and no bra support. She is lying on a bed wearing a tight-fitting black dress or thin top that clings completely to her skin. While lying down and shifting slightly, the lower part of the clothing accidentally rides up, clearly exposing her panties. Shy yet intense expression, looking straight into the camera.
+Setting & Time
+High-end intimate bedroom, dark sheets, evening or controlled studio-like atmosphere.
+Composition & Camera
+Fashion editorial framing, slightly low to eye-level angle, three-quarter body composition emphasizing waist and bust, dynamic yet controlled pose.
+Lighting & Style
+Dramatic soft cinematic lighting with gentle rim light, high contrast on facial features and body curves, photorealistic, fashion erotic photography style, realistic fabric cling and gravity on breasts.
+Constraints
+No bra, realistic natural breast sag and weight under the tight fabric, clothes fully clinging to skin, accidental panty exposure, shy direct eye contact, extreme smoky makeup visible, photorealistic skin and fabric detail.
+```
+来源：@MissAI_Show · https://x.com/MissAI_Show/status/2109244255872934286
+
+<a id="case-974"></a>
+
+### 例974：作品的精妙之处在于"整理发簪"的优雅动态——双手抬起至耳畔与…
+
+*2026-10-29*
+
+![例974](images/case974.jpg)
+
+```text
+作品的精妙之处在于"整理发簪"的优雅动态——双手抬起至耳畔与头顶，左手轻扶凤冠花枝，右手整理发簪步摇，手肘自然抬起，微微侧头，展现女子梳妆时的优美身姿。超写实CG人像融合唐风宫廷美学，鎏金凤冠与流苏在晨光中闪烁，冷白肌肤与胭脂粉华服形成温润对比。晨光暖金从右侧透过窗棂，冷青蓝灰辅光从左侧补充暗部，面部呈现细腻光影过渡。浅景深虚化背景，隐约可见铜镜屏风，珠链步摇前后形成虚实层次。表情专注优雅，眼神柔和，嘴角微扬，沉浸于梳妆的私密时刻。
+
+亮点：双手整理发簪的优雅姿态，晨光冷暖双光，超写实CG质感。
+
+技法：超写实CG人像 · 晨光冷暖双光 · 浅景深虚化 · 低饱和粉金色调
+
+技巧：用"双手抬起整理发簪+微微侧头"营造优雅动态，用"晨光透过窗棂+冷青蓝灰辅光"营造电影级光影，用"浅景深+虚化背景"突出人物主体。
+
+试着改一个词：将「晨光梳妆」换成「月下对镜」，「暖金晨光」换成「冷银月光」，氛围从温暖转向清冷。
+提示词见评论区
+```
+来源：@sandmrk · https://x.com/sandmrk/status/2109158282028003736
 
 <a id="case-971"></a>
 
@@ -23042,7 +25002,62 @@ Express [{argument name="subject" default="a powerful AI builder"}] in a graffit
 <a id="cat-illustration"></a>
 
 ## 🎨 插画与艺术风格
-_插画、绘画流派、材质实验与装饰艺术_（62 例）
+_插画、绘画流派、材质实验与装饰艺术_（65 例）
+
+<a id="case-986"></a>
+
+### 例986：Too glam to blend in, too bold…
+
+*2026-10-29*
+
+![例986](images/case986.jpg)
+
+```text
+Too glam to blend in, too bold to be ignored. 💋🕶️💎 Candy colors, platinum vibes, and pure Harajuku attitude! 💖⚡
+
+Prompt:
+A vertical, highly detailed illustration of a stylish young woman who looks like a real person, in a bold Japanese pop-fashion style. She has very long, straight, pale platinum-blonde hair with thick blunt bangs and a few loose wispy strands streaked with light blue. She’s tilting her head slightly and pulling a pair of black rectangular sunglasses down her nose with one hand, peeking over them with one big, bright blue eye with pink-tinted eyeshadow and long lashes. Her other hand is raised near her head in a playful peace-sign pose. She has glossy pink lips, a tiny hint of a smile, and a black choker with a small metal ring at the throat. Her nails are long and glossy red, and she wears several silver and gold rings. Large, ornate, colorful jeweled earrings hang from her ears, and a sparkly gem hair clip sits above her forehead. She’s wearing an oversized, loud streetwear hoodie covered in a chaotic collage of colors: sky blue, hot pink, yellow, orange, red and white, with abstract shapes, stripes, graphic patches and little tech-style text, with the hood framing her head. Under it, a black top with small glitchy text. The background is a flat, plain, pale cream color so she stands out. The style is flat, colorful pop illustration with clean, confident ink linework, bright candy colors, sharp shadows and a playful, cool, Harajuku street-fashion attitude. Natural human proportions, realistic face, and expressive eyes.
+```
+来源：@Tanvir48992 · https://x.com/Tanvir48992/status/2108631455408783701
+
+<a id="case-985"></a>
+
+### 例985：Made with Nano Banana 2.1
+
+*2026-10-29*
+
+![例985](images/case985.jpg)
+
+```text
+Made with Nano Banana 2.1 
+
+Prompt:
+Create a stylish, full-body editorial fashion illustration of a young woman in a modern casual outfit, using a minimalist, textured geometric art style. She wears an oversized forest-green hoodie, wide-leg blue denim jeans with folded cuffs, and chunky brown sneakers. Her dark hair is tied in a neat low bun. She carries a bouquet of vibrant pink roses wrapped in white paper, a takeaway coffee cup, and a black shoulder bag. Show her walking naturally in a relaxed pose, viewed from a three-quarter rear angle, with soft, elegant body proportions and simplified facial details.
+
+Use a warm ivory background with plenty of negative space, soft ground shadows, subtle paper grain, visible brush textures, and angular polygonal shading across the clothing and shoes. The color palette features deep forest green, denim blue, warm brown, cream, and vivid pink. Soft diffused lighting, clean composition, contemporary lifestyle magazine aesthetic, hand-painted digital illustration, refined edges, artistic fabric textures, vertical 3:4 composition, high detail. No photorealism, no 3D rendering, no extra objects, no text or watermark.
+```
+来源：@ChillaiKalan__ · https://x.com/ChillaiKalan__/status/2109123213351632977
+
+<a id="case-980"></a>
+
+### 例980：作品的精妙之处在于"工笔线描"与"诗意叙事"的完美融合——少…
+
+*2026-10-29*
+
+![例980](images/case980.jpg)
+
+```text
+作品的精妙之处在于"工笔线描"与"诗意叙事"的完美融合——少女伏窗凝视桂花，堕马髻配金步摇，宋代褙子月白色，衣纹线条流畅自然。矿物颜料色彩典雅：月白40%、淡粉20%、金色15%，低饱和度营造古典韵味。边角构图大胆：人物占40%位于右下角，左上角大量留白营造空灵意境。表情含蓄典雅，眼神专注，嘴角微扬，少女心事如桂花飘香。
+
+亮点：工笔线描细腻流畅，矿物颜料色彩典雅，边角构图留白意境。
+
+技法：工笔重彩 · 矿物颜料 · 边角构图 · 宣纸质感
+
+技巧：用"线条粗细变化，主轮廓线略粗，细节线条纤细"营造工笔质感，用"色彩典雅和谐，低饱和度"控制色调，用"大量留白于左上角"营造古典意境。
+
+试着改一个词：将「秋日桂花」换成「春日桃花」，「月白褙子」换成「桃粉襦裙」，氛围从清雅转向明媚。
+```
+来源：@sandmrk · https://x.com/sandmrk/status/2108966626750329187
 
 <a id="case-961"></a>
 
@@ -24713,7 +26728,134 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 <a id="cat-character"></a>
 
 ## 🧍 角色与人物设定
-_角色设计、卡牌、3D 玩具与形象设定_（36 例）
+_角色设计、卡牌、3D 玩具与形象设定_（40 例）
+
+<a id="case-1041"></a>
+
+### 例1041：角色特征：
+
+*2026-10-29*
+
+![例1041](images/case1041.jpg)
+
+```text
+角色特征：
+脸型：标准柔和鹅蛋脸，面部轮廓流畅圆润，下颌线平缓清晰，下巴圆润小巧无尖锐感，颧骨平缓不外扩，脸部长宽比例匀称，整体线条柔和舒展。
+眉眼：眼型为偏圆润的杏眼，开扇型双眼皮，眼尾自然微扬，卧蚕饱满柔和；黑棕色瞳孔清亮有神；眉形为带自然弧度的柔雾平眉，眉色深黑，毛流感自然，与黑发适配度高。
+鼻部：山根高度适中且立体，鼻梁线条直顺流畅，鼻头圆润精致，鼻翼窄小秀气，整体鼻型精致柔和，与面部比例协调。
+唇形：饱满 M 型唇，唇珠清晰立体，上唇唇峰分明，下唇厚度略大于上唇，唇线柔和利落，唇色为自然红棕调，自带温婉柔美感。
+肤质与整体气质：皮肤白皙细腻，面部平整度高，肤质干净通透；整体长相为清冷柔美的精致风格，兼具温婉感与韩系氛围感。
+
+包含角度：
+• 正面标准照
+• 五官特写
+• 左/右45°侧脸
+• 左/右90°侧面
+• 自然微笑
+• 认真冷感
+用途建议：
+1. AI绘画保持角色一致性（可作参考图/ControlNet/IP-Adapter）
+2. 绘画或建模时的面部结构参考
+3. 摄影/Cosplay妆造参考
+```
+来源：@N1coe68 · https://x.com/N1coe68/status/2114246630820192726
+
+<a id="case-1032"></a>
+
+### 例1032：让喜欢的角色躺进一床奶油色的柔软里 ☁️
+
+*2026-10-29*
+
+![例1032](images/case1032.jpg)
+
+```text
+让喜欢的角色躺进一床奶油色的柔软里 ☁️
+
+风格基调：
+高调生活方式摄影 × 奶油色居家写真 × 松弛睡颜。
+奶油米白、蜜桃杏色与浅雾蓝，柔和逆光、低反差、暖杏色阴影。用蓬松毯面、柔软棉布和舒展姿态，表现安心赖床的满足感。
+
+通用提示词，只需填写【角色】👇
+【角色】，明确成年女性真人化，保留标志性面容、发型、发色与发饰，真实皮肤和发丝质感。
+
+3:4竖幅，全身摄影，相机从床尾上方高位斜俯拍。人物仰躺在奶白厚绒毯上，头朝画面左侧，一只手臂伸过头顶，另一只向侧面展开；一腿屈膝放松，另一腿斜向右下伸长，赤足，手脚完整入画。身体自然陷入毯面。双眼轻闭、嘴唇微张、嘴角轻扬，😌满足困倦。
+
+固定浅雾蓝居家套装：蝴蝶结细肩带上衣、少量植物刺绣，外搭松敞薄棉衬衫，一侧自然滑肩，配抽绳宽松长裤，布料柔软微皱。
+
+高调生活方式摄影，奶油米白、蜜桃杏色与浅雾蓝，低反差，暖杏色阴影。右上方窗光勾亮发丝、肩部与毯边，脸部柔和补光。绒圈颗粒清晰，身体下方自然凹陷；床头奶白针织靠垫与蜜桃色枕头，前景毯边虚化，背景融为奶油色光晕。柔和朦胧，voxcat签名。
+```
+来源：@VoxcatAI · https://x.com/VoxcatAI/status/2114418425791725992
+
+<a id="case-1027"></a>
+
+### 例1027：Shadow on Skin｜少女肌肤光影诗
+
+*2026-10-29*
+
+![例1027](images/case1027.jpg)
+
+```text
+Shadow on Skin｜少女肌肤光影诗
+
+复制指令 + 工作流 + 约束词👇
+
+光影元素：蕨叶/蝴蝶/窗格/蕾丝等抽象投影
+人物姿势：自动构图
+色彩：复古暖棕色
+服装：保留原服装，裸露程度
+画幅：3:4 / 9:16
+严格保留人物辨识度与自然身体比例，让投影符合真实光源方向及人体曲面，保留毛孔、绒毛和自然肤色。画面克制、富有情绪、真实高级摄影质感，无文字、无水印、无拼图。
+```
+来源：@nima2qisi2 · https://x.com/nima2qisi2/status/2113475751228096916
+
+<a id="case-1009"></a>
+
+### 例1009：🍡 偷吃糖葫芦被抓包的汉服少女
+
+*2026-10-29*
+
+![例1009](images/case1009.jpg)
+
+```text
+🍡 偷吃糖葫芦被抓包的汉服少女
+
+这组的灵魂不是单纯的古风美人，而是「被镜头意外捕捉到的生活瞬间」。
+
+🎨 风格基调
+新中式汉服情景写真 × 日系清新人像摄影 × 偷吃被抓包的叙事感 × 长焦框景构图 × 高明度撞色美学。
+
+孔雀青墙面 × 杏粉色汉服 × 米白色内搭，利用冷暖撞色建立视觉层次。前景虚化的墙面形成天然画框，长焦镜头压缩空间，浅景深将视线集中在少女的眼睛、手指与糖葫芦上。
+阴天漫射光让肤色明亮通透，红亮的糖葫芦成为画面唯一的高饱和暖色焦点。再用圆睁的眼睛、鼓起的脸颊和嘴角的糖渣，营造出一种「明明偷吃了，还要假装什么都没发生」的俏皮感。
+
+📸 可直接复制的提示词
+竖版2:3，彩色真人外景人像摄影，新中式汉服情景写真，生活化抓拍。
+
+一位成年东亚女性穿着杏粉色新中式汉服，从孔雀青色墙壁后侧身探出，只露出半张脸与上半身。一只手轻轻扒住墙沿，另一只手举着一串刚咬掉一颗的糖葫芦停在唇边，嘴角残留一点细小糖渣，仿佛偷吃时突然被镜头抓了个正着。
+
+她圆睁双眼直视镜头，眉毛微微上扬，脸颊轻轻鼓起，双唇抿住憋笑，神情无辜又心虚，带有俏皮、灵动、自然的生活气息。
+
+黑色长发挽成低垂双髻，余发编成细辫垂在肩后，鬓边点缀两朵鹅黄色绢花。身穿杏粉色细褶皱宽袖短衫，柔软饱满的灯笼状袖身，袖口以米白色布带层层束起，内搭浅米色交领，腰间垂落细长浅杏色丝带。服装具有真实布料质感与自然褶皱。
+
+构图采用前景框景：画面左侧约三分之一被近距离虚化的孔雀青墙面占据，人物位于中央偏右，从墙后探出身体。背景为更浅的孔雀青墙面，远处点缀一小块虚化的米白窗框。
+
+长焦人像镜头压缩空间，大光圈浅景深，焦点精准落在眼睛、手指与糖葫芦上，前景墙面和背景柔和虚化，形成干净的色块层次。
+
+阴天柔和漫射光，人物面部明亮均匀，无生硬阴影。整体高明度、中高饱和度调色，以孔雀青、杏粉、米白构成主色盘，晶莹透亮的糖衣与鲜红山楂成为视觉焦点。
+
+真实成年女性面部结构，自然皮肤纹理，细腻发丝，精致商业人像摄影，清新、俏皮、松弛、具有故事感。
+
+手部结构自然，手指数量正确，糖葫芦结构合理，不出现多余肢体与杂乱背景。
+
+画面右侧边缘极小的手写签名“voxcat”，末尾带一颗青金石蓝小圆点。
+
+💡 提示词设计重点
+不是靠复杂场景堆出高级感，而是用三个视觉锚点建立画面：
+① 墙面框景：遮挡一部分人物，让探头动作更有偷窥感与叙事性。
+② 复合表情：圆眼睛＋鼓脸颊＋抿嘴憋笑，让人物真正像是被抓包，而不是普通的古风摆拍。
+③ 颜色分工：孔雀青负责建立空间，杏粉负责突出人物，糖葫芦红负责抓住视线。
+同一套结构也可以替换成偷吃糕点、藏起糖人、捧着奶茶探头等主题。保留构图与色彩逻辑，只改变道具和微表情，就能延伸出一整组有连续性的情景写真。
+```
+来源：@VoxcatAI · https://x.com/VoxcatAI/status/2114402872968572928
 
 <a id="case-925"></a>
 
@@ -25765,7 +27907,131 @@ Create {argument name="items" default="fan goods"} for a standard {argument name
 <a id="cat-scene"></a>
 
 ## 🎬 场景与叙事分镜
-_分镜、故事场景、漫画叙事与世界观_（33 例）
+_分镜、故事场景、漫画叙事与世界观_（37 例）
+
+<a id="case-1035"></a>
+
+### 例1035：【冰茶系列 Vol.01】 独居女孩的午餐时光 🍵
+
+*2026-10-29*
+
+![例1035](images/case1035.jpg)
+
+```text
+【冰茶系列 Vol.01】 独居女孩的午餐时光 🍵
+
+穿最舒服的白T恤，扎个随意的丸子头，给自己做一顿丰盛的午餐。
+夹起一块裹满酱汁的葱烧鸡翅，是今天最治愈的瞬间✨
+
+大家中午一般吃什么？我准备随便吃点，下午猛猛干提示词 💪
+
+【今日互动】
+如果冰茶端着这碗鸡翅坐在你对面，你想跟她聊点什么？
+或者，你希望下一期的冰茶出现在什么场景？（穿什么衣服？在做什么？）
+
+点赞+评论，呼声最高的场景，就是冰茶下一篇的日常👇
+期待你们的脑洞，我们下期见！
+
+#冰茶系列 #数字人 #赛博日常
+```
+来源：@sinvlo233 · https://x.com/sinvlo233/status/2114224337154957494
+
+<a id="case-993"></a>
+
+### 例993：一个“大厂病”吐槽系列，几天涨粉150+，单篇阅读34万+，…
+
+*2026-10-29*
+
+![例993](images/case993.jpg)
+
+```text
+一个“大厂病”吐槽系列，几天涨粉150+，单篇阅读34万+，还引来了CEO下场讨论。
+
+这几天，从“奇葩高管”聊到“巨婴员工”，从华为到阿里，到“大厂病”的生态，非常惊喜地收获了150位新朋友。
+
+我自己复盘了一下，为什么这个话题能引发这么多讨论：
+
+1. 选题是“集体痛点”
+职场内耗、PUA、“错把平台当能力”……这些不是“个案”，而是我们每个人都在经历、或正在忍受的“公分母”。身在职场的大家真的感同身受、苦不堪言。
+
+2. 情绪是“第一驱动”
+那条34万+阅读的推文，本质上是一个“真实的故事”。大家共鸣的不是大道理，而是那种“卧槽，这不就是我/我前领导吗”的真实感，忍不住吐槽几句。
+
+3. 讨论是“放大器”
+有大V愿意认同和转发很重要。特别感谢 @manateelazycat  的“神补充”，他的引用让讨论的视角变得更完整。
+
+工作还得继续，大家要的不仅是“吐槽”，更是在寻找一种更健康、更人性的工作方式。
+
+希望我们的职场环境变得越来越好吧。
+
+后续还会不定期分享一些我的职场感悟和踩过的一些坑、遇到的一些有意思的人，欢迎拍砖😁
+```
+来源：@Adam38363368936 · https://x.com/Adam38363368936/status/1986462688281841821
+
+<a id="case-991"></a>
+
+### 例991：哈哈@tangjinzhou的故事太“扎心”了。
+
+*2026-10-29*
+
+![例991](images/case991.jpg)
+
+```text
+哈哈@tangjinzhou的故事太“扎心”了。
+
+那个老板嘴上“吐槽大厂”，扭头就“真香”了，还美其名曰“对你成长有好处”。
+
+这事儿完美印证了我的观点：
+
+我吐槽“大厂病”，但我不否定“大厂平台”。
+
+这不矛盾。
+
+就像你吐槽“猪饲料”，但你不会否认“养猪场”的规模和效率，对吧？
+
+咱们得现实点：
+
+当HR面试时，他没时间“考古”你的灵魂。
+厚厚的一沓简历，那么短短的半小时，他只能看“标签”。
+“大厂”这个标签，就是你最硬的“VIP通行证”，你就比别人有了更多的竞争优势。
+这就是游戏规则。你得先进去，才有资格在“牌桌”上说“不过如此”。
+
+但，进去之后，才是“分水岭”。
+
+有的人，被“异化”了。 他们成了“螺丝钉”，沉迷于“拉通对齐”，热衷于“汇报表演”。 三年后，他们就变成了我骂的那种“只会PUA的废料高管”。这就成为了所谓的耗材。
+
+有的人，去“利用”了。 他们像“间谍”一样。他们去“偷”大厂的视野、“偷”它的方法论、“偷”它的资源。 他们把“平台”的牛逼，想办法盖章成“自己”的牛逼。
+
+从现在来看，我那些进了大厂的同学，不管实际水平怎么样，他们有更多的选择，事实证明他们现在也混得相对好。而那些进创业公司的，好多已经杳无音讯了。
+
+所以总的来讲，
+
+我们要去“驾驭”平台。
+
+不要去“伺候”平台。
+
+千万别把自己混成了“耗材”。
+```
+来源：@Adam38363368936 · https://x.com/Adam38363368936/status/1987886765781455159
+
+<a id="case-975"></a>
+
+### 例975：有些画面不需要故事，只需要一个眼神。
+
+*2026-10-29*
+
+![例975](images/case975.jpg)
+
+```text
+有些画面不需要故事，只需要一个眼神。
+
+柔和肤质 × 白色质感 × 克制构图，安静却很有存在感。
+
+提示词Prompt：
+
+成年韩女，圆润而不宽厚的肩线，细长颈部，上半身曲线丰满，胸部体积感明显，由白色结构化杯型上衣承托并向中央收束，胸腰差清晰；近距离广角产生自然的近大远小透视；只展示上半身至少量胯部，不擅自补全臀腿比例。
+```
+来源：@spark_chenlin · https://x.com/spark_chenlin/status/2108909160754737400
 
 <a id="case-973"></a>
 
@@ -26602,7 +28868,192 @@ Genshin Impact {argument name="character" default="Raiden Shogun"} cosplay selfi
 <a id="cat-history"></a>
 
 ## 🏮 国风与历史题材
-_古风卷轴、历史人物、传统题材与诗词视觉_（24 例）
+_古风卷轴、历史人物、传统题材与诗词视觉_（30 例）
+
+<a id="case-1038"></a>
+
+### 例1038：古风内搭系列
+
+*2026-10-29*
+
+![例1038](images/case1038.jpg)
+
+```text
+古风内搭系列
+
+月色如水，洒在江南水榭的飞檐与回廊上。一位少女侧身倚柱而立，砖红方领上衣在暖橙宫灯下泛着柔光，衣身浅粉团花若隐若现。她头微低，视线下垂，神情安静清冷，乌黑长发编成细辫盘起，金色枝状发簪垂下细碎流苏，右鬓一缕长发贴颈而下。
+
+白色薄纱从上方垂落，绕过木柱与她的身形，在手臂处堆成蓬松褶皱，下部随风扬起成波浪。她左手轻捏纱边，纱面透光朦胧，可见细密网纹。外层白色纱裙极其轻薄，白色丝线绣的花枝在纱上若隐若现，膝下与脚踝处堆叠成多层深浅不同的层次。
+
+右后方月光冷蓝白，勾出发丝与纱边的亮线；左前方宫灯暖橙，照亮脸颊与红衣。红暖与冷蓝双色对比，光比柔和。背景满月高悬，花枝探入，池塘荷叶与荷花漂浮，水面倒映着月光与灯火。
+
+试着改一个词：把"砖红方领上衣"换成"月白交领襦衣"，整个画面就从暖色焦点变成了冷色统一——你更喜欢哪个版本？
+
+#AI艺术 #月夜纱影 #江南水榭 #古风人像
+```
+来源：@sandmrk · https://x.com/sandmrk/status/2114229173820756040
+
+<a id="case-1031"></a>
+
+### 例1031：直视镜头的片刻，被一面粗粝的水泥墙稳稳接住。斜侧日光擦亮发丝…
+
+*2026-10-29*
+
+![例1031](images/case1031.jpg)
+
+```text
+直视镜头的片刻，被一面粗粝的水泥墙稳稳接住。斜侧日光擦亮发丝与肩线，也把清晰的头影留在身后。黑色上衣的纵向车线与细小排扣收住画面，身体的斜线则让构图保留呼吸。
+
+prompt 👇
+```
+来源：@listudio · https://x.com/listudio/status/2114059504514154841
+
+<a id="case-1017"></a>
+
+### 例1017：ChatGPT 画像生成指示書公開
+
+*2026-10-29*
+
+![例1017](images/case1017.jpg)
+
+```text
+ChatGPT 画像生成指示書公開
+着せ替え｜デュアルモード・ポスター
+
+アンカー画像は公開動画素材用、ポストするの忘れていたので公開動画プロンプトはこの後にポストします📫️
+
+※使い方（動画を生成しない方）
+・全身参照画像を用意
+ 1. モード：ポスター
+ 2. アスペクト比：1:1／3:4（選択）
+ 3. タイトル：書換え
+・画像と指示書を同時投入
+
+※使い方（動画を生成する方）
+・全身参照画像を用意
+ 1. モード：アンカー
+ 2. アスペクト比：1:1／3:4（選択）
+・画像と指示書を同時投入
+
+※投入用指示書（Sol5.6以上推奨）
+👇👇👇
+【利用者が指定する入力項目】
+ 1. モード：ポスター／アンカー
+ 2. アスペクト比：1:1／3:4
+ 3. タイトル：HACH MODE
+ 
+ ポスターモードで画面に表示する。アンカーモードでは表示しない。 人物の全身参照画像を添付する。これらは利用時の選択項目であり、指示書原本を書き換える必要はない。 未指定なら初期値を「ポスター」「3:4」「FORM」として扱う。
+
+【目的】 利用者が提供する女性の人物参照を指定のサテンドレスへ着せ替えた後、その同じ人物と衣装で「ポスター」または「動画用アンカー画像」を制作する。
+
+【制作側が用意する参照】 ・人物参照：今回の利用者が添付した全身画像。顔・髪・肌色・年齢感・体格・身体比率の基準。 ・衣装参照：指定のサテン夜会ドレス。ハイネック、襟元のギャザー、ノースリーブ、帯状のウエスト切替、広がるロングスカートの形と素材だけを参照する。 ・ポスターモードのデザイン基準：採用ポスターv02。配置と文字の階層、図形、配色の基準。 参照画像を渡す際はそれぞれの役割を明記し、衣装参照やデザイン参照内の女性の顔を利用者の人物へ混ぜない。
+
+【共通工程1：着せ替え】 人物参照の女性の本人性を維持し、指定ドレスへ着せ替える。元の上着・トップス・ボトムスはドレスに置き換える。 ドレスの色は深いエメラルド。サテンの滑らかな光沢、布の重さ、縦のひだ、襟とウエストの構造を保つ。元の赤色は継承しない。 靴はドレスと同系色の細いストラップのヒール。ハイネックと競合する重ねづけネックレスは外し、自然に見えるイヤリング等は維持する。 別人化、体型の誇張、過度な脚の引き伸ばし、頭の縮小を避ける。衣装を別デザインへ作り替えたり、スリットや袖や装飾を追加したりしない。
+
+【共通工程2：安定した人物基準画像】 正面を向き、自然に背筋を伸ばした安定した立ち姿に整える。肩は自然に水平、腕は体側へ下ろし、手指をリラックスさせる。 歩行途中や大きな踏み出しを固定しない。足の前後差は最小限とし、両足が同じ接地面にある自然な姿勢にする。両方の靴先を裾の下に見せる。 髪の長さ・色・分け目は人物参照を保ち、肩に沿って自然に落とす。横へ大きく吹き飛ぶ髪や過剰な浮遊毛を抑える。 女性1人の頭頂から靴先まで切らずに収める。元の体型を維持し、全身のシルエットと衣装の形を読みやすくする。 実写のファッション撮影として自然な肌とサテンを描く。動きのブレを入れない。 着せ替えと立ち姿が成立した人物基準画像を、次工程で一貫して参照する。歩行は後の動画工程で加える。
+
+【アンカーモード】 人物基準画像をそのまま動画用の人物単体素材として仕上げる。 背景は完全透過のPNG。人物と衣装だけを出力する。 背景、床、舞台、客席、ランウェイ、図形、曲線、円、ポスター装飾、タイトル、注記、ロゴ、透かしは一切入れない。透明を示す市松模様を絵として描かない。 人物を中央に置き、上下左右に必要な余白を残す。人物の陰影は保ち、床の影は描かない。
+
+【ポスターモード】 人物基準画像を中央前景へ配置し、同じ人物の顔・髪・体格・衣装・安定した立ち姿を維持する。 画面は白地。紙の繊維、古紙色、汚れ、粒状印刷感は必須にせず、滑らかで清潔な背景にする。 左端に独立したタイトル帯を設ける。入力タイトルを黒の大きなコントラストの強いセリフ体で組み、単語全体を90度回転して配置する。一文字ずつ縦積みしない。文字数に合わせてサイズと字間を調整し、人物と重ねない。タイトルは入力文字列を正確に使い、勝手にFORMへ戻さない。 右側に、直線辺を右内側の端へ沿わせ、曲面を中央へ張り出させた大きな半円形の色面を置く。色は落ち着いたオレンジ系（目安#D88336）。平面の塗り図形であり、立体の門・アーチ建築にしない。 右下にチャコールの長方形色面を重ねる。人物より後ろに置き、ドレスを隠さない。半円との上下の関係と大きさは採用ポスターv02を基準とする。 左側の余白に小さな黄土色の円を置く。細長い曲線を背景に流し、人物の顔や衣装の上には描かない。 装飾文字は重要なデザイン要素として残す。大タイトルの下に「NO.01」と小さな整列した文字群、左下に独立した小見出し、右端に細い回転文字列、右下に小さな番号を置く。大きなタイトルと小さな文字群のサイズ差、密度、整列、余白の関係を保つ。 初期の装飾文字は次を使える。見出し下：FORM STUDIES / SILHOUETTE / SATIN / RUNWAY EDITION / EMERALD SERIES。左下：FASHION IN MOTION / STUDY 001。右端：FORM / FASHION STUDIES / 001。右下：01 / 03。 タイトル変更時は、装飾文字内のFORMも同じ入力タイトルへ連動して置き換える。実在のブランド、根拠のない開催情報、長い意味不明な文章を追加しない。 人物の全身と靴先を収め、タイトル帯と余白を確保する。オレンジとエメラルドの色の差で輪郭を読みやすくし、採用した図形配置を無断で再設計しない。
+
+【アスペクト比の切り替え】 3:4では採用基準の縦長配置を使用する。 1:1では正方形の画面へ各要素を再配置する。人物の体を横に広げたり、完成した縦長画像を単純に引き伸ばしたりしない。頭・裾・靴先を切らず、人物の自然な縦横比と、左タイトル／中央人物／右図形の関係を維持する。
+
+【出力前確認】 ・入力人物の顔、髪、肌、体格が保たれているか。 ・指定ドレスの形、深いエメラルド、サテンの光沢が保たれているか。 ・安定した立ち姿、両足、自然な髪、全身の収まりに重大な破綻がないか。 ・選択した比率になっているか。 ・アンカーは実際の透過アルファがあり、背景・文字が混入していないか。 ・ポスターは正確なタイトルと装飾文字、回転方向、配置、人物との重なりを確認したか。 ・同じ採用人物を用いているか。再生成による本人性の変化を目視確認する。
+
+【運用】 入力で選択されたモードの完成画像を出力する。両方を指定された場合だけ両モードを作る。 人物参照が未提供なら衣装参照の女性で代用しない。画像提供を求める。 指示書だけでは衣装形状や本人性の完全再現を保証しないため、人物参照と衣装参照を実際に生成へ渡す。ポスターには採用デザイン参照も渡す。 採用アンカーの保存原本は上書き・加工しない。別のポスター画像として生成・保存する。 今回の採用原本：ANCHOR_EMERALD_v02.png、POSTER_FORM_v02_ORANGE.png。 今回の衣装参照：REFERENCE_DRESS_SCARLET.png。 今回の人物参照：REFERENCE_PERSON_mj75.png（今回の検証用。共有利用時は各利用者の全身参照へ差し替える）。 今回の3:4実生成は採用確認済み。1:1分岐と任意タイトルへの変更は指示設計済みだが、実生成による確認は未実施。
+```
+来源：@ai_lifehack55 · https://x.com/ai_lifehack55/status/2114276108124262679
+
+<a id="case-1015"></a>
+
+### 例1015：AI走秀不用支架，想用什麼造型都可以
+
+*2026-10-29*
+
+![例1015](images/case1015.jpg)
+
+```text
+AI走秀不用支架，想用什麼造型都可以
+
+縱向 9:16，iPhone抓拍，全身照，
+一位20歲日本真人笨呆萌妹，天然呆可愛，小巧鵝蛋臉，下巴尖，大眼睛，臉頰微紅，柔順黑色長直髮，拥有夸张的丰满曲线：胸部非常丰满，身形纖瘦骨感，骨架小，肩膀窄，鎖骨明顯，手臂細長，腰身纖細
+，穿著透黑色幻彩紗製成的高定禮服，延伸出同色幻彩紗材質的紗帶環繞在雙手、飛舞在人物身後的空中形成Ω的形狀，具有夢幻的奇異感，
+優雅地走在伸展台上
+```
+来源：@ai2chiuo · https://x.com/ai2chiuo/status/2114277346643677348
+
+<a id="case-988"></a>
+
+### 例988：「月白清笺」｜月白の手紙｜Moonlit Letter 🤍
+
+*2026-10-29*
+
+![例988](images/case988.jpg)
+
+```text
+「月白清笺」｜月白の手紙｜Moonlit Letter 🤍
+
+春光落入窗棂，茶香漫过衣袖。
+
+她倚窗浅笑，指尖轻捧一盏清茶。月白轻纱映着暖阳，眉眼间藏着几分温柔，也藏着一点不经意的心动。
+
+一纸未寄的情书，一场恰逢其时的春日邂逅。🌸
+
+Prompt in thread ↓
+
+#AIart #AIgirl #Hanfu #ChineseFashion #MapleJAI
+高端原创服装设计详情页，2:3竖屏，真实时装目录摄影风格，简洁、高级、东方审美。
+
+主题：「月白清笺」｜Moonlit Letter｜月白の手紙  
+右上角 http://MapleJ.AI 水印。
+
+严格无人物、无模特、无人台、无人肢体、无人形剪影。整张图只展示服装与配饰，不出现真人穿着效果。
+
+核心服装为一套简约汉元素女装，白色为主色调，辅以少量浅银灰与很淡的雾金细节。整体风格克制、清雅、现代化，不要厚重宫廷感，不要繁复夸张，不要游戏装备感。
+
+服装结构：
+- 上身为月白色改良交领短衫，领口干净利落，微微展开，带有真实内衬与自然衣褶。
+- 外层为轻薄白色宽袖罩衫，面料半透，袖身宽松，垂感柔和。
+- 下身为白色高腰长裙，裙摆自然垂坠，褶裥简洁流畅，长度及地。
+- 腰间使用细窄束带或柔软系带，配少量玉饰或珍珠挂件。
+- 配饰为白色或浅银发簪、珍珠耳饰、白色绣鞋、小巧手持团扇或丝带类点缀。
+
+展示方式：
+画面中央完整展示这套服装，采用“悬挂陈列 + 平铺拆件”的高级服装目录排版，不使用人台。主服装占画面约70%，四周分布若干独立细节图，展示领口结构、袖口层次、腰带设计、裙摆褶裥、面料纹理、刺绣细节、鞋履与配饰。
+
+细节风格：
+整体强调“简约汉服”的现代高级感。刺绣只做低密度、精致、留白感强的云纹、花枝或暗纹，不要大面积重工。面料以真丝、薄纱、轻纱、缎面为主，具有真实纤维纹理、轻柔光泽和自然重力。
+
+版式要求：
+版面干净、留白充足、信息层级清晰，像高端品牌设计手册。所有标注使用简体中文，可包含小标题如“领口设计”“腰部结构”“面料细节”“裙摆层次”“鞋履配饰”等。可附少量英文副标题，但中文为主。
+
+背景与光线：
+浅暖灰或米白摄影棚背景，柔和自然侧光，整体明亮通透，颜色克制不过曝。不要插画感，不要3D感，不要幻想特效，不要古风剧照背景。
+
+重点：
+白色主调、简约汉元素、真实材质、无人物、高级详情页排版、清冷温柔的东方时装气质。
+```
+来源：@maplejohn01 · https://x.com/maplejohn01/status/2109264641050468711
+
+<a id="case-981"></a>
+
+### 例981：一个是快门抓拍，抓拍彩带散落的瞬间
+
+*2026-10-29*
+
+![例981](images/case981.jpg)
+
+```text
+一个是快门抓拍，抓拍彩带散落的瞬间
+一个是慢门摇摄，人物主体清晰
+
+慢门 核心 提示词：
+画面呈现横向摇摄追拍效果，树林拉出明显水平拖影 脸部和上躯干相对可辨（ps：核心就是主体清晰可辨），手掌、发梢、裙摆及腿部保留较轻的运动柔化（ps：服装带柔化的效果用于融入背景）。主体边缘有自然柔化，鲜明色彩保持干净，清晰度随区域变化
+
+快门抓拍 核心提示词：
+蓝色、银色与少量铜橙色的金属箔纸屑遍布地面，同时从近景到人物周围和远处空中分层飞散；少量纸屑掠过头发与面部。
+```
+来源：@lishishen7i · https://x.com/lishishen7i/status/2109215207428063612
 
 <a id="case-804"></a>
 
@@ -27366,7 +29817,44 @@ Generate an image of a handwritten traditional Chinese medicine or Western medic
 <a id="cat-video"></a>
 
 ## 🎞️ 创意视频案例
-_图生视频 / 文生视频提示词（播放见线上站）_（62 例）
+_图生视频 / 文生视频提示词（播放见线上站）_（64 例）
+
+<a id="case-1002"></a>
+
+### 例1002：靠速度倒着开已经过时，特斯拉直接在倒挂的坡道上停住。。。你没…
+
+*2026-10-29*
+
+> 🎞️ 视频案例（Pages 版可在画廊页播放；仓库文件：`videos/case1002.mp4`）
+
+```text
+靠速度倒着开已经过时，特斯拉直接在倒挂的坡道上停住。。。你没听错，速度为零都没有掉下来！
+
+秘密就在车底，风扇抽走车底的空气，外面每平方米约10吨的大气压，硬生生把整辆车按在了路面上 @elonmusk
+```
+来源：@0xKevin00 · https://x.com/0xKevin00/status/2110971459053265060
+
+<a id="case-1001"></a>
+
+### 例1001：这不是AI生成视频。
+
+*2026-10-29*
+
+> 🎞️ 视频案例（Pages 版可在画廊页播放；仓库文件：`videos/case1001.mp4`）
+
+```text
+这不是AI生成视频。
+
+特斯拉直播展示Roadster 2“飞行汽车”，分别展示了飞坡着陆与高空倒置着陆。因为汽车配备姿态控制推进器和车尾主推进器，能实现SpaceX火箭般滞空。
+
+Roadster也配备了一套风扇吸附系统，能大幅提高抓地力。据介绍，过弯时的横向加速度最高达到2G。
+
+因为过于超前，马斯克表示，“这不一定是一款以安全性为首要考量的汽车”。
+
+🗒️F1曾出现过风扇吸附概念，但后来因为“设计过于犯规、存在安全隐患”为由，禁止参赛。
+https://x.com/bennyjohnson/status/2110902241548992555/video/1 https://x.com/KanekoaTheGreat/status/2110901067139735700/video/1
+```
+来源：@fxtrader · https://x.com/fxtrader/status/2110910986572206484
 
 <a id="case-972"></a>
 
@@ -28885,7 +31373,186 @@ TikTok/抖音高画质流行短视频风格，短视频生活随拍（Vlog Style
 <a id="cat-other"></a>
 
 ## 🧪 综合与创意实验
-_创意实验、混合任务与实用杂项_（69 例）
+_创意实验、混合任务与实用杂项_（78 例）
+
+<a id="case-1033"></a>
+
+### 例1033：たまにはいつもと違うキャラを作ってみようかな〜と、軽い気持ち…
+
+*2026-10-29*
+
+![例1033](images/case1033.jpg)
+
+```text
+たまにはいつもと違うキャラを作ってみようかな〜と、軽い気持ちで始めたら……
+
+気がつけば半日以上経ってた😂
+
+顔が違う、光が不自然、思ったようにならない……
+
+ChatGPTと何度もやり直して、ようやくこの4枚。
+
+ちょっとクールで、気だるい雰囲気にしてみました😊
+
+みなさんはどの1枚が好きですか？
+
+#AI画像 #生成AI #AI美女
+```
+来源：@Hamster9130 · https://x.com/Hamster9130/status/2114358753499951613
+
+<a id="case-1024"></a>
+
+### 例1024：Romanticising the little thing…
+
+*2026-10-29*
+
+![例1024](images/case1024.jpg)
+
+```text
+Romanticising the little things 
+🍂🎀☕️
+
+Prompt:
+Create a dreamy, Pinterest-inspired autumn lifestyle photo collage in a 2×2 grid, capturing the cozy charm of a perfect fall day.
+
+Top left: A candid top-down outfit photograph of a girl wearing a soft pink knitted cardigan, relaxed blue jeans, tan suede moccasins, and carrying a vintage brown leather shoulder bag, standing on a path covered in fallen autumn leaves.
+
+Top right: A flat-lay of cozy autumn essentials arranged in a recycled kraft-paper drink tray — a white takeaway coffee cup, pink lip gloss, a tiny amber perfume bottle, a blush-pink claw clip, and a luxurious white hand cream. A pink knitted sleeve and a carpet of crisp orange-brown leaves complete the composition.
+
+Bottom left: A close-up aesthetic photograph of tan suede moccasin slippers with red embroidered trim, worn with cute white patterned socks, resting on a dark green perforated metal park bench scattered with golden maple leaves.
+
+Bottom right: A magical woodland pathway surrounded by tall trees dressed in golden-yellow, burnt-orange, and moss-green foliage, with a thick carpet of fallen leaves leading into the distance.
+
+Overall aesthetic: Warm autumn color grading, muted pink and caramel tones, soft natural daylight, candid lifestyle photography, delicate film grain, realistic textures, cozy feminine energy, effortless quiet luxury, nostalgic fall atmosphere, editorial Pinterest photography, beautifully balanced composition, ultra-realistic details, no text, no watermark.
+```
+来源：@Naiknelofar788 · https://x.com/Naiknelofar788/status/2113982256654258253
+
+<a id="case-1021"></a>
+
+### 例1021：好东西，可以收藏了
+
+*2026-10-29*
+
+![例1021](images/case1021.jpg)
+
+```text
+好东西，可以收藏了
+可以单独用，也可以九宫格使用，保证每一个动作都让人怦然心动
+prompts：
+↘️↘️↘️↘️↘️
+1. changepose，身体微转 45 度角，头部轻侧贴近镜头，眼神湿润直视，嘴角微扬，一只手轻抚锁骨，另一只手搭在腰侧，肩膀放松微沉，从眼睛水平略高角度拍摄
+2. changepose，上身微微前倾，眼神慵懒扫向镜头，舌尖轻抵下唇，一只手轻叉腰，另一只手缓慢抬起轻抚上臂，从低角度向上拍摄
+3. changepose，侧身站立，头部回眸看向镜头，表情暧昧带笑，一只手轻抚耳后并拉开发丝，另一只手自然贴近腰线，肩颈舒展，从侧后方 45 度角拍摄
+4. changepose，上身正面微倾，眉眼低垂后抬眼看向镜头，双手手肘微弯，一只手轻抚胸前衣襟，另一只手搭在腰侧，从略高于眼睛水平正面拍摄
+5. changepose，身体轻微侧倾，头部微低，眼神从下往上看镜头，表情带克制笑意，一只手抬起轻托下颌，另一只手沿手臂轻抚，从低角度前方拍摄
+6. changepose，双手轻轻交叠放在胸前，手指缓慢收拢，头部微微后仰，眼神直视镜头，肩膀舒展，从正面略低角度拍摄
+7. changepose，上半身微微抬起，头发轻落肩侧，表情挑逗但克制，一只手伸向镜头做轻勾手势，另一只手放在身侧，从上方略俯视拍摄
+8. changepose，侧坐姿态，上半身转向镜头，眼神流连注视，一只手轻托脸颊，另一只手沿肩颈缓慢滑落，从侧面 45 度角拍摄
+9. changepose，上身微微扭转，头部轻歪，眼神暧昧直视，一只手臂弯曲贴近胸前，另一只手自然搭在腰侧，从低角度侧面拍摄↘️↘️↘️↘️↘️↘️
+```
+来源：@aisima2046 · https://x.com/aisima2046/status/2114305489769218263
+
+<a id="case-1020"></a>
+
+### 例1020：Light Through the Hair - Gemin…
+
+*2026-10-29*
+
+![例1020](images/case1020.jpg)
+
+```text
+Light Through the Hair - Gemini Nano Banana Pro
+
+Prompt 👇                       
+A young woman with short platinum blonde pixie and side-swept bangs stands against a desert backdrop, her hair dramatically whipped by the wind and to the left side of the frame and both hands are on her hair. She wears a sheer white long-sleeved top with ruched detailing along the sleeves and torso. Underneath it, a white bra top is visible through the translucent fabric, creating a layered, semi-transparent effect. Her head is tilted back, eyes partially closed or obscured by strands of hair, with a cool yet flirtatious expression. Leaning forward.
+
+The setting is a bright outdoor desert landscape under a clear blue sky. Smooth, pale sand dunes rise in the background. The lighting is strong, natural daylight that creates soft highlights on her hair and the translucent fabric of her top. Full body, emphasizing the dynamic movement of her hair against the open sky.
+```
+来源：@SakiH_AI · https://x.com/SakiH_AI/status/2113993077555868052
+
+<a id="case-1018"></a>
+
+### 例1018：時尚寫真，35mm鏡頭，超低角度。一位23歲日系女性，偶像氣…
+
+*2026-10-29*
+
+![例1018](images/case1018.jpg)
+
+```text
+時尚寫真，35mm鏡頭，超低角度。一位23歲日系女性，偶像氣質，沙漏型身材，深邃乳溝，身穿合身白色絲緞斜裁吊帶裙，外搭短版毛呢夾克，滑落單肩，親密女友感。蹲在密林小道上，單手調整白色涼鞋，柔和的午後陽光，自然逆光，柔光效果，立體光突出圓潤的輪廓，VSCO紅外線濾鏡將畫面中所有綠色轉為粉紅色
+```
+来源：@sualabs · https://x.com/sualabs/status/2114182737087320222
+
+<a id="case-996"></a>
+
+### 例996：Three moods. Three faces. One …
+
+*2026-10-29*
+
+![例996](images/case996.jpg)
+
+```text
+Three moods. Three faces. One unforgettable aesthetic. 🖤🍊❤️
+
+Prompt:
+
+A square triptych-style fashion editorial collage split into three vertical panels, each featuring a young East Asian woman in a Korean K-fashion magazine photoshoot style, shot in a clean studio with soft, diffused beauty lighting.
+
+Left panel: a woman with long platinum-silver blonde hair falling messily across her face, one eye partially hidden by windswept strands, head tilted with a soft sultry gaze. She has peachy-coral matte lips, warm peach eyeshadow with a thin brown eyeliner wing, and glowing dewy skin. One arm is raised overhead, covered by a chunky bright orange-red knit sleeve, with her hand showing glossy nail art in orange, black and silver, and stacked silver rings. She wears an ornate dangling vintage-style gold and crystal chain earring, a fuzzy black turtleneck, and a brown tweed bouclé jacket. Background: muted blue-gray.
+
+Center panel: a woman with light blonde hair with dark roots, a center part and wispy see-through curtain bangs, dense freckles with orange-pink blush across her cheeks and nose, glossy tangerine-orange lips, and a calm, direct, slightly intense stare into the camera. She wears a crisp white collared shirt layered under a gray-blue plaid wool knit sweater with red check lines. Background: solid deep chocolate-brown.
+
+Right panel: a woman with long, voluminous jet-black hair with wispy bangs, a strand of hair blowing across her mouth and lower face, dark intense eyes peeking out through the hair with a moody, mysterious look, glowing pale skin with soft pink blush. She wears a vivid red-orange top. Background: dusty blue-gray.
+
+Style: high-fashion Korean editorial, K-pop idol concept photo, autumn-winter lookbook, hyper-realistic, ultra-detailed skin texture with natural pores and freckles, soft film-like color grading, muted teal-blue and warm orange-coral color palette, close-up beauty portrait framing, sharp focus on the eyes, shallow depth of field, subtle film grain, magazine quality, 8k, masterpiece. --ar 1:1 --style raw --v 6
+```
+来源：@Tanvir48992 · https://x.com/Tanvir48992/status/2110929474468594105
+
+<a id="case-994"></a>
+
+### 例994：Kanzashi Girly Casual
+
+*2026-10-29*
+
+![例994](images/case994.jpg)
+
+```text
+Kanzashi Girly Casual
+Outfit: A fitted black ribbed long-sleeve top with a scoop neckline; an ivory lace balloon mini skirt; pale-gray loose socks; black Mary Jane sneakers; a faded-red mini shoulder bag; a messy half-up hairstyle secured with two small modernized kanzashi-style metal pins; a tiny braided kumihimo charm hanging from the bag.
+```
+来源：@pocopin9 · https://x.com/pocopin9/status/2110928721377100123
+
+<a id="case-992"></a>
+
+### 例992：还是要保持真诚和开放，分享一路折腾历程（国企→AI大厂销售→…
+
+*2026-10-29*
+
+![例992](images/case992.jpg)
+
+```text
+还是要保持真诚和开放，分享一路折腾历程（国企→AI大厂销售→不甘寂寞的管理者）
+
+我可能属于那个反寻常路径。
+
+985天坑专业毕业，从国企“铁饭碗”跳入AI大厂做销售。如今在稳定中沉淀，但“折腾”之心不死，死磕AI与副业。
+
+还是想做一个持续学习和践行者，搞点事情，再出发！
+```
+来源：@Adam38363368936 · https://x.com/Adam38363368936/status/1980174068688245037
+
+<a id="case-990"></a>
+
+### 例990：@hsn8086
+
+*2026-10-29*
+
+![例990](images/case990.jpg)
+
+```text
+@hsn8086
+```
+来源：@Adam38363368936 · https://x.com/Adam38363368936/status/1981364411605667883
 
 <a id="case-968"></a>
 
