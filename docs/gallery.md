@@ -1,23 +1,23 @@
 # 🖼️ 案例全库 · Full Gallery
 
-共 **1017** 个公开案例，按场景分类。图片已压缩至 1280px 长边；视频案例存于 `videos/`，可在 GitHub Pages 画廊页直接播放。
+共 **1036** 个公开案例，按场景分类。图片已压缩至 1280px 长边；视频案例存于 `videos/`，可在 GitHub Pages 画廊页直接播放。
 
 ## 目录
 
 - [🖥️ 界面与社媒截图](#cat-ui)（73 例）— App / 网页 / 直播 / 社媒界面、UI 样机与截图
-- [📊 信息图与知识可视化](#cat-infographic)（70 例）— 信息图、图谱、科普百科、地图与结构化图解
-- [📰 海报与版式设计](#cat-poster)（164 例）— 活动海报、封面、字体排版与强版式视觉
+- [📊 信息图与知识可视化](#cat-infographic)（71 例）— 信息图、图谱、科普百科、地图与结构化图解
+- [📰 海报与版式设计](#cat-poster)（167 例）— 活动海报、封面、字体排版与强版式视觉
 - [🛍️ 商品与电商视觉](#cat-product)（28 例）— 商品主图、详情页、包装与广告创意
 - [🏷️ 品牌与标识设计](#cat-brand)（26 例）— Logo、VI、吉祥物与品牌触点
-- [🏛️ 建筑与空间场景](#cat-architecture)（98 例）— 建筑渲染、室内空间、城市规划与鸟瞰
-- [📷 摄影与写真人像](#cat-photo)（241 例）— 人像写真、手机摄影、胶片与商业摄影质感
+- [🏛️ 建筑与空间场景](#cat-architecture)（99 例）— 建筑渲染、室内空间、城市规划与鸟瞰
+- [📷 摄影与写真人像](#cat-photo)（246 例）— 人像写真、手机摄影、胶片与商业摄影质感
 - [🎨 插画与艺术风格](#cat-illustration)（65 例）— 插画、绘画流派、材质实验与装饰艺术
 - [🧍 角色与人物设定](#cat-character)（40 例）— 角色设计、卡牌、3D 玩具与形象设定
-- [🎬 场景与叙事分镜](#cat-scene)（37 例）— 分镜、故事场景、漫画叙事与世界观
-- [🏮 国风与历史题材](#cat-history)（30 例）— 古风卷轴、历史人物、传统题材与诗词视觉
+- [🎬 场景与叙事分镜](#cat-scene)（40 例）— 分镜、故事场景、漫画叙事与世界观
+- [🏮 国风与历史题材](#cat-history)（33 例）— 古风卷轴、历史人物、传统题材与诗词视觉
 - [📚 文档与出版物料](#cat-document)（3 例）— 白皮书、手册、处方、证书与出版版式
 - [🎞️ 创意视频案例](#cat-video)（64 例）— 图生视频 / 文生视频提示词（播放见线上站）
-- [🧪 综合与创意实验](#cat-other)（78 例）— 创意实验、混合任务与实用杂项
+- [🧪 综合与创意实验](#cat-other)（81 例）— 创意实验、混合任务与实用杂项
 
 <a id="cat-ui"></a>
 
@@ -2386,7 +2386,37 @@ A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where 
 <a id="cat-infographic"></a>
 
 ## 📊 信息图与知识可视化
-_信息图、图谱、科普百科、地图与结构化图解_（70 例）
+_信息图、图谱、科普百科、地图与结构化图解_（71 例）
+
+<a id="case-1060"></a>
+
+### 例1060：把卡雷扎湖、下龙湾、大峡谷和优胜美地转绘成地形图，山是棕色的…
+
+*2026-10-29*
+
+![例1060](images/case1060.jpg)
+
+```text
+把卡雷扎湖、下龙湾、大峡谷和优胜美地转绘成地形图，山是棕色的等高线，水是蓝色的细横线，角落里还有图例和指北针。
+
+prompt：
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。上半部分只放上传的照片本身，沿用原有取景，不添加任何文字、边框或图形。
+
+下半部分提取照片中最具识别性的场景、地势与景物位置，重构为一张地图：把照片里的景色按位置一一对应，画成一幅制图风格的地形图。山脊和山体是一圈圈的棕色等高线（越高线越密、颜色越深），水面是蓝色的细横线网纹，森林或草地是淡绿色的点阵，房屋和建筑是小小的黑色方块，道路是细线。不画任何写实的景物。
+
+构图遵循“一张图、一块图例”：地图占满下半部分约四分之三，四周有一圈细边框；地图内景物的位置与照片一致（照片里偏左的山在地图上偏左，水面在下方，等等）；右下角留一小块图例，里面有三个小色块加很短的说明，图例旁有一条比例尺；地图一角有一个小小的指北针。周围纸面留白。
+
+配色只用四种：棕色（等高线）、蓝色（水）、淡绿（植被）、近黑（建筑和线），从照片中取色后提纯；纸面是极浅的奶白；颜色平涂，线条纤细。
+
+材质是印刷的地图：细线清晰，等高线带极轻微的手工起伏，纸面有极细的纤维，边缘有轻微的折痕；不要渐变和写实的阴影。
+
+文字只出现在地图上：图名一行（从照片提炼的地点的全大写英文名）、比例尺上的数字、图例里的三个很短的全大写英文词（如 WATER、FOREST、PEAK）、指北针上的字母 N。除此之外画面中不出现任何文字、字母、数字或标志。
+
+整体呈现真实摄影 × 地形图的视觉关系，清爽、精确、安静、有一点探索感。避免写实的风景、渐变、复杂的装饰、多个图例、商业广告文案和模板感。
+```
+来源：@Hamburgerai · https://x.com/Hamburgerai/status/2115535574094491848
 
 <a id="case-857"></a>
 
@@ -5630,7 +5660,92 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 <a id="cat-poster"></a>
 
 ## 📰 海报与版式设计
-_活动海报、封面、字体排版与强版式视觉_（164 例）
+_活动海报、封面、字体排版与强版式视觉_（167 例）
+
+<a id="case-1058"></a>
+
+### 例1058：GPT Image 2.5生成东方美学海报：花影回眸。
+
+*2026-10-29*
+
+![例1058](images/case1058.jpg)
+
+```text
+GPT Image 2.5生成东方美学海报：花影回眸。
+
+提示词（欢迎返图）：
+主题方向：东方禅意极简爆款封面
+风格分支：女性审美高颜值型
+主体内容：一位古风女子以半身近景出现在画面中，微微侧身回眸，神情温柔安静
+情绪母题：柔美、明媚、含蓄吸引力
+场景与意象：海棠粉花影、珍珠白背景、女子、少量浅绿叶片
+构图与空间：9:16竖版构图，人物位于中下部偏右或偏左，占据画面视觉主体，另一侧与上方保留完整标题区，花影从上方轻轻切入
+色彩控制：珍珠白作为高明度背景基底，海棠粉用于花影和局部点睛，浅嫩绿用于少量叶片，人物服装建议浅白或浅粉白；避免全图粉雾化
+光线与质感：明亮柔光，面部与发丝边缘清晰，画面干净通透，轻平面海报感
+画幅比例：9:16
+补充要求：人物必须美且耐看，脸部与发型要精致，整体像高颜值女性封面，背景不要复杂，画面留白处配上合适的文字
+```
+来源：@liyue_ai · https://x.com/liyue_ai/status/2115294031693652342
+
+<a id="case-1057"></a>
+
+### 例1057：把翠鸟、蜂鸟、戴胜和巨嘴鸟转绘成一套彩印邮票，每一枚的颜色都…
+
+*2026-10-29*
+
+![例1057](images/case1057.jpg)
+
+```text
+把翠鸟、蜂鸟、戴胜和巨嘴鸟转绘成一套彩印邮票，每一枚的颜色都是从羽毛里取的，邮戳还半压在票角上。
+
+prompt：
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。上半部分只放上传的照片本身，沿用原有取景，不添加任何文字、边框或图形。
+
+下半部分提取照片中最具识别性的主体、轮廓、姿态与叙事关系，重构为一枚彩色套印的纪念邮票：一枚带齿孔边的小邮票，加一枚半压在票角的圆形邮戳。不要复制照片，只保留主体最关键的侧面轮廓与姿态，用剪影、色块和少量刻线概括，使人一眼认出与上方照片的对应关系。
+
+构图遵循“一枚小邮票、一大片留白”：邮票只占下半部分宽度的三分之一左右，略微旋转，偏向一侧，落在极浅的奶白纸面上，周围保留大面积留白。邮票内主体是一个大色块图形，四周留一圈细窄的白边和一圈细线框，主体偏向框内一侧，留出呼吸感。圆形邮戳半压在邮票右下角，墨色比邮票浅，圆环断续。
+
+配色从上方照片中提取三种最醒目的颜色，其中至少一种来自主体本身，提纯为鲜明的专色油墨，分色套印，色块边缘轻微错位，叠色处自然出现第三种颜色；邮戳只用一种深色。背景纸极浅、明亮、干净，明度明显高于邮票，不偏黄不偏灰。
+
+材质是彩色网点与颗粒油墨：齿孔边缘有细小的缺口，邮戳有断墨和压力不均，纸张只有极细的纤维。套印错位、断墨和颗粒只存在于图形内部，齿孔与线框的边界保持清晰规整。
+
+文字只出现在邮票和邮戳上，如下：邮票左下角的面值数字（一个 30 到 200 之间的整数），邮票底边一行小型英文（从照片主体提炼的一个全大写英文词，不超过十个字母），邮戳圆环内“2026.10.27”。字体是小型的衬线或打字机字体，对齐邮票边线与基线。除此之外画面中不出现任何文字、字母、数字或标志。
+
+整体呈现真实摄影 × 彩色套印邮票 × 小型纪念物的视觉关系，明亮、干净、克制、有收藏感。避免灰脏做旧、满版纹理、写实插画、多枚邮票堆叠、复杂装饰、商业广告文案和模板感。
+```
+来源：@Hamburgerai · https://x.com/Hamburgerai/status/2115496567301943461
+
+<a id="case-1050"></a>
+
+### 例1050：把里斯本的电车、威尼斯的贡多拉、哈瓦那的老车和旧金山的缆车转…
+
+*2026-10-29*
+
+![例1050](images/case1050.jpg)
+
+```text
+把里斯本的电车、威尼斯的贡多拉、哈瓦那的老车和旧金山的缆车转绘成行李牌，拴着棉绳，像是从旅行箱里翻出来的。
+
+prompt：
+请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。上半部分只放上传的照片本身，沿用原有取景，不添加任何文字、边框或图形。
+
+下半部分提取照片中最具识别性的主体、轮廓、姿态与叙事关系，重构为一枚旅行行李牌：一张挂着棉绳的纸质行李牌，竖着放在极浅的纸面上。不要复制照片，只保留主体的正面轮廓与最有辨识度的色块关系，用扁平色块和少量线条概括成一枚小小的最有辨识度的部分图形，图形里不出现任何文字、编号、标牌或标志，照片中的字样一律省略。
+
+构图遵循“一枚小行李牌、一大片留白”：行李牌约占下半部分高度的五分之三、宽度的五分之一，略微倾斜，偏向一侧；牌的上端是被剪去两角的形状，打孔处有一圈加固的圆环，穿着一根打结的棉绳，绳子自然垂落。牌面上部是小图形，下部是一块排版整齐的信息区，中间用一条细线分隔。
+
+配色从上方照片中提取三种颜色：主体或场景里最醒目的三种颜色，提纯为明亮的专色油墨，牌面是极浅的米白卡纸色，明亮干净，不偏黄不发灰。背景纸极浅，明度明显高于行李牌。
+
+材质是纸牌与印刷：牌的边缘略有磨损和折角，打孔的加固圈有一点压痕，印刷的色块带轻微的套印错位和颗粒，绳子是真实的棉线纹理。磨损和错位只存在于牌的边缘与图形内部，信息区的排版保持规整。
+
+文字只出现在牌面，如下：牌面信息区第一行（主体的名称，全大写英文，不超过十个字母），第二行（照片所在的城市或地点名，全大写英文；认不出时写主体所在的场景类别），最后一行右对齐的（形如“No.03”的编号）。字体是小型打字机字体，沿统一的左边线和基线排列，字号小，层级清楚。除此之外画面中不出现任何文字、字母、数字或标志。
+
+整体呈现真实摄影 × 旅行行李牌 × 田野记录的视觉关系，明亮、干净、克制、有收藏感。避免灰脏做旧、满版纹理、写实插画、复杂装饰、多个行李牌、商业广告文案和模板感。
+```
+来源：@Hamburgerai · https://x.com/Hamburgerai/status/2115276889841635683
 
 <a id="case-1037"></a>
 
@@ -13289,7 +13404,68 @@ A photorealistic selfie of a young man with short wavy dark hair and light stubb
 <a id="cat-architecture"></a>
 
 ## 🏛️ 建筑与空间场景
-_建筑渲染、室内空间、城市规划与鸟瞰_（98 例）
+_建筑渲染、室内空间、城市规划与鸟瞰_（99 例）
+
+<a id="case-1056"></a>
+
+### 例1056：One loud colour in a dead stat…
+
+*2026-10-29*
+
+![例1056](images/case1056.jpg)
+
+```text
+One loud colour in a dead station is louder than any neon sign.
+
+Numbered breakdown of the decisions that make this escalator shot work:
+
+1. Let the station stay clinical.
+White curved tunnel, rhythmic ceiling lights, brushed metal, almost no people-colour in the architecture. The frame is already a vanishing point. You don't need props. You need one body that refuses to match the grey.
+
+2. Put the colour only on her.
+Electric lime sequined mini, pale lemon heels, one blue star earring. Nothing else in the tunnel competes. If you add a coloured bag or a second accessory colour, the dress stops being the event.
+
+3. Shoot from below, looking up the climb.
+Low angle, full body, steps racing to the upper-left vanishing point. The escalator does the leading lines for free. Her figure sits in the middle of that rush, so the commute reads as scale, not just outfit.
+
+4. Turn the waist, not just the head.
+Torso twisted hard to look back over the shoulder. Hips cocked, one hand near the thigh, staggered stance. A head-only glance is cute. A waist turn is fashion tension — it shows the side ruching and the sequin speculars catching the ceiling strips.
+
+5. Keep half of her almost silhouette.
+Right flank and lower legs fall toward the dark. The sequins punch against crushed blacks. Even lighting would make it a clean catalogue shot in a pretty station. Uneven light makes it a night-commute interruption.
+
+6. Leave one useless object in frame.
+A blank white-and-gold can on the metal ledge. It proves the place is used, not a set. Don't brand it. Don't tidy it away.
+
+The life part: this is the ride up after something — dinner, a show, a long day — when you're still dressed too loud for the metro and you don't care.
+
+Prompt keys: subway escalator, cylindrical tunnel, low angle vanishing point, lime sequin mini, lemon ankle-strap heels, blue star earring, look-back waist turn, chiaroscuro, Nostalgic Neg, heavy film grain.
+
+死んだ駅に、ひとつのうるさい色。ネオン看板より強い。
+
+このエスカレーターが成立する判断を番号で：
+
+1. 駅は臨床のまま。
+白い筒、規則正しい天井灯、ブラシメタル。建築に人の色はいらない。消失点はもうある。必要なのは、灰色に合わせない体ひとつ。
+
+2. 色は彼女だけ。
+電光ライムのスパンコールミニ、薄いレモンのヒール、青い星のピアスひとつ。他が色を足すと、ドレスがイベントじゃなくなる。
+
+3. 下から、登りを見上げる。
+ローアングル、全身、段が左上の消失点へ走る。通勤が「服」じゃなく「スケール」になる。
+
+4. 振り向くのは首じゃなく腰。
+胴をひねって肩越し。腰を入れて、片手は腿のあたり。首だけだと可愛い。腰が回るとファッションの緊張——サイドのドレープと、天井の光帯を拾うスパンコールが見える。
+
+5. 半分はシルエットに落とす。
+右半身と脚は暗い側へ。スパンコールが潰れた黒に殴りかかる。均等な光はカタログ。ムラのある光は、通勤の割り込み。
+
+6. どうでもいいものをひとつ残す。
+金属棚の白紙の缶。使われてる場所だとわかる。ブランドも掃除もしない。
+
+人生の部分：何かのあと——食事、ショー、長い一日——の上り。メトロにはうるさすぎる服のまま、それでいい。
+```
+来源：@sidona · https://x.com/sidona/status/2115378036342489329
 
 <a id="case-1034"></a>
 
@@ -16955,7 +17131,404 @@ A vintage 35mm film photograph of a {argument name="subject description" default
 <a id="cat-photo"></a>
 
 ## 📷 摄影与写真人像
-_人像写真、手机摄影、胶片与商业摄影质感_（241 例）
+_人像写真、手机摄影、胶片与商业摄影质感_（246 例）
+
+<a id="case-1055"></a>
+
+### 例1055：梦华梦核美☁️
+
+*2026-10-29*
+
+![例1055](images/case1055.jpg)
+
+```text
+梦华梦核美☁️
+
+ChatGPT Images 2.5  prompt 👇
+
+Medium full shot, dramatic diagonal high-angle cinematic fantasy portrait of an ethereal 20-year-old forest nymph reclining gracefully on a lush mossy woodland bank. Resting softly along the emerald-green mossy tree roots, she tilts her head slightly back toward the sky with a dreamy, contemplative expression, her glossy amber-tinted lips parted in quiet wonder.
+
+Her facial features are doll-like and pure: radiant alabaster porcelain skin kissed by golden light, a delicate jawline, and clear almond eyes accentuated by soft sunset-peach eyeshadow. Her long, voluminous platinum-blonde hair cascades around her like a wave of soft silk, spilling across the moss and forest floor. She wears delicate vintage gold botanical earrings.
+
+She is dressed in a breathtaking haute-couture fantasy fairy gown made of iridescent crystalline organza: a ruched lemon-yellow sweetheart off-the-shoulder bodice, transitioning into an emerald-green waist that flows down into an opulent, voluminous golden ruffled skirt that glints and sparkles with magical prismatic light like liquid glass cellophane.
+
+The setting is an ancient, mystical moss-covered forest: she lies nestled amidst deep green ferns and soft moss, with soft-focus dark botanical leaves framing the immediate foreground. Fluttering in the air around her are several giant, glowing translucent crystal butterflies with wings radiating magical warm amber and neon-green hues.
+
+Bathed in dramatic, volumetric golden god rays streaming through the dense forest canopy, creating an intense, dreamy cinematic halation, sparkling specular glints across her gown, and a divine rim of light along her blonde tresses against deep, moody forest shadows. Photographed on an anamorphic 50mm cinema lens at T1.5 with a soft-focus lens filter, ISO 200, 1/120s, delivering authentic skin micro-texture, radiant fairy-tale atmosphere, and an unforgettable, celestial fantasy masterpiece.
+```
+来源：@johnAGI168 · https://x.com/johnAGI168/status/2115276464903860564
+
+<a id="case-1053"></a>
+
+### 例1053：GPT Image 2.5 on ChatGPT
+
+*2026-10-29*
+
+![例1053](images/case1053.jpg)
+
+```text
+GPT Image 2.5 on ChatGPT 
+
+Prompt:
+Ultra-realistic, playful conceptual fashion photograph of a cheerful young woman with a short, vibrant blue bob haircut, wispy bangs, and sunglasses resting on top of her head. She is laughing joyfully with her mouth open, looking back toward the camera while running forward, holding a colorful rainbow swirl lollipop in one hand. She wears an oversized pastel blue sweatshirt, loose-fitting cream beige trousers, and red and white checkerboard slip-on sneakers.
+
+Behind her, a simple black hand-drawn stick figure cartoon character grabs the back of her oversized sweatshirt, stretching the fabric dramatically as she tries to escape. The cartoon figure has a round head, minimal facial features, thin black outlined limbs, and a funny, slightly frustrated expression. Add small hand-drawn motion marks around the character, stretched fabric, and the woman's head to emphasize movement and humor.
+
+Clean minimalist studio setting with a soft white background and pale gray floor, bright diffused studio lighting, gentle natural shadows, full-body composition, dynamic running pose, realistic fabric folds, detailed facial expression, pastel color palette, whimsical contrast between photorealism and 2D doodle art, creative advertising photography, modern social media aesthetic, sharp focus, high detail, vertical 4:5 aspect ratio. Keep the cartoon figure clearly illustrated in simple black line art while the woman remains completely photorealistic.
+```
+来源：@harboriis · https://x.com/harboriis/status/2115417525177778485
+
+<a id="case-1046"></a>
+
+### 例1046：Gpt image prompt  18
+
+*2026-10-29*
+
+![例1046](images/case1046.jpg)
+
+```text
+Gpt image prompt  18
+gpt提示词分享  18
+
+夏日森林 · 白色缎带与风的韩系写真
+
+【整体画面风格】
+
+1:1正方形构图，单幅独立画面，超写实韩系森系成年女性写真，真实户外人像摄影与清透梦幻胶片美学融合。
+
+一位23至25岁、明确成年的美丽东亚女性，拥有精致小巧的鹅蛋脸、清透冷白肌肤、深棕色杏仁眼、柔和玫瑰粉色双唇，以及浓密乌黑的及腰长发。
+
+身穿纯白色短袖修身针织上衣，头发后方系着一只精致的白色半透明欧根纱蝴蝶结。
+
+人物置身于阳光明亮的夏日绿色树林中，身体呈三分之四侧身角度，头部轻轻回转，温柔地凝视镜头。
+
+双手自然抬至胸前，轻轻握住垂落的白色透明丝带。
+
+微风从画面左侧吹向右侧，将人物乌黑长发和白色透明缎带吹起，形成自然流动的优美弧线。
+
+强烈夏日阳光穿过树叶，产生闪亮的逆光、青蓝色散景、温柔的镜头光晕，以及略微过曝的高光。
+
+整体氛围清新、温柔、梦幻、安静，带有夏日初恋电影的柔软气息。
+
+真实人像摄影，细腻肤质，轻微胶片颗粒，柔和光学成像，适度降低对比度，不使用明显3D渲染质感。
+
+【人物面容】
+
+一位23至25岁、明确成年的精致东亚女性。
+
+小巧自然的鹅蛋脸，头型偏小，额头柔和饱满，面部轮廓流畅，颧骨平滑，脸颊带有轻微自然饱满感。
+
+下颌线柔和向下收窄，小巧圆润的下巴，面部比例自然协调。
+
+皮肤为清透冷白色，在强烈自然光下呈现细腻、柔和的奶油瓷白质感。
+
+脸颊带有轻微樱花粉色腮红，鼻尖具有自然的浅粉色血色感。
+
+一双清澈明亮的深灰棕色杏仁眼，眼型略大但自然，眼尾轻轻上扬。
+
+自然双眼皮，细致卧蚕，浅粉棕色眼影，纤长自然的睫毛。
+
+眉毛纤细柔和，呈自然深棕色平缓眉形。
+
+鼻梁挺直纤细，鼻尖精致小巧，鼻翼自然。
+
+双唇柔软饱满，采用低饱和玫瑰蜜桃粉色水润唇妆。
+
+双唇轻微分开，唇部具有细腻的自然光泽。
+
+人物表情平静、柔和、略带羞涩，眼睛直视镜头，带有清冷而温柔的气质。
+
+整体为极淡韩系裸妆，不使用浓重眼线、假睫毛和夸张美颜。
+
+【发型设计】
+
+极其浓密的乌黑色长发，略带深黑茶色反光，长度延伸至腰部以下。
+
+头顶自然蓬松，发根具有真实空气感。
+
+发型采用自然半扎发设计，头顶与两侧部分头发轻轻向后收拢。
+
+头发后侧靠近耳朵上方的位置，系着一只小巧的白色半透明蝴蝶结。
+
+额前保留少量自然轻薄的空气刘海，细小发束不规则地垂落在额头。
+
+两侧有修饰脸型的细长碎发，部分发丝贴近脸颊。
+
+大量长发自然垂落至背部和腰部，部分发丝受到微风影响向画面右侧飘动。
+
+头发具有柔和的大弧度自然波浪，整体仍以顺直、轻盈的长发为主。
+
+微风带起大量独立的细小发丝，在强烈逆光下形成清晰而柔和的银白色发丝轮廓。
+
+乌黑长发暗部保留真实层次，受光区域呈现自然深栗棕色反光。
+
+不要僵硬的假发，不要规则整齐的卷发，不要夸张蓬松发团。
+
+【白色丝带设计——最重要的细节】
+
+头发后侧系着一只精致小巧的白色半透明欧根纱蝴蝶结。
+
+蝴蝶结具有柔软的双环结构，位于画面右侧耳朵后上方。
+
+从蝴蝶结延伸出数条细长、轻盈、半透明的白色缎带。
+
+丝带宽度适中，质地轻薄柔软，具有细腻的纱质纹理。
+
+两条较长的白色丝带被风吹向画面右上方，在空中形成优美的不规则S形飘动轨迹。
+
+丝带从人物头发旁向右上方延伸，部分一直延伸至画面边缘之外。
+
+另一条细长丝带自然垂落在人物肩膀前方，人物双手轻轻握住丝带下端。
+
+丝带在逆光下呈现明亮的乳白色、淡银蓝色与半透明质感。
+
+阳光可以穿透丝带，使其边缘产生轻微柔和的白色光晕。
+
+飘动方向统一，丝带形态遵循真实风力和布料物理规律。
+
+不要生成僵硬的塑料飘带，不要出现与头发连接错误的结构。
+
+【服装设计】
+
+上身穿一件纯白色短袖修身针织上衣。
+
+上衣采用细密柔软的棉质针织面料，具有真实清晰的细小纵向罗纹。
+
+浅圆领设计，领口自然贴合锁骨上方。
+
+短袖长度至上臂中部，袖口具有细密针织收边。
+
+衣服整体略微修身，沿身体形成柔和自然的布料曲线。
+
+短款设计，下摆位于腰部附近，少量自然腰线可以出现在画面下缘。
+
+针织面料不透明，质地柔软，具有自然纤维和细小褶皱。
+
+强烈阳光照射后，白色上衣局部呈现轻微高光过曝，但保留针织纹理和真实面料结构。
+
+服装整体简洁干净，不添加复杂印花、LOGO或大型装饰。
+
+【人物姿势】
+
+人物站立在绿色树林前。
+
+身体侧对镜头约60度，肩膀稍微向画面左侧偏转。
+
+上半身自然挺直，背部舒展，肩膀放松。
+
+头部向后轻轻回转，脸部呈自然三分之四角度，眼睛直接看向镜头。
+
+下巴略微收起，颈部线条自然舒展。
+
+双臂自然弯曲，靠近身体前方。
+
+两只手轻轻抬起至胸前位置。
+
+其中一只手拇指和食指自然握住白色透明丝带，另一只手轻轻托住丝带下方。
+
+手指柔软放松，不刻意摆出夸张手势。
+
+人物长发向身后自然垂落，并被微风吹向画面右侧。
+
+白色丝带随风向画面右上方飘动。
+
+整体姿势轻盈、自然、安静，如同夏日树林里被朋友抓拍到的一个回眸瞬间。
+
+【背景环境】
+
+夏日阳光明媚的绿色树林或公园。
+
+背景完全由茂密的深绿色树叶、树冠和透过树叶的蓝色天空构成。
+
+树木距离人物较远，背景自然虚化。
+
+画面右侧以浓郁深绿色树叶为主。
+
+画面左侧可见透过树冠的明亮浅青蓝色天空。
+
+大量自然光穿过树叶，形成大小不同的圆形蓝绿色散景。
+
+背景色彩具有鲜明的翠绿色、深青绿色、浅湖蓝色与少量纯白色高光。
+
+局部背景光斑呈现柔和的青蓝色光晕。
+
+背景完全没有建筑物、道路、车辆或其他人物。
+
+画面具有安静、清澈、明亮的自然森林氛围。
+
+【镜头与构图】
+
+1:1正方形画幅，人物上半身写真。
+
+采用等效50mm至85mm人像镜头，f/1.8至f/2.8的浅景深效果。
+
+摄影机位接近人物眼睛高度，自然平视。
+
+人物位于画面中央略偏左。
+
+头部位于画面上方中央区域，长发从肩膀后方自然延伸至画面底部。
+
+取景从头顶上方少量绿色背景开始，延伸至腰部附近。
+
+人物侧身回眸，脸部是视觉中心。
+
+双手位于画面左下方，轻轻握住下垂的丝带。
+
+白色蝴蝶结位于人物头部右侧，长丝带从头发旁向画面右上角延伸。
+
+人物乌黑长发与明亮丝带在绿色背景前形成鲜明视觉对比。
+
+背景大幅虚化，树木呈现柔和圆形光斑。
+
+人物面部保持清晰，部分前景头发和丝带可以出现轻微运动柔化。
+
+不使用过度广角变形。
+
+【光影设计——关键】
+
+明亮夏日下午自然逆光。
+
+强烈阳光从人物后上方偏左侧穿过树林照射。
+
+人物头顶、发丝边缘、肩膀和白色丝带受到明显的逆光照亮。
+
+乌黑长发边缘形成细腻银白色轮廓光，独立发丝在阳光中闪烁。
+
+白色丝带因为强逆光呈现明亮、半透明、近乎发光的质感。
+
+人物脸部受到天空漫射光和周围环境反射光照亮，保持自然明亮。
+
+皮肤具有柔和奶油白色高光，脸颊呈淡淡樱花粉色。
+
+画面左侧的天空和局部白色衣服可以略微过曝，模拟真实相机高光溢出的效果。
+
+背景树叶之间形成明亮的青蓝色散景，具有轻微镜头炫光与柔和光晕。
+
+画面亮部具有轻微胶片式高光扩散效果，阴影保持清透，不要死黑。
+
+整体明亮、通透、轻盈，具有真实夏日摄影的空气感。
+
+避免商业影棚布光、夸张人工光束和过度完美的HDR效果。
+
+【色彩风格】
+
+清透冷青绿色韩系森系调色。
+
+主色彩为深翠绿、浅青蓝、纯白色、银白色、深黑茶色与柔和粉白色。
+
+背景树林偏青绿色，天空偏浅湖蓝色。
+
+人物皮肤保持自然冷白，受阳光照射部位呈轻微暖白色。
+
+白色针织上衣明亮干净。
+
+白色半透明丝带呈现银白色、淡青蓝色的轻微冷色反光。
+
+乌黑长发保持浓郁的深色层次，与明亮绿色背景形成自然对比。
+
+整体亮度较高，黑色柔和，白色明亮，局部允许轻微过曝。
+
+增加微弱柔焦感和胶片高光晕染效果。
+
+保留真实数码摄影的细小颗粒，不过度锐化。
+
+【真实摄影质感】
+
+真实东亚女性自然摄影，真实眼睛反射光，清晰自然五官，细腻皮肤纹理。
+
+头发具有真实独立发丝与自然风力运动效果。
+
+白色欧根纱丝带具有真实半透明物理材质和布料运动轨迹。
+
+白色针织上衣具有清晰自然的细密针织纹理。
+
+自然逆光、细腻光晕、柔和高光过渡、轻微真实摄影柔焦。
+
+画面唯美但不刻意完美，保留真实生活摄影的自然感。
+
+无文字，无水印，无LOGO，无拼图，无边框。
+
+【负面提示词】
+
+动漫，插画，卡通，3D渲染，CG皮肤，塑料假脸，过度磨皮，夸张网红脸，异常大眼，尖锐下巴，五官不对称，僵硬表情，浓妆，异常睫毛，假发，塑料头发，发丝黏连，错误半扎发结构，过度规则卷发，丝带变成塑料，丝带变成翅膀，错误丝带连接，飘带运动方向混乱，头发运动方向异常，多余手指，畸形手掌，手指融合，手腕扭曲，多余手臂，肩膀错位，颈部畸形，身体比例失真，针织面料错误，衣服透明，背景建筑，杂乱人群，光线方向混乱，过度强烈炫光，面部严重过曝，极端HDR，过度锐化，商业影棚质感，严重AI生成痕迹，文字，LOGO，水印，拼图。
+```
+来源：@CryY666666 · https://x.com/CryY666666/status/2115412955361861937
+
+<a id="case-1043"></a>
+
+### 例1043：落ち葉の道で、カップを両手に。まわりの色を眺めていたら、ひと…
+
+*2026-10-29*
+
+![例1043](images/case1043.jpg)
+
+```text
+落ち葉の道で、カップを両手に。まわりの色を眺めていたら、ひと息が長くなる🌼
+
+#AIart #AI写真 #落ち葉とカップ
+
+【画像生成プロンプト】
+
+主題：
+落ち葉の道でカップを両手に
+
+主体：
+紅葉の道に立つ20代の成人女性の全身。身体と顔を画面右へ向けた横向きで、一方の脚だけを膝から後ろへ曲げる。
+
+人物・表情：
+小さな鼻、短い顎と細い横顔。右を静かに見る目元、閉じた淡いピンクの唇。胸までの茶色のウェーブ髪を半分まとめ、後ろにベージュの大きな花形の留め具。細い前髪と頬横の束。明るい桃色を含む肌。顔の前面は柔らかい陰、髪と輪郭には金色の縁光。
+
+服装・ポーズ：
+灰みのあるベージュのゆったりしたタートルネックニット、濃い茶色のプリーツミニスカート。同色の膝丈のブーツに太いヒールと小さな側面の留め具、白いリブのソックスの端。左腰の後ろに茶色の肩掛けバッグ。両肘を低く曲げ、腹の前で蓋付きの白い紙カップを両手で持つ。片脚でまっすぐ立ち、手前の膝を曲げてふくらはぎとブーツを画面左へほぼ横に浮かせる。
+
+背景・光：
+赤と橙の落ち葉が道一面を埋める。左に太い木と低い石、奥に木の柵、頭上を紅葉の枝が覆う。右奥に木々と淡い建物の一部。右上の低い暖かな太陽が枝と髪を縁取り、道に明るい斑を作る。
+
+構図・カメラ：
+縦構図3:4。ほぼ目線の高さから身体の横側を撮る。頭から地面につく靴と浮かせた靴まで収める。頭上と下の道に紅葉の余白を残す。
+
+質感・スタイル：
+赤い紅葉と茶色の衣服の写真。毛糸、革と落ち葉の形を細かく、肌の影は柔らかい。
+```
+来源：@CyberTotal2026 · https://x.com/CyberTotal2026/status/2115434911012376795
+
+<a id="case-1042"></a>
+
+### 例1042：海の見える部屋で、靴の踵にそっと手を添えて。花のイヤリングも…
+
+*2026-10-29*
+
+![例1042](images/case1042.jpg)
+
+```text
+海の見える部屋で、靴の踵にそっと手を添えて。花のイヤリングも合わせて🌼
+
+#AIart #AI写真 #海の見える部屋
+
+【画像生成プロンプト】
+
+主題：
+海の見える部屋で支度
+
+主体：
+海に面した部屋の白いベッドの端に座る20代の成人女性。胴は正面寄りで右へ少し寄せ、左側の膝を高く曲げてもう一方の脚に重ねる。顔を左下へ向ける。
+
+人物・表情：
+茶褐色のアーモンド形の目を靴へ伏せる。小さな鼻、細い下顔面と短い顎、軽く開いたピンクの唇。胸までの茶色のウェーブ髪を半分まとめ、細い前髪と片側へ多く落ちる束。明るいクリーム色に桃色を含む肌。顔の影は白く柔らかく、髪と脚に暖かな日差し。
+
+服装・ポーズ：
+灰白色のツイードの短いジャンパースカートに大きな金色と珠のボタン。細いベージュのベルトと金色の留め具。内側はアイボリーの立ち襟、胸の縦ひだと透ける膨らんだ長袖。黒い半透明の細かな点と菱形のストッキング、赤い底の黒いエナメルの尖った細いヒール。花の垂れる耳飾り。画面右の腕を後ろへ伸ばして掌をベッドにつく。左側の腕を下ろし、高く曲げた左足のパンプスの踵に手を添える。反対の脚は手前へ下ろす。
+
+背景・光：
+左の大きな窓の向こうに青い海と山、窓際のソファと花のある小卓。右に木のベッドと重なる白い枕、淡いランプ。足元に灰色のラグ。左窓の自然光と部屋の暖かな白い灯りを合わせる。
+
+構図・カメラ：
+縦構図3:4。座った身体を斜め正面の少し高い位置から見る。頭頂を上端で少し切り、高い膝と靴を左手前へ大きく、下ろした脚は下端の外。左に海の景色を残す。
+
+質感・スタイル：
+白い寝具と灰色の服の写真。ツイード、透ける袖とストッキング、靴の鋭い反射と柔らかな顔。
+```
+来源：@CyberTotal2026 · https://x.com/CyberTotal2026/status/2115373506515153341
 
 <a id="case-1040"></a>
 
@@ -27907,7 +28480,85 @@ Create {argument name="items" default="fan goods"} for a standard {argument name
 <a id="cat-scene"></a>
 
 ## 🎬 场景与叙事分镜
-_分镜、故事场景、漫画叙事与世界观_（37 例）
+_分镜、故事场景、漫画叙事与世界观_（40 例）
+
+<a id="case-1054"></a>
+
+### 例1054：衣装のお時間です
+
+*2026-10-29*
+
+![例1054](images/case1054.jpg)
+
+```text
+衣装のお時間です     
+
+「蜘蛛の巣」
+
+1枚目　衣装プロンプト
+
+2.3枚目
+「優雅に踊る女性。背景は衣装に合わせたイメージ。衣装は下記英語プロンプト。8K。フォトリアル。」
+
+4枚目
+３枚目作成から追加指示「背中からのカメラ」
+
+と指示しています。
+
+ Image generated with ChatGPT. 
+#AIart      
+-----プロンプト-----
+A haute couture avant-garde dress on a mannequin, intricate dark fantasy style, complex web-like organic structures made of fine black lines and delicate lace, mimicking spiderwebs and biological roots. The bodice features symmetrical cutouts on the chest and waist, revealing a sheer flesh-toned mesh underneath. High-neck halter silhouette, meticulously embellished with glistening black beads and embroidery. The skirt flows down into a layered translucent tulle, blending seamlessly with the fine line patterns. Soft studio lighting, muted terracotta background, ultra-detailed, cinematic fashion photography, 8k resolution.
+```
+来源：@y_suou · https://x.com/y_suou/status/2115367982163505412
+
+<a id="case-1049"></a>
+
+### 例1049：换个地方困住她，故事就变了
+
+*2026-10-29*
+
+![例1049](images/case1049.jpg)
+
+```text
+换个地方困住她，故事就变了
+
+【主体】× ccd彩色柔焦 × 被驯服的野兽姿态 × 【场景】 × 夸张表现力
+
+冷艳御姐、病娇少女、废土公主，都能填进【主体】；【场景】可以换成雪原、荒漠、海边礁石。
+想再拧一下气质，把【场景】换成更有反差的文明废墟，野性会更重。
+
+🟠 提示词
+
+韩系不完美美女，ccd彩色柔焦，被驯服的野兽姿态  ，月球上，夸张表现力
+```
+来源：@spark_chenlin · https://x.com/spark_chenlin/status/2115255981693075902
+
+<a id="case-1048"></a>
+
+### 例1048：晚上一个人在家，有点不敢关灯。
+
+*2026-10-29*
+
+![例1048](images/case1048.jpg)
+
+```text
+晚上一个人在家，有点不敢关灯。
+
+@grok 古代人晚上看书点的是什么灯？
+
+提示词：👇
+
+主题：古风闺房，韩服女子睡前点着烛灯趴着看话本，烛火突然一跳把她吓了一跳
+主体：一位明确成年的23到25岁东亚女性，五官自然略不对称，清丽温柔长相，脸型偏圆，肩颈线条漂亮，腰细胯宽，身材匀称有曲线
+人物与表情：乌黑长发编成一条低麻花辫搭在肩前，系一条红色发带，眼尾淡桃粉，唇色水润海棠红，脸朝镜头，被吓到后眼睛睁圆，下一秒又抿嘴偷笑
+服装与姿势：淡粉色丝缎抹胸式韩服长裙，裙头平横在锁骨下方两指宽，露出锁骨和一点自然的胸型，有不透明内衬；外罩一件浅白色短款薄纱韩服上衣，敞开搭在两肩，系带垂着；侧坐在暖炕的软垫上，身体转向镜头，一只手拿着翻开的话本挡在膝上，另一只手拍着胸口下方的位置定神，手和书都不挡胸前领口
+背景与光线：精致的朝鲜时代闺房，木格窗糊着白纸，矮桌上放着一盏烛台和几本线装书，身后是绣花屏风和叠好的锦被，暖黄烛光从侧前方照亮脸，背景微暗，有柔和的轮廓光
+构图与镜头：9:16竖构图，50mm，胸口高度平视，从头顶完整取到膝盖下方，人物居中，背景轻微虚化
+质感与风格：真实电影感古装剧照，真实皮肤纹理，轻微颗粒，精致不土，暖调烛光
+负向约束：未成年感，背对镜头，手挡胸口，低画质，模糊，畸形手指，多余肢体，脸部变形，张大嘴，吐舌头，过度磨皮，塑料皮肤，文字水印
+```
+来源：@Levi_D_Ackerman · https://x.com/Levi_D_Ackerman/status/2115449758798278723
 
 <a id="case-1035"></a>
 
@@ -28868,7 +29519,82 @@ Genshin Impact {argument name="character" default="Raiden Shogun"} cosplay selfi
 <a id="cat-history"></a>
 
 ## 🏮 国风与历史题材
-_古风卷轴、历史人物、传统题材与诗词视觉_（30 例）
+_古风卷轴、历史人物、传统题材与诗词视觉_（33 例）
+
+<a id="case-1052"></a>
+
+### 例1052：超寫實 8K 東方奇幻攝影，一位絕美東亞狐族女帝坐在華麗雕花…
+
+*2026-10-29*
+
+![例1052](images/case1052.jpg)
+
+```text
+超寫實 8K 東方奇幻攝影，一位絕美東亞狐族女帝坐在華麗雕花深色木椅上，銀白色長髮高盤成華麗丸子頭，頭頂戴金色鳳冠與紅流蘇頭飾，頭上有一對黑白狐狸耳朵，背後有九條巨大蓬鬆白色狐尾，臉部精緻小臉、高鼻梁、尖下巴，冷豔魅惑表情，鮮豔紅唇微微張開，輕微煙燻眼妝，鳳眼直視鏡頭，眼神勾人又高傲，白皙油亮光滑皮膚，豐滿渾圓深溝胸部，纖細腰肢，豐滿翹臀。清晰真實皮膚紋理，可見毛孔與細微皮膚質感，自然皮下散射，無磨皮、無塑料感、無過度美顏，真實人體解剖結構，  正對鏡頭開腿坐姿（M字開腿），雙腿大幅張開膝蓋高抬（貼近上半身），雙腳平放在深色真皮沙發座墊上，腳趾自然張開，雙手從雙腿外側抓住小腿，上身微微後靠。上身穿黑色絲質金線刺繡 bustier 胸衣，低胸設計強調深溝，紅色中國結流蘇與紅藍寶石裝飾；下身穿幾乎全透的白色蕾絲薄紗短裙，外披深紅色繡金龍鳳紋長袍披在雙臂與椅子兩側；全身配戴多層金色腳鏈、手鏈、項鍊、耳飾，全部帶紅寶石珠與流蘇。背景大片紅色楓葉虛化bokeh，柔和側前方暖光+強烈邊緣光，髮絲與狐尾邊緣發光，真實攝影光影，  中近景正面略微俯視角度，全身幾乎入鏡，焦點清晰，自然景深，絕對真實的攝影質感，超寫實真人攝影，清晰皮膚紋理，3D真人人體解剖，真實相機拍攝效果，  不卡通、不動漫風、不CG渲染、不3D模型、不人偶感、不過度磨皮、不塑料皮膚、不畸形、不AI感
+#ai #AIart #東方Project #女帝 #狐族 #ai美女
+```
+来源：@SuiXve · https://x.com/SuiXve/status/2115471682945311107
+
+<a id="case-1047"></a>
+
+### 例1047：GPT Image 2.5生成古风服装：绡梦浮光。
+
+*2026-10-29*
+
+![例1047](images/case1047.jpg)
+
+```text
+GPT Image 2.5生成古风服装：绡梦浮光。
+
+9:16竖版，高精度风格化3D东方幻想女性角色原型，high-end stylized 3D oriental fantasy character design，电影级CG角色设计，鲜艳清透的中国色，极其精致梦幻的高级东方幻想服装。
+
+人物设定： 一位25岁左右的成年东方幻想女性，精致柔美的东方动漫化五官，小巧心形鹅蛋脸，横向舒展的清亮杏眼，秀气的鼻梁与柔软唇形。颈部异常修长，肩膀纤窄，腰身纤细，四肢修长，整体呈现优雅协调的超现实人物比例。肌肤细腻白皙，带有柔和自然的次表面散射。
+
+自然表情： 眉眼自然舒展，眼神温柔地望向镜头前方，嘴角有一丝不明显的浅笑，脸颊肌肉自然放松，神情灵动、有呼吸感，避免僵硬端庄或刻意微笑。
+
+发型雕塑： 乌黑浓密的长发在头顶盘成两道异常巨大的悬空环形发髻，环状发束上下错落，一道向左上方舒展，另一道向右侧弯曲，形成高耸又富有负空间的双环雕塑剪影。每道环髻由细密真实的发束缠绕构成，边缘点缀少量珍珠金细链与小型桃红琉璃花饰。耳侧垂落两缕极细长发。
+
+服饰设计： 身穿湖蓝色高光真丝修身礼裙，小立领、柔和斜襟、纤细腰线，衣身自然贴合肩胸与腰腹轮廓，裙身沿腿部修长垂落，下摆轻微外扩。腰侧覆盖一片不对称桃红色丝缎飘带，沿身体自然下垂。
+
+肩背延伸出多层月白色半透明珠光轻纱，如漂浮的弧形云幕环绕身体，纱幕宽阔但不遮盖纤细腰身。
+
+材质细节： 主裙采用高密度桑蚕丝缎，表面产生细长柔亮的丝绸高光。外层月白珠光纱由极细透明丝线与微小珍珠光泽纤维交织而成，纱层透明度分明，相互重叠时可见细腻的明暗变化。纱边缝制微小珍珠、极细金丝和透明珠链，局部桃红色纱线形成轻盈花瓣刺绣。珍珠具有自然柔和的层次反射。
+
+整体轮廓： 顶部巨型双环发髻形成醒目的雕塑结构，中段身体极度纤细修长，下方修身礼裙与环绕轻纱形成轻盈、飘逸而优雅的东方幻想形态。
+
+湖蓝用于主裙，桃红用于飘带与小面积刺绣，月白用于珠光纱幕，珍珠金用于珠链与发饰。色彩鲜明分区，保持肤色自然，避免整图蓝粉滤镜化。
+
+高精度3D CG，真实细密发丝、丝绸各向异性高光、珠光纱细纤维、多层透明织物、珍珠微反射，明亮柔和影棚主光，细微轮廓光，中性浅灰背景，正面完整全身构图。
+
+避免人偶、手办、塑料皮肤、普通古风写真、过度僵硬的表情、衣料缺乏细节、畸形肢体、文字和水印。
+```
+来源：@liyue_ai · https://x.com/liyue_ai/status/2115424309112164580
+
+<a id="case-1044"></a>
+
+### 例1044：我都盯着你这么久了，你还敢再靠近一点吗？🖤😏
+
+*2026-10-29*
+
+![例1044](images/case1044.jpg)
+
+```text
+我都盯着你这么久了，你还敢再靠近一点吗？🖤😏
+
+生图模型 See Dream5.0 提示词：
+人物：一名成年东亚女生，超白皮肤，黑色长发略显凌乱，额前佩戴白色宽发带，几缕碎发沿脸颊与颈侧垂落。脸型偏鹅蛋形，下颌线清晰，眉眼冷峻，目光紧盯镜头，双唇微微分开。妆容以细黑眼线、低饱和灰棕眼影和自然玫瑰色唇妆为主。面部保留少量尘土痕迹，神情冷静、警惕。
+身材：小到中等骨架，肩部适中偏窄，胸廓相对窄，上半身明显丰满。胸部体积很大，保留自然下坠、真实重量感及衣料承托形成的合理轮廓，不呈僵硬球形。腰部短而细，从肋侧向腰际非常明显地收束，骨盆与髋部宽，大腿根部丰满厚实，整体属于非常明显的丰满沙漏型身材。腹部保持自然起伏，不过分肥胖或突出。不生成纤细模特型、长腰、窄胯、细腿或健美肌肉型，不缩小胸部、不加宽腰部、不收窄髋部。半身构图重点体现偏窄肩线、丰满上身与短细腰的比例。
+皮肤：统一为超白皮肤，保持冷中性色，保留自然真实纹理、细腻毛孔、细小绒毛、浅淡肤色变化与关节褶皱。表面光泽克制，仅在受光处出现少量自然反光，避免油亮、过度磨皮、塑料感与过曝。
+服装：紧身黑色修女风连衣裙，搭配白色额头发带和小面积白色领饰，整体成熟、性感。高密度弹力哑光面料沿胸部、肋侧与腰腹自然贴合，突出丰满上身和明显收束的短腰。胸部衣料有真实承托与张力变化，保留自然重量，不将胸部压平或缩小。领口略低，露出锁骨与少量上胸，长袖贴合手臂。腰侧、胸下与肘部形成细小褶皱，面料厚度、织纹与缝线清楚。袖缘、肩侧和衣身局部带磨损、毛边及小面积撕裂，服装主体完整，轮廓保持紧身。
+姿态与道具：人物上半身正面略微侧转，一侧肩膀靠近镜头，持枪手臂向前伸出，黑色手枪直指镜头，形成明显的近大远小透视。另一条手臂靠近腰侧，肩背自然，身体稳定。握枪的手指结构合理，枪口附近飘散少量薄烟，不遮挡面部。枪身为磨损的黑色金属，带细小划痕、使用痕迹与局部冷色反光。
+场景：昏暗的废弃室内空间，远处墙面、门洞与残旧结构隐约可辨。空气中漂浮少量尘埃和残余薄烟，环境以低饱和灰黑、暗冷绿色为主，氛围压抑、冷峻，呈现动作电影中的对峙瞬间。
+构图：竖幅，第一人称平视机位，近距离半身照，从头顶拍至腰部下缘，完整保留短而明显收束的腰线。人物面部位于画面上方，丰满上身与紧身衣服的轮廓清楚可见。持枪手臂沿对角线伸向前景，枪口靠近镜头，但不遮住眼睛和主要面部。左下角保留少量极度失焦的前景枪管，虚化成暗色轮廓，不遮挡腰部。焦点优先落在冷峻的眼睛与面部，前景枪口稍软，取景带轻微自然倾斜。
+光线：背景较暗，小型数码相机直闪直接照亮人物，面部、发丝、肩颈、紧身衣料与手部清楚可见，背景比人物暗2—3档。直闪让皮肤呈现冷调超白肤色，同时保留真实纹理和克制的自然光泽。黑色衣服保留织纹、褶皱与身体起伏形成的明暗层次，枪身出现小面积金属反光。烟雾与尘埃仅在受光处显现，避免过曝，禁止HDR强行提亮阴影。
+相机参数：20毫米广角定焦镜头，光圈f/1.8。
+画面质感：写实摄影，高对比暗调电影质感，整体为2000年代日系便携CCD低光直闪快照效果——动态范围有限、轻微柔焦，带明显数字噪点与粗颗粒，黑位较深，暖调区域白平衡略有偏移。保留皮肤、弹力织物与磨损金属各自的真实质感，允许薄烟和前景边缘出现轻微动态模糊。无文字、品牌标识或水印。
+#蓝V互关 #真诚交友 #浇朋友 #AIart #AIイラスト #AI美女 #AIShorts #审美提升素材 #aigenerated #AI美女リアル
+```
+来源：@RTJLDR · https://x.com/RTJLDR/status/2115574330264592584
 
 <a id="case-1038"></a>
 
@@ -31373,7 +32099,55 @@ TikTok/抖音高画质流行短视频风格，短视频生活随拍（Vlog Style
 <a id="cat-other"></a>
 
 ## 🧪 综合与创意实验
-_创意实验、混合任务与实用杂项_（78 例）
+_创意实验、混合任务与实用杂项_（81 例）
+
+<a id="case-1059"></a>
+
+### 例1059：Ultra-detailed ethereal fantas…
+
+*2026-10-29*
+
+![例1059](images/case1059.jpg)
+
+```text
+Ultra-detailed ethereal fantasy digital painting of an icy crystal goddess in side profile, vertical composition, head tilted upward with eyes gently closed, serene dreamy expression, face turned to the left. Smooth luminous porcelain skin with a soft peach blush, long delicate lashes, soft coral-pink lips, pointed elf-like ear. Long flowing silver-white hair with loose wispy strands, shimmering with lavender and blue reflections. A crown of translucent crystal lotus flowers and glass-like blossoms in pearly pink, blue and iridescent white, set with sapphire beads and tiny jewels, behind the ear. Long dangling crystal chandelier earrings. A deep sapphire-blue embroidered robe with fine gold filigree and sparkling stardust details. Flowing transparent iridescent ribbons and glass-like veils swirling around her, golden wispy swirls of light at the top left, delicate crystal butterflies, glowing aqua ice crystal shards and large crystal lotus petals in the foreground. Dark midnight-navy background with floating sparkles and glitter. Pearly white, icy blue, sapphire, soft pink and gold palette, glass and prism refraction effects, glossy luminous textures, intricate fine details, soft magical backlighting, shallow depth of field, sharp focus on the face, 8k, masterpiece, highly detailed fantasy digital art --ar 3:4 --v 6 --style raw
+```
+来源：@Tanvir48992 · https://x.com/Tanvir48992/status/2115536581155029053
+
+<a id="case-1051"></a>
+
+### 例1051：琉璃服裝，月光仙子跟雅典娜做的時候沒寫iphone抓拍，看著…
+
+*2026-10-29*
+
+![例1051](images/case1051.jpg)
+
+```text
+琉璃服裝，月光仙子跟雅典娜做的時候沒寫iphone抓拍，看著就像開了美顏
+
+縱向9:16，iphone抓拍
+FGO阿爾托莉亞的20歲日本女性COSPLAY。全身構圖。寫實風格。
+以琉璃材質重新設計原服裝
+搭配服裝的背景跟姿勢
+```
+来源：@ai2chiuo · https://x.com/ai2chiuo/status/2115087730753556857
+
+<a id="case-1045"></a>
+
+### 例1045：白衬衫的褶皱，把安静的坐姿写得很具体。领口斜着落下，袖口在手…
+
+*2026-10-29*
+
+![例1045](images/case1045.jpg)
+
+```text
+白衬衫的褶皱，把安静的坐姿写得很具体。领口斜着落下，袖口在手臂附近堆起，松散长发与肩线形成一松一紧的对照；视线则始终留在镜头前。
+
+暖光只照亮一侧，另一侧的面部与发丝仍沉在阴影里。奶油色棉布、棕色沙发和细微肤质，让近距离肖像保留了日常的温度。
+
+prompt 👇
+```
+来源：@listudio · https://x.com/listudio/status/2115319073429189071
 
 <a id="case-1033"></a>
 
