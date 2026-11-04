@@ -1,6 +1,6 @@
 {
- "count": 1036,
- "built_at": "2026-10-29 07:47",
+ "count": 1044,
+ "built_at": "2026-11-04 22:52",
  "items": [
   {
    "id": 2,
@@ -3735,6 +3735,18 @@
    "live_url": "http://192.168.28.100:8600/"
   },
   {
+   "id": 1067,
+   "title": "Turn any photo into a minimali…",
+   "prompt": "Turn any photo into a minimalist Japanese manga print poster with GPT Image 2.5. \n\nPrompt: Task: Create a 3:4 Split-Panel Photo-to-Japanese Illustration Poster\n\nTransform the uploaded photograph into a vertically composed 3:4 comparison poster. The upper half displays the original photograph, while the lower half features a Japanese hand-drawn manga illustration with a limited-color print-poster aesthetic, faithfully redrawn from the same photograph.\n\nDivide the canvas into two equal horizontal sections, each occupying exactly 50% of the total height. Both sections must have the same width. The horizontal division should connect seamlessly, with no gap, border, overlap, or decorative separator.\n\n1. Upper Half — Original Photograph\n\n- Preserve the original photograph exactly as it is.\n- Do not redraw, recolor, retouch, or add any text to the photograph.\n- Scale proportionally without stretching or distorting the image.\n- If necessary, crop peripheral background areas first while preserving the main subject and important visual details.\n- If the aspect ratio cannot be accommodated without compromising essential content, extend the edges with a light grayish-cream background. Never invent or reconstruct missing parts of the original photograph.\n\n2. Lower Half — Japanese Hand-Drawn Illustration\n\nRedraw the photograph as a Japanese-inspired hand-drawn manga illustration with a minimalist, limited-color screen-print poster aesthetic.\n\nThe original photograph is the exclusive source of the subject's identity, appearance, pose, structure, composition, layout, and relationships between objects.\n\nFor people:\n\n- Preserve recognizable facial shape, hairstyle silhouette, expression, pose, gestures, and clothing category.\n- Simplify the face into clean manga-style shapes.\n- Render hair as grouped, flowing masses rather than individual strands.\n- Express clothing through elegant, simplified fashion silhouettes.\n\nFor animals:\n\n- Preserve the species, body proportions, distinctive coat-color patterns, and pose.\n- Use simplified contours and flat color blocks to retain recognizability.\n\nFor objects:\n\n- Preserve the original silhouette, essential structural details, and proportions.\n\nFor landscapes and scenery:\n\n- Preserve the terrain, architecture, distribution of visible elements, and spatial depth.\n- Redraw the main landscape as a cohesive illustration rather than reducing it to an isolated object.\n\nPreserve all visible contact, overlap, and occlusion relationships. Depict only what is visible in the source photograph. Do not introduce new subjects, props, gestures, or structures outside the original image.\n\nIf an additional style reference is provided, use it only for drawing technique, color palette, and layout. Never copy its subjects or content.\n\n3. Linework and Color Treatment\n\nUse a consistent combination of delicate ink outlines, naturally simplified shapes, and limited-color flat fills.\n\n- Ink outline: Near-black \"#02030B\", with varied pressure, subtle line-weight changes, occasional pauses, and slightly irregular hand-drawn edges.\n- Keep internal lines minimal, retaining only the structural details necessary to define form.\n- Use clean, continuous, opaque color blocks.\n- Merge shadows into a small number of hard-edged color shapes.\n- Avoid individual hair strands, dense hatching, photorealistic textures, and excessive decorative detail.\n- Preserve the subject's essential natural colors and distinctive identifying color patterns.\n\nLower-panel background: Light grayish cream \"#ECEDE5\".\n\nPrimary accent: Warm red \"#E9444B\".\n\nSecondary accent: Muted blue-gray \"#5296BD\".\n\nUse red as the dominant accent and blue sparingly. Ensure that accent colors complement the subject without compromising its recognizability.\n\n on all sides.\n- Do not let the illustration touch the edges or fill the entire panel.\n- Do not use large background color blocks to fill the empty space.\n- Do not add a border around the illustration",
+   "image": "images/case1067.jpg",
+   "media_type": "image",
+   "source": "@Aiwithkami · https://x.com/Aiwithkami/status/2117640991142469946",
+   "orig_category": "GitHub投稿",
+   "category": "poster",
+   "created_at": "2026-11-04",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
    "id": 33,
    "title": "电商商品展示设计",
    "prompt": "A 3D render of a cute kawaii {argument name=\"subject\" default=\"cloud\"} character on a pure white background. The character has a soft, matte, squishy texture resembling clay or a stress toy. It features large glossy black eyes with white highlights, a simple curved smile, and round pink blush on its cheeks. The edges and bottom of the figure have a subtle pastel gradient of {argument name=\"accent colors\" default=\"pink, blue, and purple\"}. Soft studio lighting, minimalist icon style, casting a gentle shadow.",
@@ -4380,6 +4392,18 @@
    "orig_category": "GitHub投稿",
    "category": "brand",
    "created_at": "2026-10-29",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
+   "id": 1065,
+   "title": "二郎腿战神Prompt",
+   "prompt": "二郎腿战神Prompt\n\n提示词：\n\n超写实室内人像摄影，干净极简背景，成人东亚女性模特，气质冷艳优雅，五官精致自然，皮肤真实细腻，黑色长发或低盘发，直视镜头。\n模特坐在透明亚克力凳子上，身体正对镜头，翘着二郎腿，姿态自然从容。\n她身穿一件白色高开叉镂空短旗袍，修身剪裁，现代改良中式设计，面料高级，有轻微光泽感，完整遮挡、不走光。\n下身穿15D灰色连裤丝袜，整体轻薄透肤、带细腻丝光，脚尖加固约25D，袜尖区域更清晰细密。\n撑地的那条腿穿着一只性感高跟鞋，鞋型修长精致，可为细跟尖头高跟鞋；翘起的那条腿不穿鞋，仅穿丝袜，脚背与脚尖线条自然放松。\n镜头为正面近景仰拍，机位略低，从腿部前下方向上拍摄，保留明显的近大远小透视感；画面重点表现人物上半身、旗袍剪裁、交叠双腿和丝袜质感。\n整体构图干净利落，背景纯净简约，可为浅灰、米白或奶油白色摄影棚式室内背景，不加入杂乱家具。\n光线采用柔和高级的室内人像布光，主光从前上方或侧前方打亮面部与服装，腿部和丝袜表面有细腻高光，肤色自然，旗袍面料与丝袜纹理清晰可见。\n风格为高质感时尚写真、超写实真人摄影、电影感轻奢肖像，真实人体比例，真实皮肤纹理，细节清晰，画面高级克制。\n负面提示词：\n走光、裸露私密部位、夸张色情姿势、过度暴露、畸形双腿、错误脚部结构、多余手指、多余肢体、丝袜破损、鞋子穿模、背景杂乱、动漫脸、塑料皮肤、过度磨皮、低清晰度、文字、水印、logo、错误透视。",
+   "image": "images/case1065.jpg",
+   "media_type": "image",
+   "source": "@GenRyoma · https://x.com/GenRyoma/status/2117885659742618033",
+   "orig_category": "GitHub投稿",
+   "category": "brand",
+   "created_at": "2026-11-04",
    "live_url": "http://192.168.28.100:8600/"
   },
   {
@@ -8523,6 +8547,30 @@
    "live_url": "http://192.168.28.100:8600/"
   },
   {
+   "id": 1063,
+   "title": "有兄弟想要这种风格的提示词，分享一下。",
+   "prompt": "有兄弟想要这种风格的提示词，分享一下。\n\n一、摄影风格总控\n\n9:16 竖版，高品质超写实成年东方女性生活写真，明亮清透 CCD 卡片机摄影风格，bright airy CCD lifestyle photography，natural candid photography，soft direct flash，realistic physical torn paper effect。\n\n整体具有明亮柔和的日间自然光、轻微 CCD 直闪、奶白色清透高光、细腻自然阴影与轻微数码颗粒。\n\n真实生活摄影质感，保留自然肤色、毛孔、细小肌肤纹理、发丝细节与自然血色。\n\n画面明亮、通透、干净、轻盈，色彩鲜活自然，不过度柔焦，不灰蒙、不脏黄、不油腻。\n\n二、人物五官与气质\n\n画面主体是一位25–27岁的年轻成年东方女性，具有精致漂亮、温柔清甜的韩系电影女主气质。\n\n人物拥有精致饱满的小鹅蛋脸，柔和流畅的下颌线，自然饱满的苹果肌，面中立体而柔和，脸部比例协调。\n\n眼睛为横向舒展的清亮杏眼，眼尾自然微扬，上眼睑弧线柔和，双眼具有真实湿润高光，睫毛自然纤长。\n\n鼻梁秀气挺直，鼻尖小巧精致，鼻翼自然；唇形柔软饱满，唇峰清楚，嘴角自然轻扬，嘴唇呈柔和玫瑰粉色。\n\n妆容为高级韩式清透轻妆，细腻自然底妆、淡蜜桃粉腮红、柔和眼妆、自然纤长睫毛、红润水光唇。\n\n五官具有精致立体的骨骼结构，同时保持真实生活中的自然美感，不采用欧美脸、过瘦锥子脸或网红模板脸。\n\n三、人物发型与身形\n\n深栗棕色蓬松长发，发丝细密柔顺，在脑后自然盘成慵懒低发髻。\n\n额前具有少量轻盈碎发，耳侧垂落自然微卷的细长发束，部分碎发贴近脸颊与颈部。\n\n气质温柔、清甜、恬静、放松，带自然亲近感。\n\n人物身形纤细匀称，肩膀柔和偏窄，颈部修长，锁骨清楚自然。\n\n胸部自然丰盈饱满，胸廓具有清晰真实的立体轮廓，上围曲线明显，胸部形态圆润柔和，左右对称自然，具有真实重力感。\n\n胸部与肩宽、躯干及腰围保持协调，不刻意制造夸张比例。\n\n腰腹纤细平坦，腰线收束清楚，腰臀过渡自然流畅。\n\n整体呈现精致、柔美、健康的成年女性身体曲线。\n\n四、服装设计\n\n外层日常穿搭：\n\n浅薄荷绿色修身方领短袖针织上衣，柔软细密罗纹面料，领口自然露出锁骨，衣服具有真实面料厚度与自然褶皱。\n\n上衣剪裁合身，肩部与袖口自然贴合身体，胸腰剪裁体现自然优美的上身比例。\n\n下装为奶油白色高腰修身鱼尾短裙，柔软轻盈的织物，腰臀部分自然贴合，裙摆略微向外展开，具有真实垂坠感。\n\n撕纸内部穿搭：\n\n香槟浅粉色法式精致刺绣文胸。\n\n文胸具有自然立体的弧形杯片，精细肩带、精致包边及小巧中央装饰结。\n\n面料为不透明柔软丝缎，表面覆盖精致珍珠白色花卉刺绣，具有柔和的缎面光泽。\n\n文胸自然贴合丰满协调的胸部，完整覆盖胸部，杯型与胸廓结构一致，呈现真实柔和的服装支撑感。\n\n撕纸内部只出现文胸和部分自然腰腹，不额外穿着针织衫、背心或其他上衣。\n\n五、生活场景与自然动作\n\n场景为明亮法式公寓客厅。\n\n奶油白色墙面，大型落地窗，透光白色纱帘，窗外可见少量法式建筑与阳台栏杆。\n\n室内摆放白色柔软布艺沙发、浅木色小圆桌、透明玻璃花瓶、浅色家居织物与绿色盆栽。\n\n花瓶内摆放新鲜的白色与淡粉色郁金香，花瓣细腻真实，绿色枝叶自然舒展。\n\n清晨明亮阳光从左侧窗户照入，形成柔和自然的面部高光与空间阴影。\n\n人物站在小圆桌旁，身体自然侧转约10–15度，上半身轻微向花瓶方向前倾。\n\n一只手轻轻拿着一枝淡粉色郁金香，另一只手自然扶住玻璃花瓶，正在调整花枝的位置。\n\n人物轻微低头，视线自然落在花朵上，眼神柔和专注，嘴角带温柔浅笑。\n\n身体重心稳定，肩膀自然放松，手臂动作具有真实的生活逻辑。\n\n画面像朋友用CCD卡片机在晨间随手记录的一瞬间，不是刻意摆拍的商业模特写真。\n\n六、单人立体撕纸结构\n\n整张画面始终只有一位完整的成年东方女性。\n\n在原始照片中央增加一条具有真实物理层次的横向撕纸裂口。\n\n裂口从画面最左侧边缘连续延伸至最右侧边缘。\n\n左右两端较窄，向人物胸腰中央区域逐渐扩大，形成明显的中央宽幅开口。\n\n中央开口纵向宽度约占整张图片高度的28%–30%。\n\n撕纸展示范围从胸部附近延伸至肚脐附近，完整展示香槟粉色法式刺绣文胸及纤细腰腹。\n\n纸张上方断边向上自然翻卷，下方断边向下自然翻卷。\n\n纸边具有真实手工撕裂的不规则轮廓、细密白色纸纤维、轻微毛边、薄纸断面与自然折痕。\n\n局部翻卷露出奶白色相纸背面。\n\n翻起的纸张向后方画面投射细腻真实的接触阴影与柔和空间投影。\n\n中央翻卷程度较明显，越靠近左右边缘，翻卷与投影逐渐减弱。\n\n撕裂结构具有真实可见的前后空间层次，而不是简单的平面数字蒙版或白色描边。\n\n撕裂对象是照片相纸，不是人物身上的薄荷绿针织上衣。\n\n七、单一人物与人体结构锁定\n\n撕纸效果只改变人物胸腰区域的可见服装。\n\n整张图只有一个头部、一个完整躯干、两条手臂、两只手、两条腿。\n\n人物头部、肩膀、胸廓、腰腹、骨盆和双腿保持完整连续。\n\n胸部与腰腹使用同一套人体透视，不产生前后错位。\n\n人物手部动作保持一致。\n\n粉色郁金香、花瓶和所有生活道具只出现一次。\n\n立体空间仅作用于纸张翻卷、纸张背面、纸张厚度、遮挡与投影。\n\n人物身体不随纸张前后分层。\n\n撕纸区域内不能重新生成身体、手臂、胸廓或第二个人物。\n\n八、镜头、光影与最终质量\n\n9:16竖版，头顶至大腿中部构图。\n\n相机位于人物侧前方，基本平视，轻微生活抓拍角度。\n\n人物面部清晰，胸腰区域位于画面中央，郁金香与花瓶形成自然生活叙事。\n\n高质量真实CCD卡片机摄影，明亮自然光与轻微直闪结合。\n\n人物肤色白皙自然，带淡淡血色，面部柔和高光，皮肤细节真实清晰。\n\n薄荷绿上衣、香槟粉文胸、奶油白裙装、粉白郁金香各自保留独立色彩。\n\n画面具有温柔清新的法式晨间生活氛围。\n\n单张独立图片，无文字、无水印、非拼接。",
+   "image": "images/case1063.jpg",
+   "media_type": "image",
+   "source": "@liyue_ai · https://x.com/liyue_ai/status/2117594463845429349",
+   "orig_category": "GitHub投稿",
+   "category": "photo",
+   "created_at": "2026-11-04",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
+   "id": 1064,
+   "title": "有没有喜欢戏曲风的？",
+   "prompt": "有没有喜欢戏曲风的？\n\n提示词如下\n\n一位25岁左右的成年中国美女，身材高挑纤细，腰肢柔美，体态婀娜，五官精致，肤色白皙自然，面容清丽妩媚。\n\n面部绘有精致传统京剧花旦妆容，红色眼影向眼尾自然晕染，眉形修长，朱红唇妆，头戴华丽精美的传统珠翠凤冠，点缀珍珠、翡翠、金色流苏与精致戏曲头饰。\n\n人物身着轻盈飘逸的传统戏曲艺术服饰，以精致刺绣、薄纱披帛和柔软水袖展现东方古典美感，服饰贴合自然身形，突出优美的肩颈线条与纤细腰身。\n\n姿态与构图： 人物正面朝向镜头，身体微微侧转，头部轻轻回眸，眼神含蓄妩媚。一只手在胸前优雅地做出传统京剧兰花指手势，轻盈水袖自然垂落于胸前；另一只手置于腰腹下方，柔软披帛随手臂自然垂坠，形成含蓄优雅的古典戏曲造型。肩部放松，腰线柔美，身体呈自然S形曲线，手指修长，姿态生动。\n\n场景与光影： 传统京剧舞台背景，朱红色雕花立柱，深色丝绒帷幕，古典戏台装饰。戏剧性舞台追光与侧逆光，暖金色轮廓光勾勒人物身形与凤冠珠翠，冷蓝色柔光照亮面部，明暗层次丰富，背景适度虚化，营造神秘典雅的东方戏曲氛围。\n\n摄影品质： 超写实电影级人像摄影，8K超高清细节，85mm人像镜头，真实皮肤纹理，精致妆面，珠翠金属反光，丝绸与刺绣真实材质，HDR，电影级色彩分级，细腻光影，高级东方古典艺术写真，9:16竖版构图。\n\n负面提示词： 低清晰度、塑料皮肤、过度磨皮、夸张身材、人体比例失衡、手指畸形、多余肢体、廉价影楼风、卡通感、CG模型感、过度曝光、服饰穿模、裸露、低俗姿势。",
+   "image": "images/case1064.jpg",
+   "media_type": "image",
+   "source": "@bqxbbBTC · https://x.com/bqxbbBTC/status/2117894234498126100",
+   "orig_category": "GitHub投稿",
+   "category": "photo",
+   "created_at": "2026-11-04",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
    "id": 6,
    "title": "插画艺术创作图",
    "prompt": "参考图是角色人设图，为参考图的少女绘制一副日系唯美奇幻风格插画。 \n【构图】这是一个宏大的中景日系奇幻插画构图，画面中心是完全保留了完整细节的可爱少女，她站立在无边的、如镜面般平滑的水面中心。天空呈现出高饱和度的粉紫与深蓝交织，一条耀眼的蓝色巨型流星划破天际，配合着边缘发光的瑰丽层云。女孩处于背光状态，形成一个暗调但依然清晰可辨其服装和紫色明亮眼眸的剪影，被流星和星空的边缘光细腻勾勒，她微微仰头，一只手轻轻张开。下方的水面完美、对称地反射出整个壮丽的星空、流星、云彩，以及女孩清晰的倒影，点缀着微小的发光点，营造出天人合一、空灵静谧的唯美梦境意境。 \n【日系唯美奇幻风格说明】该风格以高饱和度的粉紫冷暖色调交织出浩瀚星空，并辅以壮丽的流星与边缘发光的层云作为视觉奇观；画面巧妙利用“天空之镜”般的完美水面反射，将宏大的宇宙背景与孤独静立的人物剪影相融合，通过极具电影感的光影渲染与高对比度的表现手法，营造出一种空灵、静谧且带有超现实宿命感的梦境氛围。 \n【要求】生成图片的比例9:16，分辨率 4k。",
@@ -10260,6 +10308,30 @@
    "orig_category": "GitHub投稿",
    "category": "scene",
    "created_at": "2026-10-29",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
+   "id": 1062,
+   "title": "AI生成的和真人画质没啥区别啊，我看不出来",
+   "prompt": "AI生成的和真人画质没啥区别啊，我看不出来\n\n主体： 一位明确成年的26岁东亚女性，原创自然面容，柔和鹅蛋脸，深棕色杏眼，细长自然眉，鼻梁柔和，嘴唇自然饱满、呈浅玫瑰粉色。身材修长匀称，肩颈柔和，腰线自然收束，四肢比例协调，真实皮肤细节可见。脸颊与鼻尖带极轻微粉色晕染，眼神安静、略带疏离与朦胧感。\n\n发型： 深棕黑色浓密长发，头顶自然蓬松，耳侧与额前散落细碎发丝。大部分头发编成一条极长的松散粗麻花辫，从一侧肩膀垂落至大腿附近，编织纹理清晰，辫尾略微松散。发间穿插奶白色和淡青绿色的小型绣球花，耳后也别有零星花朵，花瓣大小与真实植物一致。\n\n服装： 浅象牙白色修身长裙，柔软的缎面与薄棉混纺质地，带细腻的蓝灰色花卉纹样和鼠尾草绿色藤叶图案。裙身自然贴合腰臀曲线，面料有轻微光泽和真实折痕。肩部采用优雅露肩或细肩带设计，背部适度露肤，衣裙完整遮盖身体。裙摆垂至小腿，部分姿势下自然形成堆叠褶皱。\n\n动作： 根据变体选择侧身回眸、横卧轻嗅花朵、手持绣球花面部特写、木台阶上自然躺卧。所有姿势遵循真实人体骨骼、肌肉与关节结构，手指放松，身体重心自然。\n\n表情： 安静、清冷、轻微忧郁的东方电影女主气质。嘴唇自然微启或轻合，眼神柔和，不做夸张微笑，不使用刻意摆拍的网红表情。\n\n场景： 深色旧木屋与幽绿花园相连，厚重的深棕色木柱、半开的木格窗、斑驳木质台阶、自然垂落的藤蔓。周围生长大量淡青绿色、奶白色绣球花，背景为深绿叶片与阴影中的树木。可使用一把棕色藤编圆扇作为道具，藤编纹理真实，扇面上点缀少量自然落花。\n\n光线： 阴天森林散射光，从木屋外侧照亮人物面部、肩膀和花瓣。人物皮肤呈柔和冷白色，脸颊保留淡粉色血色，背景保持浓郁的深绿色阴影。高光略带朦胧泛光，但不能整体过曝；木屋内部保持深黑色层次，形成明暗反差。\n\n镜头： 9:16竖幅为默认输出，35–85mm等效焦距根据变体调整。中景突出木屋与人物关系，近景突出眼睛、嘴唇、绣球花与发丝，俯拍全身突出木台阶、裙摆和自然肢体。浅景深、真实光学柔焦、少量胶片颗粒、轻微暗角，保持人物面部焦点清晰。\n\n风格： 东方森系电影写真、幽林花灵、冷调青绿色电影调色、日系复古胶片、真实人像摄影、自然RAW肤质、花卉植物美学、木质建筑与森林光影、柔焦但不失真、克制而细腻的氛围感。\n\n负面提示词： 未成年、动漫脸、塑料皮肤、过度磨皮、畸形手指、多余肢体、麻花辫结构错误、花朵悬浮、花瓣融合皮肤、错误植物比例、衣服透明走光、裙摆消失、过度饱和、荧光绿色、夸张美颜、虚假高光、3D渲染、AI油画感、文字、水印、拼图。",
+   "image": "images/case1062.jpg",
+   "media_type": "image",
+   "source": "@jackzhang123vip · https://x.com/jackzhang123vip/status/2117841003327770680",
+   "orig_category": "GitHub投稿",
+   "category": "scene",
+   "created_at": "2026-11-04",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
+   "id": 1068,
+   "title": "ChatGPT Images 2.5  prompt 👇",
+   "prompt": "ChatGPT Images 2.5  prompt 👇\n\nA cinematic 16:9 intimate night still photograph with moody atmospheric lighting — an eye-level bed shot of an exceptionally handsome young East Asian man and a gorgeous, curvaceous young East Asian woman holding each other in a dimly lit, romantic bedroom.\n\nThe stunning young Asian woman has an attractive hourglass silhouette, wavy caramel-brown hair tied with a soft ribbon, flushed cheeks, and half-lidded tender eyes. Her oversized cream-white ribbed cardigan slips casually off her shoulder, revealing delicate collarbones and a fitted low-cut knit camisole, her hand gently threading through the man's hair. The strikingly handsome young Asian man has a sharp jawline, high nose bridge, and textured black hair with subtle deep magenta tips, wearing a casual black tee. He rests his face deeply against her chest with eyes closed, arms holding her waist tightly in a quiet, emotionally charged embrace.\n\nThe atmosphere is deeply sensual and moody. A warm amber bedside lamp creates a soft, tactile key light across her bare shoulder and the chunky knit fabric, contrasted by a delicate cool lavender-rose rim light catching their hair from the nighttime window. A light diffusion bloom softens the highlights with gentle atmospheric depth and lifted, open shadows.\n\nCaptured on a 50mm cinema prime at f/1.4 with vintage diffusion filtration, gentle highlight halation, creamy bokeh, and organic 35mm film grain in an M1 cinematic narrative register. Natural skin texture with fine pores, warm biological subsurface scattering, and real knit wool fibers. Real photographic frame, no CGI, no 3D render, no plastic skin, no artificial smoothing.",
+   "image": "images/case1068.jpg",
+   "media_type": "image",
+   "source": "@johnAGI168 · https://x.com/johnAGI168/status/2117503576348192848",
+   "orig_category": "GitHub投稿",
+   "category": "scene",
+   "created_at": "2026-11-04",
    "live_url": "http://192.168.28.100:8600/"
   },
   {
@@ -12496,6 +12568,30 @@
    "orig_category": "GitHub投稿",
    "category": "other",
    "created_at": "2026-10-29",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
+   "id": 1061,
+   "title": "AI models can change through l…",
+   "prompt": "AI models can change through long-term refinement and consistent creative direction.\n\nTake this image, for example. It was generated entirely by ChatGPT, yet somehow, it doesn’t quite look like a typical ChatGPT image.\n\nOver time, through countless experiments, adjustments and a clear artistic vision, I’ve gradually pushed its output closer to my own aesthetic.\n\nPerhaps the real art of AI creation isn’t simply learning how to use a model, but learning how to make it speak your visual language.\n\nPrompt in the comments. 🎨",
+   "image": "images/case1061.jpg",
+   "media_type": "image",
+   "source": "@liluocheng13 · https://x.com/liluocheng13/status/2117868252152184957",
+   "orig_category": "GitHub投稿",
+   "category": "other",
+   "created_at": "2026-11-04",
+   "live_url": "http://192.168.28.100:8600/"
+  },
+  {
+   "id": 1066,
+   "title": "사실적인 실사 스타일. 첫 번째 참고 이미지의 화이트 …",
+   "prompt": "사실적인 실사 스타일. 첫 번째 참고 이미지의 화이트 레이스 긴소매 머메이드 드레스 디자인과 착장을 참고하고, 두 번째 참고 이미지 속 여성의 얼굴을 기준으로 한다. 두 번째 이미지 속 여성의 얼굴형, 이목구비, 얼굴 비율과 고유한 인상을 최대한 정확하게 유지한다.\n\n화사하면서도 차갑고 도도한 아름다움을 지닌 젊은 성인 여성으로, 우아하고 차분한 분위기를 풍긴다. 검은색 긴 머리는 자연스럽게 반묶음으로 스타일링되어 어깨와 등 뒤로 부드럽게 흘러내린다. 진주 귀걸이와 가느다란 체인 목걸이를 착용하고, 어깨에는 블랙 앤 화이트 배색의 체인 숄더백을 메고 있다.\n\n흑백 사진 작품들이 걸려 있는 갤러리 전시실 벽 옆에 서 있으며, 한 손을 들어 벽에 가볍게 짚고 고개를 살짝 숙인 채 바닥을 내려다보고 있다. 자연스럽고 여유로운 자세와 절제된 표정으로 문학적이고 예술적인 감성, 고요하면서도 우아한 분위기를 연출한다.\n\n안경은 완전히 제거하고 착용하지 않는다. 자연스러운 피부 질감과 사실적인 인물 표현을 유지하며, 과도한 보정이나 인위적인 얼굴 변형 없이 실제 사진처럼 표현한다.",
+   "image": "images/case1066.jpg",
+   "media_type": "image",
+   "source": "@noahvisualsx · https://x.com/noahvisualsx/status/2117852520584523903",
+   "orig_category": "GitHub投稿",
+   "category": "other",
+   "created_at": "2026-11-04",
    "live_url": "http://192.168.28.100:8600/"
   }
  ]
